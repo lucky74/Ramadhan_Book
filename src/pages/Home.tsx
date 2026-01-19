@@ -1,23 +1,32 @@
 import { Link } from "react-router-dom";
 import { getCerpen } from "../data/storage";
+import { useLanguage } from "../contexts/LanguageContext";
 
 export default function Home() {
+  const { t, language, setLanguage } = useLanguage();
   const cerpenList = getCerpen();
   // Buat array 1 sampai 30
   const days = Array.from({ length: 30 }, (_, i) => i + 1);
 
   return (
     <div style={{ padding: 24, textAlign: 'center', maxWidth: 800, margin: '0 auto' }}>
+      <div style={{ display: 'flex', justifyContent: 'center', gap: 10, marginBottom: 20 }}>
+        <button onClick={() => setLanguage('id')} style={{...styles.langBtn, opacity: language === 'id' ? 1 : 0.5}}>🇮🇩 ID</button>
+        <button onClick={() => setLanguage('en')} style={{...styles.langBtn, opacity: language === 'en' ? 1 : 0.5}}>🇬🇧 EN</button>
+        <button onClick={() => setLanguage('ar')} style={{...styles.langBtn, opacity: language === 'ar' ? 1 : 0.5}}>🇸🇦 AR</button>
+      </div>
+
       <img 
         src="/logo_mitas.png" 
         alt="Logo Mitas" 
         style={{ width: 120, height: 120, borderRadius: '50%', marginBottom: 16, border: '2px solid #38bdf8' }} 
       />
-      <h1 className="mushaf-title">E-Book Ramadhan Abadi</h1>
+      <h1 className="mushaf-title">{t('app_title')}</h1>
       <p className="mushaf-subtitle" style={{ marginBottom: 8 }}>
-        Jejak Kejayaan Islam & Peradaban yang Dilupakan
+        {t('home_welcome')}
       </p>
-      <p style={styles.author}>Penulis : Lucky Zamaludin Malik</p>
+      <p style={{ color: '#94a3b8', fontSize: 14, marginBottom: 8 }}>{t('home_subtitle')}</p>
+      <p style={styles.author}>{t('author_label')} : Lucky Zamaludin Malik</p>
 
       <div style={styles.grid}>
         {days.map((day) => {
@@ -31,9 +40,9 @@ export default function Home() {
                 <div style={styles.dayNumber}>{day}</div>
                 
                 {existingData ? (
-                  <div style={styles.title}>{existingData.title}</div>
+                  <div style={styles.title}>{existingData.title[language]}</div>
                 ) : (
-                  <div style={styles.empty}>Belum ada isi</div>
+                  <div style={styles.empty}>-</div>
                 )}
               </div>
             </Link>
@@ -42,8 +51,8 @@ export default function Home() {
       </div>
 
       <div style={styles.footer}>
-        <div>@2026 Mitas Digital Solution</div>
-        <div style={styles.email}>mitas.digitalsolution@email.com</div>
+        <div>{t('footer_text')}</div>
+        <div style={styles.email}>{t('contact_email')} : mitas.digitalsolution@email.com</div>
       </div>
     </div>
   );
@@ -109,5 +118,14 @@ const styles = {
   email: {
     color: '#94a3b8',
     marginTop: 4
+  },
+  langBtn: {
+    padding: '8px 12px',
+    borderRadius: 20,
+    border: '1px solid #38bdf8',
+    backgroundColor: '#0f172a',
+    color: '#fff',
+    cursor: 'pointer',
+    fontSize: 14
   }
 };

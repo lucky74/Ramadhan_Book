@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { useLanguage } from "../contexts/LanguageContext";
 
 const SURAH_LIST = [
   "1. Al-Fatihah", "2. Al-Baqarah", "3. Ali 'Imran", "4. An-Nisa'", "5. Al-Ma'idah",
@@ -27,6 +28,7 @@ const SURAH_LIST = [
 ];
 
 export default function MurotalPlayer() {
+  const { t, dir } = useLanguage();
   const [selectedSurah, setSelectedSurah] = useState(1);
   const [audioUrl, setAudioUrl] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
@@ -60,7 +62,7 @@ export default function MurotalPlayer() {
       >
         <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
           <span style={{ fontSize: 18 }}>🎧</span>
-          <span style={{ fontWeight: 'bold', fontSize: 14 }}>Murotal Player (Mishary Rashid)</span>
+          <span style={{ fontWeight: 'bold', fontSize: 14 }}>{t('murotal_player')}</span>
         </div>
         <div>{isExpanded ? '▼' : '▲'}</div>
       </div>
@@ -73,7 +75,7 @@ export default function MurotalPlayer() {
         padding: isExpanded ? 16 : 0
       }}>
         <div style={{ marginBottom: 12 }}>
-          <label style={styles.label}>Pilih Surat:</label>
+          <label style={{ ...styles.label, textAlign: dir === 'rtl' ? 'right' : 'left' }}>{t('select_surah')}</label>
           <select 
             style={styles.select}
             value={selectedSurah}
@@ -90,7 +92,7 @@ export default function MurotalPlayer() {
         </div>
 
         {loading ? (
-          <div style={{ color: '#94a3b8', fontSize: 12 }}>Memuat audio...</div>
+          <div style={{ color: '#94a3b8', fontSize: 12, textAlign: dir === 'rtl' ? 'right' : 'left' }}>{t('loading_audio')}</div>
         ) : (
           <audio 
             controls 
