@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect } from 'react';
 
 const SURAH_LIST = [
   "1. Al-Fatihah", "2. Al-Baqarah", "3. Ali 'Imran", "4. An-Nisa'", "5. Al-Ma'idah",
@@ -53,17 +53,6 @@ export default function MurotalPlayer() {
     fetchAudio();
   }, [selectedSurah]);
 
-  const togglePlay = () => {
-    if (audioRef.current) {
-      if (isPlaying) {
-        audioRef.current.pause();
-      } else {
-        audioRef.current.play();
-      }
-      setIsPlaying(!isPlaying);
-    }
-  };
-
   return (
     <div style={styles.container}>
       {/* Header / Toggle Button */}
@@ -107,12 +96,9 @@ export default function MurotalPlayer() {
           <div style={{ color: '#94a3b8', fontSize: 12 }}>Memuat audio...</div>
         ) : (
           <audio 
-            ref={audioRef}
             controls 
             src={audioUrl || ""} 
             style={styles.audio}
-            onPlay={() => setIsPlaying(true)}
-            onPause={() => setIsPlaying(false)}
           />
         )}
       </div>
