@@ -5,7 +5,7 @@ export interface Cerpen {
   dalil: string;
 }
 
-const STORAGE_KEY = "ramadhan_ebook_data";
+const STORAGE_KEY = "ramadhan_ebook_data_v2";
 
 const INITIAL_DATA: Cerpen[] = [
   {
@@ -15,7 +15,7 @@ const INITIAL_DATA: Cerpen[] = [
 
 Muhammad bin ‘Abdillah ﷺ gelisah. Kegelisahan itu bukan kegelisahan seorang intelektual yang sibuk berdebat, melainkan kegelisahan seorang hamba yang hatinya hidup. Ia menyaksikan kerusakan moral, ketidakadilan sosial, dan penyembahan kepada selain Allah—lalu bertanya dalam diam: sampai kapan?
 
-Ia tidak memimpin seminar, tidak menulis risalah, tidak membangun panggung retorika. Ia memilih menyendiri. Gua Hira menjadi saksi bahwa perubahan besar selalu lahir dari kejujuran batin yang dalam. Di sanalah Nabi ﷺ ber-tahannuts—beribadah, merenung, dan membersihkan hati—sebagai bentuk protes sunyi terhadap kebisingan jahiliyah.
+Ia tidak memimpin seminar, tidak menulis risalah, tidak membangun panggung retorika. Ia memilih menyendiri. Gua Hira menjadi saksi bahwa perubahan besar selalu lahir dari kejujuran batin yang dalam. Di sanalah Nabi ﷺ bertahun-tahun—beribadah, merenung, dan membersihkan hati—sebagai bentuk protes sunyi terhadap kebisingan jahiliyah.
 
 Lalu datanglah wahyu.
 
