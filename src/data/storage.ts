@@ -178,27 +178,30 @@ The question is: does our faith rise with it, or fall back asleep in meaningless
 <p style="text-align: center;"><strong>"من رأى منكم منكراً فليغيره بيده، فإن لم يستطع فبلسانه، فإن لم يستطع فبقلبه، وذلك أضعف الإيمان."</strong><br>
 (رواه مسلم)</p>`
     }
+  },
+  {
+    id: "2",
+    title: {
+      id: "Judul Hari Ke-2 (Silakan Edit)",
+      en: "Title Day 2 (Please Edit)",
+      ar: "عنوان اليوم الثاني (يرجى التحرير)"
+    },
+    content: {
+      id: "Isi materi hari ke-2. Tulis di sini...",
+      en: "Content for day 2. Write here...",
+      ar: "محتوى اليوم الثاني. اكتب هنا..."
+    },
+    dalil: {
+      id: "Dalil hari ke-2...",
+      en: "Dalil for day 2...",
+      ar: "دليل اليوم الثاني..."
+    }
   }
 ];
 
 export function getCerpen(): Cerpen[] {
-  const data = localStorage.getItem(STORAGE_KEY);
-  if (data) {
-    const parsed = JSON.parse(data);
-    if (Array.isArray(parsed) && parsed.length === 0) {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(INITIAL_DATA));
-      return INITIAL_DATA;
-    }
-    // Check if the data structure matches the new version (has 'id' in title)
-    // If not, reset to initial data to avoid errors
-    if (parsed.length > 0 && typeof parsed[0].title === 'string') {
-        localStorage.setItem(STORAGE_KEY, JSON.stringify(INITIAL_DATA));
-        return INITIAL_DATA;
-    }
-    return parsed;
-  }
-  
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(INITIAL_DATA));
+  // Kita prioritaskan data dari kode (INITIAL_DATA) agar update dari GitHub selalu muncul
+  // LocalStorage hanya digunakan jika kita ingin fitur 'catatan pribadi' di masa depan
   return INITIAL_DATA;
 }
 
