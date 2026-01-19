@@ -1,37 +1,54 @@
 import { useState, useEffect } from "react";
 import { getCerpenById, saveCerpen } from "../data/storage";
+import { Language } from "../contexts/LanguageContext";
+
+const LANGUAGES: Language[] = ['id', 'en', 'ar'];
 
 export default function Admin() {
   const [day, setDay] = useState("1");
-  const [title, setTitle] = useState("");
-  const [content, setContent] = useState("");
-  const [dalil, setDalil] = useState("");
+  const [editLang, setEditLang] = useState<Language>('id');
+  
+  const [titles, setTitles] = useState<Record<Language, string>>({ id: '', en: '', ar: '' });
+  const [contents, setContents] = useState<Record<Language, string>>({ id: '', en: '', ar: '' });
+  const [dalils, setDalils] = useState<Record<Language, string>>({ id: '', en: '', ar: '' });
 
   // Load data ketika hari dipilih
   useEffect(() => {
     const existing = getCerpenById(day);
     if (existing) {
-      setTitle(existing.title);
-      setContent(existing.content);
-      setDalil(existing.dalil);
+      setTitles(existing.title);
+      setContents(existing.content);
+      setDalils(existing.dalil);
     } else {
-      setTitle("");
-      setContent("");
-      setDalil("");
+      setTitles({ id: '', en: '', ar: '' });
+      setContents({ id: '', en: '', ar: '' });
+      setDalils({ id: '', en: '', ar: '' });
     }
   }, [day]);
 
+  function handleTitleChange(val: string) {
+    setTitles(prev => ({ ...prev, [editLang]: val }));
+  }
+
+  function handleContentChange(val: string) {
+    setContents(prev => ({ ...prev, [editLang]: val }));
+  }
+
+  function handleDalilChange(val: string) {
+    setDalils(prev => ({ ...prev, [editLang]: val }));
+  }
+
   function simpan() {
-    if (!title || !content) {
-      alert("Judul dan Isi wajib diisi");
+    if (!titles.id || !contents.id) {
+      alert("Judul dan Isi (Bahasa Indonesia) wajib diisi");
       return;
     }
 
     saveCerpen({
       id: day,
-      title,
-      content,
-      dalil
+      title: titles,
+      content: contents,
+      dalil: dalils
     });
     alert(`Berhasil menyimpan materi untuk Ramadhan hari ke-${day}`);
   }
@@ -40,7 +57,7 @@ export default function Admin() {
 
   return (
     <div style={styles.container}>
-      <div style={{ maxWidth: 600, margin: '0 auto' }}>
+      <div style={{ maxWidth: 800, margin: '0 auto' }}>
         <h1>Admin — Isi Materi</h1>
 
         <div style={styles.formGroup}>
@@ -57,36 +74,55 @@ export default function Admin() {
         </div>
 
         <div style={styles.formGroup}>
-          <label style={styles.label}>Judul Materi:</label>
+          <label style={styles.label}>Bahasa yang diedit:</label>
+          <div style={{ display: 'flex', gap: 10 }}>
+            {LANGUAGES.map(lang => (
+              <button 
+                key={lang}
+                onClick={() => setEditLang(lang)}
+                style={{
+                  ...styles.langBtn,
+                  backgroundColor: editLang === lang ? '#38bdf8' : '#1e293b',
+                  color: editLang === lang ? '#0f172a' : '#fff'
+                }}
+              >
+                {lang.toUpperCase()}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        <div style={styles.formGroup}>
+          <label style={styles.label}>Judul Materi ({editLang.toUpperCase()}):</label>
           <input
-            style={styles.input}
-            placeholder="Contoh: Keagungan Al-Quran"
-            value={title}
-            onChange={e => setTitle(e.target.value)}
+            style={{...styles.input, direction: editLang === 'ar' ? 'rtl' : 'ltr'}}
+            placeholder={`Judul dalam bahasa ${editLang}`}
+            value={titles[editLang]}
+            onChange={e => handleTitleChange(e.target.value)}
           />
         </div>
 
         <div style={styles.formGroup}>
-          <label style={styles.label}>Isi Cerpen/Materi:</label>
+          <label style={styles.label}>Isi Cerpen/Materi ({editLang.toUpperCase()}):</label>
           <textarea
-            style={styles.textarea}
-            placeholder="Tulis isi materi di sini..."
-            value={content}
-            onChange={e => setContent(e.target.value)}
+            style={{...styles.textarea, direction: editLang === 'ar' ? 'rtl' : 'ltr'}}
+            placeholder={`Isi materi dalam bahasa ${editLang}...`}
+            value={contents[editLang]}
+            onChange={e => handleContentChange(e.target.value)}
           />
         </div>
 
         <div style={styles.formGroup}>
-          <label style={styles.label}>Dalil (HTML/Teks):</label>
+          <label style={styles.label}>Dalil (HTML/Teks) ({editLang.toUpperCase()}):</label>
           <div style={styles.hint}>
             Gunakan format ini untuk Arab: <br/>
             <code>&lt;div class="arab"&gt;teks arab&lt;/div&gt;</code>
           </div>
           <textarea
-            style={styles.textarea}
-            placeholder="Masukkan dalil..."
-            value={dalil}
-            onChange={e => setDalil(e.target.value)}
+            style={{...styles.textarea, direction: editLang === 'ar' ? 'rtl' : 'ltr'}}
+            placeholder={`Dalil dalam bahasa ${editLang}...`}
+            value={dalils[editLang]}
+            onChange={e => handleDalilChange(e.target.value)}
           />
         </div>
 
@@ -101,60 +137,67 @@ export default function Admin() {
 const styles = {
   container: {
     padding: 24,
-    background: "#020617",
-    color: "#e5e7eb",
-    minHeight: "100vh"
-  } as React.CSSProperties,
+    color: '#e2e8f0',
+    minHeight: '100vh',
+    paddingBottom: 100
+  },
   formGroup: {
-    marginBottom: 20
-  } as React.CSSProperties,
+    marginBottom: 24
+  },
   label: {
     display: 'block',
     marginBottom: 8,
-    color: '#94a3b8',
-    fontWeight: 'bold'
-  } as React.CSSProperties,
+    fontWeight: 'bold',
+    color: '#38bdf8'
+  },
   select: {
-    width: "100%",
+    width: '100%',
     padding: 12,
-    borderRadius: 6,
-    background: '#1e293b',
-    color: 'white',
-    border: '1px solid #334155'
-  } as React.CSSProperties,
-  input: {
-    width: "100%",
-    padding: 12,
-    borderRadius: 6,
-    background: '#1e293b',
-    color: 'white',
-    border: '1px solid #334155'
-  } as React.CSSProperties,
-  textarea: {
-    width: "100%",
-    padding: 12,
-    minHeight: 150,
-    borderRadius: 6,
-    background: '#1e293b',
-    color: 'white',
+    backgroundColor: '#1e293b',
     border: '1px solid #334155',
+    color: '#fff',
+    borderRadius: 8
+  },
+  input: {
+    width: '100%',
+    padding: 12,
+    backgroundColor: '#1e293b',
+    border: '1px solid #334155',
+    color: '#fff',
+    borderRadius: 8
+  },
+  textarea: {
+    width: '100%',
+    padding: 12,
+    backgroundColor: '#1e293b',
+    border: '1px solid #334155',
+    color: '#fff',
+    borderRadius: 8,
+    minHeight: 200,
     fontFamily: 'inherit'
-  } as React.CSSProperties,
+  },
   hint: {
     fontSize: 12,
-    color: '#64748b',
+    color: '#94a3b8',
     marginBottom: 8,
-    fontFamily: 'monospace'
-  } as React.CSSProperties,
+    fontStyle: 'italic'
+  },
   button: {
     width: '100%',
-    padding: "14px",
-    background: "#38bdf8",
+    padding: 16,
+    backgroundColor: '#38bdf8',
     color: '#0f172a',
+    border: 'none',
+    borderRadius: 8,
     fontWeight: 'bold',
-    border: "none",
+    fontSize: 16,
+    cursor: 'pointer'
+  },
+  langBtn: {
+    padding: '8px 16px',
     borderRadius: 6,
-    cursor: "pointer",
-    fontSize: 16
-  } as React.CSSProperties
+    border: '1px solid #334155',
+    cursor: 'pointer',
+    fontWeight: 'bold'
+  }
 };
