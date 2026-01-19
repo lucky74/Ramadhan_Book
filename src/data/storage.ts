@@ -182,21 +182,258 @@ The question is: does our faith rise with it, or fall back asleep in meaningless
   {
     id: "2",
     title: {
-      id: "Materi Hari Ke-2",
-      en: "Content Day 2",
-      ar: "محتوى اليوم الثاني"
+      id: "Iman yang Dibuktikan, Bukan Dinyanyikan",
+      en: "Faith Proven, Not Sung",
+      ar: "الإيمان المثبت، لا المغنى به"
     },
     content: {
-      id: "Insya Allah materi hari ke-2 akan segera tayang...",
-      en: "Content for day 2 will be available soon...",
-      ar: "سيكون محتوى اليوم الثاني متاحًا قريبًا..."
+      id: `Dakwah itu berat. Jika terasa ringan, besar kemungkinan ia telah kehilangan keikhlasannya. Sejak awal, Islam tidak pernah menjanjikan kenyamanan—yang dijanjikan hanyalah kebenaran, dan kebenaran selalu menuntut harga.
+
+Rasulullah ﷺ memulai dakwahnya di Makkah bukan dengan sambutan, tetapi dengan caci maki. Bukan dengan penghormatan, tetapi dengan pemboikotan, penyiksaan, dan ancaman nyawa. Para sahabat tidak hanya diuji imannya, tetapi dihancurkan kenyamanannya. Ada yang diseret di padang pasir, ada yang dipukul hingga pingsan, ada yang dipaksa memilih antara Islam atau keluarga.
+
+Namun mereka bertahan.
+
+Bukan karena Islam menjanjikan dunia, tetapi karena iman mereka nyata—bukan sekadar pengakuan lisan.
+
+Hari ini, kita mengaku beriman, tetapi dakwah terasa pahit sedikit saja sudah mengeluh. Ketika Islam dihina, syariat diabaikan, dan umat dilemahkan, kita justru berkata: "Yang penting iman di hati."
+
+Pertanyaannya: iman yang tidak melahirkan sikap, masih pantaskah disebut iman?
+
+Allah menegaskan:
+
+Puasa bukan sekadar ibadah personal. Ia adalah latihan ketaatan total. Dan sejarah mencatat: puasa pertama umat Islam langsung diikuti ujian paling berat—perang.
+
+Perang Badar.
+
+Kaum Muslimin berjumlah 313 orang, dengan persenjataan seadanya.
+Kaum Quraisy berjumlah sekitar 1.000 orang, lengkap dengan perlengkapan perang.
+
+Secara logika manusia, ini bukan pertempuran—ini bunuh diri.
+Secara matematika, ini kekalahan yang pasti.
+
+Namun iman tidak tunduk pada statistik.
+
+Allah berfirman:
+
+Dan Allah menegaskan lagi:
+
+Inilah pelajaran yang menghantam keras umat Islam sepanjang zaman:
+kemenangan tidak lahir dari jumlah, tetapi dari iman dan takwa.
+
+Allah bahkan mengirimkan bala bantuan:
+
+Puasa mereka bukan puasa yang memanjakan diri.
+Iman mereka bukan iman yang bersembunyi.
+Dakwah mereka bukan dakwah yang mencari aman.
+
+Bandingkan dengan hari ini.
+
+Syariat Islam tidak tegak, tetapi kita merasa baik-baik saja.
+Umat terpecah, tetapi kita sibuk dengan urusan pribadi.
+Islam hanya hidup di masjid dan kajian, tetapi mati dalam sistem kehidupan.
+
+Lalu kita berkata: "Kami beriman."
+
+Rasulullah ﷺ bersabda:
+
+Puasa tanpa pembuktian hanyalah ritual.
+Iman tanpa pengorbanan hanyalah klaim.
+Dan dakwah tanpa risiko hanyalah hiburan rohani.
+
+Badar mengajarkan satu hal yang tidak pernah berubah:
+Allah bersama orang-orang yang beriman dan bertakwa, bukan dengan mereka yang hanya pandai berbicara.
+
+Ramadhan hari kedua ini seharusnya membuat kita bertanya dengan jujur:
+Jika iman diuji hari ini—
+bukan dengan perang, tetapi dengan keberanian bersikap—
+apakah kita masih berdiri, atau memilih aman?
+
+Karena iman sejati tidak pernah bertanya, "Apa risikonya?"
+Ia bertanya, "Apa kewajiban saya di hadapan Allah?"`,
+      en: `Da'wah is heavy. If it feels light, it is very likely that it has lost its sincerity. From the beginning, Islam never promised comfort—what was promised was only the truth, and the truth always demands a price.
+
+The Messenger of Allah ﷺ started his da'wah in Mecca not with a welcome, but with abuse. Not with respect, but with boycotts, torture, and threats to life. The companions were not only tested in their faith, but their comfort was destroyed. Some were dragged in the desert, some were beaten until unconscious, some were forced to choose between Islam or family.
+
+But they endured.
+
+Not because Islam promised the world, but because their faith was real—not just verbal confession.
+
+Today, we claim to believe, but when da'wah feels a little bitter, we complain. When Islam is insulted, Sharia is ignored, and the Ummah is weakened, we instead say: "The important thing is faith in the heart."
+
+The question is: is faith that does not give birth to an attitude still worthy of being called faith?
+
+Allah affirms:
+
+Fasting is not just personal worship. It is a practice of total obedience. And history records: the first fasting of Muslims was immediately followed by the heaviest test—war.
+
+Battle of Badr.
+
+The Muslims numbered 313 people, with makeshift weapons.
+The Quraysh numbered about 1,000 people, complete with war equipment.
+
+Logically, this is not a battle—this is suicide.
+Mathematically, this is a certain defeat.
+
+But faith does not bow to statistics.
+
+Allah says:
+
+And Allah emphasizes again:
+
+This is a lesson that hits Muslims hard throughout the ages:
+victory is not born from numbers, but from faith and piety.
+
+Allah even sent reinforcements:
+
+Their fasting was not fasting that pampered themselves.
+Their faith was not faith that hid.
+Their da'wah was not da'wah that sought safety.
+
+Compare it with today.
+
+Islamic Sharia is not upright, but we feel fine.
+The Ummah is divided, but we are busy with personal affairs.
+Islam only lives in mosques and studies, but dies in the system of life.
+
+Then we say: "We believe."
+
+The Messenger of Allah ﷺ said:
+
+Fasting without proof is just a ritual.
+Faith without sacrifice is just a claim.
+And da'wah without risk is just spiritual entertainment.
+
+Badr taught one thing that never changes:
+Allah is with those who believe and fear Him, not with those who are only good at talking.
+
+This second day of Ramadan should make us ask honestly:
+If faith is tested today—
+not with war, but with the courage to take a stand—
+are we still standing, or choosing safety?
+
+Because true faith never asks, "What is the risk?"
+It asks, "What is my duty before Allah?"`,
+      ar: `الدعوة ثقيلة. إذا شعرت أنها خفيفة، فمن المحتمل جدًا أنها فقدت إخلاصها. منذ البداية، لم يعد الإسلام أبدًا بالراحة - ما وعد به كان الحق فقط، والحق يتطلب دائمًا ثمنًا.
+
+بدأ رسول الله ﷺ دعوته في مكة ليس بالترحيب، بل بالشتائم. ليس بالاحترام، بل بالمقاطعة والتعذيب والتهديد بالقتل. لم يختبر الصحابة في إيمانهم فحسب، بل دمرت راحتهم. سُحب البعض في الصحراء، وضُرب البعض حتى فقدوا الوعي، وأُجبر البعض على الاختيار بين الإسلام أو العائلة.
+
+لكنهم صمدوا.
+
+ليس لأن الإسلام وعد بالدنيا، بل لأن إيمانهم كان حقيقيًا - وليس مجرد اعتراف لفظي.
+
+اليوم، ندعي الإيمان، ولكن عندما تشعر الدعوة بمرارة قليلة، نشتكي. عندما يُهان الإسلام، وتُتجاهل الشريعة، وتضعف الأمة، نقول بدلاً من ذلك: "المهم هو الإيمان في القلب".
+
+السؤال هو: هل الإيمان الذي لا يولد موقفًا لا يزال يستحق أن يسمى إيمانًا؟
+
+يؤكد الله:
+
+الصيام ليس مجرد عبادة شخصية. إنه ممارسة للطاعة الكاملة. ويسجل التاريخ: أول صيام للمسلمين تبعه مباشرة أصعب اختبار - الحرب.
+
+غزوة بدر.
+
+كان عدد المسلمين 313 شخصًا، بأسلحة بدائية.
+كان عدد قريش حوالي 1000 شخص، كاملين بمعدات الحرب.
+
+منطقياً، هذه ليست معركة - هذا انتحار.
+حسابياً، هذه هزيمة مؤكدة.
+
+لكن الإيمان لا يخضع للإحصاءات.
+
+يقول الله:
+
+ويؤكد الله مرة أخرى:
+
+هذا درس يضرب المسلمين بقوة عبر العصور:
+النصر لا يولد من العدد، بل من الإيمان والتقوى.
+
+حتى أن الله أرسل تعزيزات:
+
+لم يكن صيامهم صياماً يدلل أنفسهم.
+لم يكن إيمانهم إيمانًا يختبئ.
+لم تكن دعوتهم دعوة تبحث عن الأمان.
+
+قارن ذلك باليوم.
+
+الشريعة الإسلامية ليست قائمة، لكننا نشعر بأننا بخير.
+الأمة منقسمة، لكننا مشغولون بالشؤون الشخصية.
+الإسلام يعيش فقط في المساجد والدراسات، لكنه يموت في نظام الحياة.
+
+ثم نقول: "نحن نؤمن".
+
+قال رسول الله ﷺ:
+
+الصيام بلا برهان مجرد طقس.
+الإيمان بلا تضحية مجرد ادعاء.
+والدعوة بلا مخاطرة مجرد ترفيه روحي.
+
+علمت بدر شيئًا واحدًا لا يتغير أبدًا:
+الله مع الذين آمنوا واتقوا، لا مع الذين يجيدون الكلام فقط.
+
+هذا اليوم الثاني من رمضان يجب أن يجعلنا نسأل بصدق:
+إذا اختبر الإيمان اليوم -
+ليس بالحرب، بل بشجاعة اتخاذ موقف -
+هل ما زلنا صامدين، أم نختار الأمان؟
+
+لأن الإيمان الحقيقي لا يسأل أبدًا: "ما هي المخاطرة؟"
+إنه يسأل: "ما هو واجبي أمام الله؟"`
     },
     dalil: {
-      id: "-",
-      en: "-",
-      ar: "-"
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ</div>
+<p style="text-align: center;"><strong>"Apakah manusia mengira bahwa mereka akan dibiarkan hanya dengan mengatakan, 'Kami telah beriman,' sedang mereka tidak diuji?"</strong><br>
+(QS. Al-‘Ankabut: 2)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">وَلَقَدْ نَصَرَكُمُ اللَّهُ بِبَدْرٍ وَأَنْتُمْ أَذِلَّةٌ</div>
+<p style="text-align: center;"><strong>"Dan sungguh, Allah telah menolong kamu dalam Perang Badar, padahal kamu dalam keadaan lemah."</strong><br>
+(QS. Ali ‘Imran: 123)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">فَلَمْ تَقْتُلُوهُمْ وَلَٰكِنَّ اللَّهَ قَتَلَهُمْ ۚ وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَٰكِنَّ اللَّهَ رَمَىٰ</div>
+<p style="text-align: center;"><strong>"Maka (sebenarnya) bukan kamu yang membunuh mereka, melainkan Allah yang membunuh mereka, dan bukan engkau yang melempar ketika engkau melempar, tetapi Allah yang melempar."</strong><br>
+(QS. Al-Anfal: 17)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُمْ بِأَلْفٍ مِنَ الْمَلَائِكَةِ مُرْدِفِينَ</div>
+<p style="text-align: center;"><strong>"(Ingatlah) ketika kamu memohon pertolongan kepada Tuhanmu, lalu Dia mengabulkanmu: 'Sesungguhnya Aku akan mendatangkan bala bantuan kepadamu dengan seribu malaikat yang datang berturut-turut.'"</strong><br>
+(QS. Al-Anfal: 9)</p>
+<br>
+<p style="text-align: center;"><strong>"Barang siapa tidak peduli terhadap urusan kaum Muslimin, maka ia bukan bagian dari mereka."</strong><br>
+(HR. Al-Hakim, hasan)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ</div>
+<p style="text-align: center;"><strong>"Do the people think that they will be left to say, 'We believe' and they will not be tried?"</strong><br>
+(QS. Al-‘Ankabut: 2)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">وَلَقَدْ نَصَرَكُمُ اللَّهُ بِبَدْرٍ وَأَنْتُمْ أَذِلَّةٌ</div>
+<p style="text-align: center;"><strong>"And Allah had certainly already aided you at Badr while you were few in number."</strong><br>
+(QS. Ali ‘Imran: 123)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">فَلَمْ تَقْتُلُوهُمْ وَلَٰكِنَّ اللَّهَ قَتَلَهُمْ ۚ وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَٰكِنَّ اللَّهَ رَمَىٰ</div>
+<p style="text-align: center;"><strong>"And you did not kill them, but it was Allah who killed them. And you threw not, [O Muhammad], when you threw, but it was Allah who threw."</strong><br>
+(QS. Al-Anfal: 17)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُمْ بِأَلْفٍ مِنَ الْمَلَائِكَةِ مُرْدِفِينَ</div>
+<p style="text-align: center;"><strong>"[Remember] when you asked help of your Lord, and He answered you, 'Indeed, I will reinforce you with a thousand from the angels, following one another.'"</strong><br>
+(QS. Al-Anfal: 9)</p>
+<br>
+<p style="text-align: center;"><strong>"Whoever does not care about the affairs of the Muslims, then he is not part of them."</strong><br>
+(HR. Al-Hakim, hasan)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ</div>
+<p style="text-align: center;"><strong>"أحسب الناس أن يتركوا أن يقولوا آمنا وهم لا يفتنون"</strong><br>
+(سورة العنكبوت: 2)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">وَلَقَدْ نَصَرَكُمُ اللَّهُ بِبَدْرٍ وَأَنْتُمْ أَذِلَّةٌ</div>
+<p style="text-align: center;"><strong>"ولقد نصركم الله ببدر وأنتم أذلة"</strong><br>
+(سورة آل عمران: 123)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">فَلَمْ تَقْتُلُوهُمْ وَلَٰكِنَّ اللَّهَ قَتَلَهُمْ ۚ وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَٰكِنَّ اللَّهَ رَمَىٰ</div>
+<p style="text-align: center;"><strong>"فلم تقتلوهم ولكن الله قتلهم وما رميت إذ رميت ولكن الله رمى"</strong><br>
+(سورة الأنفال: 17)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُمْ بِأَلْفٍ مِنَ الْمَلَائِكَةِ مُرْدِفِينَ</div>
+<p style="text-align: center;"><strong>"إذ تستغيثون ربكم فاستجاب لكم أني ممدكم بألف من الملائكة مردفين"</strong><br>
+(سورة الأنفال: 9)</p>
+<br>
+<p style="text-align: center;"><strong>"من لم يهتم بأمر المسلمين فليس منهم"</strong><br>
+(رواه الحاكم، حسن)</p>`
     }
-  }
+  },
 ];
 
 export function getCerpen(): Cerpen[] {
