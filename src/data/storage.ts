@@ -1,5 +1,5 @@
 export interface Cerpen {
-  id: string;
+  id: string; // Akan berisi angka "1" sampai "30"
   title: string;
   content: string;
   dalil: string;
@@ -12,6 +12,22 @@ export function getCerpen(): Cerpen[] {
   return data ? JSON.parse(data) : [];
 }
 
-export function saveCerpen(data: Cerpen[]) {
+export function getCerpenById(id: string): Cerpen | undefined {
+  const data = getCerpen();
+  return data.find((c) => c.id === id);
+}
+
+export function saveCerpen(newItem: Cerpen) {
+  const data = getCerpen();
+  const index = data.findIndex((c) => c.id === newItem.id);
+  
+  if (index >= 0) {
+    // Update existing
+    data[index] = newItem;
+  } else {
+    // Add new
+    data.push(newItem);
+  }
+  
   localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
 }
