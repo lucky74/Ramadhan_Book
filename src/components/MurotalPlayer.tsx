@@ -30,9 +30,7 @@ export default function MurotalPlayer() {
   const [selectedSurah, setSelectedSurah] = useState(1);
   const [audioUrl, setAudioUrl] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
-  const [isPlaying, setIsPlaying] = useState(false);
   const [isExpanded, setIsExpanded] = useState(false);
-  const audioRef = useRef<HTMLAudioElement>(null);
 
   useEffect(() => {
     async function fetchAudio() {
