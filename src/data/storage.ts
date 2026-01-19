@@ -182,19 +182,19 @@ The question is: does our faith rise with it, or fall back asleep in meaningless
   {
     id: "2",
     title: {
-      id: "Judul Hari Ke-2 (Silakan Edit)",
-      en: "Title Day 2 (Please Edit)",
-      ar: "عنوان اليوم الثاني (يرجى التحرير)"
+      id: "Materi Hari Ke-2",
+      en: "Content Day 2",
+      ar: "محتوى اليوم الثاني"
     },
     content: {
-      id: "Isi materi hari ke-2. Tulis di sini...",
-      en: "Content for day 2. Write here...",
-      ar: "محتوى اليوم الثاني. اكتب هنا..."
+      id: "Insya Allah materi hari ke-2 akan segera tayang...",
+      en: "Content for day 2 will be available soon...",
+      ar: "سيكون محتوى اليوم الثاني متاحًا قريبًا..."
     },
     dalil: {
-      id: "Dalil hari ke-2...",
-      en: "Dalil for day 2...",
-      ar: "دليل اليوم الثاني..."
+      id: "-",
+      en: "-",
+      ar: "-"
     }
   }
 ];
