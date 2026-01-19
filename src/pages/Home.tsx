@@ -40,6 +40,11 @@ export default function Home() {
           );
         })}
       </div>
+
+      <div style={styles.footer}>
+        <div>@2026 Mitas Digital Solution</div>
+        <div style={styles.email}>mitas.digitalsolution@email.com</div>
+      </div>
     </div>
   );
 }
@@ -86,5 +91,23 @@ const styles = {
     fontSize: 12,
     color: '#475569',
     fontStyle: 'italic'
+  },
+  author: {
+    color: '#38bdf8',
+    fontSize: 16,
+    marginBottom: 32,
+    fontStyle: 'italic'
+  },
+  footer: {
+    marginTop: 60,
+    borderTop: '1px solid #1e293b',
+    paddingTop: 24,
+    paddingBottom: 40,
+    color: '#64748b',
+    fontSize: 14
+  },
+  email: {
+    color: '#94a3b8',
+    marginTop: 4
   }
 };
