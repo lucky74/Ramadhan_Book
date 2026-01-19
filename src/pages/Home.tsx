@@ -1,12 +1,37 @@
 import { Link } from "react-router-dom";
 import { getCerpen } from "../data/storage";
 import { useLanguage } from "../contexts/LanguageContext";
+import OneSignal from 'react-onesignal';
+import { useState, useEffect } from "react";
 
 export default function Home() {
   const { t, language, setLanguage } = useLanguage();
   const cerpenList = getCerpen();
-  // Buat array 1 sampai 30
   const days = Array.from({ length: 30 }, (_, i) => i + 1);
+  const [notifEnabled, setNotifEnabled] = useState(false);
+
+  useEffect(() => {
+    // Cek status notifikasi
+    // Note: OneSignal.Notifications might be undefined during initial load or if blocked
+    try {
+        if (OneSignal.Notifications && OneSignal.Notifications.permission) {
+            setNotifEnabled(OneSignal.Notifications.permission);
+        }
+    } catch (e) {
+        console.log("OneSignal status check failed", e);
+    }
+  }, []);
+
+  const enableNotifications = async () => {
+    try {
+      await OneSignal.Notifications.requestPermission();
+      setNotifEnabled(OneSignal.Notifications.permission);
+      alert("Terima kasih! Anda akan mendapatkan notifikasi update materi baru.");
+    } catch (error) {
+      console.error("Gagal mengaktifkan notifikasi", error);
+      alert("Gagal mengaktifkan notifikasi. Pastikan browser Anda mengizinkan notifikasi.");
+    }
+  };
 
   return (
     <div style={{ padding: 24, textAlign: 'center', maxWidth: 800, margin: '0 auto' }}>
@@ -27,6 +52,13 @@ export default function Home() {
       </p>
       <p style={{ color: '#94a3b8', fontSize: 14, marginBottom: 8 }}>{t('home_subtitle')}</p>
       <p style={styles.author}>{t('author_label')} : Lucky Zamaludin Malik</p>
+
+      {/* Tombol Notifikasi */}
+      {!notifEnabled && (
+        <button onClick={enableNotifications} style={styles.notifBtn}>
+          🔔 Aktifkan Notifikasi Update
+        </button>
+      )}
 
       <div style={styles.grid}>
         {days.map((day) => {
@@ -127,5 +159,16 @@ const styles = {
     color: '#fff',
     cursor: 'pointer',
     fontSize: 14
+  },
+  notifBtn: {
+    marginTop: 16,
+    padding: '10px 20px',
+    borderRadius: 20,
+    backgroundColor: '#38bdf8',
+    color: '#0f172a',
+    fontWeight: 'bold',
+    border: 'none',
+    cursor: 'pointer',
+    boxShadow: '0 4px 6px -1px rgba(56, 189, 248, 0.3)'
   }
 };
