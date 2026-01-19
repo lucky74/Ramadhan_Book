@@ -79,7 +79,6 @@ export default function MurotalPlayer() {
             value={selectedSurah}
             onChange={(e) => {
               setSelectedSurah(Number(e.target.value));
-              setIsPlaying(false);
             }}
           >
             {SURAH_LIST.map((name, index) => (
