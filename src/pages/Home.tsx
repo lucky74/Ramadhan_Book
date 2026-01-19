@@ -14,9 +14,10 @@ export default function Home() {
         style={{ width: 120, height: 120, borderRadius: '50%', marginBottom: 16, border: '2px solid #38bdf8' }} 
       />
       <h1 className="mushaf-title">E-Book Ramadhan Abadi</h1>
-      <p className="mushaf-subtitle">
+      <p className="mushaf-subtitle" style={{ marginBottom: 8 }}>
         Jejak Kejayaan Islam & Peradaban yang Dilupakan
       </p>
+      <p style={styles.author}>Penulis : Lucky Zamaludin Malik</p>
 
       <div style={styles.grid}>
         {days.map((day) => {
