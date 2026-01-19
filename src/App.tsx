@@ -13,7 +13,7 @@ export default function App() {
     // Catatan: Ganti 'YOUR-ONESIGNAL-APP-ID' dengan App ID asli Anda dari dashboard OneSignal
     try {
       OneSignal.init({
-        appId: "YOUR-ONESIGNAL-APP-ID", // User harus mengganti ini
+        appId: "1817f5d4-757d-418f-9926-f94ca84fa720",
         allowLocalhostAsSecureOrigin: true,
       });
     } catch (error) {
