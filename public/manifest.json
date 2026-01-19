@@ -1,14 +1,20 @@
 {
-  "name": "Ramadhan Book",
+  "name": "E-Book Ramadhan Abadi",
   "short_name": "RamadhanBook",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#020617",
   "theme_color": "#020617",
+  "orientation": "portrait",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "/logo_mitas.png",
       "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo_mitas.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
