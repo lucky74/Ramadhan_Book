@@ -6,7 +6,7 @@ export default function Reader() {
   const cerpen = getCerpenById(id || "1");
 
   return (
-    <div className="reader" style={{ padding: 24 }}>
+    <div className="reader" style={{ padding: '24px 24px 80px 24px' }}>
       {cerpen ? (
         <>
           <div style={{ textAlign: 'center', color: '#38bdf8', marginBottom: 8, letterSpacing: 2 }}>

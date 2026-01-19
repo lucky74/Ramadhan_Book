@@ -102,7 +102,7 @@ const styles = {
     marginTop: 60,
     borderTop: '1px solid #1e293b',
     paddingTop: 24,
-    paddingBottom: 40,
+    paddingBottom: 80,
     color: '#64748b',
     fontSize: 14
   },

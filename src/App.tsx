@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Reader from "./pages/Reader";
 import Admin from "./pages/Admin";
+import MurotalPlayer from "./components/MurotalPlayer";
 
 export default function App() {
   return (
@@ -11,6 +12,7 @@ export default function App() {
         <Route path="/read/:id" element={<Reader />} />
         <Route path="/admin" element={<Admin />} />
       </Routes>
+      <MurotalPlayer />
     </BrowserRouter>
   );
 }
