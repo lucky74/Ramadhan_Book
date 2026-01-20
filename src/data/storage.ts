@@ -40,16 +40,12 @@ Inilah tamparan pertama bagi umat Islam sepanjang zaman.
 
 Nabi ﷺ yang ummi—tidak bisa membaca dan menulis—membangun peradaban paling agung dalam sejarah. Sementara umat yang mengaku berilmu hari ini, dengan ribuan kitab dan kajian, justru berjalan di tempat. Islam dipersempit menjadi wacana, dipenjara dalam forum, dan dilumpuhkan menjadi rutinitas tanpa keberanian.
 
-Allah telah berjanji:
-
 Janji ini bukan untuk mereka yang sombong dengan pengetahuan, tetapi untuk mereka yang mau memahami Al-Qur’an dengan ketundukan dan tanggung jawab.
 
 Pertanyaannya bukan lagi: apakah kita paham?
 Melainkan: apakah kita peduli?
 
 Untuk apa Allah memberi akal, jika akal itu hanya dipakai untuk membenarkan kemalasan? Untuk apa ilmu, jika ia tidak melahirkan keberpihakan kepada kebenaran? Untuk apa puasa, jika ia tidak menghidupkan keberanian menegakkan Islam dalam seluruh aspek kehidupan?
-
-Rasulullah ﷺ bersabda:
 
 Ramadhan bukan bulan pelarian. Ia adalah bulan konfrontasi—antara iman dan kepalsuan, antara keberanian dan kenyamanan. Puasa bukan sekadar menahan lapar, tetapi menahan diri dari sikap pengecut terhadap kerusakan umat.
 
@@ -75,16 +71,12 @@ This is the first slap for the Muslim Ummah throughout the ages.
 
 The unlettered Prophet ﷺ—unable to read and write—built the greatest civilization in history. While the Ummah that claims to be knowledgeable today, with thousands of books and studies, is walking in place. Islam is narrowed into discourse, imprisoned in forums, and paralyzed into routines without courage.
 
-Allah has promised:
-
 This promise is not for those who are arrogant with knowledge, but for those who are willing to understand the Qur'an with submission and responsibility.
 
 The question is no longer: do we understand?
 But: do we care?
 
 What is the use of Allah giving reason, if that reason is only used to justify laziness? What is the use of knowledge, if it does not give birth to partiality towards the truth? What is the use of fasting, if it does not revive the courage to uphold Islam in all aspects of life?
-
-The Messenger of Allah ﷺ said:
 
 Ramadan is not a month of escape. It is a month of confrontation—between faith and falsehood, between courage and comfort. Fasting is not just holding back hunger, but holding back oneself from cowardice towards the damage of the Ummah.
 
@@ -110,16 +102,12 @@ The question is: does our faith rise with it, or fall back asleep in meaningless
 
 النبي الأمي ﷺ - الذي لا يقرأ ولا يكتب - بنى أعظم حضارة في التاريخ. بينما الأمة التي تدعي العلم اليوم، مع آلاف الكتب والدراسات، تراوح مكانها. تم تضييق الإسلام ليصبح مجرد خطاب، وسجن في المنتديات، وشل ليصبح روتيناً بلا شجاعة.
 
-لقد وعد الله:
-
 هذا الوعد ليس لأولئك المتكبرين بالعلم، بل لأولئك المستعدين لفهم القرآن بخضوع ومسؤولية.
 
 السؤال لم يعد: هل نفهم؟
 بل: هل نهتم؟
 
 ما فائدة أن يعطي الله العقل، إذا كان ذلك العقل يستخدم فقط لتبرير الكسل؟ ما فائدة العلم، إذا لم يلد انحيازاً للحقيقة؟ ما فائدة الصيام، إذا لم يحيي الشجاعة لإقامة الإسلام في جميع جوانب الحياة؟
-
-قال رسول الله ﷺ:
 
 رمضان ليس شهر هروب. إنه شهر مواجهة - بين الإيمان والباطل، بين الشجاعة والراحة. الصيام ليس مجرد الامتناع عن الجوع، بل الامتناع عن الجبن تجاه فساد الأمة.
 
@@ -199,8 +187,6 @@ Hari ini, kita mengaku beriman, tetapi dakwah terasa pahit sedikit saja sudah me
 
 Pertanyaannya: iman yang tidak melahirkan sikap, masih pantaskah disebut iman?
 
-Allah menegaskan:
-
 Puasa bukan sekadar ibadah personal. Ia adalah latihan ketaatan total. Dan sejarah mencatat: puasa pertama umat Islam langsung diikuti ujian paling berat—perang.
 
 Perang Badar.
@@ -213,14 +199,8 @@ Secara matematika, ini kekalahan yang pasti.
 
 Namun iman tidak tunduk pada statistik.
 
-Allah berfirman:
-
-Dan Allah menegaskan lagi:
-
 Inilah pelajaran yang menghantam keras umat Islam sepanjang zaman:
 kemenangan tidak lahir dari jumlah, tetapi dari iman dan takwa.
-
-Allah bahkan mengirimkan bala bantuan:
 
 Puasa mereka bukan puasa yang memanjakan diri.
 Iman mereka bukan iman yang bersembunyi.
@@ -233,8 +213,6 @@ Umat terpecah, tetapi kita sibuk dengan urusan pribadi.
 Islam hanya hidup di masjid dan kajian, tetapi mati dalam sistem kehidupan.
 
 Lalu kita berkata: "Kami beriman."
-
-Rasulullah ﷺ bersabda:
 
 Puasa tanpa pembuktian hanyalah ritual.
 Iman tanpa pengorbanan hanyalah klaim.
@@ -262,8 +240,6 @@ Today, we claim to believe, but when da'wah feels a little bitter, we complain. 
 
 The question is: is faith that does not give birth to an attitude still worthy of being called faith?
 
-Allah affirms:
-
 Fasting is not just personal worship. It is a practice of total obedience. And history records: the first fasting of Muslims was immediately followed by the heaviest test—war.
 
 Battle of Badr.
@@ -276,14 +252,8 @@ Mathematically, this is a certain defeat.
 
 But faith does not bow to statistics.
 
-Allah says:
-
-And Allah emphasizes again:
-
 This is a lesson that hits Muslims hard throughout the ages:
 victory is not born from numbers, but from faith and piety.
-
-Allah even sent reinforcements:
 
 Their fasting was not fasting that pampered themselves.
 Their faith was not faith that hid.
@@ -296,8 +266,6 @@ The Ummah is divided, but we are busy with personal affairs.
 Islam only lives in mosques and studies, but dies in the system of life.
 
 Then we say: "We believe."
-
-The Messenger of Allah ﷺ said:
 
 Fasting without proof is just a ritual.
 Faith without sacrifice is just a claim.
@@ -325,8 +293,6 @@ It asks, "What is my duty before Allah?"`,
 
 السؤال هو: هل الإيمان الذي لا يولد موقفًا لا يزال يستحق أن يسمى إيمانًا؟
 
-يؤكد الله:
-
 الصيام ليس مجرد عبادة شخصية. إنه ممارسة للطاعة الكاملة. ويسجل التاريخ: أول صيام للمسلمين تبعه مباشرة أصعب اختبار - الحرب.
 
 غزوة بدر.
@@ -339,14 +305,8 @@ It asks, "What is my duty before Allah?"`,
 
 لكن الإيمان لا يخضع للإحصاءات.
 
-يقول الله:
-
-ويؤكد الله مرة أخرى:
-
 هذا درس يضرب المسلمين بقوة عبر العصور:
 النصر لا يولد من العدد، بل من الإيمان والتقوى.
-
-حتى أن الله أرسل تعزيزات:
 
 لم يكن صيامهم صياماً يدلل أنفسهم.
 لم يكن إيمانهم إيمانًا يختبئ.
@@ -359,8 +319,6 @@ It asks, "What is my duty before Allah?"`,
 الإسلام يعيش فقط في المساجد والدراسات، لكنه يموت في نظام الحياة.
 
 ثم نقول: "نحن نؤمن".
-
-قال رسول الله ﷺ:
 
 الصيام بلا برهان مجرد طقس.
 الإيمان بلا تضحية مجرد ادعاء.
