@@ -1,0 +1,143 @@
+.home-container {
+  padding: 24px;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.lang-btn-group {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.lang-btn {
+  padding: 8px 12px;
+  border-radius: 20px;
+  border: 1px solid #38bdf8;
+  background-color: #0f172a;
+  color: #fff;
+  cursor: pointer;
+  font-size: 14px;
+  transition: opacity 0.2s;
+}
+
+.logo-img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin-bottom: 16px;
+  border: 2px solid #38bdf8;
+}
+
+.home-subtitle {
+  color: #94a3b8;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.author-text {
+  color: #38bdf8;
+  font-size: 16px;
+  margin-bottom: 32px;
+  font-style: italic;
+}
+
+.notif-btn {
+  margin-top: 16px;
+  padding: 10px 20px;
+  border-radius: 20px;
+  background-color: #38bdf8;
+  color: #0f172a;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 4px 6px -1px rgba(56, 189, 248, 0.3);
+  transition: transform 0.1s;
+}
+
+.notif-btn:active {
+  transform: scale(0.95);
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 16px;
+  margin-top: 32px;
+}
+
+.day-card {
+  padding: 16px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: transform 0.2s, background-color 0.2s;
+  min-height: 140px;
+  position: relative;
+}
+
+.day-card:hover {
+  transform: translateY(-4px);
+}
+
+/* Status 'Sudah Dibaca' */
+.day-card.read {
+  border-color: #10b981;
+  background: rgba(16, 185, 129, 0.1);
+}
+
+.day-card.read::after {
+  content: '✅';
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  font-size: 14px;
+}
+
+.day-label {
+  font-size: 12px;
+  color: #94a3b8;
+  letter-spacing: 1px;
+  margin-bottom: 4px;
+}
+
+.day-number {
+  font-size: 48px;
+  font-weight: bold;
+  color: #38bdf8;
+  line-height: 1;
+  margin-bottom: 8px;
+  font-family: Georgia, serif;
+}
+
+.card-title {
+  font-size: 14px;
+  color: #e5e7eb;
+  margin-top: 8px;
+  line-height: 1.4;
+}
+
+.card-empty {
+  font-size: 12px;
+  color: #475569;
+  font-style: italic;
+}
+
+.home-footer {
+  margin-top: 60px;
+  border-top: 1px solid #1e293b;
+  padding-top: 24px;
+  padding-bottom: 80px;
+  color: #64748b;
+  font-size: 14px;
+}
+
+.footer-email {
+  color: #94a3b8;
+  margin-top: 4px;
+}
