@@ -3473,7 +3473,169 @@ their fasting and i'tikaf are just futility in the eyes of Allah.`,
 <p style="text-align: center;"><strong>"من صام رمضان إيمانا واحتسابا غفر له ما تقدم من ذنبه."</strong><br>
 (رواه البخاري ومسلم)</p>`
     }
-  }
+  },
+  {
+    id: "21",
+    title: {
+      id: "Ibadah Tanpa Keberanian, Adalah Penghinaan terhadap Syariat",
+      en: "Worship Without Courage Is an Insult to Sharia",
+      ar: "العبادة بلا شجاعة هي إهانة للشريعة"
+    },
+    content: {
+      id: `Banyak umat Islam bangga dengan ibadahnya: shalat lima waktu, puasa, sedekah rutin, haji, bahkan i’tikaf.
+Tetapi apa artinya semua itu jika keberanian untuk menegakkan syariat tidak ada?
+
+Nabi Muhammad ﷺ mengajarkan bahwa ibadah adalah alat untuk menegakkan kebenaran, bukan sekadar simbol spiritual.
+Beliau berdiri di tengah masyarakat yang menindas, menyiksa, dan memboikot, namun tidak pernah mundur.
+Ibadahnya menyala bukan untuk dirinya sendiri, tetapi untuk umat, untuk peradaban, dan untuk Allah.
+
+Hari ini, umat Islam banyak yang takut.
+Takut menegur kemungkaran, takut menghadapi penguasa zalim, takut mengingatkan teman yang salah.
+Mereka sibuk menghitung pahala, namun tidak berani menghadapi dosa dan kemungkaran.
+
+Shalat tetap dijalankan, tetapi kezaliman di sekitarnya diam dibisu.
+Puasa dijalankan, namun syariat Allah dibiarkan diinjak.
+Bukankah ini penghinaan terhadap syariat itu sendiri?
+Bukankah Allah menurunkan hukum untuk ditegakkan, bukan sekadar dibaca atau dibisikan di hati?
+
+Lihat para Sahabat.
+* Umar bin Khattab radhiyallahu ‘anhu menegur pejabat yang lalai.
+* Abu Bakar radhiyallahu ‘anhu menentang siapa pun yang memisahkan shalat dari zakat.
+* Ali bin Abi Thalib radhiyallahu ‘anhu membela kebenaran meski nyawa selalu terancam.
+
+Ibadah mereka adalah aksi dan keberanian.
+Tanpa keberanian, ibadah hanyalah ritual kosong.
+Menutup mata terhadap kemungkaran, diam ketika syariat diserang, dan pura-pura sibuk ibadah adalah penghinaan terhadap agama Allah.
+
+Hari ini umat bangga: "Aku rajin shalat, puasa, sedekah, kajian."
+Tetapi ketika kemungkaran nyata di depan mata, hanya ada diam.
+Ini bukan ibadah, ini kepengecutan yang memalukan.
+
+Puasa bukan sekadar menahan lapar.
+Shalat bukan sekadar menunduk di sajadah.
+Ibadah hanya menjadi berarti jika melahirkan keberanian untuk menegakkan hukum Allah, menentang kemungkaran, dan membela kebenaran.
+
+Bangunlah, wahai umat!
+Ibadah tanpa keberanian bukan kebanggaan,
+melainkan penghinaan terhadap syariat yang Allah turunkan.`,
+      en: `Many Muslims are proud of their worship: the five daily prayers, fasting, regular charity, Hajj, and even I'tikaf.
+But what does all that mean if there is no courage to uphold Sharia?
+
+Prophet Muhammad ﷺ taught that worship is a tool to uphold the truth, not just a spiritual symbol.
+He stood amidst a society that oppressed, tortured, and boycotted, yet he never retreated.
+His worship burned not for himself, but for the Ummah, for civilization, and for Allah.
+
+Today, many Muslims are afraid.
+Afraid to rebuke evil, afraid to face unjust rulers, afraid to remind friends who are wrong.
+They are busy counting rewards, but do not dare to face sin and evil.
+
+Prayers are still performed, but the injustice around them is met with silence.
+Fasting is observed, yet Allah's Sharia is allowed to be trampled.
+Is this not an insult to Sharia itself?
+Did Allah not reveal laws to be upheld, not just read or whispered in the heart?
+
+Look at the Companions.
+* Umar bin Khattab radhiyallahu ‘anhu rebuked negligent officials.
+* Abu Bakr radhiyallahu ‘anhu opposed anyone who separated prayer from zakat.
+* Ali bin Abi Talib radhiyallahu ‘anhu defended the truth even though his life was always threatened.
+
+Their worship was action and courage.
+Without courage, worship is just an empty ritual.
+Closing one's eyes to evil, remaining silent when Sharia is attacked, and pretending to be busy with worship is an insult to Allah's religion.
+
+Today the Ummah is proud: "I am diligent in prayer, fasting, charity, study."
+But when evil is real before their eyes, there is only silence.
+This is not worship, this is shameful cowardice.
+
+Fasting is not just restraining hunger.
+Prayer is not just bowing on a prayer mat.
+Worship only becomes meaningful if it gives birth to the courage to uphold Allah's laws, oppose evil, and defend the truth.
+
+Wake up, O Ummah!
+Worship without courage is not a pride,
+but an insult to the Sharia that Allah revealed.`,
+      ar: `يفتخر الكثير من المسلمين بعباداتهم: الصلوات الخمس، والصيام، والصدقة، والحج، وحتى الاعتكاف.
+ولكن ما معنى كل هذا إذا انعدمت الشجاعة لإقامة الشريعة؟
+
+لقد علمنا النبي محمد ﷺ أن العبادة وسيلة لإقامة الحق، وليست مجرد رمز روحي.
+لقد وقف وسط مجتمع يظلم ويعذب ويقاطع، لكنه لم يتراجع أبداً.
+كانت عبادته شعلة لا لنفسه فحسب، بل للأمة، وللحضارة، ولله.
+
+اليوم، يخاف الكثير من المسلمين.
+يخافون من إنكار المنكر، ويخافون من مواجهة الحكام الظالمين، ويخافون من تذكير الأصدقاء المخطئين.
+إنهم مشغولون باحتساب الثواب، لكنهم لا يجرؤون على مواجهة الذنوب والمنكرات.
+
+تُقام الصلاة، لكن الظلم من حولهم يُقابل بالصمت.
+يُصام رمضان، لكن شريعة الله تُترك لتُداس.
+أليس هذا إهانة للشريعة نفسها؟
+ألم ينزل الله الأحكام لتُقام، لا لمجرد أن تُقرأ أو يُهمس بها في القلوب؟
+
+انظروا إلى الصحابة.
+* عمر بن الخطاب رضي الله عنه وبخ الولاة المقصرين.
+* أبو بكر رضي الله عنه حارب كل من فرق بين الصلاة والزكاة.
+* علي بن أبي طالب رضي الله عنه دافع عن الحق رغم أن حياته كانت مهددة دائماً.
+
+كانت عبادتهم عملاً وشجاعة.
+وبدون الشجاعة، تكون العبادة مجرد طقوس فارغة.
+إن غض الطرف عن المنكر، والصمت عند الهجوم على الشريعة، والتظاهر بالانشغال بالعبادة هو إهانة لدين الله.
+
+اليوم تفتخر الأمة: "أنا محافظ على الصلاة والصيام والصدقة ودروس العلم".
+لكن عندما يظهر المنكر بوضوح أمام الأعين، لا نجد إلا الصمت.
+هذه ليست عبادة، هذا جبن مخزٍ.
+
+الصيام ليس مجرد الامتناع عن الجوع.
+والصلاة ليست مجرد الركوع على السجادة.
+العبادة لا تصبح ذات مغزى إلا إذا ولدت الشجاعة لإقامة حدود الله، ومحاربة المنكر، والدفاع عن الحق.
+
+استيقظي أيتها الأمة!
+العبادة بلا شجاعة ليست مفخرة،
+بل هي إهانة للشريعة التي أنزلها الله.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ أَنْفُسَهُمْ ۚ أُولَٰئِكَ هُمُ الْفَاسِقُونَ</div>
+<p style="text-align: center;"><strong>"Dan janganlah kamu menjadi seperti orang-orang yang melupakan Allah, lalu Allah membiarkan mereka lupa akan diri mereka sendiri."</strong><br>
+(QS. Al-Hashr: 19)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ ۚ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ</div>
+<p style="text-align: center;"><strong>"Dan hendaklah ada di antara kamu segolongan umat yang menyeru kepada kebaikan, menyuruh kepada yang ma'ruf, dan mencegah dari yang munkar."</strong><br>
+(QS. Ali 'Imran: 104)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ، وَذَلِكَ أَضْعَفُ الْإِيمَانِ</div>
+<p style="text-align: center;"><strong>"Barang siapa di antara kalian melihat kemungkaran, hendaklah ia mengubahnya dengan tangannya; jika tidak mampu, maka dengan lisannya; dan jika tidak mampu, maka dengan hatinya—dan itu adalah selemah-lemahnya iman."</strong><br>
+(HR. Muslim)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<p style="text-align: center;"><strong>"Orang yang tidak menolong agamanya dengan keberanian dan tindakannya, maka ibadahnya hanyalah untuk dirinya sendiri dan tidak membawa manfaat."</strong><br>
+(HR. Ahmad — makna tersirat)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ أَنْفُسَهُمْ ۚ أُولَٰئِكَ هُمُ الْفَاسِقُونَ</div>
+<p style="text-align: center;"><strong>"And be not like those who forgot Allah, so He made them forget themselves."</strong><br>
+(QS. Al-Hashr: 19)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ ۚ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ</div>
+<p style="text-align: center;"><strong>"And let there be [arising] from you a nation inviting to [all that is] good, enjoining what is right and forbidding what is wrong."</strong><br>
+(QS. Ali 'Imran: 104)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ، وَذَلِكَ أَضْعَفُ الْإِيمَانِ</div>
+<p style="text-align: center;"><strong>"Whoever among you sees an evil, let him change it with his hand; if he cannot, then with his tongue; and if he cannot, then with his heart—and that is the weakest of faith."</strong><br>
+(HR. Muslim)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<p style="text-align: center;"><strong>"One who does not aid his religion with courage and action, his worship is only for himself and brings no benefit."</strong><br>
+(HR. Ahmad — implied meaning)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ أَنْفُسَهُمْ ۚ أُولَٰئِكَ هُمُ الْفَاسِقُونَ</div>
+<p style="text-align: center;"><strong>"ولا تكونوا كالذين نسوا الله فأنساهم أنفسهم أولئك هم الفاسقون."</strong><br>
+(سورة الحشر: 19)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ ۚ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ</div>
+<p style="text-align: center;"><strong>"ولتكن منكم أمة يدعون إلى الخير ويأمرون بالمعروف وينهون عن المنكر."</strong><br>
+(سورة آل عمران: 104)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ، وَذَلِكَ أَضْعَفُ الْإِيمَانِ</div>
+<p style="text-align: center;"><strong>"من رأى منكم منكرا فليغيره بيده، فإن لم يستطع فبلسانه، فإن لم يستطع فبقلبه، وذلك أضعف الإيمان."</strong><br>
+(رواه مسلم)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<p style="text-align: center;"><strong>"من لا ينصر دينه بشجاعة وعمل، فعبادته لنفسه فقط ولا فائدة منها."</strong><br>
+(رواه أحمد — المعنى الضمني)</p>`
+    }
+  },
 ];
 
 export function getCerpen(): Cerpen[] {
