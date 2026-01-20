@@ -9,7 +9,6 @@ export default function Home() {
   const cerpenList = getCerpen();
   const days = Array.from({ length: 30 }, (_, i) => i + 1);
   const [notifEnabled, setNotifEnabled] = useState(false);
-  const [subscriptionId, setSubscriptionId] = useState<string | null>(null);
 
   useEffect(() => {
     // Cek status notifikasi
@@ -17,13 +16,6 @@ export default function Home() {
       try {
         if (OneSignal.Notifications) {
           setNotifEnabled(OneSignal.Notifications.permission);
-        }
-        if (OneSignal.User && OneSignal.User.PushSubscription) {
-            setSubscriptionId(OneSignal.User.PushSubscription.id);
-            // Listen for changes
-            OneSignal.User.PushSubscription.addEventListener("change", (event) => {
-                setSubscriptionId(event.current.id);
-            });
         }
       } catch (e) {
         console.log("OneSignal status check failed", e);
@@ -38,9 +30,6 @@ export default function Home() {
     try {
       await OneSignal.Notifications.requestPermission();
       setNotifEnabled(OneSignal.Notifications.permission);
-      if (OneSignal.User && OneSignal.User.PushSubscription) {
-         setSubscriptionId(OneSignal.User.PushSubscription.id);
-      }
       alert("Terima kasih! Anda akan mendapatkan notifikasi update materi baru.");
     } catch (error) {
       console.error("Gagal mengaktifkan notifikasi", error);
@@ -69,18 +58,11 @@ export default function Home() {
       <p style={styles.author}>{t('author_label')} : Lucky Zamaludin Malik</p>
 
       {/* Tombol Notifikasi */}
-      <div style={{ marginBottom: 20 }}>
-        {!notifEnabled || !subscriptionId ? (
-          <button onClick={enableNotifications} style={styles.notifBtn}>
-            🔔 Aktifkan Notifikasi Update
-          </button>
-        ) : (
-          <div style={{ color: '#4ade80', fontSize: 14, padding: 8, border: '1px solid #4ade80', borderRadius: 8, display: 'inline-block' }}>
-            ✅ Notifikasi Aktif <br/>
-            <span style={{ fontSize: 10, opacity: 0.7 }}>ID: {subscriptionId.substring(0, 8)}...</span>
-          </div>
-        )}
-      </div>
+      {!notifEnabled && (
+        <button onClick={enableNotifications} style={styles.notifBtn}>
+          🔔 Aktifkan Notifikasi Update
+        </button>
+      )}
 
       <div style={styles.grid}>
         {days.map((day) => {
