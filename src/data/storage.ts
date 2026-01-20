@@ -634,8 +634,206 @@ While we—if not careful—could be trading religion for the world.`,
 <p style="text-align: center;"><strong>"لا تزول قدما عبد يوم القيامة حتى يسأل عن ... وعن ماله من أين اكتسبه وفيم أنفقه"</strong><br>
 (رواه الترمذي)</p>`
     }
-  }
-];
+  },
+  {
+    id: "4",
+            title: {
+              id: "Ketika Harta dan Kekuasaan Berubah Menjadi Amanah",
+              en: "When Wealth and Power Turn into Trust",
+              ar: "عندما تتحول الثروة والسلطة إلى أمانة"
+            },
+            content: {
+              id: `Islam tidak pernah memusuhi harta.
+Islam tidak alergi terhadap kekuasaan.
+
+Yang Islam perangi sejak awal adalah keserakahan dan pengkhianatan terhadap amanah.
+
+Sejarah mencatat dengan jujur: Islam pernah memimpin peradaban dunia. Dan ketika Islam memimpin, keadilan bukan jargon, tetapi sistem yang hidup. Masalah umat hari ini bukan karena Islam tidak mampu memimpin, melainkan karena umat Islam sendiri takut memikul amanah kepemimpinan.
+
+Hari ini, harta dicurigai. Kekuasaan dianggap kotor. Politik dipandang najis. Akibatnya, umat Islam menjauh dari urusan kepemimpinan, lalu kekuasaan jatuh ke tangan mereka yang tidak takut kepada Allah. Setelah itu umat mengeluh, marah, dan kecewa—namun tetap enggan mengambil tanggung jawab.
+
+Padahal Rasulullah ﷺ tidak lari dari kekuasaan. Beliau membangunnya. Negara Madinah bukan kecelakaan sejarah, melainkan hasil dakwah yang sadar arah dan tujuan. Dalam Islam, kekuasaan bukan untuk dinikmati, tetapi untuk dihisab.
+
+Para sahabat memahami ini dengan sangat dalam.
+
+Abu Bakar Ash-Shiddiq radhiyallahu ‘anhu tidak melihat jabatan sebagai kehormatan, tetapi sebagai beban. Ia tidak menjanjikan kemakmuran, melainkan kejujuran. Ia membuka pintu kritik terhadap dirinya sendiri. Inilah kepemimpinan yang lahir dari iman, bukan dari ambisi.
+
+Umar bin Khattab radhiyallahu ‘anhu bahkan hidup dalam kegelisahan. Ia takut kepada Allah bukan karena kurang ibadah, tetapi karena sadar bahwa setiap penderitaan rakyat adalah tanggung jawab kekuasaan. Dalam Islam, penguasa tidak bersembunyi di balik prosedur, tetapi berdiri paling depan saat hisab.
+
+Bandingkan dengan kondisi hari ini.
+
+Jalan rusak dianggap biasa.
+Kemiskinan dianggap takdir.
+Kezaliman dianggap risiko jabatan.
+
+Lalu kita berkata dengan enteng: "Yang penting shalat."
+
+Padahal shalat yang benar seharusnya melahirkan keberanian moral, kepekaan sosial, dan tanggung jawab peradaban. Iman yang hidup tidak mungkin tenang melihat kezaliman dilegalkan dan ketidakadilan dinormalisasi.
+
+Peradaban Islam tidak runtuh karena kekurangan harta atau kekuasaan. Ia runtuh ketika amanah dikhianati. Ketika jabatan diwariskan, hukum diperdagangkan, dan harta ditumpuk untuk kepentingan pribadi, saat itulah ruh Islam mulai ditinggalkan—meskipun simbol-simbol agama masih berdiri megah.
+
+Umat Islam hari ini sering terjebak dalam kontradiksi yang memalukan: ingin Islam berjaya, tetapi menolak sistem yang membuat Islam berjaya. Ingin keadilan, tetapi alergi pada pembahasan kekuasaan. Ingin kemuliaan, tetapi hanya sibuk pada ibadah personal.
+
+Puasa Ramadhan hari keempat ini seharusnya meluruskan arah iman kita. Iman bukan hanya urusan sajadah, tetapi juga urusan kepemimpinan, keadilan, dan amanah peradaban. Jika umat Islam terus menjauh dari tanggung jawab ini, maka dunia akan terus dipimpin tanpa nilai Ilahi—dan itu bukan konspirasi, melainkan akibat langsung dari kelalaian umat sendiri.
+
+Islam tidak diturunkan untuk kalah.
+Islam diturunkan untuk mengatur kehidupan manusia dengan keadilan Allah.
+
+Pertanyaan yang seharusnya kita ajukan hari ini bukan lagi:
+"Apakah kekuasaan itu kotor?"
+
+Tetapi pertanyaan yang jauh lebih jujur dan menakutkan:
+"Apakah kita masih layak dipercaya memegang amanah Allah?"`,
+              en: `Islam has never been hostile to wealth.
+Islam is not allergic to power.
+
+What Islam has fought from the beginning is greed and betrayal of trust (amanah).
+
+History records honestly: Islam once led world civilization. And when Islam led, justice was not jargon, but a living system. The problem of the Ummah today is not because Islam is incapable of leading, but because the Muslims themselves are afraid to bear the trust of leadership.
+
+Today, wealth is suspected. Power is considered dirty. Politics is viewed as impure. As a result, Muslims stay away from leadership affairs, then power falls into the hands of those who do not fear Allah. After that, the people complain, get angry, and are disappointed—but still reluctant to take responsibility.
+
+Whereas the Messenger of Allah ﷺ did not run from power. He built it. The State of Medina was not a historical accident, but the result of da'wah that was conscious of direction and purpose. In Islam, power is not to be enjoyed, but to be held accountable for.
+
+The companions understood this very deeply.
+
+Abu Bakr Ash-Siddiq radhiyallahu ‘anhu did not see office as an honor, but as a burden. He did not promise prosperity, but honesty. He opened the door to criticism against himself. This is leadership born of faith, not ambition.
+
+Umar bin Khattab radhiyallahu ‘anhu even lived in anxiety. He feared Allah not because of lack of worship, but because he realized that every suffering of the people is the responsibility of power. In Islam, the ruler does not hide behind procedures, but stands at the forefront during reckoning (hisab).
+
+Compare with the condition today.
+
+Damaged roads are considered normal.
+Poverty is considered destiny.
+Tyranny is considered an occupational hazard.
+
+Then we say lightly: "The important thing is prayer."
+
+Whereas true prayer should give birth to moral courage, social sensitivity, and civilizational responsibility. Living faith cannot be calm seeing tyranny legalized and injustice normalized.
+
+Islamic civilization did not collapse because of a lack of wealth or power. It collapsed when trust was betrayed. When office was inherited, law was traded, and wealth was piled up for personal interest, that was when the spirit of Islam began to be abandoned—even though religious symbols still stood tall.
+
+Muslims today are often trapped in a shameful contradiction: wanting Islam to triumph, but rejecting the system that makes Islam triumph. Wanting justice, but allergic to discussing power. Wanting glory, but only busy with personal worship.
+
+Fasting on this fourth day of Ramadan should straighten the direction of our faith. Faith is not just a matter of the prayer rug, but also a matter of leadership, justice, and civilizational trust. If Muslims continue to stay away from this responsibility, then the world will continue to be led without Divine values—and that is not a conspiracy, but a direct result of the negligence of the Ummah itself.
+
+Islam was not sent down to lose.
+Islam was sent down to regulate human life with Allah's justice.
+
+The question we should ask today is no longer:
+"Is power dirty?"
+
+But a far more honest and frightening question:
+"Are we still worthy of being trusted to hold Allah's trust?"`,
+              ar: `لم يعادِ الإسلام الثروة أبدًا.
+الإسلام ليس لديه حساسية تجاه السلطة.
+
+ما حاربه الإسلام منذ البداية هو الجشع وخيانة الأمانة.
+
+يسجل التاريخ بصدق: قاد الإسلام حضارة العالم ذات يوم. وعندما قاد الإسلام، لم تكن العدالة شعارًا، بل نظامًا حيًا. مشكلة الأمة اليوم ليست لأن الإسلام غير قادر على القيادة، بل لأن المسلمين أنفسهم يخافون من حمل أمانة القيادة.
+
+اليوم، الثروة مشبوهة. السلطة تعتبر قذرة. السياسة ينظر إليها على أنها نجسة. ونتيجة لذلك، يبتعد المسلمون عن شؤون القيادة، فتسقط السلطة في أيدي من لا يخافون الله. بعد ذلك، يشتكي الناس، ويغضبون، ويصابون بخيبة أمل - لكنهم ما زالوا مترددين في تحمل المسؤولية.
+
+بينما لم يهرب رسول الله ﷺ من السلطة. بل بناها. لم تكن دولة المدينة حادثة تاريخية، بل نتيجة دعوة واعية بالاتجاه والهدف. في الإسلام، السلطة ليست للمتعة، بل للحساب.
+
+فهم الصحابة هذا بعمق شديد.
+
+لم ير أبو بكر الصديق رضي الله عنه المنصب تشريفًا، بل تكليفًا. لم يعد بالرخاء، بل بالصدق. فتح باب النقد لنفسه. هذه هي القيادة النابعة من الإيمان، لا من الطموح.
+
+حتى أن عمر بن الخطاب رضي الله عنه عاش في قلق. كان يخاف الله ليس بسبب قلة العبادة، بل لأنه أدرك أن كل معاناة للشعب هي مسؤولية السلطة. في الإسلام، لا يختبئ الحاكم خلف الإجراءات، بل يقف في المقدمة عند الحساب.
+
+قارن ذلك بالوضع اليوم.
+
+الطرق المدمرة تعتبر أمرًا عاديًا.
+الفقر يعتبر قدرًا.
+الظلم يعتبر من مخاطر الوظيفة.
+
+ثم نقول باستخفاف: "المهم هو الصلاة".
+
+بينما الصلاة الحقيقية يجب أن تلد الشجاعة الأخلاقية، والحساسية الاجتماعية، والمسؤولية الحضارية. الإيمان الحي لا يمكن أن يهدأ وهو يرى الظلم مقننًا والجور مطبعًا.
+
+لم تنهار الحضارة الإسلامية بسبب نقص الثروة أو السلطة. انهارت عندما خيانت الأمانة. عندما تم توريث المناصب، والمتاجرة بالقانون، وتكديس الثروة للمصلحة الشخصية، عندها بدأت روح الإسلام تُهجر - رغم أن الرموز الدينية ما زالت شامخة.
+
+المسلمون اليوم غالبًا ما يقعون في تناقض مخز: يريدون للإسلام أن ينتصر، لكنهم يرفضون النظام الذي يجعل الإسلام ينتصر. يريدون العدالة، لكنهم لديهم حساسية من مناقشة السلطة. يريدون العزة، لكنهم مشغولون فقط بالعبادة الشخصية.
+
+صيام هذا اليوم الرابع من رمضان يجب أن يصحح اتجاه إيماننا. الإيمان ليس مجرد مسألة سجادة صلاة، بل هو أيضًا مسألة قيادة، وعدالة، وأمانة حضارية. إذا استمر المسلمون في الابتعاد عن هذه المسؤولية، فسيستمر العالم في القيادة بدون قيم إلهية - وهذه ليست مؤامرة، بل نتيجة مباشرة لإهمال الأمة نفسها.
+
+لم يُنزل الإسلام ليُهزم.
+أنزل الإسلام لينظم حياة البشر بعدل الله.
+
+السؤال الذي يجب أن نطرحه اليوم لم يعد:
+"هل السلطة قذرة؟"
+
+بل سؤال أكثر صدقًا وإخافة بكثير:
+"هل ما زلنا نستحق أن نؤتمن على أمانة الله؟"`
+            },
+            dalil: {
+              id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُوا بِالْعَدْلِ</div>
+            <p style="text-align: center;"><strong>"Sesungguhnya Allah menyuruh kamu menyampaikan amanah kepada yang berhak menerimanya, dan apabila kamu menetapkan hukum di antara manusia, hendaklah kamu menetapkannya dengan adil."</strong><br>
+            (QS. An-Nisa: 58)</p>
+            <br>
+            <div class="arab" style="text-align: center; margin-bottom: 10px;">وَلَا تَرْكَنُوا إِلَى الَّذِينَ ظَلَمُوا فَتَمَسَّكُمُ النَّارُ</div>
+            <p style="text-align: center;"><strong>"Dan janganlah kamu cenderung kepada orang-orang yang zalim, yang menyebabkan kamu disentuh api neraka."</strong><br>
+            (QS. Hud: 113)</p>
+            <br>
+            <div class="arab" style="text-align: center; margin-bottom: 10px;">وَكَذَٰلِكَ نُوَلِّي بَعْضَ الظَّالِمِينَ بَعْضًا بِمَا كَانُوا يَكْسِبُونَ</div>
+            <p style="text-align: center;"><strong>"Dan demikianlah Kami jadikan sebagian orang-orang zalim itu menjadi pemimpin bagi sebagian yang lain, disebabkan apa yang mereka kerjakan."</strong><br>
+            (QS. Al-An’am: 129)</p>
+            <br>
+            <div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ</div>
+            <p style="text-align: center;"><strong>"Wahai orang-orang yang beriman, jika kamu menolong agama Allah, niscaya Dia akan menolongmu dan meneguhkan kedudukanmu."</strong><br>
+            (QS. Muhammad: 7)</p>
+            <br>
+            <p style="text-align: center;"><strong>"Setiap kalian adalah pemimpin, dan setiap kalian akan dimintai pertanggungjawaban atas kepemimpinannya."</strong><br>
+            (HR. Bukhari dan Muslim)</p>
+            <br>
+            <p style="text-align: center;"><strong>"Sesungguhnya dunia ini manis dan hijau, dan Allah menjadikan kalian sebagai khalifah di dalamnya, lalu Dia akan melihat bagaimana kalian berbuat."</strong><br>
+            (HR. Muslim)</p>`,
+              en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُوا بِالْعَدْلِ</div>
+            <p style="text-align: center;"><strong>"Indeed, Allah commands you to render trusts to whom they are due and when you judge between people to judge with justice."</strong><br>
+            (QS. An-Nisa: 58)</p>
+            <br>
+            <div class="arab" style="text-align: center; margin-bottom: 10px;">وَلَا تَرْكَنُوا إِلَى الَّذِينَ ظَلَمُوا فَتَمَسَّكُمُ النَّارُ</div>
+            <p style="text-align: center;"><strong>"And do not incline toward those who do wrong, lest you be touched by the Fire."</strong><br>
+            (QS. Hud: 113)</p>
+            <br>
+            <div class="arab" style="text-align: center; margin-bottom: 10px;">وَكَذَٰلِكَ نُوَلِّي بَعْضَ الظَّالِمِينَ بَعْضًا بِمَا كَانُوا يَكْسِبُونَ</div>
+            <p style="text-align: center;"><strong>"And thus will We make some of the wrongdoers allies of others for what they used to earn."</strong><br>
+            (QS. Al-An’am: 129)</p>
+            <br>
+            <div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ</div>
+            <p style="text-align: center;"><strong>"O you who have believed, if you support Allah, He will support you and plant firmly your feet."</strong><br>
+            (QS. Muhammad: 7)</p>
+            <br>
+            <p style="text-align: center;"><strong>"Every one of you is a shepherd and is responsible for his flock."</strong><br>
+            (HR. Bukhari and Muslim)</p>
+            <br>
+            <p style="text-align: center;"><strong>"The world is sweet and green, and verily Allah is going to install you as vicegerent in it in order to see how you act."</strong><br>
+            (HR. Muslim)</p>`,
+              ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُوا بِالْعَدْلِ</div>
+            <p style="text-align: center;"><strong>"إن الله يأمركم أن تؤدوا الأمانات إلى أهلها وإذا حكمتم بين الناس أن تحكموا بالعدل"</strong><br>
+            (سورة النساء: 58)</p>
+            <br>
+            <div class="arab" style="text-align: center; margin-bottom: 10px;">وَلَا تَرْكَنُوا إِلَى الَّذِينَ ظَلَمُوا فَتَمَسَّكُمُ النَّارُ</div>
+            <p style="text-align: center;"><strong>"ولا تركنوا إلى الذين ظلموا فتمسكم النار"</strong><br>
+            (سورة هود: 113)</p>
+            <br>
+            <div class="arab" style="text-align: center; margin-bottom: 10px;">وَكَذَٰلِكَ نُوَلِّي بَعْضَ الظَّالِمِينَ بَعْضًا بِمَا كَانُوا يَكْسِبُونَ</div>
+            <p style="text-align: center;"><strong>"وكذلك نولي بعض الظالمين بعضا بما كانوا يكسبون"</strong><br>
+            (سورة الأنعام: 129)</p>
+            <br>
+            <div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ</div>
+            <p style="text-align: center;"><strong>"يا أيها الذين آمنوا إن تنصروا الله ينصركم ويثبت أقدامكم"</strong><br>
+            (سورة محمد: 7)</p>
+            <br>
+            <p style="text-align: center;"><strong>"كلكم راع وكلكم مسئول عن رعيته"</strong><br>
+            (رواه البخاري ومسلم)</p>
+            <br>
+            <p style="text-align: center;"><strong>"إن الدنيا حلوة خضرة وإن الله مستخلفكم فيها فينظر كيف تعملون"</strong><br>
+            (رواه مسلم)</p>`
+            }
+          }
+        ];
 
 export function getCerpen(): Cerpen[] {
   // Kita prioritaskan data dari kode (INITIAL_DATA) agar update dari GitHub selalu muncul
