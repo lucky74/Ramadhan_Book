@@ -392,6 +392,249 @@ It asks, "What is my duty before Allah?"`,
 (رواه الحاكم، حسن)</p>`
     }
   },
+  {
+    id: "3",
+    title: {
+      id: "Untuk Apa Kita Berdagang?",
+      en: "What Do We Trade For?",
+      ar: "لماذا نتاجر؟"
+    },
+    content: {
+      id: `Sejak awal, Islam tidak pernah memusuhi perdagangan. Justru Islam lahir dan tumbuh di tangan para pedagang. Nabi Muhammad ﷺ adalah pedagang. Abu Bakar pedagang. Umar pedagang. Utsman pedagang. Abdurrahman bin Auf pedagang. Hampir seluruh tulang punggung umat Islam generasi awal adalah ahli bisnis dan niaga.
+
+Namun pertanyaannya bukan: apakah Islam membolehkan berdagang?
+Pertanyaan yang jauh lebih penting adalah: untuk apa kita berdagang?
+
+Jika berdagang hanya untuk memenuhi nafkah hidup, maka sesungguhnya kita telah salah niat sejak awal. Karena urusan rezeki, Allah telah menegaskannya tanpa syarat.
+
+Ayat ini tidak mengatakan jika ia berdagang, jika ia pintar, atau jika ia punya modal. Rezeki dijamin karena Allah menciptakan makhluk tersebut, bukan karena kecerdikan manusia.
+
+Maka jika tujuan berdagang hanya untuk hidup, sesungguhnya itu urusan yang sudah Allah selesaikan.
+
+Lalu mengapa Nabi dan para sahabat berdagang?
+Jawabannya satu: untuk menopang dakwah Islam.
+
+Lihat Abu Bakar Ash-Shiddiq radhiyallahu ‘anhu. Ketika Rasulullah ﷺ membutuhkan harta untuk perjuangan, Abu Bakar datang membawa seluruh hartanya.
+
+Umar bin Khattab radhiyallahu ‘anhu—yang dikenal tegas dan kuat—pun mengakui keunggulan Abu Bakar.
+
+Umar bersedekah setengah hartanya. Abu Bakar memberikan semuanya.
+Bukan karena Abu Bakar tidak cinta keluarga, tetapi karena ia yakin Allah tidak akan menyia-nyiakan orang yang menolong agama-Nya.
+
+Abdurrahman bin Auf radhiyallahu ‘anhu adalah pedagang ulung. Ia kaya raya, namun kekayaannya tidak pernah menetap di tangannya. Ketika Madinah membutuhkan, hartanya mengalir. Ketika umat kesulitan, ia hadir.
+
+Utsman bin Affan radhiyallahu ‘anhu membeli sumur Raumah untuk umat. Ia membiayai pasukan dalam Perang Tabuk.
+
+Mereka semua berdagang. Mereka semua kaya.
+Namun tidak satu pun dari mereka menjadikan harta sebagai tujuan hidup.
+
+Bandingkan dengan kita hari ini.
+Kita berdagang demi ego.
+Menumpuk harta demi status.
+Bekerja siang malam demi warisan.
+Islam cukup di lisan, tetapi tidak di laporan keuangan.
+Agama cukup di masjid, tetapi tidak di neraca bisnis.
+
+Kita takut miskin jika berinfaq, seolah-olah rezeki berada di tangan kita—bukan di tangan Allah.
+
+Puasa hari ketiga ini seharusnya meluruskan orientasi kita:
+hidup bukan untuk harta, harta diciptakan untuk agama.
+
+Jika bisnis tidak menopang dakwah, maka ia hanya akan memperpanjang cinta dunia.
+Jika kekayaan tidak memperkuat umat, maka ia akan menjadi beban di akhirat.
+
+Ramadhan mengajarkan kita menahan lapar agar kita mengerti:
+yang kita kejar selama ini bukan kebutuhan, tetapi keserakahan.
+
+Maka hari ini, mari bertanya dengan jujur kepada diri sendiri:
+Apakah bisnis kita sedang membela Islam—atau justru menjauhkan kita darinya?
+
+Karena para sahabat berdagang untuk agama Allah.
+Sementara kita—jika tidak hati-hati—bisa saja memperdagangkan agama demi dunia.`,
+      en: `From the beginning, Islam has never been hostile to trade. In fact, Islam was born and grew in the hands of merchants. Prophet Muhammad ﷺ was a merchant. Abu Bakr was a merchant. Umar was a merchant. Uthman was a merchant. Abdurrahman bin Auf was a merchant. Almost the entire backbone of the early Muslim generation were experts in business and commerce.
+
+But the question is not: does Islam allow trading?
+The far more important question is: what do we trade for?
+
+If trading is only to meet living expenses, then we have truly had the wrong intention from the start. Because regarding sustenance (rizq), Allah has affirmed it unconditionally.
+
+The verse does not say if he trades, if he is smart, or if he has capital. Sustenance is guaranteed because Allah created the creature, not because of human ingenuity.
+
+So if the goal of trading is only to survive, truly that is a matter that Allah has already settled.
+
+Then why did the Prophet and the companions trade?
+The answer is one: to support the da'wah of Islam.
+
+Look at Abu Bakr Ash-Siddiq radhiyallahu ‘anhu. When the Messenger of Allah ﷺ needed wealth for the struggle, Abu Bakr came bringing all his wealth.
+
+Umar bin Khattab radhiyallahu ‘anhu—known to be firm and strong—also admitted Abu Bakr's superiority.
+
+Umar gave half his wealth in charity. Abu Bakr gave it all.
+Not because Abu Bakr did not love his family, but because he was certain Allah would not waste those who help His religion.
+
+Abdurrahman bin Auf radhiyallahu ‘anhu was a master merchant. He was wealthy, yet his wealth never stayed in his hands. When Medina needed it, his wealth flowed. When the Ummah was in difficulty, he was present.
+
+Uthman bin Affan radhiyallahu ‘anhu bought the Raumah well for the Ummah. He financed the army in the Battle of Tabuk.
+
+They all traded. They were all rich.
+But not one of them made wealth the goal of life.
+
+Compare with us today.
+We trade for ego.
+Piling up wealth for status.
+Working day and night for inheritance.
+Islam is enough on the tongue, but not in the financial report.
+Religion is enough in the mosque, but not in the business balance sheet.
+
+We are afraid of poverty if we give infaq, as if sustenance is in our hands—not in Allah's hands.
+
+This third day of fasting should straighten our orientation:
+life is not for wealth, wealth is created for religion.
+
+If business does not support da'wah, then it will only prolong the love of the world.
+If wealth does not strengthen the Ummah, then it will become a burden in the Hereafter.
+
+Ramadan teaches us to hold back hunger so we understand:
+what we have been chasing all this time is not need, but greed.
+
+So today, let us ask honestly to ourselves:
+Is our business defending Islam—or actually distancing us from it?
+
+Because the companions traded for the religion of Allah.
+While we—if not careful—could be trading religion for the world.`,
+      ar: `منذ البداية، لم يعادِ الإسلام التجارة أبدًا. بل ولد الإسلام ونما على أيدي التجار. كان النبي محمد ﷺ تاجرًا. وكان أبو بكر تاجرًا. وعمر تاجرًا. وعثمان تاجرًا. وعبد الرحمن بن عوف تاجرًا. كان العمود الفقري للجيل الأول من المسلمين تقريبًا من خبراء التجارة والأعمال.
+
+لكن السؤال ليس: هل يسمح الإسلام بالتجارة؟
+السؤال الأهم بكثير هو: لماذا نتاجر؟
+
+إذا كانت التجارة فقط لتلبية نفقات المعيشة، فقد أخطأنا النية منذ البداية. لأن مسألة الرزق، قد تكفل الله بها دون شروط.
+
+لا تقول الآية إذا تاجر، أو إذا كان ذكيًا، أو إذا كان لديه رأس مال. الرزق مضمون لأن الله خلق المخلوق، وليس بسبب براعة الإنسان.
+
+لذا إذا كان الهدف من التجارة هو العيش فقط، فهذا أمر قد فرغ الله منه.
+
+إذن لماذا تاجر النبي والصحابة؟
+الجواب واحد: لدعم دعوة الإسلام.
+
+انظر إلى أبي بكر الصديق رضي الله عنه. عندما احتاج رسول الله ﷺ إلى المال للكفاح، جاء أبو بكر بكل ماله.
+
+عمر بن الخطاب رضي الله عنه - المعروف بالحزم والقوة - اعترف أيضًا بتفوق أبي بكر.
+
+تصدق عمر بنصف ماله. وقدم أبو بكر ماله كله.
+ليس لأن أبا بكر لم يحب عائلته، بل لأنه كان على يقين أن الله لن يضيع من ينصر دينه.
+
+كان عبد الرحمن بن عوف رضي الله عنه تاجرًا ماهرًا. كان ثريًا، لكن ثروته لم تستقر أبدًا في يديه. عندما احتاجت المدينة، تدفقت أمواله. عندما كانت الأمة في ضائقة، كان حاضرًا.
+
+اشترى عثمان بن عفان رضي الله عنه بئر رومة للأمة. ومول الجيش في غزوة تبوك.
+
+كلهم تاجروا. كلهم كانوا أغنياء.
+لكن لم يجعل أي منهم المال هدفًا للحياة.
+
+قارن ذلك بنا اليوم.
+نحن نتاجر من أجل الأنا.
+نكدس المال من أجل المكانة.
+نعمل ليل نهار من أجل الميراث.
+الإسلام يكفي في اللسان، ولكن ليس في التقرير المالي.
+الدين يكفي في المسجد، ولكن ليس في الميزانية التجارية.
+
+نخاف الفقر إذا أنفقنا، وكأن الرزق بأيدينا - وليس بيد الله.
+
+صيام هذا اليوم الثالث يجب أن يصحح اتجاهنا:
+الحياة ليست للمال، المال خلق للدين.
+
+إذا لم تدعم التجارة الدعوة، فإنها لن تؤدي إلا إلى إطالة حب الدنيا.
+إذا لم تقو الثروة الأمة، فستكون عبئًا في الآخرة.
+
+يعلمنا رمضان الإمساك عن الجوع لنفهم:
+أن ما نطارده طوال هذا الوقت ليس حاجة، بل جشع.
+
+لذا اليوم، لنسأل أنفسنا بصدق:
+هل تدافع تجارتنا عن الإسلام - أم تبعدنا عنه في الواقع؟
+
+لأن الصحابة تاجروا لدين الله.
+بينما نحن - إذا لم نكن حذرين - قد نتاجر بالدين من أجل الدنيا.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَمَا مِن دَابَّةٍ فِي الْأَرْضِ إِلَّا عَلَى اللَّهِ رِزْقُهَا</div>
+<p style="text-align: center;"><strong>"Dan tidak ada satu pun makhluk melata di bumi melainkan Allah-lah yang menjamin rezekinya."</strong><br>
+(QS. Hud: 6)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ</div>
+<p style="text-align: center;"><strong>"Wahai orang-orang yang beriman, jika kamu menolong agama Allah, niscaya Dia akan menolongmu dan meneguhkan kedudukanmu."</strong><br>
+(QS. Muhammad: 7)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">الشَّيْطَانُ يَعِدُكُمُ الْفَقْرَ وَيَأْمُرُكُم بِالْفَحْشَاءِ ۖ وَاللَّهُ يَعِدُكُم مَّغْفِرَةً مِّنْهُ وَفَضْلًا</div>
+<p style="text-align: center;"><strong>"Setan menjanjikan kamu kemiskinan dan menyuruh kamu berbuat keji, sedangkan Allah menjanjikan ampunan dan karunia."</strong><br>
+(QS. Al-Baqarah: 268)</p>
+<br>
+<p style="text-align: center;"><strong>"Apa yang engkau sisakan untuk keluargamu, wahai Abu Bakar? Ia menjawab: 'Aku tinggalkan untuk mereka Allah dan Rasul-Nya.'"</strong><br>
+(HR. Abu Dawud dan At-Tirmidzi, hasan shahih)</p>
+<br>
+<p style="text-align: center;"><strong>"Aku tidak akan pernah bisa mengalahkan Abu Bakar dalam kebaikan."</strong><br>
+(HR. At-Tirmidzi)</p>
+<br>
+<p style="text-align: center;"><strong>"Abdurrahman bin Auf akan masuk surga dengan merangkak."</strong><br>
+(HR. Ahmad)</p>
+<br>
+<p style="text-align: center;"><strong>"Tidak ada sesuatu pun yang membahayakan Utsman setelah hari ini."</strong><br>
+(HR. At-Tirmidzi, shahih)</p>
+<br>
+<p style="text-align: center;"><strong>"Tidak akan bergeser kedua kaki seorang hamba pada hari kiamat sampai ia ditanya tentang hartanya: dari mana ia peroleh dan ke mana ia belanjakan."</strong><br>
+(HR. At-Tirmidzi, hasan shahih)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَمَا مِن دَابَّةٍ فِي الْأَرْضِ إِلَّا عَلَى اللَّهِ رِزْقُهَا</div>
+<p style="text-align: center;"><strong>"And there is no creature on earth but that upon Allah is its provision."</strong><br>
+(QS. Hud: 6)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ</div>
+<p style="text-align: center;"><strong>"O you who have believed, if you support Allah, He will support you and plant firmly your feet."</strong><br>
+(QS. Muhammad: 7)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">الشَّيْطَانُ يَعِدُكُمُ الْفَقْرَ وَيَأْمُرُكُم بِالْفَحْشَاءِ ۖ وَاللَّهُ يَعِدُكُم مَّغْفِرَةً مِّنْهُ وَفَضْلًا</div>
+<p style="text-align: center;"><strong>"Satan promises you poverty and orders you to immorality, while Allah promises you forgiveness from Him and bounty."</strong><br>
+(QS. Al-Baqarah: 268)</p>
+<br>
+<p style="text-align: center;"><strong>"What have you left for your family, O Abu Bakr? He replied: 'I have left for them Allah and His Messenger.'"</strong><br>
+(HR. Abu Dawud and At-Tirmidzi)</p>
+<br>
+<p style="text-align: center;"><strong>"I have never competed with Abu Bakr in any good deed but that he outstripped me to it."</strong><br>
+(HR. At-Tirmidzi)</p>
+<br>
+<p style="text-align: center;"><strong>"Abdurrahman bin Auf will enter Paradise crawling."</strong><br>
+(HR. Ahmad)</p>
+<br>
+<p style="text-align: center;"><strong>"Nothing will harm Uthman after what he has done today."</strong><br>
+(HR. At-Tirmidzi)</p>
+<br>
+<p style="text-align: center;"><strong>"The feet of a servant will not move on the Day of Resurrection until he is asked about his wealth: from where he acquired it and in what he spent it."</strong><br>
+(HR. At-Tirmidzi)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَمَا مِن دَابَّةٍ فِي الْأَرْضِ إِلَّا عَلَى اللَّهِ رِزْقُهَا</div>
+<p style="text-align: center;"><strong>"وما من دابة في الأرض إلا على الله رزقها"</strong><br>
+(سورة هود: 6)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ</div>
+<p style="text-align: center;"><strong>"يا أيها الذين آمنوا إن تنصروا الله ينصركم ويثبت أقدامكم"</strong><br>
+(سورة محمد: 7)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">الشَّيْطَانُ يَعِدُكُمُ الْفَقْرَ وَيَأْمُرُكُم بِالْفَحْشَاءِ ۖ وَاللَّهُ يَعِدُكُم مَّغْفِرَةً مِّنْهُ وَفَضْلًا</div>
+<p style="text-align: center;"><strong>"الشيطان يعدكم الفقر ويأمركم بالفحشاء والله يعدكم مغفرة منه وفضلا"</strong><br>
+(سورة البقرة: 268)</p>
+<br>
+<p style="text-align: center;"><strong>"ما أبقيت لأهلك؟ قال: أبقيت لهم الله ورسوله"</strong><br>
+(رواه أبو داود والترمذي)</p>
+<br>
+<p style="text-align: center;"><strong>"ما سبقت أبا بكر إلى خير إلا سبقني إليه"</strong><br>
+(رواه الترمذي)</p>
+<br>
+<p style="text-align: center;"><strong>"يدخل عبد الرحمن بن عوف الجنة حبوا"</strong><br>
+(رواه أحمد)</p>
+<br>
+<p style="text-align: center;"><strong>"ما ضر عثمان ما عمل بعد اليوم"</strong><br>
+(رواه الترمذي)</p>
+<br>
+<p style="text-align: center;"><strong>"لا تزول قدما عبد يوم القيامة حتى يسأل عن ... وعن ماله من أين اكتسبه وفيم أنفقه"</strong><br>
+(رواه الترمذي)</p>`
+    }
+  }
 ];
 
 export function getCerpen(): Cerpen[] {
