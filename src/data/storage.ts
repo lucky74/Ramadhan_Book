@@ -2960,6 +2960,183 @@ but its people are humiliated.`,
       <p style="text-align: center;"><strong>"إن الناس إذا رأوا المنكر فلم يغيروه أوشك أن يعمهم الله بعقابه."</strong><br>
       (رواه أبو داود والترمذي)</p>`
     }
+  },
+  {
+    id: "18",
+    title: {
+      id: "Islam Menang Tanpa Kita, Tapi Kita Rugi Tanpa Islam",
+      en: "Islam Wins Without Us, But We Lose Without Islam",
+      ar: "الإسلام ينتصر بدوننا، لكننا نخسر بدون الإسلام"
+    },
+    content: {
+      id: `Islam tidak membutuhkan kita.
+Sejarah telah membuktikan: meski umat lemah, meski pengikut sedikit, Islam tetap menang.
+Nabi ﷺ memimpin umat kecil di Makkah,
+300 orang melawan ribuan musuh di Badar.
+Meski secara logika manusia mereka harus kalah,
+Iman dan Takwa menegakkan kemenangan.
+Allah menjaga agama-Nya.
+Namun umat hari ini?
+Banyak yang merasa Islam tergantung pada mereka.
+Mereka merasa hebat karena mengikuti kajian, menulis buku, atau memimpin organisasi.
+Padahal Islam akan terus hidup tanpa mereka.
+Umat hari ini bangga dengan identitas, gelar, dan prestasi duniawi.
+Mereka merasa berjasa karena menghadiri majelis, menulis artikel, atau berdakwah di media sosial.
+Tetapi ketika Islam dihina, hukum-Nya ditinggalkan, dan syariatnya dipermainkan, mereka hanya diam.
+Padahal kerugian mereka tidak hanya bagi agama.
+Kerugian paling nyata adalah diri mereka sendiri.
+Karena tanpa Islam:
+* hati menjadi hampa,
+* moral mudah goyah,
+* hidup kehilangan arah.
+Para sahabat mengajarkan kita pelajaran besar:
+Abu Bakar radhiyallahu 'anhu tidak ragu membela Islam hingga harta dan nyawanya taruhannya.
+Umar bin Khattab radhiyallahu 'anhu menangis melihat hukum Allah dilanggar.
+Ali bin Abi Thalib radhiyallahu 'anhu memimpin dengan keberanian meski nyawa selalu terancam.
+Mereka tahu satu hal: Islam menang karena Allah, tapi kerugian tidak menunggu siapa pun.
+Hari ini umat bangga karena bisa membaca Al-Qur'an.
+Bangga karena mengikuti kajian.
+Bangga karena berada di komunitas Islam.
+Tetapi ketika ujian datang—ketika syariat dipermainkan, ketika moral dilanggar, ketika hukum Allah tidak ditegakkan—mereka menutup mata.
+Mereka lupa bahwa menjadi bagian dari Islam berarti ikut menjaga dan menegakkannya.
+Jika tidak, kemenangan Islam terjadi tanpa mereka,
+tetapi kerugian mereka terjadi dengan pasti.
+Maka jangan bangga dengan ritual, simbol, atau gelar.
+Banggalah ketika mampu menegakkan hukum Allah, menolong yang tertindas, dan menegur yang menyimpang.
+Islam menang, meski kita lalai.
+Tetapi kita rugi, jika meninggalkan amanah-Nya.
+Dan itu yang paling menyakitkan:
+Islam akan terus mulia, tetapi kita bisa tetap hina.`,
+      en: `Islam does not need us.
+History has proven: even if the Ummah is weak, even if the followers are few, Islam still wins.
+The Prophet ﷺ led a small community in Mecca,
+300 people against thousands of enemies in Badr.
+Although by human logic they should have lost,
+Faith and Taqwa established victory.
+Allah protects His religion.
+But what about the Ummah today?
+Many feel that Islam depends on them.
+They feel great because they attend study circles, write books, or lead organizations.
+Whereas Islam will continue to live without them.
+The Ummah today is proud of identity, titles, and worldly achievements.
+They feel meritorious for attending assemblies, writing articles, or preaching on social media.
+But when Islam is insulted, His laws are abandoned, and His Sharia is played with, they are just silent.
+Whereas their loss is not only for the religion.
+The most real loss is for themselves.
+Because without Islam:
+* the heart becomes empty,
+* morals are easily shaken,
+* life loses direction.
+The Companions taught us a great lesson:
+Abu Bakr radhiyallahu 'anhu did not hesitate to defend Islam even with his wealth and life at stake.
+Umar bin Khattab radhiyallahu 'anhu cried seeing Allah's law violated.
+Ali bin Abi Talib radhiyallahu 'anhu led with courage even though his life was always threatened.
+They knew one thing: Islam wins because of Allah, but loss waits for no one.
+Today the Ummah is proud because they can read the Qur'an.
+Proud because they follow study circles.
+Proud because they are in the Islamic community.
+But when the test comes—when Sharia is played with, when morals are violated, when Allah's law is not upheld—they close their eyes.
+They forget that being part of Islam means participating in guarding and upholding it.
+If not, the victory of Islam happens without them,
+but their loss happens with certainty.
+So do not be proud of rituals, symbols, or titles.
+Be proud when able to uphold Allah's law, help the oppressed, and rebuke the deviant.
+Islam wins, even if we are negligent.
+But we lose, if we abandon His trust.
+And that is the most painful thing:
+Islam will continue to be noble, but we can remain humiliated.`,
+      ar: `الإسلام لا يحتاج إلينا.
+لقد أثبت التاريخ: حتى لو كانت الأمة ضعيفة، وحتى لو كان الأتباع قلة، فإن الإسلام ينتصر.
+قاد النبي ﷺ أمة صغيرة في مكة،
+300 رجل ضد آلاف الأعداء في بدر.
+على الرغم من أنهم بالمنطق البشري كان يجب أن يهزموا،
+إلا أن الإيمان والتقوى حققا النصر.
+الله يحفظ دينه.
+لكن ماذا عن الأمة اليوم؟
+يشعر الكثيرون أن الإسلام يعتمد عليهم.
+يشعرون بالعظمة لأنهم يحضرون الدروس، أو يكتبون الكتب، أو يقودون المنظمات.
+بينما سيستمر الإسلام في الحياة بدونهم.
+تفتخر الأمة اليوم بالهوية، والألقاب، والإنجازات الدنيوية.
+يشعرون بالفضل لحضور المجالس، أو كتابة المقالات، أو الدعوة في وسائل التواصل الاجتماعي.
+لكن عندما يُهان الإسلام، وتُترك أحكامه، ويُتلاعب بشريعته، يصمتون فقط.
+بينما خسارتهم ليست فقط للدين.
+الخسارة الحقيقية هي لأنفسهم.
+لأنه بدون الإسلام:
+* يصبح القلب فارغاً،
+* تهتز الأخلاق بسهولة،
+* تفقد الحياة اتجاهها.
+علمنا الصحابة درساً عظيماً:
+أبو بكر رضي الله عنه لم يتردد في الدفاع عن الإسلام حتى بماله ونفسه.
+عمر بن الخطاب رضي الله عنه كان يبكي لرؤية حكم الله يُنتهك.
+علي بن أبي طالب رضي الله عنه قاد بشجاعة رغم أن حياته كانت مهددة دائماً.
+كانوا يعلمون شيئاً واحداً: الإسلام ينتصر بالله، لكن الخسارة لا تنتظر أحداً.
+اليوم تفتخر الأمة لأنها تستطيع قراءة القرآن.
+فخورون لأنهم يتابعون الدروس.
+فخورون لأنهم في المجتمع الإسلامي.
+لكن عندما يأتي الاختبار - عندما يُتلاعب بالشريعة، وتُنتهك الأخلاق، ولا يُقام حكم الله - يغلقون أعينهم.
+ينسون أن كونهم جزءاً من الإسلام يعني المشاركة في حمايته وإقامته.
+إذا لم يفعلوا، فإن نصر الإسلام يحدث بدونهم،
+لكن خسارتهم تحدث بيقين.
+لذا لا تفتخروا بالطقوس، أو الرموز، أو الألقاب.
+افخروا عندما تستطيعون إقامة حكم الله، ونصرة المظلوم، وإنكار المنكر على المنحرفين.
+الإسلام ينتصر، حتى لو غفلنا.
+لكننا نخسر، إذا تركنا أمانته.
+وهذا هو الأكثر إيلاماً:
+سيظل الإسلام عزيزاً، لكننا قد نبقى أذلة.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ</div>
+      <p style="text-align: center;"><strong>"Wahai orang-orang yang beriman! Jika kamu menolong (agama) Allah, niscaya Dia akan menolongmu dan meneguhkan kedudukanmu."</strong><br>
+      (QS. Muhammad: 7)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">وَمَن يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَن يُقْبَلَ مِنْهُ وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ</div>
+      <p style="text-align: center;"><strong>"Dan barangsiapa mencari agama selain agama Islam, maka sekali-kali tidaklah akan diterima (agama itu) daripadanya, dan dia di akhirat termasuk orang-orang yang rugi."</strong><br>
+      (QS. Ali 'Imran: 85)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ ۚ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ</div>
+      <p style="text-align: center;"><strong>"Dan hendaklah ada di antara kamu segolongan umat yang menyeru kepada kebaikan, menyuruh kepada yang ma'ruf, dan mencegah dari yang munkar."</strong><br>
+      (QS. Ali 'Imran: 104)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Sesungguhnya agama ini akan selalu menang, meskipun orang-orang yang menegakkannya sedikit."</strong><br>
+      (HR. Ahmad)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Barang siapa di antara kalian melihat kemungkaran, maka hendaklah ia mengubahnya dengan tangannya; jika tidak mampu, maka dengan lisannya; dan jika tidak mampu, maka dengan hatinya—dan itu adalah selemah-lemahnya iman."</strong><br>
+      (HR. Muslim)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ</div>
+      <p style="text-align: center;"><strong>"O you who have believed, if you support Allah, He will support you and plant firmly your feet."</strong><br>
+      (QS. Muhammad: 7)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">وَمَن يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَن يُقْبَلَ مِنْهُ وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ</div>
+      <p style="text-align: center;"><strong>"And whoever desires other than Islam as religion - never will it be accepted from him, and he, in the Hereafter, will be among the losers."</strong><br>
+      (QS. Ali 'Imran: 85)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ ۚ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ</div>
+      <p style="text-align: center;"><strong>"And let there be [arising] from you a nation inviting to [all that is] good, enjoining what is right and forbidding what is wrong."</strong><br>
+      (QS. Ali 'Imran: 104)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Verily this religion will always prevail, even if those who uphold it are few."</strong><br>
+      (HR. Ahmad)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Whoever among you sees an evil, let him change it with his hand; if he cannot, then with his tongue; and if he cannot, then with his heart—and that is the weakest of faith."</strong><br>
+      (HR. Muslim)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ</div>
+      <p style="text-align: center;"><strong>"يا أيها الذين آمنوا إن تنصروا الله ينصركم ويثبت أقدامكم."</strong><br>
+      (سورة محمد: 7)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">وَمَن يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَن يُقْبَلَ مِنْهُ وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ</div>
+      <p style="text-align: center;"><strong>"ومن يبتغ غير الإسلام دينا فلن يقبل منه وهو في الآخرة من الخاسرين."</strong><br>
+      (سورة آل عمران: 85)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ ۚ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ</div>
+      <p style="text-align: center;"><strong>"ولتكن منكم أمة يدعون إلى الخير ويأمرون بالمعروف وينهون عن المنكر."</strong><br>
+      (سورة آل عمران: 104)</p>
+      <br>
+      <p style="text-align: center;"><strong>"لا يزال هذا الدين ظاهراً، وإن خالفهم من خالفهم."</strong><br>
+      (رواه أحمد)</p>
+      <br>
+      <p style="text-align: center;"><strong>"من رأى منكم منكرا فليغيره بيده، فإن لم يستطع فبلسانه، فإن لم يستطع فبقلبه، وذلك أضعف الإيمان."</strong><br>
+      (رواه مسلم)</p>`
+    }
   }
 ];
 
