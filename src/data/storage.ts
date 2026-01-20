@@ -4668,6 +4668,234 @@ but when old sins are shed.`,
 (رواه الترمذي)</p>`
     }
   },
+  {
+    id: "30",
+    title: {
+      id: "Setelah Berbuka Kembali, Apakah Kita Juga Kembali Bermaksiat?",
+      en: "After Breaking Fast Again, Do We Also Return to Sin?",
+      ar: "بعد الإفطار مرة أخرى، هل نعود للمعصية أيضًا؟"
+    },
+    content: {
+      id: `Idul Fitri bukan pengumuman kemenangan.
+Ia hanya penanda bahwa kita kembali makan di pagi hari.
+Tidak lebih.
+Tidak ada sertifikat kelulusan dari langit.
+Tidak ada jaminan dosa dihapus.
+Tidak ada kepastian amal diterima.
+Yang berubah hanya satu:
+kita diizinkan kembali berbuka.
+
+Lalu setelah itu apa?
+Inilah pertanyaan paling menakutkan setelah Ramadhan.
+Bukan: berapa hari kita puasa,
+tetapi: ke mana arah hidup kita setelah puasa selesai.
+
+Banyak orang salah paham.
+Mereka mengira Ramadhan adalah proyek,
+selesai dikerjakan lalu ditinggalkan.
+Padahal Ramadhan adalah pelatihan,
+bukan tujuan akhir.
+
+Jika setelah Idul Fitri:
+shalat kembali ditunda,
+maksiat kembali dinormalisasi,
+syariat kembali ditawar demi kenyamanan,
+maka Ramadhan tidak gagal—
+kitalah yang gagal menjadi hamba.
+
+Allah tidak memerintahkan puasa agar kita kuat menahan lapar,
+tetapi agar kita lemah di hadapan perintah-Nya.
+Allah tidak melatih kita bangun malam agar bangga ibadah,
+tetapi agar kita tak berani kembali bermaksiat.
+
+Jika setelah sebulan ditempa,
+kita kembali seperti sebelum Ramadhan,
+maka puasa itu hanya olahraga jasmani,
+bukan pendidikan ruhani.
+
+Para salaf takut setelah Ramadhan,
+karena mereka tahu:
+yang dinilai bukan Ramadhannya,
+tetapi kelanjutannya.
+
+Hari ini umat Islam sibuk bertanya:
+"Puasa kita berapa hari?"
+Padahal seharusnya bertanya:
+"Dosa mana yang benar-benar kita tinggalkan?"
+
+Idul Fitri hanyalah izin berbuka.
+Ia bukan izin bermaksiat.
+Ia bukan alasan kembali lalai.
+Ia bukan pembenaran untuk hidup tanpa takut kepada Allah.
+
+Ramadhan sudah pergi.
+Latihan sudah selesai.
+Sekarang ujian sebenarnya dimulai.
+
+Maka pertanyaan terakhir, sebelum lembar Ramadhan ditutup:
+Setelah kita kembali makan di pagi hari,
+apakah kita juga kembali memakan yang haram,
+kembali menelan kezhaliman,
+dan kembali mengkhianati amanah Allah?
+
+Jika iya,
+maka kita tidak kembali kepada fitrah,
+tetapi kembali kepada kehinaan.`,
+      en: `Eid al-Fitr is not an announcement of victory.
+It is merely a marker that we return to eating in the morning.
+Nothing more.
+There is no graduation certificate from the heavens.
+There is no guarantee that sins are erased.
+There is no certainty that deeds are accepted.
+Only one thing changes:
+we are allowed to break our fast again.
+
+Then what comes after?
+This is the most frightening question after Ramadan.
+Not: how many days did we fast,
+but: where is the direction of our life after fasting ends.
+
+Many people misunderstand.
+They think Ramadan is a project,
+completed and then abandoned.
+Whereas Ramadan is training,
+not the final goal.
+
+If after Eid al-Fitr:
+prayer is delayed again,
+sin is normalized again,
+sharia is bargained again for comfort,
+then Ramadan did not fail—
+it is we who failed to be servants.
+
+Allah did not command fasting so that we are strong in enduring hunger,
+but so that we are weak before His command.
+Allah did not train us to wake up at night to be proud of worship,
+but so that we dare not return to sin.
+
+If after a month of being forged,
+we return to how we were before Ramadan,
+then that fasting was merely physical exercise,
+not spiritual education.
+
+The predecessors (Salaf) were afraid after Ramadan,
+because they knew:
+what is judged is not the Ramadan itself,
+but its continuation.
+
+Today Muslims are busy asking:
+"How many days did we fast?"
+Whereas they should ask:
+"Which sins have we truly abandoned?"
+
+Eid al-Fitr is merely permission to break the fast.
+It is not permission to sin.
+It is not an excuse to return to negligence.
+It is not a justification to live without fear of Allah.
+
+Ramadan has gone.
+The training is finished.
+Now the real test begins.
+
+So the final question, before the page of Ramadan is closed:
+After we return to eating in the morning,
+do we also return to consuming the forbidden,
+return to swallowing injustice,
+and return to betraying Allah's trust?
+
+If yes,
+then we do not return to fitrah (purity),
+but return to humiliation.`,
+      ar: `عيد الفطر ليس إعلان نصر.
+إنه مجرد علامة على أننا عدنا للأكل في الصباح.
+لا أكثر.
+لا توجد شهادة تخرج من السماء.
+لا يوجد ضمان بأن الذنوب قد مُحيت.
+لا يوجد يقين بأن الأعمال قد قُبلت.
+الشيء الوحيد الذي تغير هو:
+أنه سُمح لنا بالإفطار مرة أخرى.
+
+ثم ماذا بعد ذلك؟
+هذا هو السؤال الأكثر رعبًا بعد رمضان.
+ليس: كم يومًا صمنا،
+بل: إلى أين تتجه حياتنا بعد انتهاء الصيام.
+
+كثير من الناس يسيئون الفهم.
+يظنون أن رمضان مشروع،
+يُنجز ثم يُترك.
+بينما رمضان تدريب،
+وليس هدفًا نهائيًا.
+
+إذا كان بعد عيد الفطر:
+الصلاة تؤخر مرة أخرى،
+والمعصية تُطبع مرة أخرى،
+والشريعة تُساوم مرة أخرى من أجل الراحة،
+فإن رمضان لم يفشل—
+بل نحن الذين فشلنا في أن نكون عبادًا.
+
+الله لم يأمر بالصيام لكي نكون أقوياء في تحمل الجوع،
+بل لكي نكون ضعفاء أمام أمره.
+الله لم يدربنا على قيام الليل لنفخر بالعبادة،
+بل لكي لا نجرؤ على العودة للمعصية.
+
+إذا كنا بعد شهر من الصقل،
+نعود كما كنا قبل رمضان،
+فإن ذلك الصيام كان مجرد رياضة بدنية،
+وليس تربية روحية.
+
+كان السلف يخافون بعد رمضان،
+لأنهم كانوا يعلمون:
+أن العبرة ليست برمضان نفسه،
+بل بما بعده.
+
+اليوم ينشغل المسلمون بالسؤال:
+"كم يومًا صمنا؟"
+بينما كان يجب أن يسألوا:
+"أي الذنوب تركناها حقًا؟"
+
+عيد الفطر هو مجرد إذن بالإفطار.
+ليس إذنًا بالمعصية.
+ليس عذرًا للعودة إلى الغفلة.
+ليس مبررًا للعيش دون خوف من الله.
+
+لقد رحل رمضان.
+انتهى التدريب.
+الآن يبدأ الاختبار الحقيقي.
+
+إذًا السؤال الأخير، قبل أن تُطوى صفحة رمضان:
+بعد أن عدنا للأكل في الصباح،
+هل نعود أيضًا لأكل الحرام،
+والعودة لابتلاع الظلم،
+والعودة لخيانة أمانة الله؟
+
+إذا كان الجواب نعم،
+فإننا لا نعود إلى الفطرة،
+بل نعود إلى الذل.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ</div>
+<p style="text-align: center;"><strong>"Wahai orang-orang yang beriman, diwajibkan atas kalian berpuasa sebagaimana diwajibkan atas orang-orang sebelum kalian, agar kalian bertakwa."</strong><br>
+(QS. Al-Baqarah: 183)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">رُبَّ صَائِمٍ لَيْسَ لَهُ مِنْ صِيَامِهِ إِلَّا الْجُوعُ وَالْعَطَشُ</div>
+<p style="text-align: center;"><strong>"Betapa banyak orang yang berpuasa, namun tidak mendapatkan dari puasanya kecuali lapar dan dahaga."</strong><br>
+(HR. Ahmad)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ</div>
+<p style="text-align: center;"><strong>"O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous."</strong><br>
+(QS. Al-Baqarah: 183)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">رُبَّ صَائِمٍ لَيْسَ لَهُ مِنْ صِيَامِهِ إِلَّا الْجُوعُ وَالْعَطَشُ</div>
+<p style="text-align: center;"><strong>"How many people fast, but get nothing from their fasting except hunger and thirst."</strong><br>
+(HR. Ahmad)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ</div>
+<p style="text-align: center;"><strong>"يا أيها الذين آمنوا كتب عليكم الصيام كما كتب على الذين من قبلكم لعلكم تتقون."</strong><br>
+(سورة البقرة: 183)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">رُبَّ صَائِمٍ لَيْسَ لَهُ مِنْ صِيَامِهِ إِلَّا الْجُوعُ وَالْعَطَشُ</div>
+<p style="text-align: center;"><strong>"رب صائم ليس له من صيامه إلا الجوع والعطش."</strong><br>
+(رواه أحمد)</p>`
+    }
+  },
 ];
 
 export function getCerpen(): Cerpen[] {
