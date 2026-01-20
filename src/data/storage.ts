@@ -3137,6 +3137,151 @@ Islam will continue to be noble, but we can remain humiliated.`,
       <p style="text-align: center;"><strong>"من رأى منكم منكرا فليغيره بيده، فإن لم يستطع فبلسانه، فإن لم يستطع فبقلبه، وذلك أضعف الإيمان."</strong><br>
       (رواه مسلم)</p>`
     }
+  },
+  {
+    id: "19",
+    title: {
+      id: "Umat Islam Takut Menegur, Tapi Takut Allah Tidak Ditakuti",
+      en: "The Ummah Fears to Rebuke, But Does Not Fear Allah",
+      ar: "الأمة تخاف من إنكار المنكر، لكنها لا تخاف الله"
+    },
+    content: {
+      id: `Hari ini umat Islam gemar takut.
+Takut dicibir, takut dibilang ekstrem, takut kehilangan status, takut reputasi rusak.
+Tetapi anehnya, takut kepada Allah seakan hilang dari hati.
+
+Mereka enggan menegur kemungkaran.
+Mereka menutup mulut ketika hukum Allah dilanggar.
+Mereka diam saat moral umat dihancurkan.
+
+Padahal Rasulullah ﷺ bersabda: "Barang siapa di antara kalian melihat kemungkaran, hendaklah ia menegurnya."
+Tetapi kenyataannya hari ini, umat lebih takut kata manusia daripada murka Allah.
+
+Nabi ﷺ dan para Sahabat mengajarkan sebaliknya:
+* Abu Bakar radhiyallahu ‘anhu menegur siapa pun yang menyimpang dari sunnah, meski itu anggota Quraisy.
+* Umar bin Khattab radhiyallahu ‘anhu menegur siapa pun yang lalai menegakkan keadilan, bahkan pejabatnya sendiri.
+* Ali bin Abi Thalib radhiyallahu ‘anhu mengoreksi tindakan sahabat dan pemerintah untuk menjaga Islam tetap bersih dari kemungkaran.
+
+Mereka tidak takut reputasi, tidak takut hinaan, tidak takut kemarahan orang.
+Yang mereka takutkan hanyalah Allah dan murka-Nya.
+
+Hari ini? Berani menasihati hanya di grup WhatsApp atau media sosial, dengan kalimat manis: "Semoga bermanfaat ya..."
+Tetapi ketika syariat Allah dilanggar di depan mata, mereka diam seribu bahasa.
+
+Inilah paradoks umat modern:
+* Takut menegur manusia, tapi takut Allah tidak ada di hati.
+* Takut kehilangan dunia, tapi akhirat dianggap main-main.
+* Takut dicibir, tapi tidak takut dosa.
+
+Padahal menegur kemungkaran adalah kewajiban setiap muslim.
+Tidak ada kompromi, tidak ada alasan, tidak ada alasan untuk pura-pura takut.
+
+Puasa bukan sekadar menahan lapar dan haus.
+Puasa adalah latihan keberanian.
+Berani menahan nafsu, berani menegur, berani menanggung risiko kebenaran.
+
+Jika umat terus takut menegur, maka syariat Allah akan terus diinjak-injak, dan kita sendiri akan terjatuh ke jurang kehinaan.
+
+Ingatlah pesan Nabi ﷺ: iman bukan hanya tentang keyakinan dalam hati, tapi diwujudkan dalam tindakan.
+Jika takut Allah tidak ada dalam hati, puasa, shalat, dan doa hanyalah ritual kosong.
+
+Bangunlah, wahai umat!
+Beranilah menegur, beranilah menegakkan kebenaran, beranilah menghadapi manusia dengan keberanian karena Allah.
+Karena takut manusia tanpa takut Allah hanyalah kegagalan iman yang paling nyata.`,
+      en: `Today, the Muslim Ummah is fond of fear.
+Fear of being sneered at, fear of being called extreme, fear of losing status, fear of a ruined reputation.
+But strangely, fear of Allah seems to have vanished from the heart.
+
+They are reluctant to rebuke evil.
+They keep their mouths shut when Allah's laws are violated.
+They remain silent when the moral fabric of the Ummah is destroyed.
+
+Whereas the Messenger of Allah ﷺ said: "Whoever among you sees an evil, let him change it."
+But the reality today is that the Ummah fears the words of people more than the wrath of Allah.
+
+The Prophet ﷺ and the Companions taught the opposite:
+* Abu Bakr radhiyallahu ‘anhu rebuked anyone who deviated from the Sunnah, even if they were members of Quraysh.
+* Umar bin Khattab radhiyallahu ‘anhu rebuked anyone who neglected to uphold justice, even his own officials.
+* Ali bin Abi Talib radhiyallahu ‘anhu corrected the actions of companions and the government to keep Islam pure from evil.
+
+They did not fear reputation, did not fear insults, did not fear people's anger.
+What they feared was only Allah and His wrath.
+
+Today? Daring to advise only in WhatsApp groups or social media, with sweet sentences: "Hope this is useful..."
+But when Allah's Sharia is violated right before their eyes, they remain completely silent.
+
+This is the paradox of the modern Ummah:
+* Afraid to rebuke people, but fear of Allah is not in the heart.
+* Afraid of losing the world, but the Hereafter is considered a game.
+* Afraid of being sneered at, but not afraid of sin.
+
+Whereas rebuking evil is the duty of every Muslim.
+There is no compromise, no excuse, no reason to pretend to be afraid.
+
+Fasting is not just restraining hunger and thirst.
+Fasting is an exercise in courage.
+Courage to restrain desire, courage to rebuke, courage to bear the risk of truth.
+
+If the Ummah continues to be afraid to rebuke, then Allah's Sharia will continue to be trampled upon, and we ourselves will fall into the abyss of humiliation.
+
+Remember the message of the Prophet ﷺ: faith is not just about belief in the heart, but manifested in action.
+If fear of Allah is not in the heart, fasting, prayer, and supplication are just empty rituals.
+
+Wake up, O Ummah!
+Dare to rebuke, dare to uphold the truth, dare to face people with courage for the sake of Allah.
+Because fearing people without fearing Allah is the most real failure of faith.`,
+      ar: `اليوم، أصبحت الأمة الإسلامية مولعة بالخوف.
+الخوف من السخرية، الخوف من أن يوصفوا بالمتطرفين، الخوف من فقدان المكانة، الخوف من تشويه السمعة.
+لكن الغريب أن الخوف من الله يبدو وكأنه قد اختفى من القلوب.
+
+إنهم يترددون في إنكار المنكر.
+يغلقون أفواههم عندما تُنتهك حدود الله.
+يصمتون عندما تُدمر أخلاق الأمة.
+
+بينما قال رسول الله ﷺ: "مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ".
+لكن الواقع اليوم هو أن الأمة تخاف من كلام الناس أكثر من غضب الله.
+
+لقد علمنا النبي ﷺ والصحابة العكس:
+* أبو بكر رضي الله عنه كان ينكر على من يخالف السنة، حتى لو كان من قريش.
+* عمر بن الخطاب رضي الله عنه كان ينكر على من يقصر في إقامة العدل، حتى ولاته.
+* علي بن أبي طالب رضي الله عنه كان يصحح أفعال الصحابة والحكام ليبقي الإسلام نقياً من المنكرات.
+
+لم يخافوا على سمعتهم، ولم يخافوا الإهانات، ولم يخافوا غضب الناس.
+كان خوفهم الوحيد من الله وغضبه.
+
+واليوم؟ لا يجرؤون على النصح إلا في مجموعات الواتساب أو وسائل التواصل الاجتماعي، بعبارات لطيفة: "نأمل أن يكون هذا مفيداً..."
+لكن عندما تُنتهك شريعة الله أمام أعينهم، يصمتون صمت القبور.
+
+هذه هي مفارقة الأمة الحديثة:
+* يخافون من توبيخ الناس، لكن الخوف من الله ليس في قلوبهم.
+* يخافون من خسارة الدنيا، لكن الآخرة تعتبر لعباً.
+* يخافون من السخرية، لكنهم لا يخافون الذنب.
+
+بينما إنكار المنكر هو واجب كل مسلم.
+لا مساومة، لا عذر، لا سبب للتظاهر بالخوف.
+
+الصيام ليس مجرد الامتناع عن الطعام والشراب.
+الصيام تمرين على الشجاعة.
+شجاعة كبح الشهوات، شجاعة الإنكار، شجاعة تحمل مخاطر الحق.
+
+إذا استمرت الأمة في الخوف من الإنكار، فستستمر شريعة الله في أن تُداس، وسنسقط نحن أنفسنا في هاوية الذل.
+
+تذكروا وصية النبي ﷺ: الإيمان ليس مجرد اعتقاد في القلب، بل يتجسد في العمل.
+إذا لم يكن الخوف من الله في القلب، فالصيام والصلاة والدعاء مجرد طقوس فارغة.
+
+استيقظي أيتها الأمة!
+تجراي على الإنكار، تجراي على إقامة الحق، تجراي على مواجهة الناس بشجاعة من أجل الله.
+لأن الخوف من الناس دون الخوف من الله هو الفشل الحقيقي للإيمان.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ ۚ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ</div>
+<p style="text-align: center;"><strong>"Dan hendaklah ada di antara kamu segolongan umat yang menyeru kepada kebaikan, menyuruh kepada yang ma'ruf, dan mencegah dari yang munkar; merekalah orang-orang yang beruntung."</strong><br>
+(QS. Ali 'Imran: 104)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ، وَذَلِكَ أَضْعَفُ الْإِيمَانِ</div>
+<p style="text-align: center;"><strong>"Barang siapa di antara kalian melihat kemungkaran, hendaklah ia mengubahnya dengan tangannya; jika tidak mampu, maka dengan lisannya; dan jika tidak mampu, maka dengan hatinya—dan itu adalah selemah-lemahnya iman."</strong><br>
+(HR. Muslim)</p>`
+    }
   }
 ];
 
