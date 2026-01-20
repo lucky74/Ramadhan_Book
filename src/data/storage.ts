@@ -2711,6 +2711,255 @@ but a betrayal wrapped in sweet words.`,
       <p style="text-align: center;"><strong>"سيأتي زمان على أمتي يقرءون القرآن والقرآن يلعنهم."</strong><br>
       (رواه الطبراني - حسن)</p>`
     }
+  },
+  {
+    id: "17",
+    title: {
+      id: "Islam Dijaga oleh Allah, Tapi Umatnya Tidak Menjaganya",
+      en: "Islam is Protected by Allah, But Its People Do Not Protect It",
+      ar: "الإسلام محفوظ من الله، لكن أهله لا يحفظونه"
+    },
+    content: {
+      id: `Islam adalah agama yang dijaga oleh Allah.
+Tetapi umat Islam hari ini justru sibuk menjaga diri mereka sendiri.
+Menjaga kenyamanan.
+Menjaga posisi.
+Menjaga citra.
+Menjaga keamanan pribadi.
+Sementara Islam dibiarkan diserang, dipelintir, dan dikerdilkan...
+dengan alasan yang terdengar religius: "Tenang saja, Islam kan dijaga Allah."
+Kalimat ini benar secara akidah,
+tetapi berbahaya jika dijadikan alasan untuk lari dari tanggung jawab.
+Allah memang menjaga Islam,
+tetapi Allah tidak pernah membebaskan umat dari kewajiban menjaganya.
+Nabi Muhammad ﷺ tidak duduk tenang di Makkah sambil berkata,
+"Islam pasti menang, Allah yang jaga."
+Beliau dihina, disakiti, diboikot,
+namun tetap berdiri menjaga risalah.
+Ketika Abu Lahab mencaci, Nabi ﷺ tidak berhenti berdakwah.
+Ketika kaum Quraisy menyiksa Bilal, Rasulullah ﷺ tidak menenangkan diri dengan dalih takdir.
+Beliau membina, menguatkan, dan mempersiapkan umat.
+Lihat Abu Bakar radhiyallahu 'anhu.
+Saat Rasulullah ﷺ wafat, umat terguncang.
+Banyak yang berkata, "Islam akan runtuh."
+Abu Bakar berdiri dan berkata dengan tegas:
+"Barang siapa menyembah Muhammad, maka Muhammad telah wafat.
+Barang siapa menyembah Allah, maka Allah Maha Hidup dan tidak akan mati."
+Kalimat ini bukan retorika.
+Ini adalah penjagaan akidah di saat paling genting.
+Ketika muncul kaum yang enggan menunaikan zakat,
+banyak sahabat ragu untuk bertindak.
+Mereka berkata, "Ini hanya soal harta."
+Namun Abu Bakar menjawab dengan keras:
+"Demi Allah, aku akan memerangi siapa pun yang memisahkan antara shalat dan zakat."
+Ia tahu, jika satu syariat ditinggalkan,
+maka Islam akan runtuh perlahan.
+Umar bin Khattab radhiyallahu 'anhu menangis ketika melihat keadilan dilanggar.
+Ia memukul dirinya sendiri jika lalai.
+Ia berkata, "Jika seekor keledai terjatuh di Irak, aku khawatir Allah akan menanyai Umar."
+Beginilah cara para Sahabat menjaga Islam:
+bukan dengan diam,
+tetapi dengan rasa takut kepada Allah.
+Bandingkan dengan umat hari ini.
+Islam dihina... diam.
+Hukum Allah ditinggalkan... tenang.
+Syariat dipermainkan... netral.
+Lalu berkata,
+"Tidak apa-apa, Islam tetap terjaga."
+Islam memang tidak akan hilang.
+Tetapi umat yang tidak menjaganya akan tergantikan.
+Allah tidak butuh umat yang pengecut.
+Allah tidak membutuhkan pembela yang setengah hati.
+Allah hanya menggunakan mereka yang siap membayar harga.
+Menjaga Islam bukan dengan kekerasan sembarangan,
+tetapi dengan:
+* keberanian bersikap,
+* konsistensi pada kebenaran,
+* dan kesetiaan pada syariat meski pahit.
+Islam dijaga oleh Allah,
+tetapi kehormatan umat dijaga oleh ketaatan mereka sendiri.
+Jika umat terus bersembunyi di balik dalih "Allah yang jaga Islam,"
+sementara mereka meninggalkan amanah,
+maka jangan heran jika Islam tetap mulia,
+tetapi umatnya hina.`,
+      en: `Islam is a religion protected by Allah.
+But Muslims today are busy protecting themselves.
+Protecting comfort.
+Protecting positions.
+Protecting image.
+Protecting personal safety.
+While Islam is left to be attacked, twisted, and belittled...
+with a reason that sounds religious: "Relax, Islam is protected by Allah."
+This sentence is doctrinally correct,
+but dangerous if used as an excuse to run from responsibility.
+Allah indeed protects Islam,
+but Allah never exempted the Ummah from the obligation to protect it.
+Prophet Muhammad ﷺ did not sit quietly in Mecca saying,
+"Islam will surely win, Allah protects it."
+He was insulted, hurt, boycotted,
+yet stood firm protecting the message.
+When Abu Lahab cursed, the Prophet ﷺ did not stop preaching.
+When the Quraysh tortured Bilal, the Messenger of Allah ﷺ did not calm himself with the excuse of destiny.
+He built, strengthened, and prepared the Ummah.
+Look at Abu Bakr radhiyallahu 'anhu.
+When the Messenger of Allah ﷺ passed away, the Ummah was shaken.
+Many said, "Islam will collapse."
+Abu Bakr stood and said firmly:
+"Whoever worships Muhammad, then Muhammad has died.
+Whoever worships Allah, then Allah is Ever-Living and will not die."
+This sentence was not rhetoric.
+It was the protection of creed at the most critical moment.
+When a group appeared refusing to pay zakat,
+many companions hesitated to act.
+They said, "This is only about wealth."
+But Abu Bakr answered harshly:
+"By Allah, I will fight anyone who separates prayer and zakat."
+He knew, if one Sharia is abandoned,
+then Islam will collapse slowly.
+Umar bin Khattab radhiyallahu 'anhu cried when he saw justice violated.
+He hit himself if he was negligent.
+He said, "If a donkey stumbles in Iraq, I fear Allah will question Umar."
+This is how the Companions protected Islam:
+not by silence,
+but by fear of Allah.
+Compare with the Ummah today.
+Islam is insulted... silence.
+Allah's law is abandoned... calm.
+Sharia is played with... neutral.
+Then say,
+"It's okay, Islam remains protected."
+Islam indeed will not disappear.
+But the Ummah that does not protect it will be replaced.
+Allah does not need a cowardly Ummah.
+Allah does not need half-hearted defenders.
+Allah only uses those who are ready to pay the price.
+Protecting Islam is not with indiscriminate violence,
+but with:
+* courage to take a stand,
+* consistency in truth,
+* and loyalty to Sharia even if bitter.
+Islam is protected by Allah,
+but the honor of the Ummah is protected by their own obedience.
+If the Ummah continues to hide behind the excuse "Allah protects Islam,"
+while they abandon the trust,
+then do not be surprised if Islam remains noble,
+but its people are humiliated.`,
+      ar: `الإسلام دين محفوظ من الله.
+لكن المسلمين اليوم مشغولون بحماية أنفسهم.
+حماية الراحة.
+حماية المناصب.
+حماية الصورة.
+حماية السلامة الشخصية.
+بينما يُترك الإسلام ليُهاجم، ويُحرف، ويُقزم...
+بحجة تبدو دينية: "اطمئن، الإسلام يحفظه الله".
+هذه الجملة صحيحة عقائدياً،
+لكنها خطيرة إذا اتخذت ذريعة للهروب من المسؤولية.
+الله يحفظ الإسلام فعلاً،
+لكن الله لم يعف الأمة أبداً من واجب حمايته.
+النبي محمد ﷺ لم يجلس هادئاً في مكة ويقول:
+"الإسلام سينتصر بالتأكيد، الله يحفظه".
+لقد شُتم، وأوذي، وقوطع،
+ومع ذلك وقف ثابتاً يحمي الرسالة.
+عندما شتم أبو لهب، لم يتوقف النبي ﷺ عن الدعوة.
+عندما عذب قريش بلالاً، لم يهدأ رسول الله ﷺ بحجة القدر.
+لقد بنى، وقوى، وأعد الأمة.
+انظر إلى أبي بكر رضي الله عنه.
+عندما توفي رسول الله ﷺ، اهتزت الأمة.
+قال الكثيرون: "سينهار الإسلام".
+وقف أبو بكر وقال بحزم:
+"من كان يعبد محمداً فإن محمداً قد مات.
+ومن كان يعبد الله فإن الله حي لا يموت".
+لم تكن هذه الجملة بلاغة.
+كانت حماية للعقيدة في أحلك اللحظات.
+عندما ظهر قوم يمتنعون عن دفع الزكاة،
+تردد كثير من الصحابة في التصرف.
+قالوا: "هذه مسألة مال فقط".
+لكن أبا بكر أجاب بحدة:
+"والله لأقاتلن من فرق بين الصلاة والزكاة".
+كان يعلم، إذا تُركت شريعة واحدة،
+فإن الإسلام سينهار ببطء.
+عمر بن الخطاب رضي الله عنه كان يبكي عندما يرى العدالة تُنتهك.
+كان يضرب نفسه إذا غفل.
+قال: "لو عثرت بغلة في العراق، لخشيت أن يسأل الله عمر عنها".
+هكذا كان الصحابة يحمون الإسلام:
+ليس بالصمت،
+بل بالخوف من الله.
+قارن ذلك بالأمة اليوم.
+يُهان الإسلام... صمت.
+يُترك شرع الله... هدوء.
+يُتلاعب بالشريعة... حياد.
+ثم يقولون:
+"لا بأس، الإسلام محفوظ".
+الإسلام فعلاً لن يزول.
+لكن الأمة التي لا تحميه ستُستبدل.
+الله لا يحتاج إلى أمة جبانة.
+الله لا يحتاج إلى مدافعين بقلوب نصفية.
+الله يستخدم فقط أولئك المستعدين لدفع الثمن.
+حماية الإسلام ليست بالعنف العشوائي،
+بل بـ:
+* الشجاعة في الموقف،
+* الثبات على الحق،
+* والولاء للشريعة وإن كانت مرة.
+الإسلام محفوظ من الله،
+لكن كرامة الأمة محفوظة بطاعتها هي.
+إذا استمرت الأمة في الاختباء خلف ذريعة "الله يحفظ الإسلام"،
+بينما يتركون الأمانة،
+فلا تعجبوا إذا ظل الإسلام عزيزاً،
+لكن أهله أذلة.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ</div>
+      <p style="text-align: center;"><strong>"Sesungguhnya Kamilah yang menurunkan Al-Qur'an, dan sesungguhnya Kami pula yang menjaganya."</strong><br>
+      (QS. Al-Hijr: 9)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِ فَسَوْفَ يَأْتِي اللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُ</div>
+      <p style="text-align: center;"><strong>"Wahai orang-orang yang beriman! Barang siapa di antara kamu yang murtad dari agamanya, maka kelak Allah akan mendatangkan suatu kaum yang Allah mencintai mereka dan mereka mencintai-Nya."</strong><br>
+      (QS. Al-Ma'idah: 54)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ ۚ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ</div>
+      <p style="text-align: center;"><strong>"Dan hendaklah ada di antara kamu segolongan umat yang menyeru kepada kebaikan, menyuruh kepada yang ma'ruf, dan mencegah dari yang munkar."</strong><br>
+      (QS. Ali 'Imran: 104)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Setiap kalian adalah pemimpin dan setiap kalian akan dimintai pertanggungjawaban atas kepemimpinannya."</strong><br>
+      (HR. Bukhari dan Muslim)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Jika manusia melihat kemungkaran lalu tidak mengubahnya, hampir saja Allah menimpakan azab kepada mereka semuanya."</strong><br>
+      (HR. Abu Dawud dan Tirmidzi)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ</div>
+      <p style="text-align: center;"><strong>"Indeed, it is We who sent down the Qur'an and indeed, We will be its guardian."</strong><br>
+      (QS. Al-Hijr: 9)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِ فَسَوْفَ يَأْتِي اللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُ</div>
+      <p style="text-align: center;"><strong>"O you who have believed, whoever of you should revert from his religion - Allah will bring forth [in place of them] a people He will love and who will love Him."</strong><br>
+      (QS. Al-Ma'idah: 54)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ ۚ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ</div>
+      <p style="text-align: center;"><strong>"And let there be [arising] from you a nation inviting to [all that is] good, enjoining what is right and forbidding what is wrong."</strong><br>
+      (QS. Ali 'Imran: 104)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Every one of you is a shepherd and is responsible for his flock."</strong><br>
+      (HR. Bukhari and Muslim)</p>
+      <br>
+      <p style="text-align: center;"><strong>"If people see some evil but do not change it, soon Allah will send His punishment upon them all."</strong><br>
+      (HR. Abu Dawud and Tirmidzi)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ</div>
+      <p style="text-align: center;"><strong>"إنا نحن نزلنا الذكر وإنا له لحافظون."</strong><br>
+      (سورة الحجر: 9)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِ فَسَوْفَ يَأْتِي اللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُ</div>
+      <p style="text-align: center;"><strong>"يا أيها الذين آمنوا من يرتد منكم عن دينه فسوف يأتي الله بقوم يحبهم ويحبونه."</strong><br>
+      (سورة المائدة: 54)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ ۚ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ</div>
+      <p style="text-align: center;"><strong>"ولتكن منكم أمة يدعون إلى الخير ويأمرون بالمعروف وينهون عن المنكر."</strong><br>
+      (سورة آل عمران: 104)</p>
+      <br>
+      <p style="text-align: center;"><strong>"كلكم راع وكلكم مسؤول عن رعيته."</strong><br>
+      (رواه البخاري ومسلم)</p>
+      <br>
+      <p style="text-align: center;"><strong>"إن الناس إذا رأوا المنكر فلم يغيروه أوشك أن يعمهم الله بعقابه."</strong><br>
+      (رواه أبو داود والترمذي)</p>`
+    }
   }
 ];
 
