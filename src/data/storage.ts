@@ -1466,6 +1466,93 @@ Do not be quick to say, "We believe," if not ready to be tested. Do not be proud
 <p style="text-align: center;"><strong>"أشد الناس بلاء الأنبياء، ثم الصالحون، ثم الأمثل فالأمثل. يبتلى الرجل على حسب دينه."</strong><br>
 (رواه الترمذي - حسن صحيح)</p>`
     }
+  },
+  {
+    id: "11",
+    title: {
+      id: "Islam Tidak Pernah Dibangun oleh Orang-Orang yang Ingin Aman",
+      en: "Islam Was Never Built by Those Seeking Safety",
+      ar: "لم يبن الإسلام أبداً بأيدي من يبحثون عن الأمان"
+    },
+    content: {
+      id: `Islam tidak lahir dari ruang nyaman. Ia tidak tumbuh dari sikap aman, netral, dan berhitung untung-rugi dunia. Sejak awal, Islam dibangun oleh orang-orang yang siap kehilangan keamanan, harta, status, bahkan nyawa. Maka ketika hari ini umat Islam ingin memetik kemuliaan tanpa risiko, sejatinya mereka sedang menuntut sesuatu yang tidak pernah ada dalam sejarah Islam.
+
+      Orang-orang yang ingin aman selalu punya alasan untuk menunda. Menunggu situasi kondusif. Menunggu mayoritas siap. Menunggu izin keadaan. Padahal kebenaran tidak pernah menunggu keadaan ramah. Justru keadaanlah yang berubah karena keberanian segelintir orang beriman.
+
+      Nabi Muhammad ﷺ tidak menunggu Makkah aman untuk menyampaikan kebenaran. Para sahabat tidak menunggu dukungan penuh untuk berdiri tegak. Mereka tahu satu hal: menunda kebenaran demi keamanan adalah bentuk lain dari meninggalkannya.
+
+      Hari ini, banyak umat Islam ingin Islam menang, tetapi tidak ingin harga kemenangan itu. Mereka ingin syariat dihormati, tetapi tidak siap dibenci. Mereka ingin keadilan ditegakkan, tetapi tidak siap kehilangan posisi. Mereka ingin pahala, tetapi alergi terhadap risiko. Maka Islam pun berhenti sebagai wacana, tidak pernah naik menjadi kekuatan.
+
+      Sikap ingin aman telah melahirkan generasi yang cerdas berbicara, tetapi lemah bertindak. Mereka pandai mengemas dalil, tetapi gemetar saat kebenaran menuntut keberpihakan. Mereka menyebut kehati-hatian sebagai hikmah, padahal yang dijaga adalah kenyamanan.
+
+      Sejarah mengajarkan pelajaran pahit: setiap kali umat Islam memilih aman, mereka kehilangan kehormatan. Setiap kali mereka memilih keberanian, meski sedikit dan berat, Allah bukakan jalan kemenangan. Islam tidak pernah dibela oleh massa yang takut, tetapi oleh minoritas yang teguh.
+
+      Ramadhan adalah bulan latihan meninggalkan rasa aman. Puasa memotong ketergantungan pada kenyamanan jasmani agar hati berani berdiri di pihak kebenaran. Jika setelah Ramadhan kita tetap menjadikan keamanan pribadi sebagai kompas utama, maka puasa hanya melatih lapar, bukan keberanian.
+
+      Berhentilah berharap Islam bangkit sementara kita sibuk menyelamatkan diri. Islam tidak membutuhkan pengagum yang ingin aman. Islam membutuhkan hamba yang siap berdiri, meski harus sendirian.`,
+      en: `Islam was not born from a comfortable space. It did not grow from an attitude of safety, neutrality, and calculating worldly profit and loss. From the beginning, Islam was built by people who were ready to lose security, wealth, status, and even life. So when today Muslims want to reap glory without risk, they are actually demanding something that has never existed in Islamic history.
+
+      People who want to be safe always have reasons to delay. Waiting for a conducive situation. Waiting for the majority to be ready. Waiting for permission from circumstances. Whereas truth never waits for friendly circumstances. It is circumstances that change because of the courage of a handful of believers.
+
+      Prophet Muhammad ﷺ did not wait for Mecca to be safe to convey the truth. The companions did not wait for full support to stand tall. They knew one thing: delaying truth for the sake of safety is another form of abandoning it.
+
+      Today, many Muslims want Islam to win, but do not want the price of that victory. They want Sharia to be respected, but are not ready to be hated. They want justice to be upheld, but are not ready to lose their positions. They want rewards, but are allergic to risk. So Islam stops as a discourse, never rising to become a force.
+
+      The attitude of wanting to be safe has given birth to a generation that is smart at talking, but weak at acting. They are good at packaging arguments, but tremble when truth demands partisanship. They call caution wisdom, when what is being guarded is comfort.
+
+      History teaches a bitter lesson: every time Muslims choose to be safe, they lose honor. Every time they choose courage, even if few and heavy, Allah opens the way to victory. Islam is never defended by a fearful mass, but by a steadfast minority.
+
+      Ramadan is a month of training to leave the sense of safety. Fasting cuts dependence on physical comfort so that the heart dares to stand on the side of truth. If after Ramadan we still make personal safety the main compass, then fasting only trains hunger, not courage.
+
+      Stop hoping for Islam to rise while we are busy saving ourselves. Islam does not need admirers who want to be safe. Islam needs servants who are ready to stand, even if they have to be alone.`,
+      ar: `لم يولد الإسلام من مساحة مريحة. لم ينمُ من موقف الأمان والحياد وحساب الربح والخسارة الدنيوية. منذ البداية، بُني الإسلام بأيدي أناس كانوا مستعدين لفقدان الأمن والمال والمكانة وحتى الحياة. لذا عندما يريد المسلمون اليوم جني المجد دون مخاطرة، فهم في الواقع يطالبون بشيء لم يكن موجوداً أبداً في التاريخ الإسلامي.
+
+      الأشخاص الذين يريدون الأمان لديهم دائماً أسباب للتأجيل. انتظار الوضع المناسب. انتظار استعداد الأغلبية. انتظار إذن الظروف. بينما الحقيقة لا تنتظر أبداً ظروفاً ودودة. الظروف هي التي تتغير بسبب شجاعة حفنة من المؤمنين.
+
+      لم ينتظر النبي محمد ﷺ أن تكون مكة آمنة لتبليغ الحق. لم ينتظر الصحابة الدعم الكامل ليقفوا شامخين. كانوا يعرفون شيئاً واحداً: تأجيل الحق من أجل الأمان هو شكل آخر من أشكال التخلي عنه.
+
+      اليوم، يريد الكثير من المسلمين أن ينتصر الإسلام، لكنهم لا يريدون ثمن ذلك النصر. يريدون أن تُحترم الشريعة، لكنهم ليسوا مستعدين للكراهية. يريدون إقامة العدل، لكنهم ليسوا مستعدين لفقدان مناصبهم. يريدون الثواب، لكنهم لديهم حساسية تجاه المخاطرة. لذا يتوقف الإسلام كخطاب، ولا يرقى أبداً ليصبح قوة.
+
+      لقد ولد موقف الرغبة في الأمان جيلاً ذكياً في الحديث، لكنه ضعيف في العمل. يجيدون تغليف الأدلة، لكنهم يرتجفون عندما يطلب الحق الانحياز. يسمون الحذر حكمة، بينما ما يتم حمايته هو الراحة.
+
+      يعلمنا التاريخ درساً مريراً: في كل مرة يختار فيها المسلمون الأمان، يفقدون الشرف. في كل مرة يختارون فيها الشجاعة، حتى لو كانت قليلة وثقيلة، يفتح الله طريق النصر. لا يُدافع عن الإسلام أبداً بكتلة خائفة، بل بأقلية صامدة.
+
+      رمضان هو شهر التدريب على ترك الشعور بالأمان. يقطع الصيام الاعتماد على الراحة الجسدية لكي يجرؤ القلب على الوقوف في جانب الحق. إذا ظللنا بعد رمضان نجعل الأمان الشخصي بوصلتنا الرئيسية، فإن الصيام يدرب الجوع فقط، وليس الشجاعة.
+
+      توقفوا عن الأمل في نهضة الإسلام ونحن مشغولون بإنقاذ أنفسنا. الإسلام لا يحتاج إلى معجبين يريدون الأمان. الإسلام يحتاج إلى عباد مستعدين للوقوف، حتى لو اضطروا لأن يكونوا وحدهم.`
+    },
+    dalil: {
+      id: \`<div class="arab" style="text-align: center; margin-bottom: 10px;">الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ</div>
+      <p style="text-align: center;"><strong>"(Yaitu) orang-orang yang ketika ada orang-orang mengatakan kepadanya, 'Sesungguhnya manusia telah mengumpulkan pasukan untuk menyerang kamu, karena itu takutlah kepada mereka,' justru hal itu menambah keimanan mereka dan mereka berkata, 'Cukuplah Allah menjadi Penolong kami dan Dia sebaik-baik Pelindung.'"</strong><br>
+      (QS. Ali 'Imran: 173)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا مَا لَكُمْ إِذَا قِيلَ لَكُمُ انفِرُوا فِي سَبِيلِ اللَّهِ اثَّاقَلْتُمْ إِلَى الْأَرْضِ ۚ أَرَضِيتُم بِالْحَيَاةِ الدُّنْيَا مِنَ الْآخِرَةِ</div>
+      <p style="text-align: center;"><strong>"Wahai orang-orang yang beriman! Mengapa apabila dikatakan kepadamu, 'Berangkatlah (untuk berjuang) di jalan Allah,' kamu merasa berat dan cenderung kepada bumi? Apakah kamu puas dengan kehidupan dunia dibandingkan dengan akhirat?"</strong><br>
+      (QS. At-Taubah: 38)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Tidaklah aku meninggalkan sesuatu yang dapat mendekatkan kalian kepada surga dan menjauhkan kalian dari neraka, kecuali aku telah memerintahkan kalian dengannya."</strong><br>
+      (HR. Thabrani - hasan)</p>\`,
+      en: \`<div class="arab" style="text-align: center; margin-bottom: 10px;">الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ</div>
+      <p style="text-align: center;"><strong>"Those to whom hypocrites said, 'Indeed, the people have gathered against you, so fear them.' But it [only] increased them in faith, and they said, 'Sufficient for us is Allah, and [He is] the best Disposer of affairs.'"</strong><br>
+      (QS. Ali 'Imran: 173)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا مَا لَكُمْ إِذَا قِيلَ لَكُمُ انفِرُوا فِي سَبِيلِ اللَّهِ اثَّاقَلْتُمْ إِلَى الْأَرْضِ ۚ أَرَضِيتُم بِالْحَيَاةِ الدُّنْيَا مِنَ الْآخِرَةِ</div>
+      <p style="text-align: center;"><strong>"O you who have believed, what is [the matter] with you that, when you are told to go forth in the cause of Allah, you adhere heavily to the earth? Are you satisfied with the life of this world rather than the Hereafter?"</strong><br>
+      (QS. At-Taubah: 38)</p>
+      <br>
+      <p style="text-align: center;"><strong>"I have not left anything that brings you closer to Paradise and distances you from the Fire except that I have commanded you with it."</strong><br>
+      (HR. Thabrani)</p>\`,
+      ar: \`<div class="arab" style="text-align: center; margin-bottom: 10px;">الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ</div>
+      <p style="text-align: center;"><strong>"الذين قال لهم الناس إن الناس قد جمعوا لكم فاخشوهم فزادهم إيماناً وقالوا حسبنا الله ونعم الوكيل."</strong><br>
+      (سورة آل عمران: 173)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا مَا لَكُمْ إِذَا قِيلَ لَكُمُ انفِرُوا فِي سَبِيلِ اللَّهِ اثَّاقَلْتُمْ إِلَى الْأَرْضِ ۚ أَرَضِيتُم بِالْحَيَاةِ الدُّنْيَا مِنَ الْآخِرَةِ</div>
+      <p style="text-align: center;"><strong>"يا أيها الذين آمنوا ما لكم إذا قيل لكم انفروا في سبيل الله اثاقلتم إلى الأرض أرضيتم بالحياة الدنيا من الآخرة."</strong><br>
+      (سورة التوبة: 38)</p>
+      <br>
+      <p style="text-align: center;"><strong>"ما تركت شيئاً يقربكم إلى الجنة ويباعدكم من النار إلا وأمرتكم به."</strong><br>
+      (رواه الطبراني - حسن)</p>\`
+    }
   }
 ];
 
