@@ -1076,6 +1076,111 @@ The Muslim Ummah does not lack numbers. What is lacking is the courage to be hea
 <p style="text-align: center;"><strong>"يوشك الأمم أن تداعى عليكم كما تداعى الأكلة إلى قصعتها... بل أنتم يومئذ كثير، ولكنكم غثاء كغثاء السيل."</strong><br>
 (رواه أبو داود وأحمد)</p>`
     }
+  },
+  {
+    id: "7",
+    title: {
+      id: "Ketaatan Tanpa Kepemimpinan Melahirkan Kehinaan",
+      en: "Obedience Without Leadership Breeds Humiliation",
+      ar: "الطاعة بلا قيادة تولد الذل"
+    },
+    content: {
+      id: `Umat Islam hari ini rajin beribadah. Masjid penuh, majelis ilmu ramai, lantunan ayat terdengar di mana-mana. Namun di saat yang sama, umat ini diinjak, dipinggirkan, dan diperlakukan tanpa kehormatan. Dunia tidak segan mencemooh, menekan, bahkan mengatur hidup umat Islam. Lalu muncul pertanyaan yang pahit: mengapa umat yang taat justru hidup dalam kehinaan?
+
+Jawabannya sederhana, tetapi menyakitkan: ketaatan tanpa kepemimpinan tidak pernah melahirkan kemuliaan.
+
+Islam tidak pernah diturunkan hanya untuk membentuk individu saleh yang terpisah dari urusan umat. Islam datang sebagai sistem hidup, sebagai tuntunan kolektif, dan sebagai peradaban yang membutuhkan kepemimpinan. Ketika ketaatan dipisahkan dari kepemimpinan, maka Islam dikurung di masjid dan dipotong dari kekuasaannya.
+
+Hari ini, umat diajarkan taat beribadah, tetapi tidak diajarkan untuk taat memperjuangkan kepemimpinan Islam. Mereka disuruh sabar, tetapi tidak disiapkan untuk memimpin. Mereka dipuji karena kesalehan pribadi, tetapi dibungkam ketika menuntut tegaknya keadilan Islam.
+
+Inilah ketaatan yang jinak. Ketaatan yang aman bagi penguasa zalim. Ketaatan yang tidak mengganggu sistem rusak. Ia hanya menghasilkan umat yang patuh secara ritual, tetapi tunduk secara politik dan sosial.
+
+Sejarah Islam justru berkata sebaliknya. Para sahabat bukan hanya orang-orang yang taat, tetapi orang-orang yang memimpin. Mereka shalat di malam hari dan mengatur urusan umat di siang hari. Mereka menangis dalam munajat, tetapi tegas dalam keputusan. Ketaatan mereka melahirkan kepemimpinan, dan kepemimpinan mereka melahirkan kemuliaan.
+
+Ketika kepemimpinan Islam hilang, umat tidak hanya kehilangan arah, tetapi juga kehilangan wibawa. Umat menjadi objek kebijakan, bukan subjek peradaban. Hukum Allah dianggap asing, sementara hukum buatan manusia dipaksakan sebagai satu-satunya jalan.
+
+Lebih pahit lagi, kehinaan ini sering dibungkus dengan dalih toleransi, stabilitas, dan kedamaian. Umat diminta diam demi ketertiban, padahal yang dijaga adalah kezaliman. Umat diminta patuh, tetapi kepatuhan itu diarahkan untuk melanggengkan sistem yang menyingkirkan Islam dari kepemimpinan.
+
+Ramadhan seharusnya membuka mata umat bahwa ketaatan sejati bukan hanya menahan lapar, tetapi menolak tunduk kepada selain Allah. Puasa melatih pengendalian diri, tetapi juga melatih keberanian untuk berkata tidak pada ketidakadilan.
+
+Selama umat Islam puas dengan ketaatan tanpa kepemimpinan, selama itu pula kehinaan akan diwariskan dari generasi ke generasi. Kemuliaan tidak akan lahir dari ibadah yang dipisahkan dari tanggung jawab memimpin kehidupan.
+
+Ketaatan yang sejati adalah ketaatan yang berani menuntut Islam memimpin, bukan sekadar dipraktikkan secara pribadi.`,
+      en: `Muslims today are diligent in worship. Mosques are full, study circles are crowded, the chanting of verses is heard everywhere. But at the same time, this Ummah is trampled, marginalized, and treated without honor. The world does not hesitate to mock, pressure, and even regulate the lives of Muslims. Then a bitter question arises: why does the obedient Ummah live in humiliation?
+
+The answer is simple, but painful: obedience without leadership never breeds glory.
+
+Islam was never sent down only to form pious individuals separated from the affairs of the Ummah. Islam came as a system of life, as a collective guide, and as a civilization that requires leadership. When obedience is separated from leadership, Islam is confined to the mosque and cut off from its power.
+
+Today, the Ummah is taught to be obedient in worship, but not taught to be obedient in fighting for Islamic leadership. They are told to be patient, but not prepared to lead. They are praised for personal piety, but silenced when demanding the establishment of Islamic justice.
+
+This is tame obedience. Obedience that is safe for unjust rulers. Obedience that does not disturb the broken system. It only produces an Ummah that is ritually obedient, but politically and socially submissive.
+
+Islamic history says otherwise. The companions were not just obedient people, but leading people. They prayed at night and managed the affairs of the Ummah during the day. They cried in supplication, but were firm in decision. Their obedience gave birth to leadership, and their leadership gave birth to glory.
+
+When Islamic leadership is lost, the Ummah not only loses direction, but also loses authority. The Ummah becomes an object of policy, not a subject of civilization. Allah's law is considered foreign, while man-made law is forced as the only way.
+
+Even more bitter, this humiliation is often wrapped in the pretext of tolerance, stability, and peace. The Ummah is asked to be silent for the sake of order, even though what is guarded is injustice. The Ummah is asked to obey, but that obedience is directed to perpetuate a system that removes Islam from leadership.
+
+Ramadan should open the eyes of the Ummah that true obedience is not just holding back hunger, but refusing to submit to other than Allah. Fasting trains self-control, but also trains the courage to say no to injustice.
+
+As long as Muslims are satisfied with obedience without leadership, humiliation will be inherited from generation to generation. Glory will not be born from worship separated from the responsibility of leading life.
+
+True obedience is obedience that dares to demand Islam to lead, not just practiced privately.`,
+      ar: `المسلمون اليوم مجتهدون في العبادة. المساجد ممتلئة، ومجالس العلم مزدحمة، وتلاوة الآيات تُسمع في كل مكان. لكن في الوقت نفسه، هذه الأمة تُداس، وتُهمش، وتُعامل بلا كرامة. العالم لا يتردد في الاستهزاء، والضغط، وحتى تنظيم حياة المسلمين. ثم يطرح سؤال مرير: لماذا تعيش الأمة المطيعة في ذل؟
+
+الجواب بسيط، لكنه مؤلم: الطاعة بلا قيادة لا تلد العزة أبداً.
+
+لم ينزل الإسلام أبداً لتكوين أفراد صالحين منفصلين عن شؤون الأمة فقط. جاء الإسلام كنظام حياة، وكدليل جماعي، وكحضارة تتطلب قيادة. عندما تُفصل الطاعة عن القيادة، يُحبس الإسلام في المسجد ويُقطع عن قوته.
+
+اليوم، تُعلم الأمة أن تكون مطيعة في العبادة، لكن لا تُعلم أن تكون مطيعة في الكفاح من أجل القيادة الإسلامية. يُطلب منهم الصبر، لكن لا يتم إعدادهم للقيادة. يُمدحون على التقوى الشخصية، لكن يُسكتون عندما يطالبون بإقامة العدالة الإسلامية.
+
+هذه طاعة مروضة. طاعة آمنة للحكام الظالمين. طاعة لا تزعج النظام الفاسد. إنها تنتج فقط أمة مطيعة طقوسياً، لكنها خاضعة سياسياً واجتماعياً.
+
+التاريخ الإسلامي يقول عكس ذلك. لم يكن الصحابة مجرد أشخاص مطيعين، بل كانوا قادة. كانوا يصلون في الليل ويديرون شؤون الأمة في النهار. كانوا يبكون في المناجاة، لكنهم كانوا حازمين في القرار. ولدت طاعتهم قيادة، وولدت قيادتهم عزة.
+
+عندما تضيع القيادة الإسلامية، لا تفقد الأمة الاتجاه فحسب، بل تفقد الهيبة أيضاً. تصبح الأمة موضوعاً للسياسة، لا فاعلاً في الحضارة. يُعتبر شرع الله غريباً، بينما يُفرض قانون البشر كطريق وحيد.
+
+والأمر الأكثر مرارة، أن هذا الذل غالباً ما يُغلف بذريعة التسامح، والاستقرار، والسلام. تُطلب من الأمة الصمت من أجل النظام، رغم أن ما يُحرس هو الظلم. تُطلب من الأمة الطاعة، لكن تلك الطاعة موجهة لتكريس نظام يبعد الإسلام عن القيادة.
+
+يجب أن يفتح رمضان عيون الأمة على أن الطاعة الحقيقية ليست مجرد الامتناع عن الجوع، بل رفض الخضوع لغير الله. الصيام يدرب ضبط النفس، لكنه يدرب أيضاً الشجاعة لقول لا للظلم.
+
+طالما أن المسلمين راضون بالطاعة بلا قيادة، فسيتم توارث الذل من جيل إلى جيل. لن تولد العزة من عبادة مفصولة عن مسؤولية قيادة الحياة.
+
+الطاعة الحقيقية هي الطاعة التي تجرؤ على المطالبة بأن يقود الإسلام، وليس مجرد ممارسته بشكل شخصي.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَعْلَمُونَ</div>
+<p style="text-align: center;"><strong>"Padahal kekuatan itu hanyalah bagi Allah, bagi Rasul-Nya, dan bagi orang-orang yang beriman, tetapi orang-orang munafik tidak mengetahui."</strong><br>
+(QS. Al-Munafiqun: 8)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">الَّذِينَ إِن مَّكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلَاةَ وَآتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ الْمُنكَرِ</div>
+<p style="text-align: center;"><strong>"(Yaitu) orang-orang yang jika Kami berikan kekuasaan di bumi, mereka mendirikan shalat, menunaikan zakat, menyuruh kepada yang ma'ruf dan mencegah dari yang munkar."</strong><br>
+(QS. Al-Hajj: 41)</p>
+<br>
+<p style="text-align: center;"><strong>"Sesungguhnya imam (pemimpin) itu adalah perisai; orang-orang berperang di belakangnya dan berlindung dengannya."</strong><br>
+(HR. Bukhari dan Muslim)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَعْلَمُونَ</div>
+<p style="text-align: center;"><strong>"And to Allah belongs [all] honor, and to His Messenger, and to the believers, but the hypocrites do not know."</strong><br>
+(QS. Al-Munafiqun: 8)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">الَّذِينَ إِن مَّكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلَاةَ وَآتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ الْمُنكَرِ</div>
+<p style="text-align: center;"><strong>"[And they are] those who, if We give them authority in the land, establish prayer and give zakah and enjoin what is right and forbid what is wrong."</strong><br>
+(QS. Al-Hajj: 41)</p>
+<br>
+<p style="text-align: center;"><strong>"Verily, the Imam (leader) is a shield; war is fought behind him and protection is sought through him."</strong><br>
+(HR. Bukhari and Muslim)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَعْلَمُونَ</div>
+<p style="text-align: center;"><strong>"ولله العزة ولرسوله وللمؤمنين ولكن المنافقين لا يعلمون."</strong><br>
+(سورة المنافقون: 8)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">الَّذِينَ إِن مَّكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلَاةَ وَآتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ الْمُنكَرِ</div>
+<p style="text-align: center;"><strong>"الذين إن مكناهم في الأرض أقاموا الصلاة وآتوا الزكاة وأمروا بالمعروف ونهوا عن المنكر."</strong><br>
+(سورة الحج: 41)</p>
+<br>
+<p style="text-align: center;"><strong>"إنما الإمام جنة يقاتل من ورائه ويتقى به."</strong><br>
+(رواه البخاري ومسلم)</p>`
+    }
   }
 ];
 
