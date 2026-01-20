@@ -4577,8 +4577,7 @@ Bangunlah.
 Masa muda bukan fase menunggu, tetapi fase menyiapkan peradaban.
 Dan Ramadhan bukan tempat tidur bagi raksasa—
 ia adalah lonceng keras untuk membangunkannya.`,
-      en: `The 29th night of Ramadan.
-Outside the towering walls of Constantinople, a 21-year-old young man does not close his eyes. He is not awake for entertainment. Not because of a glowing screen, not because of empty laughter, nor because of trivial anxieties.
+      en: `Outside the towering walls of Constantinople, a 21-year-old young man does not close his eyes. He is not awake for entertainment. Not because of a glowing screen, not because of empty laughter, nor because of trivial anxieties.
 
 His name is Muhammad Al-Fatih.
 
