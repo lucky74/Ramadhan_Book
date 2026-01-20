@@ -1379,6 +1379,93 @@ Stop being proud of safe lectures. Measure faith by readiness to sacrifice. Beca
 <p style="text-align: center;"><strong>"من رأى منكم منكراً فليغيره بيده، فإن لم يستطع فبلسانه، فإن لم يستطع فبقلبه، وذلك أضعف الإيمان."</strong><br>
 (رواه مسلم)</p>`
     }
+  },
+  {
+    id: "10",
+    title: {
+      id: "Iman yang Tidak Dibayar Mahal Tidak Akan Mengubah Apa-Apa",
+      en: "Faith Not Paid Dearly Will Change Nothing",
+      ar: "الإيمان الذي لا يدفع ثمنه غالياً لن يغير شيئاً"
+    },
+    content: {
+      id: `Banyak orang hari ini mudah berkata, "Saya beriman." Kalimat itu ringan di lisan, murah di pengakuan, dan sering kali kosong dari konsekuensi. Iman dijadikan identitas, bukan komitmen. Ia dipakai untuk merasa aman, bukan untuk siap diuji.
+
+Padahal iman tidak pernah gratis. Ia selalu menuntut harga. Semakin tinggi iman diklaim, semakin mahal ujian yang menyertainya. Iman yang tidak dibayar dengan pengorbanan hanya akan melahirkan rasa puas diri, bukan perubahan.
+
+Umat Islam hari ini gemar mengklaim iman, tetapi enggan membayar harganya. Ketika kebenaran menuntut keberanian, mereka memilih aman. Ketika keadilan menuntut posisi, mereka memilih netral. Ketika Islam menuntut ditegakkan, mereka memilih kompromi. Lalu tetap merasa beriman.
+
+Inilah iman yang rapuh—iman yang tidak sanggup menahan panas ujian. Ia hidup di ruang nyaman, tetapi runtuh ketika diminta berkonsekuensi. Ia tumbuh di majelis, tetapi layu di medan tanggung jawab.
+
+Allah tidak pernah menilai iman dari pengakuan. Allah menilai iman dari kesiapan untuk diuji. Karena iman sejati selalu bergerak dari qalbu ke sikap, dari keyakinan ke keberpihakan. Jika iman berhenti di dada dan tidak tampak pada pilihan hidup, maka itu bukan iman yang mengubah apa pun.
+
+Sejarah Islam tidak dibangun oleh orang-orang yang merasa cukup dengan iman lisan. Ia dibangun oleh orang-orang yang mempertaruhkan iman mereka—dengan harta, kenyamanan, reputasi, bahkan nyawa. Mereka tidak bertanya, "Aman atau tidak?" Mereka bertanya, "Benar atau tidak?"
+
+Ramadhan seharusnya menjadi cermin kejujuran. Jika iman kita benar, maka ia akan terasa berat. Ia akan mengusik zona nyaman. Ia akan memaksa kita memilih, bukan bersembunyi di balik kata-kata. Puasa bukan sekadar menahan lapar, tetapi melatih kesediaan membayar harga iman.
+
+Jangan cepat berkata, "Kami beriman," jika belum siap diuji. Jangan bangga dengan klaim, jika belum ada pengorbanan. Karena iman yang tidak dibayar mahal tidak akan mengubah diri, apalagi mengubah umat.`,
+      en: `Many people today easily say, "I believe." That sentence is light on the tongue, cheap in confession, and often empty of consequences. Faith is made an identity, not a commitment. It is used to feel safe, not to be ready to be tested.
+
+Whereas faith is never free. It always demands a price. The higher the faith is claimed, the more expensive the test that accompanies it. Faith that is not paid for with sacrifice will only give birth to self-satisfaction, not change.
+
+Muslims today love to claim faith, but are reluctant to pay the price. When truth demands courage, they choose safety. When justice demands a position, they choose neutrality. When Islam demands to be upheld, they choose compromise. Then still feel faithful.
+
+This is fragile faith—faith that cannot withstand the heat of the test. It lives in a comfortable room, but collapses when asked for consequences. It grows in assemblies, but withers in the field of responsibility.
+
+Allah never judges faith from confession. Allah judges faith from readiness to be tested. Because true faith always moves from the heart to attitude, from belief to partiality. If faith stops in the chest and does not appear in life choices, then it is not faith that changes anything.
+
+Islamic history was not built by people who felt sufficient with verbal faith. It was built by people who risked their faith—with wealth, comfort, reputation, even life. They did not ask, "Is it safe or not?" They asked, "Is it right or not?"
+
+Ramadan should be a mirror of honesty. If our faith is true, then it will feel heavy. It will disturb the comfort zone. It will force us to choose, not hide behind words. Fasting is not just holding back hunger, but training willingness to pay the price of faith.
+
+Do not be quick to say, "We believe," if not ready to be tested. Do not be proud of claims, if there is no sacrifice. Because faith that is not paid dearly will not change oneself, let alone change the Ummah.`,
+      ar: `كثير من الناس اليوم يقولون بسهولة: "أنا مؤمن". تلك الجملة خفيفة على اللسان، رخيصة في الاعتراف، وغالباً ما تكون خالية من العواقب. يُتخذ الإيمان هوية، لا التزاماً. يُستخدم للشعور بالأمان، لا للاستعداد للاختبار.
+
+بينما الإيمان ليس مجانياً أبداً. إنه يطلب دائماً ثمناً. كلما ادعي الإيمان أعلى، كان الاختبار الذي يرافقه أغلى. الإيمان الذي لا يدفع ثمنه بالتضحية لن يلد إلا الرضا عن النفس، وليس التغيير.
+
+المسلمون اليوم يحبون ادعاء الإيمان، لكنهم يترددون في دفع ثمنه. عندما تطلب الحقيقة الشجاعة، يختارون الأمان. عندما تطلب العدالة موقفاً، يختارون الحياد. عندما يطلب الإسلام أن يقام، يختارون الحل الوسط. ثم يظلون يشعرون بالإيمان.
+
+هذا إيمان هش - إيمان لا يستطيع تحمل حرارة الاختبار. يعيش في غرفة مريحة، لكنه ينهار عندما يُطلب منه العواقب. ينمو في المجالس، لكنه يذبل في ميدان المسؤولية.
+
+لا يحكم الله أبداً على الإيمان من الاعتراف. يحكم الله على الإيمان من الاستعداد للاختبار. لأن الإيمان الحقيقي يتحرك دائماً من القلب إلى الموقف، من اليقين إلى الانحياز. إذا توقف الإيمان في الصدر ولم يظهر في خيارات الحياة، فهو ليس إيماناً يغير أي شيء.
+
+لم يبن التاريخ الإسلامي أناس شعروا بالاكتفاء بالإيمان اللفظي. بناه أناس خاطروا بإيمانهم - بالمال، والراحة، والسمعة، وحتى الحياة. لم يسألوا: "هل هو آمن أم لا؟" سألوا: "هل هو حق أم لا؟"
+
+يجب أن يكون رمضان مرآة للصدق. إذا كان إيماننا صادقاً، فسيشعر بالثقل. سيزعج منطقة الراحة. سيجبرنا على الاختيار، لا الاختباء خلف الكلمات. الصيام ليس مجرد الامتناع عن الجوع، بل تدريب الاستعداد لدفع ثمن الإيمان.
+
+لا تتسرعوا في القول: "آمنا"، إذا لم تكونوا مستعدين للاختبار. لا تفخروا بالادعاءات، إذا لم تكن هناك تضحية. لأن الإيمان الذي لا يدفع ثمنه غالياً لن يغير النفس، ناهيك عن تغيير الأمة.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">قَالَتِ الْأَعْرَابُ آمَنَّا ۖ قُلْ لَمْ تُؤْمِنُوا وَلَٰكِنْ قُولُوا أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ</div>
+<p style="text-align: center;"><strong>"Orang-orang Arab Badui itu berkata, 'Kami telah beriman.' Katakanlah, 'Kamu belum beriman, tetapi katakanlah: Kami telah berserah diri (Islam), karena iman itu belum masuk ke dalam hatimu.'"</strong><br>
+(QS. Al-Hujurat: 14)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ</div>
+<p style="text-align: center;"><strong>"Apakah manusia mengira bahwa mereka akan dibiarkan mengatakan, 'Kami telah beriman,' sementara mereka tidak diuji?"</strong><br>
+(QS. Al-'Ankabut: 2)</p>
+<br>
+<p style="text-align: center;"><strong>"Manusia yang paling berat ujiannya adalah para nabi, kemudian orang-orang saleh, kemudian yang semisal mereka. Seseorang diuji sesuai dengan kadar agamanya."</strong><br>
+(HR. Tirmidzi - hasan shahih)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">قَالَتِ الْأَعْرَابُ آمَنَّا ۖ قُلْ لَمْ تُؤْمِنُوا وَلَٰكِنْ قُولُوا أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ</div>
+<p style="text-align: center;"><strong>"The Bedouins say, 'We have believed.' Say, 'You have not [yet] believed; but say [instead], "We have submitted," for faith has not yet entered your hearts.'"</strong><br>
+(QS. Al-Hujurat: 14)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ</div>
+<p style="text-align: center;"><strong>"Do the people think that they will be left to say, 'We believe' and they will not be tried?"</strong><br>
+(QS. Al-'Ankabut: 2)</p>
+<br>
+<p style="text-align: center;"><strong>"The people most severely tested are the prophets, then the righteous, then those like them. A person is tested according to the level of his religion."</strong><br>
+(HR. Tirmidzi)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">قَالَتِ الْأَعْرَابُ آمَنَّا ۖ قُلْ لَمْ تُؤْمِنُوا وَلَٰكِنْ قُولُوا أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ</div>
+<p style="text-align: center;"><strong>"قالت الأعراب آمنا قل لم تؤمنوا ولكن قولوا أسلمنا ولما يدخل الإيمان في قلوبكم."</strong><br>
+(سورة الحجرات: 14)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ</div>
+<p style="text-align: center;"><strong>"أحسب الناس أن يتركوا أن يقولوا آمنا وهم لا يفتنون."</strong><br>
+(سورة العنكبوت: 2)</p>
+<br>
+<p style="text-align: center;"><strong>"أشد الناس بلاء الأنبياء، ثم الصالحون، ثم الأمثل فالأمثل. يبتلى الرجل على حسب دينه."</strong><br>
+(رواه الترمذي - حسن صحيح)</p>`
+    }
   }
 ];
 
