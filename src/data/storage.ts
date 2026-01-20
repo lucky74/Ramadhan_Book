@@ -1181,6 +1181,105 @@ True obedience is obedience that dares to demand Islam to lead, not just practic
 <p style="text-align: center;"><strong>"إنما الإمام جنة يقاتل من ورائه ويتقى به."</strong><br>
 (رواه البخاري ومسلم)</p>`
     }
+  },
+  {
+    id: "8",
+    title: {
+      id: "Mengapa Islam Ditakuti Ketika Memimpin, Tapi Dibiarkan Ketika Dijadikan Ritual",
+      en: "Why Islam is Feared When Leading, But Tolerated When Reduced to Ritual",
+      ar: "لماذا يُخشى الإسلام عندما يقود، ولكن يُترك عندما يصبح مجرد طقوس"
+    },
+    content: {
+      id: `Islam hari ini tidak dilarang untuk shalat. Tidak dicegah untuk berpuasa. Tidak dipermasalahkan ketika hanya dibaca di acara seremonial. Bahkan sering dipuji sebagai agama yang indah, damai, dan spiritual. Namun semuanya berubah ketika Islam menuntut memimpin kehidupan.
+
+Saat Islam meminta hukum Allah ditegakkan, ia dituduh berbahaya. Saat Islam menuntut keadilan sosial yang nyata, ia disebut ekstrem. Saat Islam mengatur ekonomi, politik, dan kekuasaan, ia dicap ancaman stabilitas. Aneh, Islam dipeluk sebagai simbol, tetapi ditakuti sebagai sistem.
+
+Inilah ironi umat Islam hari ini. Mereka berani melanggar hukum Allah, tetapi gemetar melanggar hukum manusia. Mereka ringan meninggalkan perintah Rabb-nya, tetapi patuh total kepada aturan yang jelas-jelas bertentangan dengan wahyu. Rasa takut mereka terbalik. Rasa hormat mereka salah alamat.
+
+Islam tidak pernah diturunkan untuk menjadi hiasan ritual. Ia datang untuk memimpin manusia, mengatur kehidupan, dan menegakkan keadilan. Ketika Islam dipaksa tinggal di masjid, sementara kehidupan diatur oleh hukum lain, maka Islam dilumpuhkan tanpa perlu dimusnahkan.
+
+Umat Islam pun ikut bersalah. Mereka membela Islam ketika dihina secara simbolik, tetapi diam ketika Islam disingkirkan secara sistemik. Mereka marah jika agamanya dicemooh, tetapi tenang ketika hukum Allah dihapus dari kehidupan publik. Ini bukan keberanian, ini kemunafikan kolektif.
+
+Lebih memalukan lagi, umat Islam sering menjadi pembela utama sistem yang menyingkirkan Islam. Dengan dalih moderasi, toleransi, dan keamanan, mereka justru menjadi benteng bagi tegaknya hukum selain hukum Allah. Islam diminta menyesuaikan diri, bukan memimpin. Wahyu diminta tunduk, bukan ditaati.
+
+Padahal, sepanjang sejarah, Islam selalu ditakuti ketika memimpin karena ia adil dan tidak bisa dibeli. Ia memotong tangan penguasa zalim, bukan rakyat kecil. Ia mengangkat yang lemah dan menundukkan yang sombong. Ketakutan terhadap Islam bukan karena kebrutalannya, tetapi karena keadilannya.
+
+Ramadhan seharusnya menjadi bulan kejujuran. Jika kita benar-benar takut kepada Allah, maka rasa takut itu harus tampak dalam sikap, pilihan, dan keberpihakan. Puasa bukan sekadar menahan lapar, tetapi menahan diri dari tunduk kepada aturan yang menyingkirkan hukum Allah.
+
+Selama umat Islam lebih takut kehilangan kenyamanan daripada kehilangan ridha Allah, selama itu pula Islam akan dibiarkan sebagai ritual dan ditolak sebagai kepemimpinan.
+
+Islam tidak butuh pembela yang hanya pandai menangis. Islam butuh umat yang berani taat sepenuhnya.`,
+      en: `Islam today is not forbidden from prayer. Not prevented from fasting. Not a problem when only read in ceremonial events. It is even often praised as a beautiful, peaceful, and spiritual religion. But everything changes when Islam demands to lead life.
+
+When Islam asks for Allah's law to be upheld, it is accused of being dangerous. When Islam demands real social justice, it is called extreme. When Islam regulates the economy, politics, and power, it is labeled a threat to stability. Strange, Islam is embraced as a symbol, but feared as a system.
+
+This is the irony of the Muslim Ummah today. They dare to violate Allah's law, but tremble at violating human law. They lightly leave the commands of their Lord, but are totally obedient to rules that clearly contradict revelation. Their fear is reversed. Their respect is misplaced.
+
+Islam was never sent down to be a ritual decoration. It came to lead humans, regulate life, and uphold justice. When Islam is forced to stay in the mosque, while life is regulated by other laws, then Islam is paralyzed without needing to be destroyed.
+
+The Muslim Ummah is also at fault. They defend Islam when insulted symbolically, but are silent when Islam is removed systemically. They are angry if their religion is mocked, but calm when Allah's law is removed from public life. This is not courage, this is collective hypocrisy.
+
+Even more shameful, Muslims often become the main defenders of the system that removes Islam. Under the pretext of moderation, tolerance, and security, they instead become a fortress for the establishment of laws other than Allah's law. Islam is asked to adapt, not lead. Revelation is asked to submit, not be obeyed.
+
+Whereas throughout history, Islam has always been feared when leading because it is just and cannot be bought. It cuts the hands of unjust rulers, not the little people. It lifts the weak and subdues the arrogant. Fear of Islam is not because of its brutality, but because of its justice.
+
+Ramadan should be a month of honesty. If we truly fear Allah, then that fear must be visible in attitudes, choices, and partiality. Fasting is not just holding back hunger, but holding back oneself from submitting to rules that remove Allah's law.
+
+As long as Muslims are more afraid of losing comfort than losing Allah's pleasure, so long will Islam be left as a ritual and rejected as leadership.
+
+Islam does not need defenders who are only good at crying. Islam needs an Ummah that dares to obey completely.`,
+      ar: `الإسلام اليوم ليس ممنوعًا من الصلاة. ولا يُمنع من الصيام. ولا يُشكل مشكلة عندما يُقرأ فقط في المناسبات الاحتفالية. بل غالبًا ما يُمدح كدين جميل، وسلمي، وروحي. لكن كل شيء يتغير عندما يطالب الإسلام بقيادة الحياة.
+
+عندما يطلب الإسلام إقامة شرع الله، يُتهم بأنه خطير. عندما يطالب الإسلام بالعدالة الاجتماعية الحقيقية، يُوصف بأنه متطرف. عندما ينظم الإسلام الاقتصاد، والسياسة، والسلطة، يُوصم بأنه تهديد للاستقرار. غريب، يُعتنق الإسلام كرمز، ولكن يُخشى كنظام.
+
+هذه هي مفارقة الأمة الإسلامية اليوم. يجرؤون على مخالفة شرع الله، لكنهم يرتجفون من مخالفة قوانين البشر. يتركون أوامر ربهم بخفة، لكنهم يطيعون تمامًا القواعد التي تتعارض بوضوح مع الوحي. خوفهم معكوس. احترامهم في غير محله.
+
+لم ينزل الإسلام أبدًا ليكون زينة طقسية. جاء ليقود البشر، وينظم الحياة، ويقيم العدل. عندما يُجبر الإسلام على البقاء في المسجد، بينما تُنظم الحياة بقوانين أخرى، فإن الإسلام يُشل دون الحاجة إلى تدميره.
+
+الأمة الإسلامية مذنبة أيضًا. يدافعون عن الإسلام عندما يُهان رمزيًا، لكنهم يصمتون عندما يُقصى الإسلام منهجيًا. يغضبون إذا سُخر من دينهم، لكنهم يهدأون عندما يُحذف شرع الله من الحياة العامة. هذه ليست شجاعة، هذا نفاق جماعي.
+
+والأكثر خزياً، أن المسلمين غالبًا ما يصبحون المدافعين الرئيسيين عن النظام الذي يقصي الإسلام. بذريعة الاعتدال، والتسامح، والأمن، يصبحون بدلاً من ذلك حصنًا لإقامة قوانين غير شرع الله. يُطلب من الإسلام أن يتكيف، لا أن يقود. يُطلب من الوحي أن يخضع، لا أن يُطاع.
+
+بينما عبر التاريخ، كان الإسلام يُخشى دائمًا عندما يقود لأنه عادل ولا يمكن شراؤه. يقطع أيدي الحكام الظالمين، وليس صغار الناس. يرفع الضعيف ويخضع المتكبر. الخوف من الإسلام ليس بسبب وحشيته، بل بسبب عدالته.
+
+يجب أن يكون رمضان شهر الصدق. إذا كنا نخاف الله حقًا، فيجب أن يظهر ذلك الخوف في المواقف، والخيارات، والانحياز. الصيام ليس مجرد الامتناع عن الجوع، بل الامتناع عن الخضوع للقواعد التي تقصي شرع الله.
+
+طالما أن المسلمين يخافون فقدان الراحة أكثر من فقدان رضا الله، فسيظل الإسلام يُترك كطقس ويُرفض كقيادة.
+
+الإسلام لا يحتاج إلى مدافعين يجيدون البكاء فقط. الإسلام يحتاج إلى أمة تجرؤ على الطاعة الكاملة.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">أَفَحُكْمَ الْجَاهِلِيَّةِ يَبْغُونَ ۚ وَمَنْ أَحْسَنُ مِنَ اللَّهِ حُكْمًا لِقَوْمٍ يُوقِنُونَ</div>
+<p style="text-align: center;"><strong>"Apakah hukum jahiliyah yang mereka kehendaki? Dan hukum siapakah yang lebih baik daripada hukum Allah bagi orang-orang yang yakin?"</strong><br>
+(QS. Al-Ma'idah: 50)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ وَيُسَلِّمُوا تَسْلِيمًا</div>
+<p style="text-align: center;"><strong>"Maka demi Tuhanmu, mereka tidak beriman hingga mereka menjadikan engkau (Muhammad) sebagai hakim dalam perkara yang mereka perselisihkan, kemudian mereka tidak merasa keberatan dalam hati terhadap putusanmu dan mereka menerima dengan sepenuhnya."</strong><br>
+(QS. An-Nisa: 65)</p>
+<br>
+<p style="text-align: center;"><strong>"Tidak ada ketaatan kepada makhluk dalam bermaksiat kepada Sang Pencipta."</strong><br>
+(HR. Ahmad dan Al-Hakim - shahih)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">أَفَحُكْمَ الْجَاهِلِيَّةِ يَبْغُونَ ۚ وَمَنْ أَحْسَنُ مِنَ اللَّهِ حُكْمًا لِقَوْمٍ يُوقِنُونَ</div>
+<p style="text-align: center;"><strong>"Then is it the judgment of [the time of] ignorance they desire? But who is better than Allah in judgment for a people who are certain [in faith]?"</strong><br>
+(QS. Al-Ma'idah: 50)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ وَيُسَلِّمُوا تَسْلِيمًا</div>
+<p style="text-align: center;"><strong>"But no, by your Lord, they will not [truly] believe until they make you, [O Muhammad], judge concerning that over which they dispute among themselves and then find within themselves no discomfort from what you have judged and submit in [full, willing] submission."</strong><br>
+(QS. An-Nisa: 65)</p>
+<br>
+<p style="text-align: center;"><strong>"There is no obedience to a creature in disobedience to the Creator."</strong><br>
+(HR. Ahmad and Al-Hakim)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">أَفَحُكْمَ الْجَاهِلِيَّةِ يَبْغُونَ ۚ وَمَنْ أَحْسَنُ مِنَ اللَّهِ حُكْمًا لِقَوْمٍ يُوقِنُونَ</div>
+<p style="text-align: center;"><strong>"أفحكم الجاهلية يبغون ومن أحسن من الله حكما لقوم يوقنون."</strong><br>
+(سورة المائدة: 50)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ وَيُسَلِّمُوا تَسْلِيمًا</div>
+<p style="text-align: center;"><strong>"فلا وربك لا يؤمنون حتى يحكموك فيما شجر بينهم ثم لا يجدوا في أنفسهم حرجاً مما قضيت ويسلموا تسليماً."</strong><br>
+(سورة النساء: 65)</p>
+<br>
+<p style="text-align: center;"><strong>"لا طاعة لمخلوق في معصية الخالق."</strong><br>
+(رواه أحمد والحاكم - صحيح)</p>`
+    }
   }
 ];
 
