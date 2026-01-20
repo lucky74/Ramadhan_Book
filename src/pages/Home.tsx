@@ -3,7 +3,7 @@ import { getCerpen } from "../data/storage";
 import { useLanguage } from "../contexts/LanguageContext";
 import OneSignal from 'react-onesignal';
 import { useState, useEffect } from "react";
-import '../styles/Home.css';
+import "../styles/Home.css";
 
 export default function Home() {
   const { t, language, setLanguage } = useLanguage();
