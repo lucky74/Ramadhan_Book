@@ -3636,6 +3636,147 @@ but an insult to the Sharia that Allah revealed.`,
 (رواه أحمد — المعنى الضمني)</p>`
     }
   },
+  {
+    id: "22",
+    title: {
+      id: "Umat Islam Sibuk Menghitung Pahala, Tapi Mengabaikan Tanggung Jawab",
+      en: "Muslims Are Busy Counting Rewards, But Ignore Responsibility",
+      ar: "المسلمون مشغولون بحساب الحسنات، لكنهم يتجاهلون المسؤولية"
+    },
+    content: {
+      id: `Hari ini umat Islam gemar menghitung pahala.
+"Shalat lima waktu sudah lengkap, zakat sudah diberikan, puasa sudah dijalankan..."
+Mereka bangga, mengutip hadits dan ayat, berbicara tentang pahala yang menumpuk, seakan itu cukup untuk menghapus tanggung jawab.
+Tetapi pahala tanpa tanggung jawab adalah ibadah yang kosong.
+Allah menurunkan syariat bukan hanya agar kita bisa "aman secara spiritual", tetapi agar kita menegakkan kebenaran di dunia nyata.
+
+Nabi ﷺ tidak pernah sibuk menghitung pahala di matanya sendiri.
+Beliau melakukan dan menegakkan amanah:
+* Menegur Quraisy yang menindas orang lemah.
+* Membela kaum miskin.
+* Menyusun perjanjian dan hukum agar keadilan ditegakkan.
+
+Para Sahabat pun sama.
+* Abu Bakar radhiyallahu ‘anhu tidak hanya shalat, tetapi menegakkan zakat, membela hak umat, dan menegur ketidakadilan di tengah masyarakat.
+* Umar bin Khattab radhiyallahu ‘anhu tidur sedikit, tetapi siaga untuk menegakkan hukum Allah dan menolong yang tertindas.
+* Abdurrahman bin Auf membagikan hartanya untuk mendukung umat dan dakwah, bukan untuk menumpuk pahala pribadi.
+
+Mereka tahu: pahala bukan tujuan akhir, tetapi aksi nyata yang menegakkan kebenaran adalah bukti iman.
+
+Hari ini umat sibuk mencatat amal di buku catatan pahala, menghafal hadits, menghadiri kajian, dan mengulang ritual tanpa mengangkat tangan menolong orang yang terdzalimi, tanpa menegur kemungkaran, tanpa memperjuangkan syariat.
+Mereka lupa: Allah menilai bukan dari jumlah ibadah ritual, tapi dari tanggung jawab yang diemban dan keberanian untuk menegakkan kebenaran.
+
+Puasa, shalat, sedekah, haji, i’tikaf—semua itu adalah sarana untuk menguatkan jiwa dan melaksanakan tanggung jawab sosial.
+Jika tidak, semua ritual hanyalah pahala yang terlepas dari realitas, seperti menabur benih di tanah batu: tidak akan tumbuh, tidak akan berbuah.
+
+Bangunlah!
+Jangan hanya sibuk menghitung pahala, sementara dunia dan umat Islam terpuruk karena ketidakpedulian kita.
+Sejarah membuktikan, umat yang tegak karena Allah, menegakkan amanah-Nya, lahir dari keberanian, tanggung jawab, dan aksi nyata.
+Jika kita lalai, pahala sebanyak apapun tidak menolong umat, dan tidak menyelamatkan diri dari kehinaan.`,
+      en: `Today, Muslims love to count rewards.
+"Five daily prayers are complete, zakat has been given, fasting has been observed..."
+They are proud, quoting hadiths and verses, talking about piling up rewards, as if that is enough to erase responsibility.
+But reward without responsibility is empty worship.
+Allah revealed Sharia not just so we can be "spiritually safe", but so we can uphold the truth in the real world.
+
+The Prophet ﷺ was never busy counting rewards in his own eyes.
+He performed and upheld the trust:
+* Rebuking the Quraysh who oppressed the weak.
+* Defending the poor.
+* Drafting treaties and laws so that justice could be upheld.
+
+The Companions were the same.
+* Abu Bakr radhiyallahu ‘anhu did not just pray, but enforced zakat, defended the rights of the Ummah, and rebuked injustice in society.
+* Umar bin Khattab radhiyallahu ‘anhu slept little, but was alert to uphold Allah's laws and help the oppressed.
+* Abdurrahman bin Auf distributed his wealth to support the Ummah and Da'wah, not to pile up personal rewards.
+
+They knew: reward is not the final goal, but real action that upholds the truth is the proof of faith.
+
+Today the Ummah is busy recording deeds in the book of rewards, memorizing hadiths, attending study circles, and repeating rituals without lifting a hand to help the oppressed, without rebuking evil, without fighting for Sharia.
+They forget: Allah judges not by the amount of ritual worship, but by the responsibility borne and the courage to uphold the truth.
+
+Fasting, prayer, charity, Hajj, I'tikaf—all are means to strengthen the soul and carry out social responsibilities.
+If not, all rituals are just rewards detached from reality, like sowing seeds on rocky ground: they will not grow, they will not bear fruit.
+
+Wake up!
+Do not just be busy counting rewards, while the world and the Muslim Ummah are slumped because of our indifference.
+History proves, an Ummah that stands for Allah, upholds His trust, is born of courage, responsibility, and real action.
+If we are negligent, no amount of reward will help the Ummah, and will not save us from humiliation.`,
+      ar: `اليوم، يحب المسلمون إحصاء الحسنات.
+"الصلوات الخمس كاملة، والزكاة أديت، والصيام قد تم..."
+إنهم يفتخرون، ويقتبسون الأحاديث والآيات، ويتحدثون عن تراكم الحسنات، وكأن ذلك يكفي لمحو المسؤولية.
+لكن الثواب بلا مسؤولية هو عبادة فارغة.
+أنزل الله الشريعة ليس فقط لنكون "آمنين روحياً"، بل لنقيم الحق في العالم الحقيقي.
+
+لم يكن النبي ﷺ مشغولاً قط بإحصاء حسناته في عينيه.
+لقد أدى الأمانة وأقامها:
+* وبخ قريشاً التي كانت تضطهد الضعفاء.
+* دافع عن الفقراء.
+* صاغ المعاهدات والقوانين لكي تقام العدالة.
+
+وكذلك كان الصحابة.
+* أبو بكر رضي الله عنه لم يكتف بالصلاة، بل أقام الزكاة، ودافع عن حقوق الأمة، وأنكر الظلم في المجتمع.
+* عمر بن الخطاب رضي الله عنه كان ينام قليلاً، لكنه كان يقظاً لإقامة حدود الله ونصرة المظلومين.
+* عبد الرحمن بن عوف وزع ماله لدعم الأمة والدعوة، وليس لتكديس الحسنات الشخصية.
+
+لقد عرفوا: الثواب ليس هو الغاية النهائية، بل العمل الحقيقي الذي يقيم الحق هو برهان الإيمان.
+
+اليوم تنشغل الأمة بتسجيل الأعمال في سجل الحسنات، وحفظ الأحاديث، وحضور مجالس العلم، وتكرار الطقوس دون أن ترفع يداً لنصرة المظلوم، ودون إنكار المنكر، ودون الكفاح من أجل الشريعة.
+ينسون: أن الله لا يحكم بمقدار العبادات الشعائرية، بل بالمسؤولية المحمولة والشجاعة في إقامة الحق.
+
+الصيام، والصلاة، والصدقة، والحج، والاعتكاف—كلها وسائل لتقوية النفس والقيام بالمسؤوليات الاجتماعية.
+وإلا، فإن كل الطقوس مجرد ثواب منفصل عن الواقع، مثل بذر البذور في أرض صخرية: لن تنبت، ولن تثمر.
+
+استيقظوا!
+لا تنشغلوا فقط بإحصاء الحسنات، بينما العالم والأمة الإسلامية في تدهور بسبب لا مبالاتنا.
+التاريخ يثبت أن الأمة التي تقوم لله، وتقيم أمانته، تولد من الشجاعة، والمسؤولية، والعمل الحقيقي.
+إذا غفلنا، فلن ينفع الأمة أي قدر من الثواب، ولن ينجينا من الذل.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">فَاسْتَبِقُوا الْخَيْرَاتِ</div>
+<p style="text-align: center;"><strong>"Maka berlomba-lombalah kamu dalam kebaikan."</strong><br>
+(QS. Al-Baqarah: 148)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا</div>
+<p style="text-align: center;"><strong>"Allah tidak membebani seseorang melainkan sesuai kemampuannya."</strong><br>
+(QS. Al-Baqarah: 286)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ، وَذَلِكَ أَضْعَفُ الْإِيمَانِ</div>
+<p style="text-align: center;"><strong>"Barang siapa di antara kalian melihat kemungkaran, hendaklah ia mengubahnya dengan tangannya; jika tidak mampu, maka dengan lisannya; dan jika tidak mampu, maka dengan hatinya—dan itu adalah selemah-lemahnya iman."</strong><br>
+(HR. Muslim)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<p style="text-align: center;"><strong>"Amal terbaik adalah yang paling bermanfaat bagi manusia."</strong><br>
+(HR. Ahmad — makna tersirat)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">فَاسْتَبِقُوا الْخَيْرَاتِ</div>
+<p style="text-align: center;"><strong>"So race to [all that is] good."</strong><br>
+(QS. Al-Baqarah: 148)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا</div>
+<p style="text-align: center;"><strong>"Allah does not charge a soul except [with that within] its capacity."</strong><br>
+(QS. Al-Baqarah: 286)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ، وَذَلِكَ أَضْعَفُ الْإِيمَانِ</div>
+<p style="text-align: center;"><strong>"Whoever among you sees an evil, let him change it with his hand; if he cannot, then with his tongue; and if he cannot, then with his heart—and that is the weakest of faith."</strong><br>
+(HR. Muslim)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<p style="text-align: center;"><strong>"The best of deeds is that which is most beneficial to people."</strong><br>
+(HR. Ahmad — implied meaning)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">فَاسْتَبِقُوا الْخَيْرَاتِ</div>
+<p style="text-align: center;"><strong>"فاستبقوا الخيرات."</strong><br>
+(سورة البقرة: 148)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا</div>
+<p style="text-align: center;"><strong>"لا يكلف الله نفسا إلا وسعها."</strong><br>
+(سورة البقرة: 286)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ، وَذَلِكَ أَضْعَفُ الْإِيمَانِ</div>
+<p style="text-align: center;"><strong>"من رأى منكم منكرا فليغيره بيده، فإن لم يستطع فبلسانه، فإن لم يستطع فبقلبه، وذلك أضعف الإيمان."</strong><br>
+(رواه مسلم)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<p style="text-align: center;"><strong>"خير الأعمال أنفعها للناس."</strong><br>
+(رواه أحمد — المعنى الضمني)</p>`
+    }
+  },
 ];
 
 export function getCerpen(): Cerpen[] {
