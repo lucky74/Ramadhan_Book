@@ -1961,6 +1961,222 @@ Because Allah only helps people who are ready to lose the world, to win the Here
       <p style="text-align: center;"><strong>"من كانت الدنيا همه فرق الله عليه أمره وجعل فقره بين عينيه."</strong><br>
       (رواه ابن ماجه - حسن)</p>`
     }
+  },
+  {
+    id: "14",
+    title: {
+      id: "Takut Mati, Lalu Ingin Masuk Surga",
+      en: "Afraid of Death, Yet Wanting to Enter Paradise",
+      ar: "تخاف الموت، وتريد دخول الجنة"
+    },
+    content: {
+      id: `Umat Islam hari ini memiliki keinginan besar, tetapi keberanian yang kecil.
+Ingin surga tertinggi, tetapi takut pada kematian yang pasti.
+Ingin kemenangan Islam, tetapi gentar pada risiko sekecil apa pun.
+Inilah paradoks paling memalukan dalam sejarah umat:
+takut mati, tetapi ingin masuk surga.
+Surga bukan hadiah gratis bagi pengecut.
+Surga bukan bonus untuk orang yang ingin aman.
+Surga bukan milik mereka yang hanya berani berdoa, tapi takut berjuang.
+
+Nabi Muhammad ﷺ dan para sahabat memahami satu hukum yang hari ini dihindari umat Islam:
+surga selalu dibayar dengan keberanian.
+
+Hari ini umat Islam ingin Islam berjaya, tapi:
+* tidak siap kehilangan kenyamanan,
+* tidak siap kehilangan citra diri,
+* tidak siap kehilangan rasa aman.
+
+Padahal Islam tidak pernah dibangun oleh orang-orang yang ingin hidup panjang dalam kenyamanan.
+Islam dibangun oleh orang-orang yang siap mati demi kebenaran.
+Umat hari ini menangis ketika ada berita kematian,
+tetapi lupa bahwa kematian adalah pintu satu-satunya menuju surga.
+Mereka takut mati, seolah-olah kematian adalah musuh.
+Padahal bagi orang beriman, kematian adalah janji pertemuan dengan Allah.
+
+Mengapa umat Islam takut mati?
+Karena dunia terlalu dicintai.
+Karena akhirat terlalu jarang dipikirkan.
+Karena iman tidak pernah ditempa dengan ujian nyata.
+Mereka ingin pahala tanpa luka.
+Ingin kemenangan tanpa pengorbanan.
+Ingin surga tanpa jihad melawan hawa nafsu, ketakutan, dan kemalasan.
+
+Padahal Nabi ﷺ tidak pernah menjanjikan surga bagi orang yang ingin aman.
+Beliau menjanjikan surga bagi mereka yang menjual dunia demi akhirat.
+
+Hari ini umat Islam sibuk memperpanjang umur,
+tetapi lupa memperberat amal.
+Sibuk menjaga badan,
+tetapi lalai menjaga iman.
+Mereka berkata, "Yang penting ibadah."
+Namun ketika iman menuntut keberanian, mereka mundur.
+Ketika kebenaran membutuhkan sikap, mereka diam.
+Ketika Islam dihina, mereka memilih netral.
+
+Lalu dengan penuh percaya diri berkata: "Kami ingin masuk surga."
+Surga bukan milik orang yang paling banyak alasan,
+tetapi milik orang yang paling siap berkorban.
+
+Jika umat Islam masih takut mati,
+maka jangan heran jika hidupnya hina.
+Karena kehinaan adalah harga bagi umat yang lari dari keberanian.`,
+      en: `Muslims today have great desires, but small courage.
+Wanting the highest Paradise, but afraid of certain death.
+Wanting the victory of Islam, but terrified of even the slightest risk.
+This is the most shameful paradox in the history of the Ummah:
+afraid of death, but wanting to enter Paradise.
+Paradise is not a free gift for cowards.
+Paradise is not a bonus for those who want to be safe.
+Paradise does not belong to those who only dare to pray, but are afraid to struggle.
+
+Prophet Muhammad ﷺ and the companions understood one law that is avoided by Muslims today:
+Paradise is always paid for with courage.
+
+Today Muslims want Islam to triumph, but:
+* are not ready to lose comfort,
+* are not ready to lose self-image,
+* are not ready to lose the sense of security.
+
+Yet Islam was never built by people who wanted to live long in comfort.
+Islam was built by people who were ready to die for the truth.
+The Ummah today cries when there is news of death,
+but forgets that death is the only door to Paradise.
+They fear death, as if death is an enemy.
+Whereas for a believer, death is a promise of meeting with Allah.
+
+Why are Muslims afraid of death?
+Because the world is loved too much.
+Because the Hereafter is too rarely thought of.
+Because faith is never forged with real trials.
+They want reward without wounds.
+Want victory without sacrifice.
+Want Paradise without jihad against lust, fear, and laziness.
+
+Yet the Prophet ﷺ never promised Paradise to people who want to be safe.
+He promised Paradise to those who sell the world for the Hereafter.
+
+Today Muslims are busy extending life,
+but forget to weigh down deeds.
+Busy guarding the body,
+but negligent in guarding faith.
+They say, "The important thing is worship."
+But when faith demands courage, they retreat.
+When truth requires a stance, they remain silent.
+When Islam is insulted, they choose to be neutral.
+
+Then with full confidence say: "We want to enter Paradise."
+Paradise does not belong to the person with the most excuses,
+but belongs to the person most ready to sacrifice.
+
+If Muslims are still afraid of death,
+then do not be surprised if their life is humiliated.
+Because humiliation is the price for a people who run away from courage.`,
+      ar: `المسلمون اليوم لديهم رغبات كبيرة، لكن شجاعتهم صغيرة.
+يريدون الفردوس الأعلى، لكنهم يخافون من الموت المحتوم.
+يريدون نصر الإسلام، لكنهم يرتعدون من أي مخاطرة مهما كانت صغيرة.
+هذه هي المفارقة الأكثر خزياً في تاريخ الأمة:
+يخافون الموت، لكنهم يريدون دخول الجنة.
+الجنة ليست هدية مجانية للجبناء.
+الجنة ليست مكافأة لمن يريد الأمان.
+الجنة ليست ملكاً لمن يجرؤ فقط على الدعاء، لكنه يخاف النضال.
+
+النبي محمد ﷺ والصحابة فهموا قانوناً واحداً يتجنبه المسلمون اليوم:
+الجنة تُدفع دائماً بالشجاعة.
+
+اليوم يريد المسلمون أن ينتصر الإسلام، لكنهم:
+* ليسوا مستعدين لفقدان الراحة،
+* ليسوا مستعدين لفقدان الصورة الذاتية،
+* ليسوا مستعدين لفقدان الشعور بالأمان.
+
+ومع ذلك، لم يُبن الإسلام أبداً بأيدي أناس أرادوا العيش طويلاً في راحة.
+بُني الإسلام بأيدي أناس كانوا مستعدين للموت من أجل الحق.
+تبكي الأمة اليوم عند سماع أخبار الموت،
+لكنها تنسى أن الموت هو الباب الوحيد إلى الجنة.
+يخافون الموت، وكأن الموت عدو.
+بينما بالنسبة للمؤمن، الموت هو وعد بلقاء الله.
+
+لماذا يخاف المسلمون الموت؟
+لأن الدنيا محبوبة جداً.
+لأن الآخرة نادراً ما يتم التفكير فيها.
+لأن الإيمان لم يُصقل أبداً باختبارات حقيقية.
+يريدون الثواب بلا جراح.
+يريدون النصر بلا تضحية.
+يريدون الجنة بلا جهاد ضد الهوى والخوف والكسل.
+
+ومع ذلك، لم يعد النبي ﷺ بالجنة لمن يريد الأمان.
+لقد وعد بالجنة لمن يبيع الدنيا بالآخرة.
+
+اليوم ينشغل المسلمون بإطالة العمر،
+لكنهم ينسون تثقيل الأعمال.
+ينشغلون بحماية الجسد،
+لكنهم يغفلون عن حماية الإيمان.
+يقولون: "المهم العبادة".
+لكن عندما يطلب الإيمان الشجاعة، يتراجعون.
+عندما تتطلب الحقيقة موقفاً، يصمتون.
+عندما يُهان الإسلام، يختارون الحياد.
+
+ثم بكل ثقة يقولون: "نريد دخول الجنة".
+الجنة ليست ملكاً لمن لديه أعذار كثيرة،
+بل هي ملك لمن هو أكثر استعداداً للتضحية.
+
+إذا كان المسلمون لا يزالون يخافون الموت،
+فلا تعجبوا إذا كانت حياتهم مهينة.
+لأن الذل هو ثمن الأمة التي تهرب من الشجاعة.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ الَّذِينَ خَلَوْا مِن قَبْلِكُم ۖ مَّسَّتْهُمُ الْبَأْسَاءُ وَالضَّرَّاءُ وَزُلْزِلُوا حَتَّىٰ يَقُولَ الرَّسُولُ وَالَّذِينَ آمَنُوا مَعَهُ مَتَىٰ نَصْرُ اللَّهِ ۗ أَلَا إِنَّ نَصْرَ اللَّهِ قَرِيبٌ</div>
+      <p style="text-align: center;"><strong>"Apakah kamu mengira akan masuk surga, padahal belum datang kepadamu cobaan sebagaimana yang dialami orang-orang sebelum kamu? Mereka ditimpa kesengsaraan dan penderitaan serta diguncangkan (dengan berbagai cobaan), sehingga Rasul dan orang-orang yang beriman bersamanya berkata: 'Kapankah datang pertolongan Allah?' Ingatlah, sesungguhnya pertolongan Allah itu dekat."</strong><br>
+      (QS. Al-Baqarah: 214)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَعْلَمِ اللَّهُ الَّذِينَ جَاهَدُوا مِنكُمْ وَيَعْلَمَ الصَّابِرِينَ</div>
+      <p style="text-align: center;"><strong>"Apakah kamu mengira bahwa kamu akan masuk surga, padahal Allah belum mengetahui (dalam kenyataan) orang-orang yang berjihad di antara kamu dan belum mengetahui orang-orang yang sabar?"</strong><br>
+      (QS. Ali 'Imran: 142)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">إِنَّ اللَّهَ اشْتَرَىٰ مِنَ الْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَالَهُم بِأَنَّ لَهُمُ الْجَنَّةَ ۚ يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ ۖ وَعْدًا عَلَيْهِ حَقًّا فِي التَّوْرَاةِ وَالْإِنجِيلِ وَالْقُرْآنِ</div>
+      <p style="text-align: center;"><strong>"Sesungguhnya Allah telah membeli dari orang-orang mukmin diri dan harta mereka dengan memberikan surga untuk mereka. Mereka berperang di jalan Allah; lalu mereka membunuh atau terbunuh. (Itu telah menjadi) janji yang benar dari Allah dalam Taurat, Injil, dan Al-Qur'an."</strong><br>
+      (QS. At-Taubah: 111)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Ketahuilah, sesungguhnya barang dagangan Allah itu mahal. Ketahuilah, sesungguhnya barang dagangan Allah adalah surga."</strong><br>
+      (HR. Tirmidzi - hasan shahih)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Barang siapa yang mati dan belum pernah berjihad serta tidak pernah terbersit dalam hatinya untuk berjihad, maka ia mati di atas satu cabang kemunafikan."</strong><br>
+      (HR. Muslim - shahih)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ الَّذِينَ خَلَوْا مِن قَبْلِكُم ۖ مَّسَّتْهُمُ الْبَأْسَاءُ وَالضَّرَّاءُ وَزُلْزِلُوا حَتَّىٰ يَقُولَ الرَّسُولُ وَالَّذِينَ آمَنُوا مَعَهُ مَتَىٰ نَصْرُ اللَّهِ ۗ أَلَا إِنَّ نَصْرَ اللَّهِ قَرِيبٌ</div>
+      <p style="text-align: center;"><strong>"Or do you think that you will enter Paradise while such [trial] has not yet come to you as came to those who passed on before you? They were touched by poverty and hardship and were shaken until [even their] messenger and those who believed with him said, 'When is the help of Allah?' Unquestionably, the help of Allah is near."</strong><br>
+      (QS. Al-Baqarah: 214)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَعْلَمِ اللَّهُ الَّذِينَ جَاهَدُوا مِنكُمْ وَيَعْلَمَ الصَّابِرِينَ</div>
+      <p style="text-align: center;"><strong>"Or do you think that you will enter Paradise while Allah has not yet made evident those of you who fight in His cause and made evident those who are steadfast?"</strong><br>
+      (QS. Ali 'Imran: 142)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">إِنَّ اللَّهَ اشْتَرَىٰ مِنَ الْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَالَهُم بِأَنَّ لَهُمُ الْجَنَّةَ ۚ يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ ۖ وَعْدًا عَلَيْهِ حَقًّا فِي التَّوْرَاةِ وَالْإِنجِيلِ وَالْقُرْآنِ</div>
+      <p style="text-align: center;"><strong>"Indeed, Allah has purchased from the believers their lives and their properties [in exchange] for that they will have Paradise. They fight in the cause of Allah, so they kill and are killed. [It is] a true promise binding upon Him in the Torah and the Gospel and the Qur'an."</strong><br>
+      (QS. At-Taubah: 111)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Ketahuilah, sesungguhnya barang dagangan Allah itu mahal. Ketahuilah, sesungguhnya barang dagangan Allah adalah surga."</strong><br>
+      (HR. Tirmidzi)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Whoever dies without having fought in the way of Allah nor did he express any desire (or determination) for Jihâd, has died upon a branch of hypocrisy."</strong><br>
+      (HR. Muslim)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ الَّذِينَ خَلَوْا مِن قَبْلِكُم ۖ مَّسَّتْهُمُ الْبَأْسَاءُ وَالضَّرَّاءُ وَزُلْزِلُوا حَتَّىٰ يَقُولَ الرَّسُولُ وَالَّذِينَ آمَنُوا مَعَهُ مَتَىٰ نَصْرُ اللَّهِ ۗ أَلَا إِنَّ نَصْرَ اللَّهِ قَرِيبٌ</div>
+      <p style="text-align: center;"><strong>"أم حسبتم أن تدخلوا الجنة ولما يأتكم مثل الذين خلوا من قبلكم مستهم البأساء والضراء وزلزلوا حتى يقول الرسول والذين آمنوا معه متى نصر الله ألا إن نصر الله قريب."</strong><br>
+      (سورة البقرة: 214)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَعْلَمِ اللَّهُ الَّذِينَ جَاهَدُوا مِنكُمْ وَيَعْلَمَ الصَّابِرِينَ</div>
+      <p style="text-align: center;"><strong>"أم حسبتم أن تدخلوا الجنة ولما يعلم الله الذين جاهدوا منكم ويعلم الصابرين."</strong><br>
+      (سورة آل عمران: 142)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">إِنَّ اللَّهَ اشْتَرَىٰ مِنَ الْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَالَهُم بِأَنَّ لَهُمُ الْجَنَّةَ ۚ يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ ۖ وَعْدًا عَلَيْهِ حَقًّا فِي التَّوْرَاةِ وَالْإِنجِيلِ وَالْقُرْآنِ</div>
+      <p style="text-align: center;"><strong>"إن الله اشترى من المؤمنين أنفسهم وأموالهم بأن لهم الجنة يقاتلون في سبيل الله فيقتلون ويقتلون وعدا عليه حقا في التوراة والإنجيل والقرآن."</strong><br>
+      (سورة التوبة: 111)</p>
+      <br>
+      <p style="text-align: center;"><strong>"ألا إن سلعة الله غالية، ألا إن سلعة الله الجنة."</strong><br>
+      (رواه الترمذي - حسن صحيح)</p>
+      <br>
+      <p style="text-align: center;"><strong>"من مات ولم يغز، ولم يحدث به نفسه، مات على شعبة من نفاق."</strong><br>
+      (رواه مسلم - صحيح)</p>`
+    }
   }
 ];
 
