@@ -1,15 +1,33 @@
 import { Link } from "react-router-dom";
 import { getCerpen } from "../data/storage";
 import { useLanguage } from "../contexts/LanguageContext";
+import { useTheme } from "../contexts/ThemeContext";
 import OneSignal from 'react-onesignal';
 import { useState, useEffect } from "react";
 import "../styles/Home.css";
 
 export default function Home() {
   const { t, language, setLanguage } = useLanguage();
+  const { theme, toggleTheme } = useTheme();
   const cerpenList = getCerpen();
   const days = Array.from({ length: 30 }, (_, i) => i + 1);
   const [notifEnabled, setNotifEnabled] = useState(false);
+  const [searchQuery, setSearchQuery] = useState("");
+
+  const filteredDays = days.filter(day => {
+    if (!searchQuery) return true;
+    
+    const id = day.toString();
+    const cerpen = cerpenList.find(c => c.id === id);
+    
+    if (!cerpen) return false;
+    
+    const query = searchQuery.toLowerCase();
+    const title = cerpen.title[language].toLowerCase();
+    const content = cerpen.content[language].toLowerCase();
+    
+    return title.includes(query) || content.includes(query);
+  });
 
   useEffect(() => {
     // Cek status notifikasi
