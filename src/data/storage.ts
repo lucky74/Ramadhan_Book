@@ -2971,7 +2971,7 @@ but its people are humiliated.`,
     content: {
       id: `Islam tidak membutuhkan kita.
 Sejarah telah membuktikan: meski umat lemah, meski pengikut sedikit, Islam tetap menang.
-Nabi ﷺ memimpin umat kecil di Makkah,
+Nabi ﷺ memimpin umat kecil di Madinah,
 300 orang melawan ribuan musuh di Badar.
 Meski secara logika manusia mereka harus kalah,
 Iman dan Takwa menegakkan kemenangan.
@@ -3009,7 +3009,7 @@ Dan itu yang paling menyakitkan:
 Islam akan terus mulia, tetapi kita bisa tetap hina.`,
       en: `Islam does not need us.
 History has proven: even if the Ummah is weak, even if the followers are few, Islam still wins.
-The Prophet ﷺ led a small community in Mecca,
+The Prophet ﷺ led a small community in Medina,
 300 people against thousands of enemies in Badr.
 Although by human logic they should have lost,
 Faith and Taqwa established victory.
@@ -3047,7 +3047,7 @@ And that is the most painful thing:
 Islam will continue to be noble, but we can remain humiliated.`,
       ar: `الإسلام لا يحتاج إلينا.
 لقد أثبت التاريخ: حتى لو كانت الأمة ضعيفة، وحتى لو كان الأتباع قلة، فإن الإسلام ينتصر.
-قاد النبي ﷺ أمة صغيرة في مكة،
+قاد النبي ﷺ أمة صغيرة في المدينة،
 300 رجل ضد آلاف الأعداء في بدر.
 على الرغم من أنهم بالمنطق البشري كان يجب أن يهزموا،
 إلا أن الإيمان والتقوى حققا النصر.
