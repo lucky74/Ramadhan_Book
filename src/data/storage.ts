@@ -4538,8 +4538,7 @@ but rather:
       ar: "عملاق نائم في جسد قزم"
     },
     content: {
-      id: `Malam ke-29 Ramadhan.
-Di luar tembok Konstantinopel yang menjulang angkuh, seorang pemuda berusia 21 tahun tidak memejamkan mata. Ia bukan terjaga karena hiburan. Bukan karena layar yang menyala, bukan karena tawa kosong, bukan pula karena keresahan remeh.
+      id: `Di luar tembok Konstantinopel yang menjulang angkuh, seorang pemuda berusia 21 tahun tidak memejamkan mata. Ia bukan terjaga karena hiburan. Bukan karena layar yang menyala, bukan karena tawa kosong, bukan pula karena keresahan remeh.
 
 Namanya Muhammad Al-Fatih.
 
