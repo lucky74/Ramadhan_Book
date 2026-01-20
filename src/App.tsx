@@ -15,10 +15,6 @@ export default function App() {
         await OneSignal.init({
           appId: "1817f5d4-757d-418f-9926-f94ca84fa720",
           allowLocalhostAsSecureOrigin: true,
-          // Opsi tambahan untuk memastikan notifikasi muncul
-          notifyButton: {
-            enable: true, // Menampilkan lonceng (opsional, bisa dimatikan nanti)
-          },
         });
 
         // Event listener untuk notifikasi saat aplikasi sedang dibuka (Foreground)
