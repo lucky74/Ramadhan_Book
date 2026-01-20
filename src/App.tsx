@@ -5,6 +5,7 @@ import Reader from "./pages/Reader";
 import Admin from "./pages/Admin";
 import MurotalPlayer from "./components/MurotalPlayer";
 import { LanguageProvider } from "./contexts/LanguageContext";
+import { ThemeProvider } from "./contexts/ThemeContext";
 import OneSignal from 'react-onesignal';
 
 export default function App() {
