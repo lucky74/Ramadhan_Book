@@ -1280,6 +1280,105 @@ Islam does not need defenders who are only good at crying. Islam needs an Ummah 
 <p style="text-align: center;"><strong>"لا طاعة لمخلوق في معصية الخالق."</strong><br>
 (رواه أحمد والحاكم - صحيح)</p>`
     }
+  },
+  {
+    id: "9",
+    title: {
+      id: "Jihad yang Ditinggalkan, Lalu Diganti dengan Ceramah",
+      en: "Jihad Abandoned, Then Replaced with Lectures",
+      ar: "الجهاد المتروك، ثم استبدل بالمحاضرات"
+    },
+    content: {
+      id: `Umat Islam hari ini gemar berbicara. Mimbar penuh, kanal digital ramai, pengikut berderet. Ceramah berpindah dari masjid ke layar, dari majelis ke panggung popularitas. Namun di balik semua keramaian itu, ada satu kewajiban yang sunyi: jihad yang ditinggalkan.
+
+Bukan karena tidak tahu. Bukan karena tidak mampu berbicara. Tetapi karena lebih nyaman berhenti pada kata-kata. Jihad direduksi menjadi istilah sensitif, lalu disimpan rapi agar tidak mengganggu kenyamanan. Sebagai gantinya, umat berbangga dengan ceramah—seolah banyaknya pendengar adalah ukuran ketaatan.
+
+Padahal dakwah bukan sekadar menyampaikan. Dakwah adalah menggerakkan. Dan jihad bukan sekadar konflik fisik, melainkan kesungguhan total menegakkan kebenaran, dengan pengorbanan, disiplin, dan keberanian menanggung risiko. Ketika jihad ditinggalkan, ceramah berubah menjadi pelarian.
+
+Tidak ada contoh dari Nabi ﷺ dan para sahabat yang menjadikan ceramah sebagai tujuan akhir. Mereka berdakwah, lalu berjuang. Mereka berbicara, lalu bertindak. Mereka mengajarkan iman, lalu mempertaruhkan hidup, harta, dan kenyamanan demi tegaknya Islam.
+
+Hari ini urutannya dibalik. Banyak yang mengajar, sedikit yang siap berkorban. Banyak yang mengingatkan, sedikit yang berani memikul konsekuensi. Bahkan keberanian sering diukur dari seberapa aman materi disampaikan, bukan seberapa benar ia ditegakkan.
+
+Lebih ironis lagi, ceramah sering dipakai untuk menunda kewajiban. Dengan dalih hikmah, umat diminta menunggu. Dengan alasan situasi, kebenaran diminta beradaptasi. Dengan kata sabar, kezaliman diminta dimaklumi. Inilah saat ketika kata-kata menjadi pengganti tindakan.
+
+Nabi ﷺ tidak membangun umat dengan retorika kosong. Beliau membangun generasi yang siap diuji. Ramadhan pertama umat Islam justru dihadapkan pada ujian berat, bukan euforia spiritual. Iman mereka diuji dengan pengorbanan nyata, bukan dengan tepuk tangan.
+
+Jihad adalah kewajiban setiap Muslim sesuai kapasitasnya. Ia tidak bisa dipensiunkan oleh popularitas, dan tidak bisa digantikan oleh keramaian pengikut. Dakwah tanpa jihad melahirkan umat yang fasih, tetapi lemah. Jihad tanpa dakwah melahirkan kekerasan. Islam memerintahkan keduanya berjalan bersama.
+
+Ramadhan bukan panggung untuk merasa cukup dengan kata-kata. Ia adalah sekolah untuk menyiapkan keberanian. Jika setelah Ramadhan kita hanya lebih pandai berbicara, tetapi tetap enggan berjuang, maka yang bertambah bukan iman, melainkan ilusi.
+
+Berhentilah bangga pada ceramah yang aman. Ukur iman dengan kesiapan berkorban. Karena Islam tidak ditegakkan oleh suara yang nyaring, tetapi oleh komitmen yang mahal.`,
+      en: `Muslims today love to speak. Pulpits are full, digital channels are busy, followers are lined up. Lectures move from mosques to screens, from assemblies to stages of popularity. But behind all that noise, there is one silent obligation: abandoned jihad.
+
+Not because of ignorance. Not because of inability to speak. But because it is more comfortable to stop at words. Jihad is reduced to a sensitive term, then stored neatly so as not to disturb comfort. In exchange, the Ummah takes pride in lectures—as if the number of listeners is the measure of obedience.
+
+Whereas da'wah is not just conveying. Da'wah is moving. And jihad is not just physical conflict, but total seriousness in upholding the truth, with sacrifice, discipline, and courage to bear risks. When jihad is abandoned, lectures turn into an escape.
+
+There is no example from the Prophet ﷺ and the companions who made lectures the final goal. They preached, then struggled. They spoke, then acted. They taught faith, then risked life, wealth, and comfort for the establishment of Islam.
+
+Today the order is reversed. Many teach, few are ready to sacrifice. Many remind, few dare to bear the consequences. Even courage is often measured by how safely the material is delivered, not how truly it is upheld.
+
+Even more ironic, lectures are often used to delay obligations. Under the pretext of wisdom, the Ummah is asked to wait. Under the excuse of the situation, the truth is asked to adapt. With the word patience, injustice is asked to be tolerated. This is the time when words become a substitute for action.
+
+The Prophet ﷺ did not build the Ummah with empty rhetoric. He built a generation ready to be tested. The first Ramadan of the Muslims was faced with a heavy test, not spiritual euphoria. Their faith was tested with real sacrifice, not with applause.
+
+Jihad is the duty of every Muslim according to their capacity. It cannot be retired by popularity, and cannot be replaced by the crowd of followers. Da'wah without jihad gives birth to an eloquent but weak Ummah. Jihad without da'wah gives birth to violence. Islam commands both to walk together.
+
+Ramadan is not a stage to feel sufficient with words. It is a school to prepare courage. If after Ramadan we are only better at speaking, but remain reluctant to struggle, then what increases is not faith, but illusion.
+
+Stop being proud of safe lectures. Measure faith by readiness to sacrifice. Because Islam is not upheld by loud voices, but by expensive commitment.`,
+      ar: `المسلمون اليوم يحبون الكلام. المنابر ممتلئة، والقنوات الرقمية مزدحمة، والمتابعون مصطفون. انتقلت المحاضرات من المساجد إلى الشاشات، ومن المجالس إلى مسارح الشهرة. لكن خلف كل هذا الصخب، هناك فريضة صامتة: الجهاد المتروك.
+
+ليس بسبب الجهل. ليس بسبب العجز عن الكلام. بل لأنه من الأريح التوقف عند الكلمات. تم اختزال الجهاد ليصبح مصطلحاً حساساً، ثم حفظ بعناية حتى لا يزعج الراحة. وكبديل، تفتخر الأمة بالمحاضرات - وكأن كثرة المستمعين هي مقياس الطاعة.
+
+بينما الدعوة ليست مجرد تبليغ. الدعوة هي تحريك. والجهاد ليس مجرد صراع جسدي، بل هو الجدية التامة في إقامة الحق، بالتضحية، والانضباط، والشجاعة في تحمل المخاطر. عندما يُترك الجهاد، تتحول المحاضرات إلى هروب.
+
+لا يوجد مثال من النبي ﷺ والصحابة جعلوا المحاضرات هي الغاية النهائية. كانوا يدعون، ثم يجاهدون. كانوا يتكلمون، ثم يعملون. كانوا يعلمون الإيمان، ثم يخاطرون بالحياة والمال والراحة من أجل إقامة الإسلام.
+
+اليوم انقلب الترتيب. كثر المعلمون، وقل المستعدون للتضحية. كثر المذكرون، وقل من يجرؤ على تحمل العواقب. حتى الشجاعة غالباً ما تقاس بمدى أمان تقديم المادة، وليس بمدى صحة إقامتها.
+
+والأكثر سخرية، أن المحاضرات غالباً ما تستخدم لتأخير الواجبات. بذريعة الحكمة، يُطلب من الأمة الانتظار. وبحجة الوضع، يُطلب من الحق أن يتكيف. وبكلمة الصبر، يُطلب من الظلم أن يُحتمل. هذا هو الوقت الذي تصبح فيه الكلمات بديلاً عن العمل.
+
+لم يبن النبي ﷺ الأمة بخطب جوفاء. بنى جيلاً مستعداً للاختبار. واجه المسلمون في رمضانهم الأول اختباراً ثقيلاً، وليس نشوة روحية. اختُبر إيمانهم بتضحية حقيقية، وليس بالتصفيق.
+
+الجهاد واجب على كل مسلم حسب قدرته. لا يمكن أن يتقاعد بسبب الشهرة، ولا يمكن استبداله بجمهور المتابعين. الدعوة بلا جهاد تلد أمة فصيحة ولكن ضعيفة. والجهاد بلا دعوة يلد عنفاً. يأمر الإسلام بأن يسير الاثنان معاً.
+
+رمضان ليس مسرحاً للاكتفاء بالكلمات. إنه مدرسة لإعداد الشجاعة. إذا أصبحنا بعد رمضان أجود حديثاً فقط، لكننا بقينا مترددين في الكفاح، فإن ما زاد ليس الإيمان، بل الوهم.
+
+توقفوا عن الفخر بالمحاضرات الآمنة. قيسوا الإيمان بالاستعداد للتضحية. لأن الإسلام لا يقام بالأصوات العالية، بل بالالتزام الغالي.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَyyuhalladzīna āmanū hal adullukum 'alā tijāratin tunjīkum min 'adzābin alīm. Tu'minūna billāhi wa rasūlihi wa tujāhidūna fī sabīlillāhi bi amwālikum wa anfusikum.</div>
+<p style="text-align: center;"><strong>"Wahai orang-orang yang beriman! Maukah Aku tunjukkan suatu perdagangan yang dapat menyelamatkan kamu dari azab yang pedih? (Yaitu) kamu beriman kepada Allah dan Rasul-Nya dan berjihad di jalan Allah dengan harta dan jiwamu. Itulah yang lebih baik bagimu jika kamu mengetahui."</strong><br>
+(QS. Ash-Shaff: 10–11)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا</div>
+<p style="text-align: center;"><strong>"Sungguh, telah ada pada diri Rasulullah itu suri teladan yang baik bagimu, (yaitu) bagi orang yang mengharap (rahmat) Allah dan (kedatangan) hari kiamat serta banyak mengingat Allah."</strong><br>
+(QS. Al-Ahzab: 21)</p>
+<br>
+<p style="text-align: center;"><strong>"Barang siapa di antara kalian melihat kemungkaran, hendaklah ia mengubahnya dengan tangannya; jika tidak mampu maka dengan lisannya; jika tidak mampu maka dengan hatinya, dan itu adalah selemah-lemahnya iman."</strong><br>
+(HR. Muslim)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَyyuhalladzīna āmanū hal adullukum 'alā tijāratin tunjīkum min 'adzābin alīm. Tu'minūna billāhi wa rasūlihi wa tujāhidūna fī sabīlillāhi bi amwālikum wa anfusikum.</div>
+<p style="text-align: center;"><strong>"O you who have believed, shall I guide you to a transaction that will save you from a painful punishment? [It is that] you believe in Allah and His Messenger and strive in the cause of Allah with your wealth and your lives. That is best for you, if you should know."</strong><br>
+(QS. As-Saff: 10–11)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا</div>
+<p style="text-align: center;"><strong>"There has certainly been for you in the Messenger of Allah an excellent pattern for anyone whose hope is in Allah and the Last Day and [who] remembers Allah often."</strong><br>
+(QS. Al-Ahzab: 21)</p>
+<br>
+<p style="text-align: center;"><strong>"Whoever among you sees an evil, let him change it with his hand; if he cannot, then with his tongue; and if he cannot, then with his heart—and that is the weakest of faith."</strong><br>
+(Hadith Muslim)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا هَلْ أَدُلُّكُمْ عَلَىٰ تِجَارَةٍ تُنْجِيكُمْ مِنْ عَذَابٍ أَلِيمٍ * تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ</div>
+<p style="text-align: center;"><strong>"يا أيها الذين آمنوا هل أدلكم على تجارة تنجيكم من عذاب أليم. تؤمنون بالله ورسوله وتجاهدون في سبيل الله بأموالكم وأنفسكم. ذلكم خير لكم إن كنتم تعلمون."</strong><br>
+(سورة الصف: 10-11)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا</div>
+<p style="text-align: center;"><strong>"لقد كان لكم في رسول الله أسوة حسنة لمن كان يرجو الله واليوم الآخر وذكر الله كثيرا."</strong><br>
+(سورة الأحزاب: 21)</p>
+<br>
+<p style="text-align: center;"><strong>"من رأى منكم منكراً فليغيره بيده، فإن لم يستطع فبلسانه، فإن لم يستطع فبقلبه، وذلك أضعف الإيمان."</strong><br>
+(رواه مسلم)</p>`
+    }
   }
 ];
 
