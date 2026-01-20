@@ -10,15 +10,31 @@ import OneSignal from 'react-onesignal';
 export default function App() {
   useEffect(() => {
     // Inisialisasi OneSignal
-    // Catatan: Ganti 'YOUR-ONESIGNAL-APP-ID' dengan App ID asli Anda dari dashboard OneSignal
-    try {
-      OneSignal.init({
-        appId: "1817f5d4-757d-418f-9926-f94ca84fa720",
-        allowLocalhostAsSecureOrigin: true,
-      });
-    } catch (error) {
-      console.log("OneSignal init error (expected if no App ID provided):", error);
-    }
+    const initOneSignal = async () => {
+      try {
+        await OneSignal.init({
+          appId: "1817f5d4-757d-418f-9926-f94ca84fa720",
+          allowLocalhostAsSecureOrigin: true,
+          // Opsi tambahan untuk memastikan notifikasi muncul
+          notifyButton: {
+            enable: true, // Menampilkan lonceng (opsional, bisa dimatikan nanti)
+          },
+        });
+
+        // Event listener untuk notifikasi saat aplikasi sedang dibuka (Foreground)
+        OneSignal.Notifications.addEventListener('foregroundWillDisplay', (event) => {
+          console.log("Notifikasi diterima saat aplikasi terbuka:", event);
+          // Pastikan notifikasi tetap muncul
+          // event.preventDefault(); // Jangan panggil ini jika ingin notifikasi tampil
+        });
+
+        console.log("OneSignal initialized");
+      } catch (error) {
+        console.log("OneSignal init error:", error);
+      }
+    };
+
+    initOneSignal();
   }, []);
 
   return (
