@@ -4533,229 +4533,154 @@ but rather:
   {
     id: "29",
     title: {
-      id: "Setelah Berbuka Kembali, Apakah Kita Juga Kembali Bermaksiat?",
-      en: "After Breaking Fast Again, Do We Also Return to Sin?",
-      ar: "بعد الإفطار مرة أخرى، هل نعود للمعصية أيضًا؟"
+      id: "Raksasa yang Tertidur dalam Tubuh Kerdil",
+      en: "A Giant Sleeping in a Dwarf's Body",
+      ar: "عملاق نائم في جسد قزم"
     },
     content: {
-      id: `Idul Fitri bukan pengumuman kemenangan.
-Ia hanya penanda bahwa kita kembali makan di pagi hari.
-Tidak lebih.
-Tidak ada sertifikat kelulusan dari langit.
-Tidak ada jaminan dosa dihapus.
-Tidak ada kepastian amal diterima.
-Yang berubah hanya satu:
-kita diizinkan kembali berbuka.
+      id: `Malam ke-29 Ramadhan.
+Di luar tembok Konstantinopel yang menjulang angkuh, seorang pemuda berusia 21 tahun tidak memejamkan mata. Ia bukan terjaga karena hiburan. Bukan karena layar yang menyala, bukan karena tawa kosong, bukan pula karena keresahan remeh.
 
-Lalu setelah itu apa?
-Inilah pertanyaan paling menakutkan setelah Ramadhan.
-Bukan: berapa hari kita puasa,
-tetapi: ke mana arah hidup kita setelah puasa selesai.
+Namanya Muhammad Al-Fatih.
 
-Banyak orang salah paham.
-Mereka mengira Ramadhan adalah proyek,
-selesai dikerjakan lalu ditinggalkan.
-Padahal Ramadhan adalah pelatihan,
-bukan tujuan akhir.
+Di hadapannya berdiri benteng Bizantium—tembok yang tidak runtuh selama berabad-abad. Namun kegelisahan Al-Fatih bukan pada tebalnya batu, melainkan pada beratnya amanah. Ia tahu, nubuwat Rasulullah ﷺ menunggu untuk dibuktikan, bukan sekadar dihafalkan.
 
-Jika setelah Idul Fitri:
-shalat kembali ditunda,
-maksiat kembali dinormalisasi,
-syariat kembali ditawar demi kenyamanan,
-maka Ramadhan tidak gagal—
-kitalah yang gagal menjadi hamba.
+Ia pernah memacu kudanya ke laut sambil berseru:
+"Ya Allah, seandainya laut ini adalah daratan, niscaya aku akan memacunya hingga ujungnya demi meninggikan agama-Mu."
 
-Allah tidak memerintahkan puasa agar kita kuat menahan lapar,
-tetapi agar kita lemah di hadapan perintah-Nya.
-Allah tidak melatih kita bangun malam agar bangga ibadah,
-tetapi agar kita tak berani kembali bermaksiat.
+Bandingkan dengan kita.
 
-Jika setelah sebulan ditempa,
-kita kembali seperti sebelum Ramadhan,
-maka puasa itu hanya olahraga jasmani,
-bukan pendidikan ruhani.
+Di usia yang sama, pada malam-malam akhir Ramadhan, apa yang membuat kita terjaga?
+Banyak dari pemuda hari ini lelah bukan karena jihad ilmu, bukan karena beban dakwah, bukan karena memikirkan nasib umat—tetapi karena terlalu lama menuruti hawa nafsu.
 
-Para salaf takut setelah Ramadhan,
-karena mereka tahu:
-yang dinilai bukan Ramadhannya,
-tetapi kelanjutannya.
+Al-Fatih menghabiskan malamnya menyusun strategi, merancang meriam, mendidik pasukan, dan membersihkan niat. Kita menghabiskan malam menyusun citra, mengejar validasi, dan menghibur diri dengan kesia-siaan.
 
-Hari ini umat Islam sibuk bertanya:
-"Puasa kita berapa hari?"
-Padahal seharusnya bertanya:
-"Dosa mana yang benar-benar kita tinggalkan?"
+Al-Fatih resah karena takut tidak layak disebut pemimpin yang baik sebagaimana sabda Nabi.
+Kita resah karena takut tidak terlihat sukses di mata manusia.
 
-Idul Fitri hanyalah izin berbuka.
-Ia bukan izin bermaksiat.
-Ia bukan alasan kembali lalai.
-Ia bukan pembenaran untuk hidup tanpa takut kepada Allah.
+Inilah ironi besar umat hari ini:
+kita memiliki usia yang muda, fisik yang kuat, akses ilmu yang luas—
+tetapi jiwa kita kerdil, mental kita rapuh, dan cita-cita kita dangkal.
 
-Ramadhan sudah pergi.
-Latihan sudah selesai.
-Sekarang ujian sebenarnya dimulai.
+Islam tidak pernah dibangun oleh generasi yang sibuk memanjakan diri.
+Islam tidak tegak oleh pemuda yang alergi terhadap beban.
+Islam bangkit oleh jiwa-jiwa muda yang siap membayar iman dengan harga mahal.
 
-Maka pertanyaan terakhir, sebelum lembar Ramadhan ditutup:
-Setelah kita kembali makan di pagi hari,
-apakah kita juga kembali memakan yang haram,
-kembali menelan kezhaliman,
-dan kembali mengkhianati amanah Allah?
+Ali bin Abi Thalib masih belia ketika ia tidur di ranjang Nabi ﷺ demi menyelamatkan risalah.
+Usamah bin Zaid memimpin pasukan besar saat sebagian orang dewasa meragukannya.
+Muhammad Al-Fatih menaklukkan Konstantinopel di usia ketika banyak pemuda hari ini masih mencari jati diri di jalan buntu.
 
-Jika iya,
-maka kita tidak kembali kepada fitrah,
-tetapi kembali kepada kehinaan.`,
-      en: `Eid al-Fitr is not an announcement of victory.
-It is merely a marker that we return to eating in the morning.
-Nothing more.
-There is no graduation certificate from the heavens.
-There is no guarantee that sins are erased.
-There is no certainty that deeds are accepted.
-Only one thing changes:
-we are allowed to break our fast again.
+Maka Ramadhan hari ke-29 ini adalah cermin yang memalukan.
 
-Then what comes after?
-This is the most frightening question after Ramadan.
-Not: how many days did we fast,
-but: where is the direction of our life after fasting ends.
+Jika Ramadhan berlalu dan "prestasi" terbesar kita hanyalah menamatkan hiburan, menumpuk kesenangan, dan merencanakan kesia-siaan, maka jangan berharap sejarah mencatat nama kita. Kita hanya akan menjadi buih—banyak jumlahnya, tetapi ringan dan tak berarti.
 
-Many people misunderstand.
-They think Ramadan is a project,
-completed and then abandoned.
-Whereas Ramadan is training,
-not the final goal.
+Bangunlah.
+Masa muda bukan fase menunggu, tetapi fase menyiapkan peradaban.
+Dan Ramadhan bukan tempat tidur bagi raksasa—
+ia adalah lonceng keras untuk membangunkannya.`,
+      en: `The 29th night of Ramadan.
+Outside the towering walls of Constantinople, a 21-year-old young man does not close his eyes. He is not awake for entertainment. Not because of a glowing screen, not because of empty laughter, nor because of trivial anxieties.
 
-If after Eid al-Fitr:
-prayer is delayed again,
-sin is normalized again,
-sharia is bargained again for comfort,
-then Ramadan did not fail—
-it is we who failed to be servants.
+His name is Muhammad Al-Fatih.
 
-Allah did not command fasting so that we are strong in enduring hunger,
-but so that we are weak before His command.
-Allah did not train us to wake up at night to be proud of worship,
-but so that we dare not return to sin.
+Before him stands the Byzantine fortress—a wall that has not fallen for centuries. But Al-Fatih's anxiety is not about the thickness of the stone, but about the weight of the trust. He knows the prophecy of the Messenger of Allah ﷺ is waiting to be proven, not just memorized.
 
-If after a month of being forged,
-we return to how we were before Ramadan,
-then that fasting was merely physical exercise,
-not spiritual education.
+He once spurred his horse into the sea while exclaiming:
+"O Allah, if this sea were land, I would surely ride it to its end to exalt Your religion."
 
-The predecessors (Salaf) were afraid after Ramadan,
-because they knew:
-what is judged is not the Ramadan itself,
-but its continuation.
+Compare that with us.
 
-Today Muslims are busy asking:
-"How many days did we fast?"
-Whereas they should ask:
-"Which sins have we truly abandoned?"
+At the same age, on the last nights of Ramadan, what keeps us awake?
+Many of today's youth are tired not because of the jihad of knowledge, not because of the burden of da'wah, not because of thinking about the fate of the Ummah—but because they have followed their desires for too long.
 
-Eid al-Fitr is merely permission to break the fast.
-It is not permission to sin.
-It is not an excuse to return to negligence.
-It is not a justification to live without fear of Allah.
+Al-Fatih spent his nights devising strategies, designing cannons, educating troops, and purifying his intentions. We spend our nights curating images, chasing validation, and entertaining ourselves with futility.
 
-Ramadan has gone.
-The training is finished.
-Now the real test begins.
+Al-Fatih was restless for fear of not being worthy of being called a good leader as the Prophet said.
+We are restless for fear of not looking successful in the eyes of people.
 
-So the final question, before the page of Ramadan is closed:
-After we return to eating in the morning,
-do we also return to consuming the forbidden,
-return to swallowing injustice,
-and return to betraying Allah's trust?
+This is the great irony of the Ummah today:
+we have young age, strong physique, wide access to knowledge—
+but our souls are dwarfed, our mentality is fragile, and our aspirations are shallow.
 
-If yes,
-then we do not return to fitrah (purity),
-but return to humiliation.`,
-      ar: `عيد الفطر ليس إعلان نصر.
-إنه مجرد علامة على أننا عدنا للأكل في الصباح.
-لا أكثر.
-لا توجد شهادة تخرج من السماء.
-لا يوجد ضمان بأن الذنوب قد مُحيت.
-لا يوجد يقين بأن الأعمال قد قُبلت.
-الشيء الوحيد الذي تغير هو:
-أنه سُمح لنا بالإفطار مرة أخرى.
+Islam was never built by a generation busy pampering themselves.
+Islam does not stand by youth who are allergic to burdens.
+Islam rises by young souls who are ready to pay for faith with a high price.
 
-ثم ماذا بعد ذلك؟
-هذا هو السؤال الأكثر رعبًا بعد رمضان.
-ليس: كم يومًا صمنا،
-بل: إلى أين تتجه حياتنا بعد انتهاء الصيام.
+Ali bin Abi Talib was still young when he slept in the Prophet's ﷺ bed to save the message.
+Usamah bin Zaid led a large army when some adults doubted him.
+Muhammad Al-Fatih conquered Constantinople at an age when many young people today are still looking for their identity in a dead end.
 
-كثير من الناس يسيئون الفهم.
-يظنون أن رمضان مشروع،
-يُنجز ثم يُترك.
-بينما رمضان تدريب،
-وليس هدفًا نهائيًا.
+So this 29th day of Ramadan is a shameful mirror.
 
-إذا كان بعد عيد الفطر:
-الصلاة تؤخر مرة أخرى،
-والمعصية تُطبع مرة أخرى،
-والشريعة تُساوم مرة أخرى من أجل الراحة،
-فإن رمضان لم يفشل—
-بل نحن الذين فشلنا في أن نكون عبادًا.
+If Ramadan passes and our greatest "achievement" is only finishing entertainment, piling up pleasures, and planning futility, then do not expect history to record our names. We will only be foam—large in number, but light and meaningless.
 
-الله لم يأمر بالصيام لكي نكون أقوياء في تحمل الجوع،
-بل لكي نكون ضعفاء أمام أمره.
-الله لم يدربنا على قيام الليل لنفخر بالعبادة،
-بل لكي لا نجرؤ على العودة للمعصية.
+Wake up.
+Youth is not a phase of waiting, but a phase of preparing civilization.
+And Ramadan is not a bed for giants—
+it is a loud bell to wake them up.`,
+      ar: `ليلة التاسع والعشرين من رمضان.
+خارج أسوار القسطنطينية الشاهقة، شاب يبلغ من العمر 21 عامًا لا يغمض عينيه. ليس مستيقظًا للترفيه. ليس بسبب شاشة مضيئة، ولا بسبب ضحك فارغ، ولا بسبب قلق تافه.
 
-إذا كنا بعد شهر من الصقل،
-نعود كما كنا قبل رمضان،
-فإن ذلك الصيام كان مجرد رياضة بدنية،
-وليس تربية روحية.
+اسمه محمد الفاتح.
 
-كان السلف يخافون بعد رمضان،
-لأنهم كانوا يعلمون:
-أن العبرة ليست برمضان نفسه،
-بل بما بعده.
+أمامه تقف قلعة بيزنطة - سور لم يسقط لقرون. لكن قلق الفاتح ليس من سمك الحجر، بل من ثقل الأمانة. إنه يعلم أن نبوءة رسول الله ﷺ تنتظر أن تتحقق، لا أن تُحفظ فقط.
 
-اليوم ينشغل المسلمون بالسؤال:
-"كم يومًا صمنا؟"
-بينما كان يجب أن يسألوا:
-"أي الذنوب تركناها حقًا؟"
+لقد دفع حصانه ذات مرة إلى البحر وهو يهتف:
+"يا الله، لو كان هذا البحر يابسًا، لخضته حتى نهايته لإعلاء دينك."
 
-عيد الفطر هو مجرد إذن بالإفطار.
-ليس إذنًا بالمعصية.
-ليس عذرًا للعودة إلى الغفلة.
-ليس مبررًا للعيش دون خوف من الله.
+قارن ذلك بنا.
 
-لقد رحل رمضان.
-انتهى التدريب.
-الآن يبدأ الاختبار الحقيقي.
+في نفس العمر، في الليالي الأخيرة من رمضان، ما الذي يبقينا مستيقظين؟
+كثير من شباب اليوم متعبون ليس بسبب جهاد العلم، ولا بسبب عبء الدعوة، ولا بسبب التفكير في مصير الأمة - بل لأنهم اتبعوا أهواءهم لفترة طويلة.
 
-إذًا السؤال الأخير، قبل أن تُطوى صفحة رمضان:
-بعد أن عدنا للأكل في الصباح،
-هل نعود أيضًا لأكل الحرام،
-والعودة لابتلاع الظلم،
-والعودة لخيانة أمانة الله؟
+قضى الفاتح لياليه في وضع الاستراتيجيات، وتصميم المدافع، وتعليم الجنود، وتطهير النوايا. ونحن نقضي ليالينا في تحسين الصور، ومطاردة التقدير، وتسلية أنفسنا بالتفاهات.
 
-إذا كان الجواب نعم،
-فإننا لا نعود إلى الفطرة،
-بل نعود إلى الذل.`
+كان الفاتح قلقًا خوفًا من ألا يستحق أن يسمى قائدًا نعم القائد كما قال النبي.
+ونحن قلقون خوفًا من ألا نبدو ناجحين في عيون الناس.
+
+هذه هي المفارقة الكبرى للأمة اليوم:
+لدينا سن الشباب، وجسد قوي، ووصول واسع للمعرفة—
+لكن أرواحنا قزمة، وعقليتنا هشة، وطموحاتنا ضحلة.
+
+لم يُبن الإسلام أبدًا من قبل جيل مشغول بتدليل نفسه.
+لا يقوم الإسلام على شباب لديهم حساسية تجاه الأعباء.
+ينهض الإسلام بأرواح شابة مستعدة لدفع ثمن الإيمان غاليًا.
+
+كان علي بن أبي طالب لا يزال صغيرًا عندما نام في فراش النبي ﷺ لإنقاذ الرسالة.
+قاد أسامة بن زيد جيشًا كبيرًا عندما شكك فيه بعض الكبار.
+فتح محمد الفاتح القسطنطينية في سن لا يزال فيه الكثير من الشباب اليوم يبحثون عن هويتهم في طريق مسدود.
+
+لذا فإن اليوم التاسع والعشرين من رمضان هو مرآة مخزية.
+
+إذا انقضى رمضان وكان أعظم "إنجاز" لنا هو إنهاء الترفيه، وتكديس الملذات، والتخطيط للتفاهات، فلا تتوقع أن يسجل التاريخ أسماءنا. سنكون فقط غثاءً - كثير العدد، لكنه خفيف ولا معنى له.
+
+استيقظوا.
+الشباب ليس مرحلة انتظار، بل مرحلة إعداد للحضارة.
+ورمضان ليس سريرًا للعمالقة—
+إنه جرس صاخب لإيقاظهم.`
     },
     dalil: {
-      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ</div>
-<p style="text-align: center;"><strong>"Wahai orang-orang yang beriman, diwajibkan atas kalian berpuasa sebagaimana diwajibkan atas orang-orang sebelum kalian, agar kalian bertakwa."</strong><br>
-(QS. Al-Baqarah: 183)</p>
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">نَحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُم بِالْحَقِّ ۚ إِنَّهُمْ فِتْيَةٌ آمَنُوا بِرَبِّهِمْ وَزِدْنَاهُمْ هُدًى</div>
+<p style="text-align: center;"><strong>"Kami kisahkan kepadamu (Muhammad) cerita mereka dengan sebenarnya. Sesungguhnya mereka adalah pemuda-pemuda yang beriman kepada Tuhan mereka, dan Kami tambahkan kepada mereka petunjuk."</strong><br>
+(QS. Al-Kahf: 13)</p>
 <hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
-<div class="arab" style="text-align: center; margin-bottom: 10px;">رُبَّ صَائِمٍ لَيْسَ لَهُ مِنْ صِيَامِهِ إِلَّا الْجُوعُ وَالْعَطَشُ</div>
-<p style="text-align: center;"><strong>"Betapa banyak orang yang berpuasa, namun tidak mendapatkan dari puasanya kecuali lapar dan dahaga."</strong><br>
-(HR. Ahmad)</p>`,
-      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ</div>
-<p style="text-align: center;"><strong>"O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous."</strong><br>
-(QS. Al-Baqarah: 183)</p>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">سَبْعَةٌ يُظِلُّهُمُ اللَّهُ فِي ظِلِّهِ يَوْمَ لَا ظِلَّ إِلَّا ظِلُّهُ ... وَشَابٌّ نَشَأَ فِي عِبَادَةِ اللَّهِ</div>
+<p style="text-align: center;"><strong>"Ada tujuh golongan yang akan dinaungi Allah pada hari ketika tidak ada naungan kecuali naungan-Nya... (salah satunya adalah) ...seorang pemuda yang tumbuh dalam ketaatan kepada Allah."</strong><br>
+(HR. Bukhari dan Muslim)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">نَحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُم بِالْحَقِّ ۚ إِنَّهُمْ فِتْيَةٌ آمَنُوا بِرَبِّهِمْ وَزِدْنَاهُمْ هُدًى</div>
+<p style="text-align: center;"><strong>"We relate to you, [O Muhammad], their story in truth. Indeed, they were youths who believed in their Lord, and We increased them in guidance."</strong><br>
+(QS. Al-Kahf: 13)</p>
 <hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
-<div class="arab" style="text-align: center; margin-bottom: 10px;">رُبَّ صَائِمٍ لَيْسَ لَهُ مِنْ صِيَامِهِ إِلَّا الْجُوعُ وَالْعَطَشُ</div>
-<p style="text-align: center;"><strong>"How many people fast, but get nothing from their fasting except hunger and thirst."</strong><br>
-(HR. Ahmad)</p>`,
-      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ</div>
-<p style="text-align: center;"><strong>"يا أيها الذين آمنوا كتب عليكم الصيام كما كتب على الذين من قبلكم لعلكم تتقون."</strong><br>
-(سورة البقرة: 183)</p>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">سَبْعَةٌ يُظِلُّهُمُ اللَّهُ فِي ظِلِّهِ يَوْمَ لَا ظِلَّ إِلَّا ظِلُّهُ ... وَشَابٌّ نَشَأَ فِي عِبَادَةِ اللَّهِ</div>
+<p style="text-align: center;"><strong>"There are seven whom Allah will shade in His Shade on the Day when there is no shade except His Shade... (one of them is) ...a youth who grew up in the worship of Allah."</strong><br>
+(HR. Bukhari and Muslim)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">نَحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُم بِالْحَقِّ ۚ إِنَّهُمْ فِتْيَةٌ آمَنُوا بِرَبِّهِمْ وَزِدْنَاهُمْ هُدًى</div>
+<p style="text-align: center;"><strong>"نحن نقص عليك نبأهم بالحق إنهم فتية آمنوا بربهم وزدناهم هدى."</strong><br>
+(سورة الكهف: 13)</p>
 <hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
-<div class="arab" style="text-align: center; margin-bottom: 10px;">رُبَّ صَائِمٍ لَيْسَ لَهُ مِنْ صِيَامِهِ إِلَّا الْجُوعُ وَالْعَطَشُ</div>
-<p style="text-align: center;"><strong>"رب صائم ليس له من صيامه إلا الجوع والعطش."</strong><br>
-(رواه أحمد)</p>`
+<div class="arab" style="text-align: center; margin-bottom: 10px;">سَبْعَةٌ يُظِلُّهُمُ اللَّهُ فِي ظِلِّهِ يَوْمَ لَا ظِلَّ إِلَّا ظِلُّهُ ... وَشَابٌّ نَشَأَ فِي عِبَادَةِ اللَّهِ</div>
+<p style="text-align: center;"><strong>"سبعة يظلهم الله في ظله يوم لا ظل إلا ظله... وشاب نشأ في عبادة الله."</strong><br>
+(رواه البخاري ومسلم)</p>`
     }
   },
   {
