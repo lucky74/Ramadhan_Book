@@ -111,7 +111,7 @@ export default function Home() {
             
             return (
               <Link key={day} to={`/read/${day}`} style={{ textDecoration: 'none' }}>
-                <div className={`mushaf-card day-card ${isRead ? 'read' : ''}`}>
+                <div className={`day-card ${isRead ? 'read' : ''}`}>
                   <div className="day-label">RAMADHAN</div>
                   <div className="day-number">{day}</div>
                   

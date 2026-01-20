@@ -64,13 +64,23 @@
 .grid-container {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
-  gap: 12px;
+  gap: 16px; /* Sedikit diperlebar agar tidak terlalu padat */
   margin-top: 24px;
+}
+
+/* Pastikan Link (tag a) berperilaku sebagai block container */
+.grid-container a {
+  display: block;
+  height: 100%;
+  text-decoration: none;
+  color: inherit;
 }
 
 .day-card {
   padding: 12px;
   height: 100%;
+  /* Gunakan box-sizing border-box untuk memastikan padding tidak menambah lebar total secara tidak terduga */
+  box-sizing: border-box; 
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -83,6 +93,8 @@
   background-color: var(--bg-card);
   border-radius: 12px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  /* Mencegah elemen anak (seperti judul panjang) keluar dari kartu */
+  overflow: hidden; 
 }
 
 .day-card:hover {
