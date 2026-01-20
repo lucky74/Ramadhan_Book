@@ -4035,6 +4035,231 @@ If not, all knowledge is just notes on library shelves—beautiful to look at, b
 (رواه أحمد — المعنى الضمني)</p>`
     }
   },
+  {
+    id: "25",
+    title: {
+      id: "Ramadhan Akan Pergi, Tapi Umat Masih Terlelap",
+      en: "Ramadan Will Leave, But the Ummah Is Still Asleep",
+      ar: "رمضان سيرحل، لكن الأمة لا تزال نائمة"
+    },
+    content: {
+      id: `Ramadhan hampir usai.
+Suara takbir, aroma sahur, dan gemerincing adzan hampir lenyap dari hari-hari ini.
+Bulan yang seharusnya membangkitkan kesadaran, kini hanya menjadi kenangan bagi banyak umat Islam.
+Mereka sibuk dengan ritual: puasa, shalat, i’tikaf, tadarus.
+Namun ketika Ramadhan pergi, kebiasaan lama kembali.
+Kerusakan moral, kezaliman sosial, ketidakpedulian terhadap syariat, kembali seperti sebelumnya—tidak terganggu.
+Sejarah membuktikan, Nabi ﷺ dan para Sahabat tidak pernah berhenti ketika wahyu turun atau ujian datang.
+* Nabi ﷺ berpuasa dan shalat, tetapi tetap menegur Quraisy, membela yang lemah, dan memimpin perubahan sosial.
+* Abu Bakar radhiyallahu ‘anhu menunaikan zakat dan amalnya, sambil menegakkan amanah dakwah tanpa menunggu Ramadhan.
+* Umar bin Khattab radhiyallahu ‘anhu tidur sedikit, tetapi setiap malam memantau keadilan dan menegur pejabat yang lalai.
+Hari ini, banyak umat bangga bisa menahan lapar dan haus, bangga hafal juz, tetapi tidak bangga menegakkan kebenaran dan syariat Allah.
+Puasa hanyalah ritual jika tidak mempengaruhi keberanian, tanggung jawab, dan keteguhan di masyarakat.
+Ramadhan akan pergi.
+Pertanyaannya bukan lagi: Apakah kita cukup berpuasa?
+Tetapi: Apakah kita cukup berani, cukup peduli, cukup menegakkan syariat setelah Ramadhan pergi?
+Bangunlah! Jangan biarkan Ramadhan hanya berlalu sebagai kalender ritual.
+Jika tidak, umat akan tetap terlelap dalam ego, takut menghadapi dosa, dan lalai terhadap amanah Allah.
+Dan ketika Ramadhan telah pergi, hanya akan tersisa penyesalan bagi mereka yang tidak bangun dari tidur panjangnya.`,
+      en: `Ramadan is almost over.
+The sound of takbir, the aroma of suhoor, and the ringing of adhan are almost gone from these days.
+The month that should have awakened consciousness is now just a memory for many Muslims.
+They are busy with rituals: fasting, prayer, i'tikaf, tadarus.
+But when Ramadan leaves, old habits return.
+Moral decay, social injustice, indifference to Sharia, return as before—undisturbed.
+History proves, the Prophet ﷺ and the Companions never stopped when revelation came down or tests came.
+* The Prophet ﷺ fasted and prayed, but still rebuked the Quraysh, defended the weak, and led social change.
+* Abu Bakr radhiyallahu ‘anhu performed zakat and his deeds, while upholding the trust of da'wah without waiting for Ramadan.
+* Umar bin Khattab radhiyallahu ‘anhu slept little, but every night monitored justice and rebuked negligent officials.
+Today, many Muslims are proud to be able to endure hunger and thirst, proud to memorize juz, but not proud to uphold the truth and Allah's Sharia.
+Fasting is just a ritual if it does not affect courage, responsibility, and firmness in society.
+Ramadan will leave.
+The question is no longer: Did we fast enough?
+But: Are we brave enough, care enough, uphold Sharia enough after Ramadan leaves?
+Wake up! Do not let Ramadan just pass as a ritual calendar.
+Otherwise, the Ummah will remain asleep in ego, afraid to face sin, and negligent of Allah's trust.
+And when Ramadan has gone, only regret will remain for those who do not wake up from their long sleep.`,
+      ar: `رمضان يوشك على الانتهاء.
+صوت التكبير، ورائحة السحور، ورنين الأذان تكاد تختفي من هذه الأيام.
+الشهر الذي كان ينبغي أن يوقظ الوعي، أصبح الآن مجرد ذكرى لكثير من المسلمين.
+هم مشغولون بالطقوس: الصيام، الصلاة، الاعتكاف، التدارس.
+لكن عندما يرحل رمضان، تعود العادات القديمة.
+الفساد الأخلاقي، والظلم الاجتماعي، واللامبالاة بالشريعة، تعود كما كانت من قبل - دون إزعاج.
+يثبت التاريخ أن النبي ﷺ والصحابة لم يتوقفوا أبداً عندما نزل الوحي أو جاءت الاختبارات.
+* كان النبي ﷺ يصوم ويصلي، لكنه ظل يوبخ قريشاً، ويدافع عن الضعفاء، ويقود التغيير الاجتماعي.
+* أبو بكر رضي الله عنه أدى الزكاة وأعماله، بينما كان يقيم أمانة الدعوة دون انتظار رمضان.
+* عمر بن الخطاب رضي الله عنه كان ينام قليلاً، لكنه كان يراقب العدالة كل ليلة ويوبخ المسؤولين المقصرين.
+اليوم، يفتخر الكثير من المسلمين بقدرتهم على تحمل الجوع والعطش، وفخورون بحفظ الأجزاء، لكنهم ليسوا فخورين بإقامة الحق وشريعة الله.
+الصيام مجرد طقس إذا لم يؤثر على الشجاعة والمسؤولية والثبات في المجتمع.
+رمضان سيرحل.
+لم يعد السؤال: هل صمنا بما فيه الكفاية؟
+بل: هل نحن شجعان بما فيه الكفاية، نهتم بما فيه الكفاية، نقيم الشريعة بما فيه الكفاية بعد رحيل رمضان؟
+استيقظوا! لا تدعوا رمضان يمر فقط كتقويم للطقوس.
+وإلا، ستظل الأمة نائمة في الأنا، خائفة من مواجهة الذنب، وغافلة عن أمانة الله.
+وعندما يرحل رمضان، لن يبقى إلا الندم لأولئك الذين لم يستيقظوا من نومهم الطويل.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ</div>
+<p style="text-align: center;"><strong>"Hai orang-orang yang beriman, diwajibkan atas kamu berpuasa sebagaimana diwajibkan atas orang-orang sebelum kamu agar kamu bertakwa."</strong><br>
+(QS. Al-Baqarah: 183)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَنَبْلُوكُم بِالشَّرِّ وَالْخَيْرِ فِتْنَةً ۖ وَإِلَيْنَا تُرْجَعُونَ</div>
+<p style="text-align: center;"><strong>"Setiap jiwa akan merasakan mati, dan Kami menguji kamu dengan keburukan dan kebaikan sebagai cobaan; kemudian hanya kepada Kami kamu dikembalikan."</strong><br>
+(QS. Al-Anbiya’: 35)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">مَنْ صَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ</div>
+<p style="text-align: center;"><strong>"Barang siapa berpuasa Ramadhan dengan iman dan mengharap pahala, maka dosanya yang telah lalu diampuni. Tetapi lebih dari itu, puasa adalah pelatihan untuk menahan diri dan menegakkan kebenaran dalam setiap aspek kehidupan."</strong><br>
+(HR. Bukhari & Muslim — makna tersirat)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<p style="text-align: center;"><strong>"Amal yang paling dicintai Allah adalah yang paling bermanfaat bagi manusia."</strong><br>
+(HR. Ahmad — makna tersirat)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ</div>
+<p style="text-align: center;"><strong>"O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous."</strong><br>
+(QS. Al-Baqarah: 183)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَنَبْلُوكُم بِالشَّرِّ وَالْخَيْرِ فِتْنَةً ۖ وَإِلَيْنَا تُرْجَعُونَ</div>
+<p style="text-align: center;"><strong>"Every soul will taste death. And We test you with evil and with good as trial; and to Us you will be returned."</strong><br>
+(QS. Al-Anbiya’: 35)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">مَنْ صَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ</div>
+<p style="text-align: center;"><strong>"Whoever fasts Ramadan out of faith and in the hope of reward, his previous sins will be forgiven. But more than that, fasting is training to restrain oneself and uphold truth in every aspect of life."</strong><br>
+(HR. Bukhari & Muslim — implied meaning)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<p style="text-align: center;"><strong>"The most beloved of deeds to Allah are those that are most beneficial to people."</strong><br>
+(HR. Ahmad — implied meaning)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ</div>
+<p style="text-align: center;"><strong>"يا أيها الذين آمنوا كتب عليكم الصيام كما كتب على الذين من قبلكم لعلكم تتقون."</strong><br>
+(سورة البقرة: 183)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَنَبْلُوكُم بِالشَّرِّ وَالْخَيْرِ فِتْنَةً ۖ وَإِلَيْنَا تُرْجَعُونَ</div>
+<p style="text-align: center;"><strong>"كل نفس ذائقة الموت ونبلوكم بالشر والخير فتنة وإلينا ترجعون."</strong><br>
+(سورة الأنبياء: 35)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">مَنْ صَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ</div>
+<p style="text-align: center;"><strong>"من صام رمضان إيمانا واحتسابا غفر له ما تقدم من ذنبه."</strong><br>
+(رواه البخاري ومسلم)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<p style="text-align: center;"><strong>"أحب الناس إلى الله أنفعهم للناس."</strong><br>
+(رواه أحمد — المعنى الضمني)</p>`
+    }
+  },
+  {
+    id: "26",
+    title: {
+      id: "Lilin Negara dan Kegelapan Pribadi",
+      en: "The State Candle and Personal Darkness",
+      ar: "شمعة الدولة والظلام الشخصي"
+    },
+    content: {
+      id: `Malam itu sunyi di Damaskus.
+Bukan sunyi karena rakyat tertidur, tetapi sunyi karena seorang pemimpin takut kepada Allah.
+Di sebuah ruangan sederhana, bukan istana megah, Umar bin Abdul Aziz—Khalifah Bani Umayyah—duduk menunduk di hadapan catatan keuangan negara. Tidak ada kemewahan. Tidak ada penjagaan berlebihan. Wajahnya diterangi oleh sebatang lilin kecil, lilin milik baitul mal, harta umat.
+Inilah potret pemimpin yang lahir dari iman, bukan dari ambisi.
+Tiba-tiba, putranya masuk ke ruangan. Bukan membawa urusan negara, tetapi urusan keluarga. Seketika itu juga, Umar bin Abdul Aziz meniup lilin hingga padam. Ruangan gelap. Hening.
+"Wahai Ayah," tanya putranya heran, "mengapa engkau memadamkan lilin itu?"
+Dalam gelap, suara Umar terdengar tegas, berat, dan penuh rasa takut:
+"Lilin ini dibeli dari harta kaum muslimin untuk mengurus urusan mereka. Ketika engkau masuk membawa urusan pribadi, haram bagiku menggunakan harta umat untuk kepentinganku. Apakah engkau ingin api lilin ini menjadi sebab ayahmu dibakar api neraka?"
+Kalimat itu bukan sekadar nasihat seorang ayah.
+Itu adalah tamparan keras bagi umat Islam lintas zaman.
+Umar bin Abdul Aziz tidak sedang membangun citra.
+Ia sedang menyelamatkan dirinya dari hisab Allah.
+Hari ini, di akhir Ramadhan, umat Islam berbicara tentang akhlak, integritas, dan amanah. Namun dalam praktiknya, batas antara hak dan batil semakin kabur.
+Harta umat dianggap fasilitas.
+Amanah dianggap peluang.
+Jabatan dianggap hak, bukan beban.
+Kita memadamkan rasa takut kepada Allah, tetapi menyalakan ribuan alasan pembenaran.
+Umar bin Abdul Aziz takut menggunakan lilin negara untuk urusan pribadi.
+Sementara hari ini, umat Islam tidak lagi malu menggunakan:
+* uang publik untuk kepentingan pribadi,
+* jabatan agama untuk kepentingan dunia,
+* simbol Islam untuk melindungi kebatilan.
+Inilah kegelapan yang lebih gelap dari malam: hilangnya rasa takut kepada Allah.
+Ramadhan hampir selesai.
+Pertanyaannya bukan lagi berapa rakaat yang kita dirikan,
+tetapi: seberapa jujur kita memisahkan yang haq dan yang batil?
+Jika Umar bin Abdul Aziz—seorang khalifah—takut pada api neraka hanya karena sebatang lilin,
+lalu dengan wajah apa kita berharap surga, sementara kita memakan apa yang bukan hak kita?`,
+      en: `That night was silent in Damascus.
+Not silent because the people were asleep, but silent because a leader feared Allah.
+In a simple room, not a grand palace, Umar bin Abdul Aziz—Caliph of the Umayyads—sat bowed before the state financial records. No luxury. No excessive guarding. His face was illuminated by a small candle, a candle belonging to the baitul mal, the wealth of the Ummah.
+This is a portrait of a leader born of faith, not ambition.
+Suddenly, his son entered the room. Not bringing state affairs, but family affairs. Immediately, Umar bin Abdul Aziz blew out the candle until it was extinguished. The room was dark. Silent.
+"O Father," asked his son in astonishment, "why did you extinguish that candle?"
+In the dark, Umar's voice sounded firm, heavy, and full of fear:
+"This candle was bought from the wealth of the Muslims to manage their affairs. When you entered bringing personal affairs, it is forbidden for me to use the wealth of the Ummah for my interests. Do you want the fire of this candle to be the cause of your father being burned by the fire of Hell?"
+That sentence was not just a father's advice.
+It was a hard slap for the Muslim Ummah across the ages.
+Umar bin Abdul Aziz was not building an image.
+He was saving himself from Allah's reckoning.
+Today, at the end of Ramadan, Muslims talk about morals, integrity, and trust. But in practice, the line between right and falsehood is increasingly blurred.
+The wealth of the Ummah is considered a facility.
+Trust is considered an opportunity.
+Position is considered a right, not a burden.
+We extinguish the fear of Allah, but light thousands of excuses for justification.
+Umar bin Abdul Aziz was afraid to use the state candle for personal affairs.
+While today, Muslims are no longer ashamed to use:
+* public money for personal interests,
+* religious positions for worldly interests,
+* Islamic symbols to protect falsehood.
+This is a darkness darker than night: the loss of fear of Allah.
+Ramadan is almost over.
+The question is no longer how many rakaats we establish,
+but: how honestly do we separate the truth and the falsehood?
+If Umar bin Abdul Aziz—a caliph—feared the fire of Hell just because of a candle,
+then with what face do we hope for Paradise, while we consume what is not our right?`,
+      ar: `كانت تلك الليلة صامتة في دمشق.
+لم يكن الصمت لأن الناس نيام، بل صمت لأن قائداً كان يخاف الله.
+في غرفة بسيطة، وليست قصراً فخماً، جلس عمر بن عبد العزيز - خليفة بني أمية - منحنياً أمام سجلات الدولة المالية. لا ترف. لا حراسة مفرطة. كان وجهه مضاء بشمعة صغيرة، شمعة مملوكة لبيت المال، مال الأمة.
+هذه صورة لقائد ولد من الإيمان، وليس من الطموح.
+فجأة، دخل ابنه الغرفة. لم يحمل شؤون الدولة، بل شؤون العائلة. في الحال، نفخ عمر بن عبد العزيز الشمعة حتى انطفأت. أظلمت الغرفة. صمت.
+"يا أبت"، سأل ابنه بذهول، "لماذا أطفأت تلك الشمعة؟"
+في الظلام، بدا صوت عمر حازماً وثقيلاً ومليئاً بالخوف:
+"هذه الشمعة اشتريت من مال المسلمين لإدارة شؤونهم. عندما دخلت تحمل شؤوناً شخصية، حرم علي استخدام مال الأمة لمصالحي. هل تريد أن تكون نار هذه الشمعة سبباً في احتراق أبيك بنار جهنم؟"
+لم تكن تلك الجملة مجرد نصيحة أب.
+كانت صفعة قوية للأمة الإسلامية عبر العصور.
+لم يكن عمر بن عبد العزيز يبني صورة.
+كان ينقذ نفسه من حساب الله.
+اليوم، في نهاية رمضان، يتحدث المسلمون عن الأخلاق، والنزاهة، والأمانة. لكن في الممارسة العملية، أصبح الخط الفاصل بين الحق والباطل غير واضح بشكل متزايد.
+يعتبر مال الأمة مرفقاً.
+تعتبر الأمانة فرصة.
+يعتبر المنصب حقاً، وليس عبئاً.
+نحن نطفئ الخوف من الله، لكننا نشعل آلاف الأعذار للتبرير.
+كان عمر بن عبد العزيز خائفاً من استخدام شمعة الدولة للشؤون الشخصية.
+بينما اليوم، لم يعد المسلمون يخجلون من استخدام:
+* المال العام للمصالح الشخصية،
+* المناصب الدينية للمصالح الدنيوية،
+* الرموز الإسلامية لحماية الباطل.
+هذا ظلام أشد سواداً من الليل: فقدان الخوف من الله.
+رمضان يوشك على الانتهاء.
+لم يعد السؤال كم ركعة نقيم،
+بل: ما مدى صدقنا في الفصل بين الحق والباطل؟
+إذا كان عمر بن عبد العزيز - الخليفة - خاف من نار جهنم لمجرد شمعة،
+فبأي وجه نرجو الجنة، ونحن نأكل ما ليس من حقنا؟`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُوا بِالْعَدْلِ</div>
+<p style="text-align: center;"><strong>"Sesungguhnya Allah menyuruh kamu menyampaikan amanat kepada yang berhak menerimanya, dan apabila kamu menetapkan hukum di antara manusia hendaklah kamu menetapkannya dengan adil. Sesungguhnya Allah memberi pengajaran yang sebaik-baiknya kepadamu. Sungguh, Allah Maha Mendengar, Maha Melihat."</strong><br>
+(QS. An-Nisa: 58)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ</div>
+<p style="text-align: center;"><strong>"Setiap kalian adalah pemimpin, dan setiap pemimpin akan dimintai pertanggungjawaban atas yang dipimpinnya."</strong><br>
+(HR. Bukhari dan Muslim)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُوا بِالْعَدْلِ</div>
+<p style="text-align: center;"><strong>"Indeed, Allah commands you to render trusts to whom they are due and when you judge between people to judge with justice. Excellent is that which Allah instructs you. Indeed, Allah is ever Hearing and Seeing."</strong><br>
+(QS. An-Nisa: 58)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ</div>
+<p style="text-align: center;"><strong>"Every one of you is a shepherd and is responsible for his flock."</strong><br>
+(HR. Bukhari and Muslim)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُوا بِالْعَدْلِ</div>
+<p style="text-align: center;"><strong>"إن الله يأمركم أن تؤدوا الأمانات إلى أهلها وإذا حكمتم بين الناس أن تحكموا بالعدل إن الله نعما يعظكم به إن الله كان سميعا بصيرا."</strong><br>
+(سورة النساء: 58)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ</div>
+<p style="text-align: center;"><strong>"كلكم راع وكلكم مسؤول عن رعيته."</strong><br>
+(رواه البخاري ومسلم)</p>`
+    }
+  },
 ];
 
 export function getCerpen(): Cerpen[] {
