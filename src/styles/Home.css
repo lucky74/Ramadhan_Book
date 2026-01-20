@@ -63,66 +63,82 @@
 
 .grid-container {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-  gap: 16px;
-  margin-top: 32px;
+  grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+  gap: 12px;
+  margin-top: 24px;
 }
 
 .day-card {
-  padding: 16px;
+  padding: 12px;
   height: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  transition: transform 0.2s, background-color 0.2s;
-  min-height: 140px;
+  transition: transform 0.2s, box-shadow 0.2s;
+  min-height: 110px;
   position: relative;
   border: 1px solid var(--border);
   background-color: var(--bg-card);
-  border-radius: 10px;
+  border-radius: 12px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 
 .day-card:hover {
-  transform: translateY(-4px);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 /* Status 'Sudah Dibaca' */
 .day-card.read {
   border-color: #10b981;
-  background: rgba(16, 185, 129, 0.1);
+  background: rgba(16, 185, 129, 0.05);
 }
 
 .day-card.read::after {
-  content: '✅';
+  content: '✓';
   position: absolute;
   top: 8px;
   right: 8px;
-  font-size: 14px;
+  font-size: 10px;
+  background-color: #10b981;
+  color: white;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
 }
 
 .day-label {
-  font-size: 12px;
+  font-size: 10px;
   color: var(--text-soft);
   letter-spacing: 1px;
-  margin-bottom: 4px;
+  margin-bottom: 2px;
+  text-transform: uppercase;
 }
 
 .day-number {
-  font-size: 48px;
+  font-size: 32px;
   font-weight: bold;
   color: var(--accent);
   line-height: 1;
-  margin-bottom: 8px;
+  margin-bottom: 6px;
   font-family: Georgia, serif;
 }
 
 .card-title {
-  font-size: 14px;
+  font-size: 12px;
   color: var(--text-main);
-  margin-top: 8px;
-  line-height: 1.4;
+  margin-top: 4px;
+  line-height: 1.3;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .card-empty {
