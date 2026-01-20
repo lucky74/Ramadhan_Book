@@ -134,7 +134,7 @@ export default function Home() {
 
       <div className="home-footer">
         <div>{t('footer_text')}</div>
-        <div className="footer-email">{t('contact_email')} : mitas.digitalsolution@email.com</div>
+        <div className="footer-email">{t('contact_email')} : mitas.digitalsolution@gmail.com</div>
       </div>
     </div>
   );
