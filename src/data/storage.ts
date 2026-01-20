@@ -1522,7 +1522,7 @@ Do not be quick to say, "We believe," if not ready to be tested. Do not be proud
       توقفوا عن الأمل في نهضة الإسلام ونحن مشغولون بإنقاذ أنفسنا. الإسلام لا يحتاج إلى معجبين يريدون الأمان. الإسلام يحتاج إلى عباد مستعدين للوقوف، حتى لو اضطروا لأن يكونوا وحدهم.`
     },
     dalil: {
-      id: \`<div class="arab" style="text-align: center; margin-bottom: 10px;">الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ</div>
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ</div>
       <p style="text-align: center;"><strong>"(Yaitu) orang-orang yang ketika ada orang-orang mengatakan kepadanya, 'Sesungguhnya manusia telah mengumpulkan pasukan untuk menyerang kamu, karena itu takutlah kepada mereka,' justru hal itu menambah keimanan mereka dan mereka berkata, 'Cukuplah Allah menjadi Penolong kami dan Dia sebaik-baik Pelindung.'"</strong><br>
       (QS. Ali 'Imran: 173)</p>
       <br>
@@ -1531,8 +1531,8 @@ Do not be quick to say, "We believe," if not ready to be tested. Do not be proud
       (QS. At-Taubah: 38)</p>
       <br>
       <p style="text-align: center;"><strong>"Tidaklah aku meninggalkan sesuatu yang dapat mendekatkan kalian kepada surga dan menjauhkan kalian dari neraka, kecuali aku telah memerintahkan kalian dengannya."</strong><br>
-      (HR. Thabrani - hasan)</p>\`,
-      en: \`<div class="arab" style="text-align: center; margin-bottom: 10px;">الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ</div>
+      (HR. Thabrani - hasan)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ</div>
       <p style="text-align: center;"><strong>"Those to whom hypocrites said, 'Indeed, the people have gathered against you, so fear them.' But it [only] increased them in faith, and they said, 'Sufficient for us is Allah, and [He is] the best Disposer of affairs.'"</strong><br>
       (QS. Ali 'Imran: 173)</p>
       <br>
@@ -1541,8 +1541,8 @@ Do not be quick to say, "We believe," if not ready to be tested. Do not be proud
       (QS. At-Taubah: 38)</p>
       <br>
       <p style="text-align: center;"><strong>"I have not left anything that brings you closer to Paradise and distances you from the Fire except that I have commanded you with it."</strong><br>
-      (HR. Thabrani)</p>\`,
-      ar: \`<div class="arab" style="text-align: center; margin-bottom: 10px;">الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ</div>
+      (HR. Thabrani)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ</div>
       <p style="text-align: center;"><strong>"الذين قال لهم الناس إن الناس قد جمعوا لكم فاخشوهم فزادهم إيماناً وقالوا حسبنا الله ونعم الوكيل."</strong><br>
       (سورة آل عمران: 173)</p>
       <br>
@@ -1551,7 +1551,7 @@ Do not be quick to say, "We believe," if not ready to be tested. Do not be proud
       (سورة التوبة: 38)</p>
       <br>
       <p style="text-align: center;"><strong>"ما تركت شيئاً يقربكم إلى الجنة ويباعدكم من النار إلا وأمرتكم به."</strong><br>
-      (رواه الطبراني - حسن)</p>\`
+      (رواه الطبراني - حسن)</p>`
     }
   }
 ];
