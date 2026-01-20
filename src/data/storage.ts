@@ -3777,6 +3777,264 @@ If we are negligent, no amount of reward will help the Ummah, and will not save 
 (رواه أحمد — المعنى الضمني)</p>`
     }
   },
+  {
+    id: "23",
+    title: {
+      id: "Umat Islam Kaya Ilmu, Tapi Bodoh dalam Mengamalkan Syariat",
+      en: "Muslims Are Rich in Knowledge, But Ignorant in Practicing Sharia",
+      ar: "المسلمون أغنياء بالعلم، لكنهم جاهلون في تطبيق الشريعة"
+    },
+    content: {
+      id: `Hari ini umat Islam bangga dengan gelar dan ilmu.
+Mereka hafal kitab, menguasai tafsir, fiqh, sejarah, ekonomi Islam, bahkan ilmu modern.
+Namun ironisnya, amalan nyata mereka tidak mencerminkan ilmu itu.
+
+Sejarah telah menunjukkan, Nabi ﷺ dan para Sahabat bukan hanya pandai, tetapi mengamalkan ilmu dengan keberanian:
+* Nabi ﷺ memimpin umat kecil di Makkah, menegur Quraisy yang menindas, tanpa takut nyawa terancam.
+* Umar bin Khattab radhiyallahu ‘anhu menegakkan hukum Allah secara tegas, meski harus menentang pejabat atau bangsawan.
+* Abu Bakar radhiyallahu ‘anhu menggunakan hartanya untuk kepentingan dakwah, bukan untuk menumpuk kekayaan atau nama.
+* Ali bin Abi Thalib radhiyallahu ‘anhu membela hak rakyat dan menegakkan keadilan, meski selalu dihadapkan pada ancaman.
+
+Hari ini? Umat Islam menguasai ribuan kitab, menghadiri seminar dan kajian, menulis artikel dan buku, bahkan mengajarkan ilmu kepada orang lain.
+Namun ketika syariat diserang, mereka diam.
+Ketika kemungkaran terjadi di sekitar, mereka pura-pura tidak melihat.
+Ketika amanah umat dan agama dipermainkan, mereka bungkam.
+
+Inilah bodohnya umat modern: kaya ilmu tapi miskin amal.
+Kaya teori tapi miskin praktik.
+Bangga hafal ayat, tetapi tidak mau menegakkan ayat itu di masyarakat.
+Bangga berdiskusi soal hukum, tetapi lalai menegakkan hukum Allah ketika kesempatan datang.
+
+Puasa, shalat, sedekah, kajian, dan ilmu hanya berarti jika melahirkan tindakan nyata.
+Ilmu tanpa amal adalah kebodohan terbesar,
+ibadah tanpa implementasi adalah pengkhianatan terhadap syariat Allah.
+
+Bangunlah, wahai umat!
+Ilmu bukan untuk dihargai di forum atau media sosial.
+Ilmu adalah amanah yang harus diamalkan, untuk menegakkan hukum Allah, menolong yang lemah, menegur kemungkaran, dan menghidupkan syariat.
+
+Jika tidak, meski ilmu sebanyak gunung, umat tetap lemah, hina, dan jauh dari ridha Allah.
+Hafal ribuan kitab tapi bodoh mengamalkan syariat, adalah tragis yang tidak bisa ditutupi.`,
+      en: `Today, Muslims are proud of their degrees and knowledge.
+They memorize books, master tafsir, fiqh, history, Islamic economics, and even modern sciences.
+But ironically, their real actions do not reflect that knowledge.
+
+History has shown, the Prophet ﷺ and the Companions were not only intelligent, but practiced knowledge with courage:
+* The Prophet ﷺ led a small community in Mecca, rebuking the Quraysh who oppressed, without fear of his life being threatened.
+* Umar bin Khattab radhiyallahu ‘anhu enforced Allah's laws strictly, even if he had to oppose officials or nobles.
+* Abu Bakr radhiyallahu ‘anhu used his wealth for the sake of da'wah, not to accumulate wealth or fame.
+* Ali bin Abi Talib radhiyallahu ‘anhu defended the rights of the people and upheld justice, even though always faced with threats.
+
+Today? Muslims master thousands of books, attend seminars and study circles, write articles and books, and even teach knowledge to others.
+But when Sharia is attacked, they are silent.
+When evil happens around them, they pretend not to see.
+When the trust of the Ummah and religion is played with, they are mute.
+
+This is the foolishness of the modern Ummah: rich in knowledge but poor in action.
+Rich in theory but poor in practice.
+Proud to memorize verses, but unwilling to uphold those verses in society.
+Proud to discuss laws, but negligent in upholding Allah's laws when the opportunity comes.
+
+Fasting, prayer, charity, study, and knowledge only mean something if they give birth to real action.
+Knowledge without action is the greatest ignorance,
+worship without implementation is a betrayal of Allah's Sharia.
+
+Wake up, O Ummah!
+Knowledge is not to be appreciated in forums or social media.
+Knowledge is a trust that must be practiced, to uphold Allah's laws, help the weak, rebuke evil, and revive Sharia.
+
+If not, even if knowledge is as much as a mountain, the Ummah remains weak, humiliated, and far from Allah's pleasure.
+Memorizing thousands of books but ignorant in practicing Sharia, is a tragedy that cannot be covered up.`,
+      ar: `اليوم، يفتخر المسلمون بألقابهم وعلمهم.
+إنهم يحفظون الكتب، ويتقنون التفسير، والفقه، والتاريخ، والاقتصاد الإسلامي، وحتى العلوم الحديثة.
+لكن المفارقة أن أعمالهم الحقيقية لا تعكس ذلك العلم.
+
+لقد أظهر التاريخ أن النبي ﷺ والصحابة لم يكونوا أذكياء فحسب، بل طبقوا العلم بشجاعة:
+* قاد النبي ﷺ أمة صغيرة في مكة، ووبخ قريشاً التي كانت تظلم، دون خوف على حياته.
+* أقام عمر بن الخطاب رضي الله عنه حدود الله بصرامة، حتى لو اضطر إلى معارضة المسؤولين أو النبلاء.
+* استخدم أبو بكر رضي الله عنه ماله للدعوة، وليس لتكديس الثروة أو الشهرة.
+* دافع علي بن أبي طالب رضي الله عنه عن حقوق الناس وأقام العدل، رغم تعرضه دائماً للتهديدات.
+
+اليوم؟ يتقن المسلمون آلاف الكتب، ويحضرون الندوات والمجالس، ويكتبون المقالات والكتب، بل ويعلمون العلم للآخرين.
+لكن عندما تُهاجم الشريعة، يصمتون.
+عندما يحدث المنكر من حولهم، يتظاهرون بعدم الرؤية.
+عندما يتم التلاعب بأمانة الأمة والدين، يخرسون.
+
+هذا هو غباء الأمة الحديثة: أغنياء بالعلم لكن فقراء بالعمل.
+أغنياء بالنظريات لكن فقراء بالتطبيق.
+فخورون بحفظ الآيات، لكنهم لا يريدون إقامة تلك الآيات في المجتمع.
+فخورون بمناقشة القوانين، لكنهم مهملون في إقامة حدود الله عندما تأتي الفرصة.
+
+الصيام، والصلاة، والصدقة، والعلم لا تعني شيئاً إلا إذا ولدت عملاً حقيقياً.
+العلم بلا عمل هو الجهل الأكبر،
+والعبادة بلا تطبيق هي خيانة لشريعة الله.
+
+استيقظي أيتها الأمة!
+العلم ليس ليقدر في المنتديات أو وسائل التواصل الاجتماعي.
+العلم أمانة يجب العمل بها، لإقامة حدود الله، ونصرة الضعيف، وإنكار المنكر، وإحياء الشريعة.
+
+وإلا، فمهما كان العلم مثل الجبال، تظل الأمة ضعيفة، ذليلة، وبعيدة عن رضا الله.
+حفظ آلاف الكتب والجهل بتطبيق الشريعة، مأساة لا يمكن تغطيتها.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ ۗ إِنَّمَا يَتَذَكَّرُ أُولُو الْأَلْبَابِ</div>
+<p style="text-align: center;"><strong>"Katakanlah: Apakah sama orang-orang yang mengetahui dan orang-orang yang tidak mengetahui? Sesungguhnya hanya orang yang berakal yang dapat mengambil pelajaran."</strong><br>
+(QS. Az-Zumar: 9)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">وَأَوْفُوا الْكَيْلَ وَالْمِيزَانَ بِالْقِسْطِ</div>
+<p style="text-align: center;"><strong>"Dan sempurnakanlah takaran dan timbangan dengan adil."</strong><br>
+(QS. Al-An'am: 152 — konteks hukum dan amal nyata)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<p style="text-align: center;"><strong>"Barang siapa menuntut ilmu untuk selain Allah, maka ia akan binasa. Barang siapa menuntut ilmu untuk Allah, kemudian mengamalkannya, ia akan selamat dan mendapatkan pahala."</strong><br>
+(HR. Tirmidzi)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<p style="text-align: center;"><strong>"Orang yang paling dicintai Allah adalah yang paling bermanfaat bagi manusia. Ilmu tanpa amal tidak membawa manfaat."</strong><br>
+(HR. Ahmad — makna tersirat)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ ۗ إِنَّمَا يَتَذَكَّرُ أُولُو الْأَلْبَابِ</div>
+<p style="text-align: center;"><strong>"Say, 'Are those who know equal to those who do not know?' Only they will remember [who are] people of understanding."</strong><br>
+(QS. Az-Zumar: 9)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">وَأَوْفُوا الْكَيْلَ وَالْمِيزَانَ بِالْقِسْطِ</div>
+<p style="text-align: center;"><strong>"And give full measure and weight in justice."</strong><br>
+(QS. Al-An'am: 152 — context of law and real action)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<p style="text-align: center;"><strong>"Whoever seeks knowledge for other than Allah, he will perish. Whoever seeks knowledge for Allah, then practices it, he will be saved and rewarded."</strong><br>
+(HR. Tirmidzi)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<p style="text-align: center;"><strong>"The most beloved of people to Allah are those who are most beneficial to people. Knowledge without action brings no benefit."</strong><br>
+(HR. Ahmad — implied meaning)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ ۗ إِنَّمَا يَتَذَكَّرُ أُولُو الْأَلْبَابِ</div>
+<p style="text-align: center;"><strong>"قل هل يستوي الذين يعلمون والذين لا يعلمون إنما يتذكر أولو الألباب."</strong><br>
+(سورة الزمر: 9)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">وَأَوْفُوا الْكَيْلَ وَالْمِيزَانَ بِالْقِسْطِ</div>
+<p style="text-align: center;"><strong>"وأوفوا الكيل والميزان بالقسط."</strong><br>
+(سورة الأنعام: 152)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<p style="text-align: center;"><strong>"من طلب العلم لغير الله هلك، ومن طلب العلم لله ثم عمل به نجا وأجر."</strong><br>
+(رواه الترمذي)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<p style="text-align: center;"><strong>"أحب الناس إلى الله أنفعهم للناس. علم بلا عمل لا ينفع."</strong><br>
+(رواه أحمد — المعنى الضمني)</p>`
+    }
+  },
+  {
+    id: "24",
+    title: {
+      id: "Para Ilmuwan Islam yang Membuka Ilmu Pengetahuan",
+      en: "Islamic Scientists Who Unlocked Knowledge",
+      ar: "علماء الإسلام الذين فتحوا أبواب المعرفة"
+    },
+    content: {
+      id: `Sejarah Islam tidak hanya tercatat melalui peperangan dan dakwah, tetapi juga melalui cahaya ilmu yang menerangi dunia.
+Para ilmuwan Islam, yang lahir dari generasi Nabi ﷺ dan Sahabat, menunjukkan bahwa agama dan ilmu adalah satu kesatuan.
+
+Al-Khawarizmi, Al-Farabi, Ibnu Sina, Al-Razi, Al-Kindi, Ibnu Khaldun—nama-nama ini bukan sekadar pengajar teori, tetapi pionir yang menegakkan peradaban Islam melalui ilmu.
+Mereka menjelajahi langit dan bumi, mempelajari matematika, astronomi, kedokteran, filsafat, dan sains, dengan tujuan satu: melayani manusia dan menegakkan syariat Allah dalam kehidupan nyata.
+
+Islam mengajarkan bahwa ilmu bukan untuk pamer atau gelar, tetapi untuk kebermanfaatan dan kemaslahatan umat.
+Para ilmuwan itu tidak sibuk menghitung pahala, tetapi sibuk memecahkan masalah nyata: menyembuhkan penyakit, menata perhitungan, membangun sistem pemerintahan, dan memetakan bintang untuk menentukan waktu ibadah dan arah kiblat.
+
+Mereka menegaskan bahwa iman dan ilmu harus berjalan beriringan.
+Seperti Nabi ﷺ yang mengajarkan bahwa akal dan wahyu adalah cahaya: wahyu memberi pedoman, akal menafsirkan dan mengaplikasikan.
+Para ilmuwan Islam membuktikan bahwa iman tanpa ilmu adalah buta, tetapi ilmu tanpa iman bisa tersesat dari tujuan.
+
+Hari ini, umat Islam bangga memiliki ribuan kitab dan penguasaan teori, tetapi lupa mengamalkan ilmu untuk membangun peradaban.
+Mereka terjebak di ruang kajian, seminar, dan forum, tanpa meneladani para ilmuwan yang mengubah dunia.
+Padahal sejarah membuktikan: Islam maju bukan hanya karena jihad di medan perang, tetapi juga karena jihad di ranah ilmu pengetahuan.
+
+Bangunlah, wahai umat!
+Ilmu adalah amanah.
+Ilmu harus menolong umat, menegakkan kebenaran, menyelesaikan masalah manusia, dan membela agama Allah.
+Jika tidak, semua ilmu hanyalah catatan di rak perpustakaan—cantik dilihat, tetapi tidak mengubah umat dan dunia.`,
+      en: `Islamic history is not only recorded through wars and da'wah, but also through the light of knowledge that illuminated the world.
+Islamic scientists, born from the generation of the Prophet ﷺ and the Companions, showed that religion and science are one unity.
+
+Al-Khawarizmi, Al-Farabi, Ibn Sina, Al-Razi, Al-Kindi, Ibn Khaldun—these names were not just theory teachers, but pioneers who established Islamic civilization through knowledge.
+They explored the heavens and the earth, studying mathematics, astronomy, medicine, philosophy, and science, with one goal: to serve humanity and uphold Allah's Sharia in real life.
+
+Islam teaches that knowledge is not for showing off or degrees, but for the benefit and welfare of the Ummah.
+Those scientists were not busy counting rewards, but busy solving real problems: curing diseases, organizing calculations, building government systems, and mapping stars to determine prayer times and the Qibla direction.
+
+They asserted that faith and knowledge must walk hand in hand.
+Like the Prophet ﷺ who taught that reason and revelation are light: revelation gives guidance, reason interprets and applies.
+Islamic scientists proved that faith without knowledge is blind, but knowledge without faith can stray from the goal.
+
+Today, Muslims are proud to own thousands of books and mastery of theory, but forget to practice knowledge to build civilization.
+They are trapped in study rooms, seminars, and forums, without emulating the scientists who changed the world.
+Whereas history proves: Islam advanced not only because of jihad on the battlefield, but also because of jihad in the realm of science.
+
+Wake up, O Ummah!
+Knowledge is a trust.
+Knowledge must help the Ummah, uphold the truth, solve human problems, and defend Allah's religion.
+If not, all knowledge is just notes on library shelves—beautiful to look at, but not changing the Ummah and the world.`,
+      ar: `لم يسجل التاريخ الإسلامي من خلال الحروب والدعوة فحسب، بل وأيضاً من خلال نور العلم الذي أضاء العالم.
+لقد أظهر علماء الإسلام، الذين ولدوا من جيل النبي ﷺ والصحابة، أن الدين والعلم وحدة واحدة.
+
+الخوارزمي، الفارابي، ابن سينا، الرازي، الكندي، ابن خلدون—هذه الأسماء لم تكن مجرد معلمين للنظريات، بل رواداً أقاموا الحضارة الإسلامية من خلال العلم.
+لقد استكشفوا السماء والأرض، ودرسوا الرياضيات، والفلك، والطب، والفلسفة، والعلوم، بهدف واحد: خدمة البشرية وإقامة شريعة الله في الحياة الواقعية.
+
+يعلمنا الإسلام أن العلم ليس للتباهي أو الألقاب، بل لنفع الأمة وصلاحها.
+لم يكن هؤلاء العلماء مشغولين بإحصاء الثواب، بل كانوا مشغولين بحل المشاكل الحقيقية: علاج الأمراض، وتنظيم الحسابات، وبناء أنظمة الحكم، ورسم خرائط النجوم لتحديد أوقات الصلاة واتجاه القبلة.
+
+لقد أكدوا أن الإيمان والعلم يجب أن يسيرا جنباً إلى جنب.
+كما علم النبي ﷺ أن العقل والوحي نور: الوحي يعطي التوجيه، والعقل يفسر ويطبق.
+أثبت علماء الإسلام أن الإيمان بلا علم أعمى، لكن العلم بلا إيمان يمكن أن يضل عن الهدف.
+
+اليوم، يفتخر المسلمون بامتلاك آلاف الكتب وإتقان النظريات، لكنهم ينسون تطبيق العلم لبناء الحضارة.
+إنهم عالقون في قاعات الدراسة والندوات والمنتديات، دون الاقتداء بالعلماء الذين غيروا العالم.
+بينما يثبت التاريخ: أن الإسلام تقدم ليس فقط بسبب الجهاد في ساحة المعركة، بل وأيضاً بسبب الجهاد في ميدان العلم.
+
+استيقظي أيتها الأمة!
+العلم أمانة.
+يجب أن يساعد العلم الأمة، ويقيم الحق، ويحل مشاكل الناس، ويدافع عن دين الله.
+وإلا، فإن كل العلم مجرد ملاحظات على رفوف المكتبات—جميلة المنظر، لكنها لا تغير الأمة والعالم.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَقُلْ رَبِّ زِدْنِي عِلْمًا</div>
+<p style="text-align: center;"><strong>"Dan katakanlah: 'Ya Tuhanku, tambahkanlah ilmuku.'"</strong><br>
+(QS. Taha: 114)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا</div>
+<p style="text-align: center;"><strong>"Dan Dia mengajarkan kepada Adam nama-nama (benda-benda) seluruhnya."</strong><br>
+(QS. Al-Baqarah: 31)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">مَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ بِهِ طَرِيقًا إِلَى الْجَنَّةِ</div>
+<p style="text-align: center;"><strong>"Barang siapa menempuh jalan untuk menuntut ilmu, maka Allah memudahkan baginya jalan ke surga. Ilmu yang bermanfaat adalah warisan para nabi."</strong><br>
+(HR. Muslim)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<p style="text-align: center;"><strong>"Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia lain."</strong><br>
+(HR. Ahmad — makna tersirat)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَقُلْ رَبِّ زِدْنِي عِلْمًا</div>
+<p style="text-align: center;"><strong>"And say, 'My Lord, increase me in knowledge.'"</strong><br>
+(QS. Taha: 114)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا</div>
+<p style="text-align: center;"><strong>"And He taught Adam the names - all of them."</strong><br>
+(QS. Al-Baqarah: 31)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">مَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ بِهِ طَرِيقًا إِلَى الْجَنَّةِ</div>
+<p style="text-align: center;"><strong>"Whoever travels a path in search of knowledge, Allah will make easy for him a path to Paradise."</strong><br>
+(HR. Muslim)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<p style="text-align: center;"><strong>"The best of people are those that bring most benefit to the rest of mankind."</strong><br>
+(HR. Ahmad — implied meaning)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَقُلْ رَبِّ زِدْنِي عِلْمًا</div>
+<p style="text-align: center;"><strong>"وقل رب زدني علما."</strong><br>
+(سورة طه: 114)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا</div>
+<p style="text-align: center;"><strong>"وعلم آدم الأسماء كلها."</strong><br>
+(سورة البقرة: 31)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">مَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ بِهِ طَرِيقًا إِلَى الْجَنَّةِ</div>
+<p style="text-align: center;"><strong>"من سلك طريقا يلتمس فيه علما سهل الله له به طريقا إلى الجنة."</strong><br>
+(رواه مسلم)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<p style="text-align: center;"><strong>"خير الناس أنفعهم للناس."</strong><br>
+(رواه أحمد — المعنى الضمني)</p>`
+    }
+  },
 ];
 
 export function getCerpen(): Cerpen[] {
