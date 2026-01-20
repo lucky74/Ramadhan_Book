@@ -3296,6 +3296,183 @@ Because fearing people without fearing Allah is the most real failure of faith.`
 <p style="text-align: center;"><strong>"من رأى منكم منكرا فليغيره بيده، فإن لم يستطع فبلسانه، فإن لم يستطع فبقلبه، وذلك أضعف الإيمان."</strong><br>
 (رواه مسلم)</p>`
     }
+  },
+  {
+    id: "20",
+    title: {
+      id: "Puasa Tanpa Perubahan, Adalah Kegagalan Sejati",
+      en: "Fasting Without Change Is True Failure",
+      ar: "الصيام بلا تغيير هو الفشل الحقيقي"
+    },
+    content: {
+      id: `Hari ini banyak yang masuk masjid, berdiam, i’tikaf.
+Kita bangga: “Aku di masjid, aku dekat Allah.”
+Tetapi, apakah cukup hanya duduk di masjid?
+Apakah cukup hanya menahan lapar dan haus?
+Apakah cukup mengulang doa, dzikir, dan tadarus Al-Qur’an tanpa menegakkan kebenaran di luar masjid?
+
+Puasa yang tidak melahirkan perubahan dalam hati, pikiran, dan tindakan, adalah puasa yang gagal.
+I’tikaf yang tidak menumbuhkan keberanian untuk menegur kemungkaran, memperbaiki masyarakat, dan menegakkan syariat Allah, hanyalah ritual kosong.
+
+Nabi ﷺ berpuasa, tetapi bukan untuk hanya sekadar menahan lapar.
+Beliau berpuasa sebagai latihan menahan hawa nafsu,
+latihan sabar menghadapi tekanan kaum Quraisy,
+dan penguatan untuk menegakkan kebenaran di tengah masyarakat yang rusak.
+
+Para Sahabat pun meneladani.
+Mereka berpuasa bukan untuk mendapatkan tepuk tangan, tetapi untuk menguatkan iman dan aksi.
+Abu Bakar radhiyallahu ‘anhu tetap aktif menegakkan keadilan, Umar radhiyallahu ‘anhu menegur penguasa, Utsman radhiyallahu ‘anhu membangun ekonomi umat, meski sedang berpuasa.
+
+Hari ini umat banyak yang melakukan i’tikaf,
+tetapi di luar masjid, mereka diam melihat ketidakadilan,
+membiarkan kemaksiatan,
+mengabaikan amanah umat dan agama.
+
+Apakah puasa hanya untuk kenyamanan spiritual?
+Apakah i’tikaf hanya untuk status “taat” di mata manusia?
+Jika iya, maka sadarilah:
+puasa yang tidak menumbuhkan keberanian, kesadaran, dan aksi nyata adalah kegagalan sejati.
+
+Allah tidak butuh ibadah hampa.
+Allah ingin hamba yang menghidupkan agama-Nya, bukan hamba yang hanya nyaman dalam ritual.
+
+I’tikaf adalah kesempatan, bukan pelarian.
+Ini waktu untuk menumbuhkan keteguhan, memperkuat iman, dan melatih diri menghadapi dunia yang rusak.
+Jika tidak, maka meski berjuta-juta hari kita di masjid,
+kita tetap lemah, hina, dan gagal membela Islam.
+
+Puasa tanpa perubahan adalah musibah tersembunyi.
+I’tikaf tanpa keberanian adalah tidak lebih dari tidur di rumah Allah.
+Dan umat yang puas dengan ritual tanpa aksi adalah umat yang gagal dalam ujian Ramadhan.
+
+Bangunlah!
+I’tikaf bukan pelarian.
+Puasa bukan sekadar menahan lapar.
+Mereka yang tidak mengubah diri dan lingkungannya,
+puasa dan i’tikaf mereka hanyalah kesia-siaan di mata Allah.`,
+      en: `Today many enter the mosque, stay silent, perform i'tikaf.
+We are proud: "I am in the mosque, I am close to Allah."
+But is it enough to just sit in the mosque?
+Is it enough to just restrain hunger and thirst?
+Is it enough to repeat prayers, dhikr, and recite the Qur'an without upholding the truth outside the mosque?
+
+Fasting that does not give birth to change in the heart, mind, and action, is a failed fast.
+I'tikaf that does not grow courage to rebuke evil, improve society, and uphold Allah's Sharia, is just an empty ritual.
+
+The Prophet ﷺ fasted, but not just to restrain hunger.
+He fasted as an exercise to restrain desires,
+practice patience in facing the pressure of the Quraysh,
+and strengthen himself to uphold the truth in the midst of a broken society.
+
+The Companions also followed suit.
+They fasted not to get applause, but to strengthen faith and action.
+Abu Bakr radhiyallahu ‘anhu remained active in upholding justice, Umar radhiyallahu ‘anhu rebuked rulers, Uthman radhiyallahu ‘anhu built the Ummah's economy, even while fasting.
+
+Today many people perform i'tikaf,
+but outside the mosque, they are silent seeing injustice,
+allowing immorality,
+ignoring the trust of the Ummah and religion.
+
+Is fasting only for spiritual comfort?
+Is i'tikaf only for the status of "obedient" in the eyes of humans?
+If so, then realize:
+fasting that does not grow courage, awareness, and real action is a true failure.
+
+Allah does not need empty worship.
+Allah wants servants who revive His religion, not servants who are only comfortable in rituals.
+
+I'tikaf is an opportunity, not an escape.
+It is a time to grow firmness, strengthen faith, and train oneself to face a broken world.
+If not, then even if we are in the mosque for millions of days,
+we remain weak, humiliated, and fail to defend Islam.
+
+Fasting without change is a hidden calamity.
+I'tikaf without courage is nothing more than sleeping in the house of Allah.
+And people who are satisfied with rituals without action are people who fail the test of Ramadan.
+
+Wake up!
+I'tikaf is not an escape.
+Fasting is not just restraining hunger.
+Those who do not change themselves and their environment,
+their fasting and i'tikaf are just futility in the eyes of Allah.`,
+      ar: `اليوم يدخل الكثيرون المسجد، يصمتون، يعتكفون.
+نحن فخورون: "أنا في المسجد، أنا قريب من الله".
+لكن هل يكفي مجرد الجلوس في المسجد؟
+هل يكفي مجرد الامتناع عن الجوع والعطش؟
+هل يكفي تكرار الدعاء والذكر وتلاوة القرآن دون إقامة الحق خارج المسجد؟
+
+الصيام الذي لا يولد تغييراً في القلب والعقل والعمل، هو صيام فاشل.
+الاعتكاف الذي لا ينمي الشجاعة لإنكار المنكر، وإصلاح المجتمع، وإقامة شريعة الله، هو مجرد طقوس فارغة.
+
+صام النبي ﷺ، ولكن ليس لمجرد الامتناع عن الجوع.
+صام كتمرين لكبح الشهوات،
+وممارسة الصبر في مواجهة ضغوط قريش،
+وتقوية النفس لإقامة الحق في وسط مجتمع فاسد.
+
+الصحابة اقتدوا به أيضاً.
+صاموا ليس للحصول على التصفيق، بل لتقوية الإيمان والعمل.
+أبو بكر رضي الله عنه ظل نشطاً في إقامة العدل، وعمر رضي الله عنه أنكر على الحكام، وعثمان رضي الله عنه بنى اقتصاد الأمة، حتى وهم صائمون.
+
+اليوم يعتكف الكثير من الناس،
+لكن خارج المسجد، يصمتون عند رؤية الظلم،
+ويسمحون بالمعصية،
+ويتجاهلون أمانة الأمة والدين.
+
+هل الصيام فقط للراحة الروحية؟
+هل الاعتكاف فقط لمكانة "مطيع" في عيون البشر؟
+إذا كان الأمر كذلك، فأدركوا:
+الصيام الذي لا ينمي الشجاعة والوعي والعمل الحقيقي هو فشل حقيقي.
+
+الله لا يحتاج إلى عبادة فارغة.
+الله يريد عباداً يحيون دينه، وليس عباداً يرتاحون فقط في الطقوس.
+
+الاعتكاف فرصة، وليس هروباً.
+إنه وقت لتنمية الثبات، وتقوية الإيمان، وتدريب النفس على مواجهة عالم فاسد.
+إذا لم يكن الأمر كذلك، فحتى لو كنا في المسجد لملايين الأيام،
+فسنظل ضعفاء، أذلة، وفاشلين في الدفاع عن الإسلام.
+
+الصيام بلا تغيير مصيبة خفية.
+الاعتكاف بلا شجاعة ليس أكثر من النوم في بيت الله.
+والأمة التي ترضى بالطقوس دون عمل هي أمة تفشل في اختبار رمضان.
+
+استيقظوا!
+الاعتكاف ليس هروباً.
+الصيام ليس مجرد الامتناع عن الجوع.
+أولئك الذين لا يغيرون أنفسهم وبيئتهم،
+صيامهم واعتكافهم مجرد عبث في نظر الله.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ</div>
+<p style="text-align: center;"><strong>"Wahai orang-orang yang beriman! Diwajibkan atas kamu berpuasa sebagaimana diwajibkan atas orang-orang sebelum kamu agar kamu bertakwa."</strong><br>
+(QS. Al-Baqarah: 183)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ</div>
+<p style="text-align: center;"><strong>"Dan apabila hamba-hamba-Ku bertanya kepadamu tentang Aku, maka sesungguhnya Aku dekat. Aku mengabulkan doa orang yang berdoa apabila ia memohon kepada-Ku."</strong><br>
+(QS. Al-Baqarah: 186)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<p style="text-align: center;"><strong>"Barang siapa berpuasa Ramadhan dengan iman dan mengharap pahala, maka dosa-dosanya yang telah lalu akan diampuni, dan ia akan dilatih kesabarannya untuk menegakkan kebenaran."</strong><br>
+(HR. Bukhari dan Muslim — makna tersirat)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ</div>
+<p style="text-align: center;"><strong>"O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous."</strong><br>
+(QS. Al-Baqarah: 183)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ</div>
+<p style="text-align: center;"><strong>"And when My servants ask you, [O Muhammad], concerning Me - indeed I am near. I respond to the invocation of the supplicant when he calls upon Me."</strong><br>
+(QS. Al-Baqarah: 186)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<p style="text-align: center;"><strong>"Whoever fasts Ramadan out of faith and in the hope of reward, his past sins will be forgiven, and he will be trained in patience to uphold the truth."</strong><br>
+(HR. Bukhari and Muslim — implied meaning)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ</div>
+<p style="text-align: center;"><strong>"يا أيها الذين آمنوا كتب عليكم الصيام كما كتب على الذين من قبلكم لعلكم تتقون."</strong><br>
+(سورة البقرة: 183)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ</div>
+<p style="text-align: center;"><strong>"وإذا سألك عبادي عني فإني قريب أجيب دعوة الداع إذا دعان."</strong><br>
+(سورة البقرة: 186)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<p style="text-align: center;"><strong>"من صام رمضان إيمانا واحتسابا غفر له ما تقدم من ذنبه."</strong><br>
+(رواه البخاري ومسلم)</p>`
+    }
   }
 ];
 
