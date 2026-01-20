@@ -2432,6 +2432,285 @@ but from misplaced fear.`,
       <p style="text-align: center;"><strong>"ناركم جزء من سبعين جزءاً من نار جهنم."</strong><br>
       (رواه البخاري ومسلم - صحيح)</p>`
     }
+  },
+  {
+    id: "16",
+    title: {
+      id: "Ketika Islam Dipisahkan dari Kehidupan, Lalu Disebut Rahmat",
+      en: "When Islam Is Separated from Life, Then Called Mercy",
+      ar: "عندما يفصل الإسلام عن الحياة ثم يسمى رحمة"
+    },
+    content: {
+      id: `Hari ini Islam sering disebut rahmat,
+tetapi dijauhkan dari kehidupan.
+Islam dipuji dengan kata-kata indah,
+namun ditolak ketika ingin mengatur.
+Dihormati di mimbar,
+namun dicurigai ketika menyentuh hukum, ekonomi, dan kekuasaan.
+Inilah tragedi besar umat Islam modern:
+Islam dipisahkan dari kehidupan, lalu dengan santai disebut rahmat.
+Islam hanya diizinkan hidup di masjid.
+Hanya boleh hadir dalam doa.
+Hanya aman jika tidak menuntut perubahan.
+Begitu Islam berbicara tentang keadilan hukum,
+ia disebut keras.
+Begitu Islam menyentuh ekonomi,
+ia dituduh kuno.
+Begitu Islam menyentuh kekuasaan,
+ia dianggap ancaman.
+Lalu umat Islam bertepuk tangan dan berkata,
+"Inilah Islam yang damai."
+Padahal Islam tidak pernah datang untuk menjadi hiasan.
+Islam datang untuk memimpin kehidupan.
+Islam bukan sekadar penghibur hati,
+tetapi penentu arah peradaban.
+Bukan hanya menenangkan jiwa,
+tetapi menegakkan keadilan.
+Ketika Islam dijauhkan dari kehidupan,
+yang tersisa hanyalah ritual tanpa daya.
+Ibadah tanpa keberanian.
+Ilmu tanpa pengaruh.
+Ulama tanpa posisi.
+Islam lalu berubah menjadi sekadar identitas,
+bukan sistem.
+Menjadi simbol,
+bukan solusi.
+Umat Islam hari ini bangga berkata,
+"Islam rahmatan lil 'alamin,"
+namun takut jika rahmat itu benar-benar mengatur hidup.
+Padahal rahmat Islam bukan karena ia lembut,
+tetapi karena ia adil.
+Bukan karena ia diam,
+tetapi karena ia tegas.
+Islam menjadi rahmat justru ketika ia:
+* menghapus kezaliman,
+* membongkar sistem rusak,
+* mengoreksi kekuasaan,
+* dan menundukkan hawa nafsu manusia.
+Ketika Islam dipisahkan dari kehidupan,
+yang muncul justru kekacauan.
+Hukum manusia saling bertabrakan.
+Moral ditentukan selera.
+Keadilan ditentukan kekuatan.
+Namun anehnya, umat Islam justru merasa aman.
+Selama masjid berdiri.
+Selama kajian berjalan.
+Selama ritual hidup.
+Padahal Islam tidak pernah diajarkan untuk hidup setengah-setengah.
+Tidak pernah diajarkan untuk menjadi tamu di rumah sendiri.
+Nabi ﷺ tidak memisahkan Islam dari kehidupan.
+Beliau membangun masyarakat.
+Menegakkan hukum.
+Mengatur ekonomi.
+Memimpin negara.
+Tetapi umat hari ini memisahkan Islam,
+lalu heran mengapa umat ini lemah.
+Islam tidak menjadi rahmat karena dijinakkan.
+Islam menjadi rahmat karena ditaati sepenuhnya.
+Selama Islam hanya dijadikan slogan,
+dan kehidupan diatur selain dengan Islam,
+maka kehinaan akan terus menyertai umat ini.
+Karena Islam yang dipisahkan dari kehidupan
+bukanlah rahmat,
+melainkan pengkhianatan yang dibungkus kata-kata manis.`,
+      en: `Today Islam is often called a mercy,
+but kept away from life.
+Islam is praised with beautiful words,
+but rejected when it wants to rule.
+Respected in the pulpit,
+but suspected when touching law, economy, and power.
+This is the great tragedy of modern Muslims:
+Islam is separated from life, then casually called mercy.
+Islam is only allowed to live in the mosque.
+Only allowed to be present in prayer.
+Only safe if it does not demand change.
+As soon as Islam speaks of legal justice,
+it is called harsh.
+As soon as Islam touches the economy,
+it is accused of being ancient.
+As soon as Islam touches power,
+it is considered a threat.
+Then Muslims clap and say,
+"This is peaceful Islam."
+Whereas Islam never came to be a decoration.
+Islam came to lead life.
+Islam is not just a comforter of the heart,
+but a determinant of the direction of civilization.
+Not only calming the soul,
+but upholding justice.
+When Islam is kept away from life,
+what remains is only powerless ritual.
+Worship without courage.
+Knowledge without influence.
+Scholars without position.
+Islam then turns into merely an identity,
+not a system.
+Becoming a symbol,
+not a solution.
+Muslims today are proud to say,
+"Islam is a mercy to the worlds,"
+but afraid if that mercy truly regulates life.
+Whereas the mercy of Islam is not because it is soft,
+but because it is just.
+Not because it is silent,
+but because it is firm.
+Islam becomes a mercy precisely when it:
+* removes injustice,
+* dismantles broken systems,
+* corrects power,
+* and subdues human desires.
+When Islam is separated from life,
+what emerges is chaos.
+Human laws collide with each other.
+Morality is determined by taste.
+Justice is determined by strength.
+But strangely, Muslims feel safe.
+As long as the mosque stands.
+As long as the study circle runs.
+As long as the ritual lives.
+Whereas Islam was never taught to live half-heartedly.
+Never taught to be a guest in its own home.
+The Prophet ﷺ did not separate Islam from life.
+He built a society.
+Enforced the law.
+Regulated the economy.
+Led the state.
+But the Ummah today separates Islam,
+then wonders why this Ummah is weak.
+Islam does not become a mercy because it is tamed.
+Islam becomes a mercy because it is obeyed completely.
+As long as Islam is only made a slogan,
+and life is regulated other than by Islam,
+then humiliation will continue to accompany this Ummah.
+Because Islam separated from life
+is not a mercy,
+but a betrayal wrapped in sweet words.`,
+      ar: `اليوم يوصف الإسلام غالباً بأنه رحمة،
+لكنه يُبعد عن الحياة.
+يُمدح الإسلام بكلمات جميلة،
+لكنه يُرفض عندما يريد أن يحكم.
+يُحترم في المنابر،
+لكنه يُشتبه به عندما يمس القانون والاقتصاد والسلطة.
+هذه هي المأساة الكبرى للمسلمين المعاصرين:
+يُفصل الإسلام عن الحياة، ثم يوصف ببساطة بأنه رحمة.
+يُسمح للإسلام بالعيش فقط في المسجد.
+يُسمح له بالحضور فقط في الدعاء.
+يكون آمناً فقط إذا لم يطالب بالتغيير.
+بمجرد أن يتحدث الإسلام عن العدالة القانونية،
+يوصف بأنه قاسٍ.
+بمجرد أن يمس الإسلام الاقتصاد،
+يتهم بأنه قديم.
+بمجرد أن يمس الإسلام السلطة،
+يعتبر تهديداً.
+ثم يصفق المسلمون ويقولون:
+"هذا هو الإسلام السلمي".
+بينما لم يأت الإسلام أبداً ليكون زينة.
+جاء الإسلام ليقود الحياة.
+الإسلام ليس مجرد معزي للقلب،
+بل هو محدد لاتجاه الحضارة.
+ليس فقط لتهدئة النفس،
+بل لإقامة العدل.
+عندما يُبعد الإسلام عن الحياة،
+لا يتبقى سوى طقوس بلا قوة.
+عبادة بلا شجاعة.
+علم بلا تأثير.
+علماء بلا مكانة.
+يتحول الإسلام حينها إلى مجرد هوية،
+وليس نظاماً.
+يصبح رمزاً،
+وليس حلاً.
+يفتخر المسلمون اليوم بقولهم:
+"الإسلام رحمة للعالمين"،
+لكنهم يخافون إذا كانت تلك الرحمة تنظم الحياة حقاً.
+بينما رحمة الإسلام ليست لأنه ناعم،
+بل لأنه عادل.
+ليس لأنه صامت،
+بل لأنه حازم.
+يصبح الإسلام رحمة بالضبط عندما:
+* يزيل الظلم،
+* يفكك الأنظمة الفاسدة،
+* يصحح السلطة،
+* ويخضع أهواء البشر.
+عندما يُفصل الإسلام عن الحياة،
+تظهر الفوضى.
+تتضارب قوانين البشر.
+تتحدد الأخلاق بالهوى.
+تتحدد العدالة بالقوة.
+لكن الغريب أن المسلمين يشعرون بالأمان.
+طالما أن المسجد قائم.
+طالما أن الدروس مستمرة.
+طالما أن الطقوس حية.
+بينما لم يُعلم الإسلام أبداً ليعيش بنصف قلب.
+لم يُعلم ليكون ضيفاً في بيته.
+النبي ﷺ لم يفصل الإسلام عن الحياة.
+بنى مجتمعاً.
+أقام القانون.
+نظم الاقتصاد.
+قاد الدولة.
+لكن الأمة اليوم تفصل الإسلام،
+ثم تتعجب لماذا هذه الأمة ضعيفة.
+لا يصبح الإسلام رحمة لأنه مروض.
+يصبح الإسلام رحمة لأنه يطاع بالكامل.
+طالما أن الإسلام مجرد شعار،
+والحياة تنظم بغير الإسلام،
+فإن الذل سيظل ملازماً لهذه الأمة.
+لأن الإسلام المفصول عن الحياة
+ليس رحمة،
+بل خيانة مغلفة بكلمات حلوة.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَافَّةً وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ</div>
+      <p style="text-align: center;"><strong>"Wahai orang-orang yang beriman! Masuklah kamu ke dalam Islam secara keseluruhan, dan janganlah kamu mengikuti langkah-langkah setan. Sesungguhnya setan itu musuh yang nyata bagimu."</strong><br>
+      (QS. Al-Baqarah: 208)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ</div>
+      <p style="text-align: center;"><strong>"Barang siapa tidak memutuskan perkara menurut apa yang diturunkan Allah, maka mereka itulah orang-orang kafir."</strong><br>
+      (QS. Al-Ma'idah: 44)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ وَرَسُولُهُ أَمْرًا أَن يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ</div>
+      <p style="text-align: center;"><strong>"Dan tidaklah patut bagi seorang mukmin dan mukminah, apabila Allah dan Rasul-Nya telah menetapkan suatu ketetapan, masih ada pilihan lain bagi mereka tentang urusan mereka."</strong><br>
+      (QS. Al-Ahzab: 36)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Aku tinggalkan kepada kalian dua perkara; kalian tidak akan tersesat selama berpegang teguh kepada keduanya: Kitab Allah dan Sunnah Rasul-Nya."</strong><br>
+      (HR. Malik, al-Hakim)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Akan datang suatu zaman di mana manusia memegang Al-Qur'an, namun Al-Qur'an melaknat mereka."</strong><br>
+      (HR. Thabrani)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَافَّةً وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ</div>
+      <p style="text-align: center;"><strong>"O you who have believed, enter into Islam completely [and perfectly] and do not follow the footsteps of Satan. Indeed, he is to you a clear enemy."</strong><br>
+      (QS. Al-Baqarah: 208)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ</div>
+      <p style="text-align: center;"><strong>"And whoever does not judge by what Allah has revealed - then it is those who are the disbelievers."</strong><br>
+      (QS. Al-Ma'idah: 44)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ وَرَسُولُهُ أَمْرًا أَن يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ</div>
+      <p style="text-align: center;"><strong>"It is not for a believing man or a believing woman, when Allah and His Messenger have decided a matter, that they should [thereafter] have any choice about their affair."</strong><br>
+      (QS. Al-Ahzab: 36)</p>
+      <br>
+      <p style="text-align: center;"><strong>"I have left you two things which, if you hold fast to them, you will never go astray: the Book of Allah and the Sunnah of His Prophet."</strong><br>
+      (HR. Malik, al-Hakim)</p>
+      <br>
+      <p style="text-align: center;"><strong>"There will come a time upon my Ummah when they recite the Qur'an, but the Qur'an curses them."</strong><br>
+      (HR. Thabrani)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَافَّةً وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ</div>
+      <p style="text-align: center;"><strong>"يا أيها الذين آمنوا ادخلوا في السلم كافة ولا تتبعوا خطوات الشيطان إنه لكم عدو مبين."</strong><br>
+      (سورة البقرة: 208)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ</div>
+      <p style="text-align: center;"><strong>"ومن لم يحكم بما أنزل الله فأولئك هم الكافرون."</strong><br>
+      (سورة المائدة: 44)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ وَرَسُولُهُ أَمْرًا أَن يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ</div>
+      <p style="text-align: center;"><strong>"وما كان لمؤمن ولا مؤمنة إذا قضى الله ورسوله أمرا أن يكون لهم الخيرة من أمرهم."</strong><br>
+      (سورة الأحزاب: 36)</p>
+      <br>
+      <p style="text-align: center;"><strong>"تركت فيكم أمرين لن تضلوا ما تمسكتم بهما: كتاب الله وسنة نبيه."</strong><br>
+      (رواه مالك والحاكم - صحيح)</p>
+      <br>
+      <p style="text-align: center;"><strong>"سيأتي زمان على أمتي يقرءون القرآن والقرآن يلعنهم."</strong><br>
+      (رواه الطبراني - حسن)</p>`
+    }
   }
 ];
 
