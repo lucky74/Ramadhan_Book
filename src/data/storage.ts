@@ -833,7 +833,251 @@ But a far more honest and frightening question:
             (رواه مسلم)</p>`
             }
           }
-        ];
+        ,
+  {
+    id: "5",
+    title: {
+      id: "Ilmu Pengetahuan, Ulama, dan Negara dalam Peradaban Islam",
+      en: "Knowledge, Scholars, and the State in Islamic Civilization",
+      ar: "العلم والعلماء والدولة في الحضارة الإسلامية"
+    },
+    content: {
+      id: `Islam tidak pernah miskin ilmu. Yang miskin adalah keberanian umatnya untuk menegakkan ilmu sebagai fondasi peradaban. Sejak awal, wahyu pertama tidak turun dengan perintah berkuasa atau menguasai harta, melainkan perintah membaca, berpikir, dan memahami. Ilmu dalam Islam bukan aksesori spiritual, bukan pula pajangan akademik. Ilmu adalah senjata peradaban.
+
+Namun hari ini, ilmu dipersempit menjadi sekadar ijazah. Ulama dipersempit menjadi penceramah. Cendekiawan dipersempit menjadi komentator. Dan negara merasa cukup berjalan tanpa dituntun wahyu. Inilah tragedi besar umat Islam: ilmu ada, tetapi tidak memimpin; ulama ada, tetapi tidak menggiring; negara berdiri, tetapi tanpa arah ilahiah.
+
+Dalam sejarah Islam, ulama bukan pelengkap negara, melainkan penuntun negara. Imam Abu Hanifah dipenjara karena menolak tunduk pada kekuasaan zalim. Imam Malik dicambuk karena fatwanya mengganggu legitimasi penguasa. Imam Ahmad disiksa karena mempertahankan akidah dari intervensi politik. Mereka tidak netral, karena kebenaran tidak pernah netral.
+
+Hari ini, banyak ulama memilih aman. Aman dari penjara, aman dari tekanan, aman dari konflik. Tetapi aman yang dibayar dengan diam terhadap kezaliman adalah pengkhianatan terhadap amanah ilmu. Ilmu yang tidak membela kebenaran akan menjadi saksi yang memberatkan di hadapan Allah.
+
+Cendekiawan Muslim pun tidak luput. Banyak yang fasih berbicara tentang Islam sebagai objek kajian, tetapi gagap ketika Islam harus ditegakkan sebagai sistem kehidupan. Islam dijadikan bahan diskusi, bukan arah perjuangan. Mereka bangga menjadi 'objektif', padahal objektivitas yang menanggalkan iman hanyalah bentuk lain dari ketakutan.
+
+Negara, di sisi lain, sering memandang agama cukup berada di masjid dan mimbar. Negara ingin stabilitas tanpa kebenaran, ketertiban tanpa keadilan, dan pembangunan tanpa arah akhirat. Padahal dalam Islam, negara adalah alat untuk menegakkan keadilan, bukan tujuan itu sendiri. Kekuasaan tanpa ilmu akan melahirkan tirani, dan ilmu tanpa kekuasaan akan terpinggirkan.
+
+Peradaban Islam tidak lahir dari kompromi antara kebenaran dan kebatilan. Ia lahir dari keberanian ulama menegur penguasa, dari kesungguhan ilmuwan mengabdikan ilmunya untuk umat, dan dari negara yang tunduk kepada hukum Allah. Ketika ketiganya terpisah, runtuhlah peradaban, meski masjid tetap ramai dan gelar akademik terus bertambah.
+
+Maka Ramadhan ini seharusnya mengguncang para ulama, cendekiawan, dan pejabat. Puasa bukan sekadar menahan lapar, tetapi menahan diri dari menjadi pengecut di hadapan kebenaran. Ilmu bukan untuk menyelamatkan posisi, tetapi untuk menyelamatkan umat. Negara bukan untuk dilayani, tetapi untuk melayani amanah Allah.
+
+Jika ulama takut, ilmu mandul. Jika cendekiawan diam, umat kehilangan arah. Jika negara sombong, keadilan mati. Dan jika semua merasa aman-aman saja, maka pantaslah kita bertanya: di mana letak iman yang kita banggakan itu?`,
+      en: `Islam has never been poor in knowledge. What is poor is the courage of its people to establish knowledge as the foundation of civilization. From the beginning, the first revelation did not descend with a command to rule or master wealth, but a command to read, think, and understand. Knowledge in Islam is not a spiritual accessory, nor an academic display. Knowledge is a weapon of civilization.
+
+But today, knowledge is narrowed down to just a diploma. Scholars are narrowed down to preachers. Intellectuals are narrowed down to commentators. And the state feels sufficient to run without being guided by revelation. This is the great tragedy of the Muslim Ummah: knowledge exists, but it does not lead; scholars exist, but they do not guide; the state stands, but without divine direction.
+
+In Islamic history, scholars were not complements to the state, but guides to the state. Imam Abu Hanifah was imprisoned for refusing to bow to unjust power. Imam Malik was flogged because his fatwa disturbed the legitimacy of the ruler. Imam Ahmad was tortured for defending the creed from political intervention. They were not neutral, because truth is never neutral.
+
+Today, many scholars choose to be safe. Safe from prison, safe from pressure, safe from conflict. But safety paid for by silence in the face of injustice is a betrayal of the trust of knowledge. Knowledge that does not defend the truth will be an incriminating witness before Allah.
+
+Muslim intellectuals are not exempt either. Many are fluent in talking about Islam as an object of study, but stutter when Islam must be upheld as a system of life. Islam is made into a discussion material, not a direction of struggle. They are proud to be 'objective', whereas objectivity that strips away faith is just another form of fear.
+
+The state, on the other hand, often views religion as sufficient to be in mosques and pulpits. The state wants stability without truth, order without justice, and development without the direction of the hereafter. Whereas in Islam, the state is a tool to uphold justice, not an end in itself. Power without knowledge will beget tyranny, and knowledge without power will be marginalized.
+
+Islamic civilization was not born from a compromise between truth and falsehood. It was born from the courage of scholars to rebuke rulers, from the seriousness of scientists dedicating their knowledge to the Ummah, and from a state that submits to Allah's law. When these three are separated, civilization collapses, even if mosques remain crowded and academic titles continue to increase.
+
+So this Ramadan should shake the scholars, intellectuals, and officials. Fasting is not just refraining from hunger, but refraining from being a coward in the face of truth. Knowledge is not to save positions, but to save the Ummah. The state is not to be served, but to serve Allah's trust.
+
+If scholars are afraid, knowledge is barren. If intellectuals are silent, the Ummah loses direction. If the state is arrogant, justice dies. And if everyone feels safe, then it is fitting for us to ask: where is the faith we are proud of?`,
+      ar: `لم يكن الإسلام أبدًا فقيرًا في العلم. الفقير هو شجاعة أهله في إقامة العلم كأساس للحضارة. منذ البداية، لم ينزل الوحي الأول بأمر بالحكم أو السيطرة على الثروة، بل بأمر بالقراءة والتفكير والفهم. العلم في الإسلام ليس إكسسوارًا روحيًا، ولا عرضًا أكاديميًا. العلم هو سلاح الحضارة.
+
+ولكن اليوم، تم تضييق العلم ليصبح مجرد شهادة. تم تضييق العلماء ليصبحوا خطباء. تم تضييق المثقفين ليصبحوا معلقين. وتشعر الدولة أنها تكفي للسير دون أن تهتدي بالوحي. هذه هي المأساة الكبرى للأمة الإسلامية: العلم موجود، لكنه لا يقود؛ العلماء موجودون، لكنهم لا يوجهون؛ الدولة قائمة، لكن بلا توجيه إلهي.
+
+في التاريخ الإسلامي، لم يكن العلماء تكملة للدولة، بل موجهين للدولة. سُجن الإمام أبو حنيفة لرفضه الرضوخ للسلطة الظالمة. جُلد الإمام مالك لأن فتواه أزعجت شرعية الحاكم. عُذب الإمام أحمد لدفاعه عن العقيدة من التدخل السياسي. لم يكونوا محايدين، لأن الحق ليس محايدًا أبدًا.
+
+اليوم، يختار العديد من العلماء الأمان. الأمان من السجن، الأمان من الضغط، الأمان من الصراع. لكن الأمان الذي يُدفع ثمنه بالصمت أمام الظلم هو خيانة لأمانة العلم. العلم الذي لا يدافع عن الحق سيكون شاهدًا مدينًا أمام الله.
+
+المثقفون المسلمون ليسوا معفيين أيضًا. الكثير منهم فصحاء في الحديث عن الإسلام كموضوع للدراسة، لكنهم يتلعثمون عندما يجب إقامة الإسلام كنظام حياة. يُجعل الإسلام مادة للنقاش، وليس اتجاهًا للكفاح. إنهم فخورون بكونهم 'موضوعيين'، في حين أن الموضوعية التي تجرد الإيمان هي مجرد شكل آخر من أشكال الخوف.
+
+الدولة، من ناحية أخرى، غالبًا ما ترى أن الدين يكفي أن يكون في المساجد والمنابر. تريد الدولة الاستقرار بلا حق، والنظام بلا عدل، والتنمية بلا اتجاه الآخرة. بينما في الإسلام، الدولة وسيلة لإقامة العدل، وليست غاية في حد ذاتها. السلطة بلا علم ستولد الطغيان، والعلم بلا سلطة سيكون مهمشًا.
+
+لم تولد الحضارة الإسلامية من مساومة بين الحق والباطل. ولدت من شجاعة العلماء في توبيخ الحكام، ومن جدية العلماء في تكريس علمهم للأمة، ومن دولة تخضع لشرع الله. عندما تنفصل هذه الثلاثة، تنهار الحضارة، حتى لو ظلت المساجد مزدحمة واستمرت الألقاب الأكاديمية في الازدياد.
+
+لذا يجب أن يهز هذا الرمضان العلماء والمثقفين والمسؤولين. الصيام ليس مجرد الامتناع عن الجوع، بل الامتناع عن الجبن في مواجهة الحق. العلم ليس لإنقاذ المناصب، بل لإنقاذ الأمة. الدولة ليست لتُخدم، بل لتخدم أمانة الله.
+
+إذا خاف العلماء، فالعلم عقيم. وإذا صمت المثقفون، فقدت الأمة الاتجاه. وإذا تكبرت الدولة، مات العدل. وإذا شعر الجميع بالأمان، فمن الجدير بنا أن نسأل: أين الإيمان الذي نفتخر به؟`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ</div>
+<p style="text-align: center;"><strong>"Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan."</strong><br>
+(QS. Al-Alaq: 1)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ</div>
+<p style="text-align: center;"><strong>"Allah akan mengangkat derajat orang-orang yang beriman di antara kamu dan orang-orang yang diberi ilmu beberapa derajat."</strong><br>
+(QS. Al-Mujadilah: 11)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلْنَا مِنَ الْبَيِّنَاتِ وَالْهُدَىٰ</div>
+<p style="text-align: center;"><strong>"Sesungguhnya orang-orang yang menyembunyikan apa yang telah Kami turunkan berupa keterangan-keterangan dan petunjuk..."</strong><br>
+(QS. Al-Baqarah: 159)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا</div>
+<p style="text-align: center;"><strong>"Sesungguhnya Allah menyuruh kamu menyampaikan amanat kepada yang berhak menerimanya..."</strong><br>
+(QS. An-Nisa: 58)</p>
+<br>
+<p style="text-align: center;"><strong>"Sesungguhnya para ulama adalah pewaris para nabi."</strong><br>
+(HR. Abu Dawud, Tirmidzi - hasan shahih)</p>
+<br>
+<p style="text-align: center;"><strong>"Barang siapa ditanya tentang ilmu lalu ia menyembunyikannya, maka pada hari kiamat ia akan dikekang dengan kekang dari api neraka."</strong><br>
+(HR. Abu Dawud - shahih)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ</div>
+<p style="text-align: center;"><strong>"Read in the name of your Lord who created."</strong><br>
+(QS. Al-Alaq: 1)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ</div>
+<p style="text-align: center;"><strong>"Allah will raise those who have believed among you and those who were given knowledge, by degrees."</strong><br>
+(QS. Al-Mujadilah: 11)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلْنَا مِنَ الْبَيِّنَاتِ وَالْهُدَىٰ</div>
+<p style="text-align: center;"><strong>"Indeed, those who conceal what We sent down of clear proofs and guidance..."</strong><br>
+(QS. Al-Baqarah: 159)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا</div>
+<p style="text-align: center;"><strong>"Indeed, Allah commands you to render trusts to whom they are due..."</strong><br>
+(QS. An-Nisa: 58)</p>
+<br>
+<p style="text-align: center;"><strong>"Indeed, the scholars are the heirs of the prophets."</strong><br>
+(HR. Abu Dawud, Tirmidzi)</p>
+<br>
+<p style="text-align: center;"><strong>"Whoever is asked about knowledge and conceals it, he will be bridled on the Day of Resurrection with a bridle of fire."</strong><br>
+(HR. Abu Dawud)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ</div>
+<p style="text-align: center;"><strong>"اقرأ باسم ربك الذي خلق."</strong><br>
+(سورة العلق: 1)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ</div>
+<p style="text-align: center;"><strong>"يرفع الله الذين آمنوا منكم والذين أوتوا العلم درجات."</strong><br>
+(سورة المجادلة: 11)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلْنَا مِنَ الْبَيِّنَاتِ وَالْهُدَىٰ</div>
+<p style="text-align: center;"><strong>"إن الذين يكتمون ما أنزلنا من البينات والهدى..."</strong><br>
+(سورة البقرة: 159)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا</div>
+<p style="text-align: center;"><strong>"إن الله يأمركم أن تؤدوا الأمانات إلى أهلها..."</strong><br>
+(سورة النساء: 58)</p>
+<br>
+<p style="text-align: center;"><strong>"العلماء ورثة الأنبياء."</strong><br>
+(رواه أبو داود والترمذي)</p>
+<br>
+<p style="text-align: center;"><strong>"من سئل عن علم فكتمه ألجمه الله يوم القيامة بلجام من نار."</strong><br>
+(رواه أبو داود)</p>`
+    }
+  },
+  {
+    id: "6",
+    title: {
+      id: "Umat yang Banyak tapi Tidak Berbobot",
+      en: "A Numerous Ummah but Without Weight",
+      ar: "أمة كثيرة العدد ولكن بلا وزن"
+    },
+    content: {
+      id: `Umat Islam hari ini bukan umat yang sedikit. Jumlahnya besar, tersebar di berbagai negeri, memenuhi statistik global, dan sering dibanggakan dalam seminar serta laporan demografi. Namun pertanyaannya sederhana dan menyakitkan: di mana bobotnya?
+
+Kuantitas tidak otomatis melahirkan kekuatan. Sejarah membuktikan bahwa peradaban tidak dibangun oleh jumlah, tetapi oleh kualitas iman, arah perjuangan, dan keberanian memikul amanah. Umat Islam kini banyak secara angka, tetapi ringan secara pengaruh. Suaranya riuh, namun tidak menentukan. Hadir di mana-mana, tetapi tidak mengubah apa-apa.
+
+Fenomena ini bukan kebetulan. Ia lahir dari umat yang kehilangan orientasi hidup. Islam direduksi menjadi identitas administratif dan ritual personal. Akidah tidak lagi melahirkan sikap. Ibadah tidak lagi melahirkan keberpihakan. Puasa dijalani, tetapi kezaliman dibiarkan. Shalat ditegakkan, tetapi hukum Allah disingkirkan.
+
+Umat seperti ini mudah digerakkan, tetapi tidak pernah memimpin. Mudah marah, tetapi cepat lupa. Mudah tersentuh emosi, tetapi miskin komitmen. Mereka hadir sebagai massa, bukan sebagai kekuatan peradaban.
+
+Padahal dahulu, umat Islam sangat sedikit. Di Makkah mereka tertindas. Di Madinah mereka diblokade. Dalam banyak peperangan, jumlah mereka kalah. Namun mereka berbobot. Keputusan mereka diperhitungkan. Keberadaan mereka mengubah peta dunia.
+
+Apa rahasianya?
+
+Mereka tidak hidup untuk diri sendiri. Mereka hidup untuk misi. Islam bagi mereka bukan sekadar keyakinan, tetapi proyek peradaban. Mereka sadar bahwa menjadi Muslim berarti memikul tanggung jawab sejarah.
+
+Hari ini, umat Islam justru bangga menjadi penonton. Bangga dengan jumlah masjid, tetapi tidak peduli siapa yang mengatur negeri. Bangga dengan banyaknya ulama, tetapi tidak bertanya mengapa kezaliman terus berjalan. Bangga dengan identitas Islam, tetapi alergi ketika Islam menuntut ditegakkan secara kaffah.
+
+Inilah umat yang banyak, tetapi tidak berbobot.
+
+Bobot umat tidak diukur dari seberapa sering mereka berkumpul, tetapi dari seberapa jauh mereka berani berbeda dengan kebatilan. Tidak diukur dari seberapa keras suara mereka, tetapi dari seberapa tegas sikap mereka. Tidak diukur dari seberapa banyak wacana, tetapi dari seberapa nyata pengorbanan.
+
+Ramadhan seharusnya menjadi bulan pengembalian bobot umat. Puasa bukan untuk melemahkan, tetapi untuk melatih kendali diri, disiplin, dan kesiapan berjuang. Lapar bukan tujuan, tetapi sarana agar umat peka terhadap ketidakadilan dan siap memikul beban perubahan.
+
+Jika setelah Ramadhan umat tetap ringan—mudah dibeli, mudah dipecah, mudah ditakuti—maka yang gagal bukan puasanya, tetapi pemahamannya.
+
+Umat Islam tidak kekurangan jumlah. Yang kurang adalah keberanian untuk menjadi berat di hadapan kebatilan.`,
+      en: `The Muslim Ummah today is not a small Ummah. Its numbers are large, spread across various lands, filling global statistics, and often boasted about in seminars and demographic reports. But the question is simple and painful: where is its weight?
+
+Quantity does not automatically birth strength. History proves that civilization is not built by numbers, but by the quality of faith, the direction of struggle, and the courage to bear the trust. The Muslim Ummah is now many in numbers, but light in influence. Its voice is loud, but not decisive. Present everywhere, but changing nothing.
+
+This phenomenon is not a coincidence. It is born from an Ummah that has lost its life orientation. Islam is reduced to administrative identity and personal ritual. Creed no longer births attitude. Worship no longer births partisanship. Fasting is undergone, but injustice is allowed. Prayer is established, but Allah's law is cast aside.
+
+An Ummah like this is easily moved, but never leads. Easily angry, but quickly forgets. Easily touched by emotion, but poor in commitment. They are present as a mass, not as a force of civilization.
+
+Whereas in the past, the Muslim Ummah was very few. In Mecca they were oppressed. In Medina they were blockaded. In many battles, their numbers were outnumbered. But they had weight. Their decisions were reckoned with. Their existence changed the world map.
+
+What is the secret?
+
+They did not live for themselves. They lived for a mission. Islam for them was not just a belief, but a civilization project. They realized that being a Muslim means bearing historical responsibility.
+
+Today, the Muslim Ummah is proud to be spectators. Proud of the number of mosques, but indifferent to who rules the land. Proud of the many scholars, but not asking why injustice continues. Proud of Islamic identity, but allergic when Islam demands to be upheld completely (kaffah).
+
+This is the Ummah that is many, but has no weight.
+
+The weight of the Ummah is not measured by how often they gather, but by how far they dare to differ from falsehood. Not measured by how loud their voice is, but by how firm their stance is. Not measured by how much discourse, but by how real the sacrifice.
+
+Ramadan should be a month of returning the weight of the Ummah. Fasting is not to weaken, but to train self-control, discipline, and readiness to struggle. Hunger is not the goal, but a means so the Ummah is sensitive to injustice and ready to bear the burden of change.
+
+If after Ramadan the Ummah remains light—easily bought, easily divided, easily frightened—then what failed was not the fasting, but the understanding.
+
+The Muslim Ummah does not lack numbers. What is lacking is the courage to be heavy in the face of falsehood.`,
+      ar: `الأمة الإسلامية اليوم ليست أمة قليلة. عددها كبير، منتشرة في مختلف البلدان، تملأ الإحصاءات العالمية، وغالباً ما يتم التفاخر بها في الندوات والتقارير الديموغرافية. لكن السؤال بسيط ومؤلم: أين وزنها؟
+
+الكمية لا تولد القوة تلقائياً. يثبت التاريخ أن الحضارة لا تبنى بالأرقام، بل بنوعية الإيمان، واتجاه الكفاح، والشجاعة في حمل الأمانة. الأمة الإسلامية الآن كثيرة العدد، لكنها خفيفة التأثير. صوتها صاخب، لكنه غير حاسم. موجودة في كل مكان، لكنها لا تغير شيئاً.
+
+هذه الظاهرة ليست صدفة. ولدت من أمة فقدت اتجاه حياتها. تم اختزال الإسلام إلى هوية إدارية وطقوس شخصية. العقيدة لم تعد تولد موقفاً. العبادة لم تعد تولد انحيازاً. يُصام، لكن الظلم يُترك. تُقام الصلاة، لكن يُنحى شرع الله.
+
+أمة كهذه سهلة التحريك، لكنها لا تقود أبداً. تغضب بسهولة، لكنها تنسى بسرعة. تتأثر عاطفياً بسهولة، لكنها فقيرة في الالتزام. هم حاضرون كجمهور، وليس كقوة حضارية.
+
+بينما في الماضي، كانت الأمة الإسلامية قليلة جداً. في مكة كانوا مضطهدين. في المدينة كانوا محاصرين. في العديد من المعارك، كان عددهم أقل. لكن كان لهم وزن. كانت قراراتهم يُحسب لها حساب. كان وجودهم يغير خريطة العالم.
+
+ما السر؟
+
+لم يعيشوا لأنفسهم. عاشوا لمهمة. الإسلام بالنسبة لهم لم يكن مجرد عقيدة، بل مشروع حضارة. أدركوا أن كونهم مسلمين يعني حمل مسؤولية تاريخية.
+
+اليوم، تفتخر الأمة الإسلامية بكونها متفرجة. تفتخر بعدد المساجد، لكنها لا تبالي بمن يحكم البلاد. تفتخر بكثرة العلماء، لكنها لا تسأل لماذا يستمر الظلم. تفتخر بالهوية الإسلامية، لكنها تتحسس عندما يطلب الإسلام أن يقام كافة.
+
+هذه هي الأمة الكثيرة، لكن بلا وزن.
+
+لا يقاس وزن الأمة بمدى تكرار تجمعهم، بل بمدى جرأتهم على الاختلاف مع الباطل. لا يقاس بمدى ارتفاع صوتهم، بل بمدى حزم موقفهم. لا يقاس بمدى كثرة الخطاب، بل بمدى واقعية التضحية.
+
+يجب أن يكون رمضان شهر استعادة وزن الأمة. الصيام ليس للإضعاف، بل لتدريب ضبط النفس، والانضباط، والاستعداد للكفاح. الجوع ليس الهدف، بل وسيلة لتكون الأمة حساسة تجاه الظلم ومستعدة لحمل عبء التغيير.
+
+إذا ظلت الأمة بعد رمضان خفيفة - سهلة الشراء، سهلة التقسيم، سهلة التخويف - فما فشل ليس الصيام، بل الفهم.
+
+الأمة الإسلامية لا تنقصها الأعداد. ما ينقصها هو الشجاعة لتكون ثقيلة في مواجهة الباطل.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ بِالْمَعْرُوفِ وَتَنْهَوْنَ عَنِ الْمُنكَرِ وَتُؤْمِنُونَ بِاللَّهِ</div>
+<p style="text-align: center;"><strong>"Kamu adalah umat terbaik yang dilahirkan untuk manusia, menyuruh kepada yang ma'ruf, mencegah dari yang munkar, dan beriman kepada Allah."</strong><br>
+(QS. Ali Imran: 110)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ</div>
+<p style="text-align: center;"><strong>"Janganlah kamu merasa lemah dan jangan bersedih hati, padahal kamulah yang paling tinggi (derajatnya), jika kamu orang-orang yang beriman."</strong><br>
+(QS. Ali Imran: 139)</p>
+<br>
+<p style="text-align: center;"><strong>"Hampir saja bangsa-bangsa lain memperebutkan kalian seperti orang-orang memperebutkan makanan di bejana. Para sahabat bertanya, 'Apakah karena jumlah kami sedikit saat itu?' Beliau menjawab, 'Tidak, bahkan kalian banyak, tetapi kalian seperti buih di lautan.'"</strong><br>
+(HR. Abu Dawud dan Ahmad - hasan shahih)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ بِالْمَعْرُوفِ وَتَنْهَوْنَ عَنِ الْمُنكَرِ وَتُؤْمِنُونَ بِاللَّهِ</div>
+<p style="text-align: center;"><strong>"You are the best nation produced [as an example] for mankind. You enjoin what is right and forbid what is wrong and believe in Allah."</strong><br>
+(QS. Ali Imran: 110)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ</div>
+<p style="text-align: center;"><strong>"So do not weaken and do not grieve, and you will be superior if you are [true] believers."</strong><br>
+(QS. Ali Imran: 139)</p>
+<br>
+<p style="text-align: center;"><strong>"The nations are about to gather against you as diners gather around a bowl of food. They asked, 'Will we be few on that day?' He said, 'No, you will be many, but you will be like the foam of the sea.'"</strong><br>
+(HR. Abu Dawud)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ بِالْمَعْرُوفِ وَتَنْهَوْنَ عَنِ الْمُنكَرِ وَتُؤْمِنُونَ بِاللَّهِ</div>
+<p style="text-align: center;"><strong>"كنتم خير أمة أخرجت للناس تأمرون بالمعروف وتنهون عن المنكر وتؤمنون بالله."</strong><br>
+(سورة آل عمران: 110)</p>
+<br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ</div>
+<p style="text-align: center;"><strong>"ولا تهنوا ولا تحزنوا وأنتم الأعلون إن كنتم مؤمنين."</strong><br>
+(سورة آل عمران: 139)</p>
+<br>
+<p style="text-align: center;"><strong>"يوشك الأمم أن تداعى عليكم كما تداعى الأكلة إلى قصعتها... بل أنتم يومئذ كثير، ولكنكم غثاء كغثاء السيل."</strong><br>
+(رواه أبو داود وأحمد)</p>`
+    }
+  }
+];
 
 export function getCerpen(): Cerpen[] {
   // Kita prioritaskan data dari kode (INITIAL_DATA) agar update dari GitHub selalu muncul
