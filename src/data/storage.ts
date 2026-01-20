@@ -1754,6 +1754,213 @@ Because Allah never grants victory to an Ummah that has not passed the test of f
       <p style="text-align: center;"><strong>"واعلم أن في الصبر على ما تكره خيرا كثيرا، وأن النصر مع الصبر، وأن الفرج مع الكرب، وأن مع العسر يسرا."</strong><br>
       (رواه أحمد - صحيح)</p>`
     }
+  },
+  {
+    id: "13",
+    title: {
+      id: "Mengapa Allah Tidak Menolong Umat yang Masih Takut Kehilangan Dunia",
+      en: "Why Allah Does Not Help a People Who Still Fear Losing the World",
+      ar: "لماذا لا ينصر الله أمة لا تزال تخاف فقدان الدنيا"
+    },
+    content: {
+      id: `Umat Islam hari ini rajin meminta pertolongan Allah, tetapi takut kehilangan dunia.
+Lisan berdoa siang malam, namun hati gemetar ketika harta, jabatan, kenyamanan, dan citra diri terancam.
+Inilah kontradiksi terbesar umat Islam hari ini:
+ingin ditolong Allah, tetapi tidak siap melepaskan apa pun demi Allah.
+Padahal sejak awal, Allah tidak pernah menolong umat yang masih menjadikan dunia sebagai tuhan tersembunyi. Dunia boleh di tangan, tapi ketika dunia sudah berada di hati, pertolongan Allah akan berhenti di langit.
+
+Nabi Muhammad ﷺ dan para sahabat tidak pernah meminta pertolongan Allah sambil berkata,
+"Ya Allah tolong agama-Mu, tapi jangan ganggu bisnis kami."
+"Ya Allah menangkan Islam, tapi jangan sentuh kenyamanan hidup kami."
+
+Mereka memahami satu hal yang hari ini hilang dari umat Islam:
+pertolongan Allah selalu menuntut harga yang mahal.
+
+Hari ini umat Islam takut:
+* kehilangan pekerjaan karena kebenaran,
+* kehilangan jabatan karena sikap,
+* kehilangan relasi karena prinsip,
+* kehilangan harta karena perjuangan.
+
+Lalu dengan wajah polos bertanya, "Kenapa Allah tidak menolong?"
+Bagaimana mungkin pertolongan turun, sementara umat lebih takut pada:
+* hukum manusia daripada hukum Allah,
+* kehilangan dunia daripada kehilangan iman,
+* tekanan manusia daripada murka Allah.
+
+Allah tidak menolong umat yang masih menimbang dakwah dengan untung-rugi dunia.
+Allah tidak menolong umat yang masih bertanya, "Ada manfaatnya buat saya?" sebelum bergerak.
+
+Para sahabat tidak bertanya:
+* "Apa jaminannya?"
+* "Apa keuntungannya?"
+* "Apa dampaknya bagi keluarga saya?"
+
+Mereka bertanya satu hal saja:
+"Apakah Allah ridha?"
+
+Hari ini umat Islam ingin Islam berjaya, tapi tetap ingin aman.
+Ingin kebenaran tegak, tapi tidak mau membayar resikonya.
+Ingin pahala, tapi menolak luka.
+
+Inilah sebab utama pertolongan Allah ditahan.
+Bukan karena Allah lemah.
+Bukan karena musuh terlalu kuat.
+Tapi karena umat terlalu cinta dunia dan takut mati.
+
+Selama umat Islam masih menghitung dunia sebelum melangkah,
+selama itu pula pertolongan Allah tidak akan turun.
+Karena Allah hanya menolong umat yang siap kehilangan dunia, demi memenangkan akhirat.`,
+      en: `Muslims today are diligent in asking for Allah's help, but are afraid of losing the world.
+Tongues pray day and night, but hearts tremble when wealth, position, comfort, and self-image are threatened.
+This is the greatest contradiction of Muslims today:
+wanting to be helped by Allah, but not ready to give up anything for the sake of Allah.
+Yet from the beginning, Allah never helped a people who still made the world a hidden god. The world may be in the hand, but when the world is already in the heart, Allah's help will stop in the sky.
+
+Prophet Muhammad ﷺ and the companions never asked for Allah's help while saying,
+"O Allah help Your religion, but don't disturb our business."
+"O Allah grant victory to Islam, but don't touch the comfort of our lives."
+
+They understood one thing that is lost from Muslims today:
+Allah's help always demands a high price.
+
+Today Muslims are afraid of:
+* losing jobs because of truth,
+* losing positions because of attitude,
+* losing relationships because of principles,
+* losing wealth because of struggle.
+
+Then with an innocent face ask, "Why doesn't Allah help?"
+How can help descend, while the Ummah is more afraid of:
+* human laws than Allah's law,
+* losing the world than losing faith,
+* human pressure than Allah's wrath.
+
+Allah does not help people who still weigh da'wah with worldly profit and loss.
+Allah does not help people who still ask, "Is there any benefit for me?" before moving.
+
+The companions did not ask:
+* "What is the guarantee?"
+* "What is the profit?"
+* "What is the impact on my family?"
+
+They asked only one thing:
+"Is Allah pleased?"
+
+Today Muslims want Islam to triumph, but still want to be safe.
+Want truth to stand, but don't want to pay the risk.
+Want reward, but refuse wounds.
+
+This is the main reason Allah's help is withheld.
+Not because Allah is weak.
+Not because the enemy is too strong.
+But because the Ummah loves the world too much and fears death.
+
+As long as Muslims still count the world before stepping,
+so long will Allah's help not descend.
+Because Allah only helps people who are ready to lose the world, to win the Hereafter.`,
+      ar: `المسلمون اليوم مجتهدون في طلب نصر الله، لكنهم يخافون فقدان الدنيا.
+الألسنة تدعو ليل نهار، لكن القلوب ترتجف عندما تُهدد الثروة، والمناصب، والراحة، والصورة الذاتية.
+هذا هو التناقض الأكبر للمسلمين اليوم:
+يريدون أن ينصرهم الله، لكنهم ليسوا مستعدين للتخلي عن أي شيء في سبيل الله.
+ومع ذلك، منذ البداية، لم ينصر الله أبداً قوماً ما زالوا يجعلون الدنيا إلهاً خفياً. قد تكون الدنيا في اليد، لكن عندما تكون الدنيا قد استقرت في القلب، يتوقف نصر الله في السماء.
+
+النبي محمد ﷺ والصحابة لم يطلبوا نصر الله وهم يقولون:
+"يا الله انصر دينك، ولكن لا تزعج تجارتنا."
+"يا الله امنح الإسلام النصر، ولكن لا تمس راحة حياتنا."
+
+لقد فهموا شيئاً واحداً ضاع من المسلمين اليوم:
+نصر الله يطلب دائماً ثمناً باهظاً.
+
+اليوم يخاف المسلمون من:
+* فقدان الوظائف بسبب الحق،
+* فقدان المناصب بسبب المواقف،
+* فقدان العلاقات بسبب المبادئ،
+* فقدان المال بسبب النضال.
+
+ثم بوجه بريء يسألون: "لماذا لا ينصرنا الله؟"
+كيف يمكن أن ينزل النصر، والأمة تخاف أكثر من:
+* قوانين البشر أكثر من قانون الله،
+* فقدان الدنيا أكثر من فقدان الإيمان،
+* ضغط البشر أكثر من غضب الله.
+
+الله لا ينصر قوماً ما زالوا يزنون الدعوة بالربح والخسارة الدنيوية.
+الله لا ينصر قوماً ما زالوا يسألون: "هل هناك فائدة لي؟" قبل التحرك.
+
+لم يسأل الصحابة:
+* "ما هو الضمان؟"
+* "ما هو الربح؟"
+* "ما هو التأثير على عائلتي؟"
+
+سألوا شيئاً واحداً فقط:
+"هل الله راضٍ؟"
+
+اليوم يريد المسلمون أن ينتصر الإسلام، لكنهم ما زالوا يريدون الأمان.
+يريدون أن تقوم الحقيقة، لكنهم لا يريدون دفع المخاطرة.
+يريدون الثواب، لكنهم يرفضون الجراح.
+
+هذا هو السبب الرئيسي لحجب نصر الله.
+ليس لأن الله ضعيف.
+ليس لأن العدو قوي جداً.
+ولكن لأن الأمة تحب الدنيا كثيراً وتخاف الموت.
+
+طالما أن المسلمين ما زالوا يحسبون الدنيا قبل الخطوة،
+فطالما لن ينزل نصر الله.
+لأن الله ينصر فقط القوم المستعدين لفقدان الدنيا، ليفوزوا بالآخرة.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">قُلْ إِن كَانَ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ وَإِخْوَانُكُمْ وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَاكِنُ تَرْضَوْنَهَا أَحَبَّ إِلَيْكُم مِّنَ اللَّهِ وَرَسُولِهِ وَجِهَادٍ فِي سَبِيلِهِ فَتَرَبَّصُوا حَتَّىٰ يَأْتِيَ اللَّهُ بِأَمْرِهِ ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ</div>
+      <p style="text-align: center;"><strong>"Katakanlah: Jika bapak-bapak, anak-anak, saudara-saudara, istri-istri, kaum kerabatmu, harta kekayaan yang kamu usahakan, perniagaan yang kamu khawatiri kerugiannya, dan rumah-rumah tempat tinggal yang kamu sukai, lebih kamu cintai daripada Allah dan Rasul-Nya serta berjihad di jalan-Nya, maka tunggulah sampai Allah mendatangkan keputusan-Nya. Dan Allah tidak memberi petunjuk kepada orang-orang fasik."</strong><br>
+      (QS. At-Taubah: 24)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">وَإِن تَتَوَلَّوْا يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوا أَمْثَالَكُم</div>
+      <p style="text-align: center;"><strong>"Dan jika kamu berpaling, niscaya Dia akan mengganti (kamu) dengan kaum yang lain, dan mereka tidak akan seperti kamu ini."</strong><br>
+      (QS. Muhammad: 38)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">ذَٰلِكَ بِأَنَّ اللَّهَ لَمْ يَكُ مُغَيِّرًا نِّعْمَةً أَنْعَمَهَا عَلَىٰ قَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنفُسِهِمْ ۙ وَأَنَّ اللَّهَ سَمِيعٌ عَلِيمٌ</div>
+      <p style="text-align: center;"><strong>"Yang demikian itu karena sesungguhnya Allah tidak akan mengubah nikmat yang telah dianugerahkan-Nya kepada suatu kaum, hingga mereka mengubah apa yang ada pada diri mereka sendiri."</strong><br>
+      (QS. Al-Anfal: 53)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Hampir tiba suatu masa di mana bangsa-bangsa akan mengerumuni kalian seperti orang-orang mengerumuni hidangan... Kalian seperti buih di lautan. Dan Allah akan mencabut rasa takut dari hati musuh-musuh kalian, serta menanamkan wahn di hati kalian... Cinta dunia dan takut mati."</strong><br>
+      (HR. Abu Dawud - shahih)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Barang siapa yang menjadikan dunia sebagai tujuannya, Allah akan mencerai-beraikan urusannya dan menjadikan kefakiran di depan matanya."</strong><br>
+      (HR. Ibnu Majah - hasan)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">قُلْ إِن كَانَ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ وَإِخْوَانُكُمْ وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَاكِنُ تَرْضَوْنَهَا أَحَبَّ إِلَيْكُم مِّنَ اللَّهِ وَرَسُولِهِ وَجِهَادٍ فِي سَبِيلِهِ فَتَرَبَّصُوا حَتَّىٰ يَأْتِيَ اللَّهُ بِأَمْرِهِ ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ</div>
+      <p style="text-align: center;"><strong>"Say, [O Muhammad], 'If your fathers, your sons, your brothers, your wives, your relatives, wealth which you have obtained, commerce wherein you fear decline, and dwellings with which you are pleased are more beloved to you than Allah and His Messenger and jihad in His cause, then wait until Allah executes His command. And Allah does not guide the defiantly disobedient people.'"</strong><br>
+      (QS. At-Taubah: 24)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">وَإِن تَتَوَلَّوْا يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوا أَمْثَالَكُم</div>
+      <p style="text-align: center;"><strong>"And if you turn away, He will replace you with another people; then they will not be the likes of you."</strong><br>
+      (QS. Muhammad: 38)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">ذَٰلِكَ بِأَنَّ اللَّهَ لَمْ يَكُ مُغَيِّرًا نِّعْمَةً أَنْعَمَهَا عَلَىٰ قَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنفُسِهِمْ ۙ وَأَنَّ اللَّهَ سَمِيعٌ عَلِيمٌ</div>
+      <p style="text-align: center;"><strong>"That is because Allah would not change a favor which He had bestowed upon a people until they change what is within themselves. And indeed, Allah is Hearing and Knowing."</strong><br>
+      (QS. Al-Anfal: 53)</p>
+      <br>
+      <p style="text-align: center;"><strong>"The nations are about to gather against you just as diners gather around a dish... You will be like the foam of the sea. Allah will remove the fear of you from the hearts of your enemies and cast Wahn into your hearts... Love of the world and fear of death."</strong><br>
+      (HR. Abu Dawud)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Whoever makes the world his goal, Allah will scatter his affairs and place poverty before his eyes."</strong><br>
+      (HR. Ibnu Majah)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">قُلْ إِن كَانَ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ وَإِخْوَانُكُمْ وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَاكِنُ تَرْضَوْنَهَا أَحَبَّ إِلَيْكُم مِّنَ اللَّهِ وَرَسُولِهِ وَجِهَادٍ فِي سَبِيلِهِ فَتَرَبَّصُوا حَتَّىٰ يَأْتِيَ اللَّهُ بِأَمْرِهِ ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ</div>
+      <p style="text-align: center;"><strong>"قل إن كان آباؤكم وأبناؤكم وإخوانكم وأزواجكم وعشيرتكم وأموال اقترفتموها وتجارة تخشون كسادها ومساكن ترضونها أحب إليكم من الله ورسوله وجهاز في سبيله فتربصوا حتى يأتي الله بأمره والله لا يهدي القوم الفاسقين."</strong><br>
+      (سورة التوبة: 24)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">وَإِن تَتَوَلَّوْا يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوا أَمْثَالَكُم</div>
+      <p style="text-align: center;"><strong>"وإن تتولوا يستبدل قوما غيركم ثم لا يكونوا أمثالكم."</strong><br>
+      (سورة محمد: 38)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">ذَٰلِكَ بِأَنَّ اللَّهَ لَمْ يَكُ مُغَيِّرًا نِّعْمَةً أَنْعَمَهَا عَلَىٰ قَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنفُسِهِمْ ۙ وَأَنَّ اللَّهَ سَمِيعٌ عَلِيمٌ</div>
+      <p style="text-align: center;"><strong>"ذلك بأن الله لم يك مغيرا نعمة أنعمها على قوم حتى يغيروا ما بأنفسهم وأن الله سميع عليم."</strong><br>
+      (سورة الأنفال: 53)</p>
+      <br>
+      <p style="text-align: center;"><strong>"يوشك الأمم أن تداعى عليكم كما تداعى الأكلة إلى قصعتها... بل أنتم يومئذ كثير، ولكنكم غثاء كغثاء السيل، ولينزعن الله من صدور عدوكم المهابة منكم، وليقذفن الله في قلوبكم الوهن... حب الدنيا، وكراهية الموت."</strong><br>
+      (رواه أبو داود - صحيح)</p>
+      <br>
+      <p style="text-align: center;"><strong>"من كانت الدنيا همه فرق الله عليه أمره وجعل فقره بين عينيه."</strong><br>
+      (رواه ابن ماجه - حسن)</p>`
+    }
   }
 ];
 
