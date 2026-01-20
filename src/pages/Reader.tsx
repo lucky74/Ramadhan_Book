@@ -56,9 +56,9 @@ export default function Reader() {
   };
 
   const controlBtnStyle = {
-    background: '#1e293b',
-    border: '1px solid #334155',
-    color: '#e2e8f0',
+    background: 'var(--bg-card)',
+    border: '1px solid var(--border)',
+    color: 'var(--text-main)',
     padding: '6px 12px',
     borderRadius: '6px',
     cursor: 'pointer',
@@ -79,24 +79,24 @@ export default function Reader() {
         position: 'sticky',
         top: 10,
         zIndex: 10,
-        background: 'rgba(2, 6, 23, 0.8)',
+        background: 'var(--glass-bg)',
         backdropFilter: 'blur(8px)',
         padding: '10px',
         borderRadius: '12px',
-        border: '1px solid #1e293b'
+        border: '1px solid var(--border)'
       }}>
         <div style={{ display: 'flex', gap: 8 }}>
           <button onClick={() => updateFontSize(fontSize - 2)} style={controlBtnStyle}>A-</button>
           <button onClick={() => updateFontSize(fontSize + 2)} style={controlBtnStyle}>A+</button>
         </div>
-        <button onClick={handleShare} style={{...controlBtnStyle, background: '#0ea5e9', color: 'white', border: 'none'}}>
+        <button onClick={handleShare} style={{...controlBtnStyle, background: 'var(--accent)', color: '#fff', border: 'none'}}>
           📤 Share
         </button>
       </div>
 
       {cerpen ? (
         <>
-          <div style={{ textAlign: 'center', color: '#38bdf8', marginBottom: 8, letterSpacing: 2 }}>
+          <div style={{ textAlign: 'center', color: 'var(--accent)', marginBottom: 8, letterSpacing: 2 }}>
             {t('day')} {id}
           </div>
           <h1 style={{ textAlign: "center", marginTop: 0 }}>{cerpen.title[language]}</h1>
@@ -122,7 +122,7 @@ export default function Reader() {
         </>
       ) : (
         <div style={{ textAlign: 'center', padding: '40px 0' }}>
-          <h2 style={{ color: '#94a3b8' }}>{language === 'en' ? 'Content Not Available' : (language === 'ar' ? 'المحتوى غير متوفر' : 'Belum Ada Materi')}</h2>
+          <h2 style={{ color: 'var(--text-soft)' }}>{language === 'en' ? 'Content Not Available' : (language === 'ar' ? 'المحتوى غير متوفر' : 'Belum Ada Materi')}</h2>
           <p>{language === 'en' ? `Content for Ramadhan Day ${id} is not yet uploaded.` : (language === 'ar' ? `لم يتم تحميل محتوى اليوم ${id} من رمضان.` : `Materi untuk Ramadhan hari ke-${id} belum diupload.`)}</p>
         </div>
       )}

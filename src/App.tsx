@@ -35,14 +35,16 @@ export default function App() {
 
   return (
     <LanguageProvider>
-      <BrowserRouter>
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/read/:id" element={<Reader />} />
-          <Route path="/admin" element={<Admin />} />
-        </Routes>
-        <MurotalPlayer />
-      </BrowserRouter>
+      <ThemeProvider>
+        <BrowserRouter>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/read/:id" element={<Reader />} />
+            <Route path="/admin" element={<Admin />} />
+          </Routes>
+          <MurotalPlayer />
+        </BrowserRouter>
+      </ThemeProvider>
     </LanguageProvider>
   );
 }

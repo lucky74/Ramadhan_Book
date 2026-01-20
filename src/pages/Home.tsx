@@ -40,10 +40,16 @@ export default function Home() {
 
   return (
     <div className="home-container">
-      <div className="lang-btn-group">
+      <div className="lang-btn-group" style={{ alignItems: 'center' }}>
         <button onClick={() => setLanguage('id')} className="lang-btn" style={{ opacity: language === 'id' ? 1 : 0.5 }}>🇮🇩 ID</button>
         <button onClick={() => setLanguage('en')} className="lang-btn" style={{ opacity: language === 'en' ? 1 : 0.5 }}>🇬🇧 EN</button>
         <button onClick={() => setLanguage('ar')} className="lang-btn" style={{ opacity: language === 'ar' ? 1 : 0.5 }}>🇸🇦 AR</button>
+        
+        <div style={{ width: 1, height: 20, background: 'var(--border)', margin: '0 8px' }}></div>
+        
+        <button onClick={toggleTheme} className="theme-toggle" title={theme === 'dark' ? 'Switch to Light Mode' : 'Switch to Dark Mode'}>
+          {theme === 'dark' ? '☀️' : '🌙'}
+        </button>
       </div>
 
       <img 
@@ -55,6 +61,18 @@ export default function Home() {
       <p className="mushaf-subtitle">
         {t('home_welcome')}
       </p>
+
+      {/* Search Input */}
+      <div className="search-container">
+        <input 
+          type="text" 
+          placeholder={language === 'en' ? "Search topic..." : (language === 'ar' ? "بحث في المواضيع..." : "Cari topik...")}
+          value={searchQuery}
+          onChange={(e) => setSearchQuery(e.target.value)}
+          className="search-input"
+        />
+      </div>
+
       <p className="home-subtitle">{t('home_subtitle')}</p>
       <p className="author-text">{t('author_label')} : Lucky Zamaludin Malik</p>
 
@@ -66,28 +84,35 @@ export default function Home() {
       )}
 
       <div className="grid-container">
-        {days.map((day) => {
-          const id = day.toString();
-          const existingData = cerpenList.find(c => c.id === id);
-          const readDays = JSON.parse(localStorage.getItem("read_days") || "[]");
-          const isRead = readDays.includes(id);
-          
-          return (
-            <Link key={day} to={`/read/${day}`} style={{ textDecoration: 'none' }}>
-              <div className={`mushaf-card day-card ${isRead ? 'read' : ''}`}>
-                <div className="day-label">RAMADHAN</div>
-                <div className="day-number">{day}</div>
-                
-                {existingData ? (
-                  <div className="card-title">{existingData.title[language]}</div>
-                ) : (
-                  <div className="card-empty">-</div>
-                )}
-              </div>
-            </Link>
-          );
-        })}
+        {filteredDays.length > 0 ? (
+          filteredDays.map((day) => {
+            const id = day.toString();
+            const existingData = cerpenList.find(c => c.id === id);
+            const readDays = JSON.parse(localStorage.getItem("read_days") || "[]");
+            const isRead = readDays.includes(id);
+            
+            return (
+              <Link key={day} to={`/read/${day}`} style={{ textDecoration: 'none' }}>
+                <div className={`mushaf-card day-card ${isRead ? 'read' : ''}`}>
+                  <div className="day-label">RAMADHAN</div>
+                  <div className="day-number">{day}</div>
+                  
+                  {existingData ? (
+                    <div className="card-title">{existingData.title[language]}</div>
+                  ) : (
+                    <div className="card-empty">-</div>
+                  )}
+                </div>
+              </Link>
+            );
+          })
+        ) : (
+          <div style={{ gridColumn: '1/-1', color: 'var(--text-soft)', marginTop: 20 }}>
+            {language === 'en' ? "No topics found." : (language === 'ar' ? "لم يتم العثور على مواضيع." : "Tidak ada topik yang ditemukan.")}
+          </div>
+        )}
       </div>
+
 
       <div className="home-footer">
         <div>{t('footer_text')}</div>
