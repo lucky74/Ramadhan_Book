@@ -2177,6 +2177,261 @@ Because humiliation is the price for a people who run away from courage.`,
       <p style="text-align: center;"><strong>"من مات ولم يغز، ولم يحدث به نفسه، مات على شعبة من نفاق."</strong><br>
       (رواه مسلم - صحيح)</p>`
     }
+  },
+  {
+    id: "15",
+    title: {
+      id: "Mengapa Umat Islam Takut Mati Tapi Tak Takut Neraka",
+      en: "Why Do Muslims Fear Death But Not Hellfire?",
+      ar: "لماذا يخاف المسلمون الموت لكن لا يخافون النار"
+    },
+    content: {
+      id: `Ada ketakutan yang aneh di tubuh umat Islam hari ini.
+Takut mati—padahal mati adalah kepastian.
+Namun tidak takut neraka—padahal ancamannya jauh lebih mengerikan.
+Umat Islam gemetar ketika berbicara tentang kematian.
+Takut kehilangan dunia.
+Takut kehilangan jabatan.
+Takut kehilangan harta, kenyamanan, dan nama baik.
+Tetapi ketika neraka disebut, reaksi mereka datar.
+Seolah neraka hanya metafora.
+Seolah ancaman Allah sekadar ilustrasi untuk anak kecil.
+Inilah ironi iman zaman ini:
+takut pada sesuatu yang pasti, tapi meremehkan sesuatu yang abadi.
+Mati hanya memisahkan ruh dari jasad.
+Namun neraka menghancurkan seluruh harapan.
+Mati adalah pintu.
+Neraka adalah hukuman.
+Tetapi umat Islam hari ini lebih sibuk menghindari pintu,
+daripada takut terhadap hukuman di balik kelalaian mereka.
+
+Mengapa umat Islam takut mati?
+Karena dunia terlalu dicintai.
+Mengapa tidak takut neraka?
+Karena iman terlalu dangkal.
+Orang yang benar-benar takut neraka tidak akan santai terhadap maksiat.
+Tidak akan damai melihat hukum Allah ditinggalkan.
+Tidak akan tenang hidup di tengah kebatilan sambil berkata,
+"Yang penting hati baik."
+
+Nabi ﷺ dan para sahabat justru membalik logika kita hari ini.
+Mereka tidak takut mati.
+Yang mereka takuti adalah mati dalam keadaan Allah murka.
+Hari ini umat Islam takut mati miskin.
+Takut mati tidak dihormati.
+Takut mati tidak punya warisan.
+Tetapi tidak takut mati:
+* meninggalkan kewajiban amar ma’ruf nahi munkar,
+* membiarkan kezaliman merajalela,
+* hidup tanpa memperjuangkan tegaknya Islam.
+
+Umat Islam menangis ketika ada kematian,
+tetapi tidak menangis melihat neraka dipermudah dalam ceramah-ceramah.
+Neraka digambarkan ringan.
+Dosa disebut "khilaf."
+Maksiat disebut "ujian."
+Ketakutan diganti dengan motivasi palsu.
+Padahal para salaf menangis bukan karena takut mati,
+tetapi karena takut tidak diterima amalnya.
+
+Hari ini umat Islam berkata,
+"Kami belum siap mati."
+Padahal yang lebih berbahaya adalah:
+tidak siap bertemu Allah.
+Jika seseorang benar-benar takut neraka,
+ia akan berani melawan hawa nafsunya.
+Ia akan berani kehilangan dunia.
+Ia akan berani memikul risiko kebenaran.
+
+Takut mati membuat umat Islam bersembunyi.
+Takut neraka akan membuat umat Islam bangkit.
+Selama umat Islam masih lebih takut kehilangan dunia
+daripada takut api neraka,
+maka kehinaan akan terus melekat pada hidup mereka.
+Karena kehinaan bukan datang dari musuh,
+tetapi dari ketakutan yang salah arah.`,
+      en: `There is a strange fear in the body of Muslims today.
+Fear of death—even though death is a certainty.
+But not fear of Hell—even though its threat is far more terrifying.
+Muslims tremble when speaking of death.
+Fear of losing the world.
+Fear of losing position.
+Fear of losing wealth, comfort, and good name.
+But when Hell is mentioned, their reaction is flat.
+As if Hell is just a metaphor.
+As if Allah's threat is merely an illustration for small children.
+This is the irony of faith in this age:
+fearing something certain, but underestimating something eternal.
+Death only separates the soul from the body.
+But Hell destroys all hope.
+Death is a door.
+Hell is a punishment.
+But Muslims today are busier avoiding the door,
+than fearing the punishment behind their negligence.
+
+Why do Muslims fear death?
+Because the world is loved too much.
+Why not fear Hell?
+Because faith is too shallow.
+A person who truly fears Hell will not be relaxed about sin.
+Will not be at peace seeing Allah's laws abandoned.
+Will not be calm living amidst falsehood while saying,
+"The important thing is a good heart."
+
+The Prophet ﷺ and the companions reversed our logic today.
+They did not fear death.
+What they feared was dying while Allah is angry.
+Today Muslims fear dying poor.
+Fear dying unrespected.
+Fear dying without inheritance.
+But do not fear dying:
+* leaving the duty of amar ma'ruf nahi munkar,
+* allowing tyranny to run rampant,
+* living without striving for the establishment of Islam.
+
+Muslims cry when there is a death,
+but do not cry seeing Hell made light of in lectures.
+Hell is portrayed as light.
+Sin is called a "mistake."
+Immorality is called a "test."
+Fear is replaced with false motivation.
+Whereas the predecessors cried not because they feared death,
+but because they feared their deeds would not be accepted.
+
+Today Muslims say,
+"We are not ready to die."
+Whereas what is more dangerous is:
+not ready to meet Allah.
+If someone truly fears Hell,
+he will dare to fight his desires.
+He will dare to lose the world.
+He will dare to bear the risk of truth.
+
+Fear of death makes Muslims hide.
+Fear of Hell will make Muslims rise.
+As long as Muslims still fear losing the world more
+than fearing the fire of Hell,
+then humiliation will continue to cling to their lives.
+Because humiliation does not come from the enemy,
+but from misplaced fear.`,
+      ar: `هناك خوف غريب في جسد الأمة الإسلامية اليوم.
+خوف من الموت - رغم أن الموت يقين.
+لكن لا خوف من النار - رغم أن تهديدها أفظع بكثير.
+يرتعد المسلمون عندما يتحدثون عن الموت.
+خوف من فقدان الدنيا.
+خوف من فقدان المنصب.
+خوف من فقدان المال والراحة والسمعة.
+لكن عندما تُذكر النار، يكون رد فعلهم فاتراً.
+وكأن النار مجرد استعارة.
+وكأن تهديد الله مجرد توضيح للأطفال الصغار.
+هذه هي مفارقة الإيمان في هذا العصر:
+الخوف من شيء مؤكد، والاستهانة بشيء أبدي.
+الموت يفصل الروح عن الجسد فقط.
+لكن النار تدمر كل أمل.
+الموت باب.
+والنار عقاب.
+لكن المسلمين اليوم مشغولون بتجنب الباب أكثر
+من الخوف من العقاب خلف غفلتهم.
+
+لماذا يخاف المسلمون الموت؟
+لأن الدنيا محبوبة جداً.
+لماذا لا يخافون النار؟
+لأن الإيمان ضحل جداً.
+الشخص الذي يخاف النار حقاً لن يتساهل مع المعصية.
+لن يكون مرتاحاً لرؤية شرع الله متروكاً.
+لن يهدأ عيشه وسط الباطل وهو يقول:
+"المهم أن القلب طيب".
+
+النبي ﷺ والصحابة عكسوا منطقنا اليوم.
+لم يكونوا يخافون الموت.
+ما كانوا يخافونه هو الموت والله غاضب عليهم.
+اليوم يخاف المسلمون أن يموتوا فقراء.
+يخافون أن يموتوا غير محترمين.
+يخافون أن يموتوا بلا ميراث.
+لكنهم لا يخافون أن يموتوا:
+* تاركين واجب الأمر بالمعروف والنهي عن المنكر،
+* تاركين الظلم يستفحل،
+* عائشين دون الكفاح من أجل إقامة الإسلام.
+
+يبكي المسلمون عند حدوث وفاة،
+لكنهم لا يبكون عند رؤية النار تُستهان في المحاضرات.
+تُصور النار خفيفة.
+يُسمى الذنب "زلة".
+تُسمى المعصية "ابتلاء".
+يُستبدل الخوف بتحفيز زائف.
+بينما السلف لم يبكوا خوفاً من الموت،
+بل خوفاً من عدم قبول أعمالهم.
+
+اليوم يقول المسلمون:
+"نحن لسنا مستعدين للموت".
+بينما الأخطر هو:
+عدم الاستعداد للقاء الله.
+إذا كان المرء يخاف النار حقاً،
+فسيجرؤ على محاربة هواه.
+سيجرؤ على فقدان الدنيا.
+سيجرؤ على تحمل مخاطر الحق.
+
+الخوف من الموت يجعل المسلمين يختبئون.
+الخوف من النار سيجعل المسلمين ينهضون.
+طالما أن المسلمين يخافون فقدان الدنيا أكثر
+من خوفهم من نار جهنم،
+فإن الذل سيظل ملازماً لحياتهم.
+لأن الذل لا يأتي من العدو،
+بل من الخوف في غير محله.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَمَا هَٰذِهِ الْحَيَاةُ الدُّنْيَا إِلَّا لَهْوٌ وَلَعِبٌ ۚ وَإِنَّ الدَّارَ الْآخِرَةَ لَهِيَ الْحَيَوَانُ ۚ لَوْ كَانُوا يَعْلَمُونَ</div>
+      <p style="text-align: center;"><strong>"Dan kehidupan dunia ini tidak lain hanyalah permainan dan senda gurau. Dan sesungguhnya negeri akhirat itulah kehidupan yang sebenarnya, sekiranya mereka mengetahui."</strong><br>
+      (QS. Al-Ankabut: 64)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ ۖ فَلَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنصَرُونَ</div>
+      <p style="text-align: center;"><strong>"Mereka itulah orang-orang yang membeli kehidupan dunia dengan (kehidupan) akhirat. Maka tidak akan diringankan azab dari mereka dan mereka tidak akan ditolong."</strong><br>
+      (QS. Al-Baqarah: 86)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ * لَتَرَوُنَّ الْجَحِيمَ</div>
+      <p style="text-align: center;"><strong>"Sekali-kali tidak! Sekiranya kamu mengetahui dengan pasti, niscaya kamu benar-benar akan melihat neraka Jahim."</strong><br>
+      (QS. At-Takatsur: 5-6)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Seandainya kalian mengetahui apa yang aku ketahui, niscaya kalian akan sedikit tertawa dan banyak menangis."</strong><br>
+      (HR. Bukhari dan Muslim)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Api neraka yang dinyalakan oleh anak Adam ini hanyalah satu bagian dari tujuh puluh bagian api neraka Jahannam."</strong><br>
+      (HR. Bukhari dan Muslim)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَمَا هَٰذِهِ الْحَيَاةُ الدُّنْيَا إِلَّا لَهْوٌ وَلَعِبٌ ۚ وَإِنَّ الدَّارَ الْآخِرَةَ لَهِيَ الْحَيَوَانُ ۚ لَوْ كَانُوا يَعْلَمُونَ</div>
+      <p style="text-align: center;"><strong>"And this worldly life is not but diversion and amusement. And indeed, the home of the Hereafter - that is the [eternal] life, if only they knew."</strong><br>
+      (QS. Al-Ankabut: 64)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ ۖ فَلَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنصَرُونَ</div>
+      <p style="text-align: center;"><strong>"Those are the ones who have bought the life of this world [in exchange] for the Hereafter, so the punishment will not be lightened for them, nor will they be aided."</strong><br>
+      (QS. Al-Baqarah: 86)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ * لَتَرَوُنَّ الْجَحِيمَ</div>
+      <p style="text-align: center;"><strong>"No! If you only knew with knowledge of certainty... You will surely see the Hellfire."</strong><br>
+      (QS. At-Takatsur: 5-6)</p>
+      <br>
+      <p style="text-align: center;"><strong>"If you knew what I know, you would laugh little and weep much."</strong><br>
+      (HR. Bukhari and Muslim)</p>
+      <br>
+      <p style="text-align: center;"><strong>"This fire of yours, which the sons of Adam kindle, is but one part of seventy parts of the fire of Hell."</strong><br>
+      (HR. Bukhari and Muslim)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَمَا هَٰذِهِ الْحَيَاةُ الدُّنْيَا إِلَّا لَهْوٌ وَلَعِبٌ ۚ وَإِنَّ الدَّارَ الْآخِرَةَ لَهِيَ الْحَيَوَانُ ۚ لَوْ كَانُوا يَعْلَمُونَ</div>
+      <p style="text-align: center;"><strong>"وما هذه الحياة الدنيا إلا لهو ولعب وإن الدار الآخرة لهي الحيوان لو كانوا يعلمون."</strong><br>
+      (سورة العنكبوت: 64)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ ۖ فَلَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنصَرُونَ</div>
+      <p style="text-align: center;"><strong>"أولئك الذين اشتروا الحياة الدنيا بالآخرة فلا يخفف عنهم العذاب ولا هم ينصرون."</strong><br>
+      (سورة البقرة: 86)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ * لَتَرَوُنَّ الْجَحِيمَ</div>
+      <p style="text-align: center;"><strong>"كلا لو تعلمون علم اليقين لترون الجحيم."</strong><br>
+      (سورة التكاثر: 5-6)</p>
+      <br>
+      <p style="text-align: center;"><strong>"لو تعلمون ما أعلم لضحكتم قليلاً ولبكيتم كثيراً."</strong><br>
+      (رواه البخاري ومسلم - صحيح)</p>
+      <br>
+      <p style="text-align: center;"><strong>"ناركم جزء من سبعين جزءاً من نار جهنم."</strong><br>
+      (رواه البخاري ومسلم - صحيح)</p>`
+    }
   }
 ];
 
