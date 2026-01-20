@@ -4260,6 +4260,111 @@ then with what face do we hope for Paradise, while we consume what is not our ri
 (رواه البخاري ومسلم)</p>`
     }
   },
+  {
+    id: "27",
+    title: {
+      id: "Tinta yang Lebih Suci dari Darah",
+      en: "Ink That Is Holier Than Blood",
+      ar: "الحبر أقدس من الدم"
+    },
+    content: {
+      id: `Baghdad pernah menjadi pusat dunia.
+Bukan karena istananya, bukan karena tentaranya, tetapi karena ilmu dijadikan fondasi peradaban Islam.
+Di jantung kota itu berdiri Baitul Hikmah. Ribuan manuskrip dari Persia, Yunani, India, dan Romawi diterjemahkan, dikaji, lalu dikembangkan. Matematika, kedokteran, astronomi, filsafat, dan sains tidak dicurigai, tetapi diarahkan untuk mengabdi kepada agama Allah dan kemaslahatan umat.
+Diriwayatkan, Khalifah Al-Ma'mun membayar para penerjemah dengan emas seberat buku yang mereka terjemahkan. Bukan karena berlebih-lebihan, tetapi karena ia memahami satu hakikat besar:
+umat yang bodoh mudah dijajah, umat yang berilmu akan memimpin peradaban.
+Suatu malam di akhir Ramadhan, seorang ulama melihat seorang ilmuwan duduk sendiri di antara tumpukan kitab. Matanya basah. Tangannya menggenggam pena, tetapi tidak menulis.
+"Mengapa engkau menangis?" tanya sang ulama.
+"Apakah karena Ramadhan akan pergi?"
+Ilmuwan itu menjawab pelan namun dalam:
+"Aku menangis karena tinta penaku terlalu sedikit untuk membela agama ini, jika dibandingkan dengan darah para syuhada. Mereka menjaga Islam dengan nyawa mereka. Kami seharusnya menjaganya dengan akal kami. Umat ini tidak akan hancur karena pedang musuh, tetapi karena kebodohan umatnya sendiri. Ibadah tanpa ilmu adalah kesalehan yang buta."
+Tangisan itu bukan kelemahan.
+Itu adalah rasa takut orang berilmu melihat masa depan umatnya runtuh.
+Hari ini, di penghujung Ramadhan, umat Islam sibuk memikirkan baju baru dan hidangan lebaran.
+Sementara membaca dianggap tidak penting.
+Berpikir dianggap melelahkan.
+Mendalami ilmu dianggap tidak mendesak.
+Kita bangga Islam di kartu identitas, tetapi kosong dari ilmu yang membangun peradaban.
+Kita rajin ibadah, tetapi malas berpikir.
+Kita mencintai ritual, tetapi menjauhi ilmu.
+Padahal sejarah jelas:
+Islam tidak memimpin dunia karena banyaknya doa semata,
+tetapi karena ilmu yang melahirkan sistem, hukum, teknologi, dan keadilan.
+Jika umat ini terus menjauh dari ilmu, maka jangan heran jika Islam hanya tinggal simbol.
+Karena peradaban tidak runtuh oleh musuh, tetapi oleh umat yang malas berpikir dan takut belajar.`,
+      en: `Baghdad was once the center of the world.
+Not because of its palaces, not because of its soldiers, but because knowledge was made the foundation of Islamic civilization.
+In the heart of that city stood the House of Wisdom (Baitul Hikmah). Thousands of manuscripts from Persia, Greece, India, and Rome were translated, studied, and developed. Mathematics, medicine, astronomy, philosophy, and science were not viewed with suspicion, but directed to serve the religion of Allah and the benefit of the Ummah.
+It is narrated that Caliph Al-Ma'mun paid translators gold weighing as much as the books they translated. Not because of extravagance, but because he understood one great truth:
+an ignorant people are easily colonized, a knowledgeable people will lead civilization.
+One night at the end of Ramadan, a scholar saw a scientist sitting alone among piles of books. His eyes were wet. His hand held a pen, but he was not writing.
+"Why are you crying?" asked the scholar.
+"Is it because Ramadan is leaving?"
+The scientist answered quietly but deeply:
+"I cry because the ink of my pen is too little to defend this religion, when compared to the blood of the martyrs. They guard Islam with their lives. We should guard it with our minds. This Ummah will not be destroyed by the enemy's sword, but by its own ignorance. Worship without knowledge is blind piety."
+That weeping was not weakness.
+It was the fear of a knowledgeable person seeing the future of his people collapse.
+Today, at the end of Ramadan, Muslims are busy thinking about new clothes and Eid dishes.
+While reading is considered unimportant.
+Thinking is considered exhausting.
+Deepening knowledge is considered not urgent.
+We are proud of Islam on identity cards, but empty of the knowledge that builds civilization.
+We are diligent in worship, but lazy in thinking.
+We love rituals, but shun knowledge.
+Whereas history is clear:
+Islam did not lead the world merely because of many prayers,
+but because of knowledge that gave birth to systems, laws, technology, and justice.
+If this Ummah continues to stay away from knowledge, then do not be surprised if Islam remains only a symbol.
+Because civilization does not collapse by enemies, but by a people who are lazy to think and afraid to learn.`,
+      ar: `كانت بغداد يوماً مركز العالم.
+ليس بسبب قصورها، وليس بسبب جنودها، بل لأن العلم جعل أساس الحضارة الإسلامية.
+في قلب تلك المدينة وقف بيت الحكمة. تُرجمت آلاف المخطوطات من فارس واليونان والهند والروم، ودُرست، وطُورت. لم يُنظر إلى الرياضيات والطب والفلك والفلسفة والعلوم بريبة، بل وُجهت لخدمة دين الله ومصلحة الأمة.
+يُروى أن الخليفة المأمون كان يدفع للمترجمين ذهباً بوزن الكتب التي يترجمونها. ليس من باب الإسراف، بل لأنه فهم حقيقة عظيمة واحدة:
+الأمة الجاهلة يسهل استعمارها، والأمة العالمة ستقود الحضارة.
+ذات ليلة في أواخر رمضان، رأى عالم عالماً يجلس وحيداً بين أكوام الكتب. كانت عيناه مبللتين. كانت يده تمسك قلماً، لكنه لم يكن يكتب.
+"لماذا تبكي؟" سأل العالم.
+"هل لأن رمضان سيرحل؟"
+أجاب العالم بصوت خافت ولكنه عميق:
+"أبكي لأن حبر قلمي قليل جداً للدفاع عن هذا الدين، إذا ما قورن بدم الشهداء. هم يحرسون الإسلام بأرواحهم. ونحن يجب أن نحرسه بعقولنا. لن تهلك هذه الأمة بسيف العدو، بل بجهل أبنائها. العبادة بلا علم هي تقوى عمياء."
+لم يكن ذلك البكاء ضعفاً.
+كان خوف شخص عالم يرى مستقبل أمته ينهار.
+اليوم، في نهاية رمضان، ينشغل المسلمون بالتفكير في الملابس الجديدة وأطباق العيد.
+بينما تعتبر القراءة غير مهمة.
+يعتبر التفكير مرهقاً.
+يعتبر تعميق العلم غير عاجل.
+نحن فخورون بالإسلام في بطاقات الهوية، لكننا فارغون من العلم الذي يبني الحضارة.
+نحن مجتهدون في العبادة، لكننا كسالى في التفكير.
+نحن نحب الطقوس، لكننا نبتعد عن العلم.
+بينما التاريخ واضح:
+لم يقُد الإسلام العالم لمجرد كثرة الدعاء،
+بل بسبب العلم الذي ولد الأنظمة والقوانين والتكنولوجيا والعدالة.
+إذا استمرت هذه الأمة في الابتعاد عن العلم، فلا تستغرب إذا بقي الإسلام مجرد رمز.
+لأن الحضارة لا تنهار بالأعداء، بل بأمة كسولة في التفكير وخائفة من التعلم.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ</div>
+<p style="text-align: center;"><strong>"Niscaya Allah akan meninggikan orang-orang yang beriman di antaramu dan orang-orang yang diberi ilmu pengetahuan beberapa derajat. Dan Allah Maha Mengetahui apa yang kamu kerjakan."</strong><br>
+(QS. Al-Mujadilah: 11)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ</div>
+<p style="text-align: center;"><strong>"Menuntut ilmu itu wajib atas setiap muslim."</strong><br>
+(HR. Ibnu Majah)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ</div>
+<p style="text-align: center;"><strong>"Allah will raise those who have believed among you and those who were given knowledge, by degrees. And Allah is Acquainted with what you do."</strong><br>
+(QS. Al-Mujadilah: 11)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ</div>
+<p style="text-align: center;"><strong>"Seeking knowledge is an obligation upon every Muslim."</strong><br>
+(HR. Ibnu Majah)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ</div>
+<p style="text-align: center;"><strong>"يرفع الله الذين آمنوا منكم والذين أوتوا العلم درجات والله بما تعملون خبير."</strong><br>
+(سورة المجادلة: 11)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ</div>
+<p style="text-align: center;"><strong>"طلب العلم فريضة على كل مسلم."</strong><br>
+(رواه ابن ماجه)</p>`
+    }
+  },
 ];
 
 export function getCerpen(): Cerpen[] {
