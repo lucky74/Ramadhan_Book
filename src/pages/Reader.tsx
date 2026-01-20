@@ -8,6 +8,10 @@ export default function Reader() {
   const { t, language, dir } = useLanguage();
   const cerpen = getCerpenById(id || "1");
 
+  const sequence = ["intro", ...Array.from({ length: 30 }, (_, i) => (i + 1).toString()), "outro"];
+  const currentIndex = sequence.indexOf(id || "1");
+  const nextId = sequence[currentIndex + 1];
+
   // State untuk ukuran font
   const [fontSize, setFontSize] = useState(() => {
     return parseInt(localStorage.getItem("reader_font_size") || "18");
@@ -97,7 +101,9 @@ export default function Reader() {
       {cerpen ? (
         <>
           <div style={{ textAlign: 'center', color: 'var(--accent)', marginBottom: 8, letterSpacing: 2 }}>
-            {t('day')} {id}
+             {id === 'intro' ? (language === 'ar' ? "مقدمة" : (language === 'en' ? "PREFACE" : "PENGANTAR")) :
+             id === 'outro' ? (language === 'ar' ? "خاتمة" : (language === 'en' ? "CLOSING" : "PENUTUP")) :
+             `${t('day')} ${id}`}
           </div>
           <h1 style={{ textAlign: "center", marginTop: 0 }}>{cerpen.title[language]}</h1>
 
@@ -132,9 +138,9 @@ export default function Reader() {
            {dir === 'rtl' ? '→' : '←'} {t('back_home')}
         </Link>
         
-        {parseInt(id || "0") < 30 && (
-          <Link className="mushaf-link" to={`/read/${parseInt(id || "0") + 1}`}>
-             {language === 'ar' ? 'اليوم التالي' : (language === 'en' ? 'Next Day' : 'Hari Berikutnya')} {dir === 'rtl' ? '←' : '→'}
+        {nextId && (
+          <Link className="mushaf-link" to={`/read/${nextId}`}>
+             {language === 'ar' ? 'التالي' : (language === 'en' ? 'Next' : 'Berikutnya')} {dir === 'rtl' ? '←' : '→'}
           </Link>
         )}
       </div>

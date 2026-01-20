@@ -10,14 +10,13 @@ export default function Home() {
   const { t, language, setLanguage } = useLanguage();
   const { theme, toggleTheme } = useTheme();
   const cerpenList = getCerpen();
-  const days = Array.from({ length: 30 }, (_, i) => i + 1);
+  const dayIds = ["intro", ...Array.from({ length: 30 }, (_, i) => (i + 1).toString()), "outro"];
   const [notifEnabled, setNotifEnabled] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
 
-  const filteredDays = days.filter(day => {
+  const filteredIds = dayIds.filter(id => {
     if (!searchQuery) return true;
     
-    const id = day.toString();
     const cerpen = cerpenList.find(c => c.id === id);
     
     if (!cerpen) return false;
@@ -102,18 +101,31 @@ export default function Home() {
       )}
 
       <div className="grid-container">
-        {filteredDays.length > 0 ? (
-          filteredDays.map((day) => {
-            const id = day.toString();
+        {filteredIds.length > 0 ? (
+          filteredIds.map((id) => {
             const existingData = cerpenList.find(c => c.id === id);
             const readDays = JSON.parse(localStorage.getItem("read_days") || "[]");
             const isRead = readDays.includes(id);
             
+            let label = "RAMADHAN";
+            let displayId = id;
+            let numberStyle = {};
+
+            if (id === "intro") {
+              label = language === 'ar' ? "مقدمة" : (language === 'en' ? "PREFACE" : "PENGANTAR");
+              displayId = "📖";
+              numberStyle = { fontSize: '4rem' };
+            } else if (id === "outro") {
+              label = language === 'ar' ? "خاتمة" : (language === 'en' ? "CLOSING" : "PENUTUP");
+              displayId = "🏁";
+              numberStyle = { fontSize: '4rem' };
+            }
+
             return (
-              <Link key={day} to={`/read/${day}`} style={{ textDecoration: 'none' }}>
+              <Link key={id} to={`/read/${id}`} style={{ textDecoration: 'none' }}>
                 <div className={`day-card ${isRead ? 'read' : ''}`}>
-                  <div className="day-label">RAMADHAN</div>
-                  <div className="day-number">{day}</div>
+                  <div className="day-label">{label}</div>
+                  <div className="day-number" style={numberStyle}>{displayId}</div>
                   
                   {existingData ? (
                     <div className="card-title">{existingData.title[language]}</div>

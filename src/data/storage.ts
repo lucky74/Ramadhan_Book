@@ -4908,6 +4908,219 @@ but return to humiliation.`,
 (رواه أحمد)</p>`
     }
   },
+  {
+    id: "intro",
+    title: {
+      id: "Kata Pengantar",
+      en: "Preface",
+      ar: "مقدمة"
+    },
+    content: {
+      id: `Assalamu’alaikum warahmatullahi wabarakatuh
+
+Ramadhan bukan sekadar bulan ibadah.
+Ia adalah bulan penyaringan: siapa yang jujur imannya akan menguat, dan siapa yang pura-pura akan tersingkap.
+
+Ramadhan Book ini tidak ditulis untuk menenangkan. Ia ditulis untuk mengganggu rasa aman palsu yang selama ini bercokol di hati umat Islam. Aman merasa beriman, aman merasa cukup dengan ibadah ritual, aman hidup nyaman meski Islam tidak tegak, dan aman menyebut diri umat Nabi ﷺ tanpa menanggung beban risalahnya.
+
+Selama 30 hari Ramadhan, tulisan-tulisan dalam buku ini mengajak pembaca menelusuri satu benang merah yang sering dihindari:
+
+Islam tidak pernah dibangun oleh umat yang ingin aman.
+
+Dari kegelisahan Nabi ﷺ di Gua Hira, beratnya dakwah di Makkah, jihad di Badar, keberanian para sahabat, integritas para khalifah, kejayaan ilmu pengetahuan Islam, hingga kemunduran umat hari ini—semuanya disajikan bukan sebagai nostalgia, tetapi sebagai tamparan kesadaran.
+
+Ramadhan Book ini sengaja tidak dipenuhi kalimat lembut. Karena umat tidak sedang kekurangan motivasi, tetapi kekurangan kejujuran dan keberanian. Tidak kekurangan kajian, tetapi kekurangan pembuktian.
+
+Ramadhan sering kita jalani sebagai rutinitas tahunan.
+Padahal ia seharusnya menjadi titik balik peradaban.
+
+Semoga buku ini tidak sekadar dibaca, tetapi mengusik, menggelisahkan, dan memaksa kita bertanya dengan jujur:
+Apakah iman kita benar-benar hidup, atau hanya diwariskan tanpa tanggung jawab?
+
+Jika setelah membaca buku ini kita merasa tidak nyaman, maka itu tanda bahwa hati masih bekerja.
+
+Wassalamu’alaikum warahmatullahi wabarakatuh
+
+Lucky Zamaludin Malik
+Penulis
+Founder Mitas Digital Solution`,
+      en: `Assalamu’alaikum warahmatullahi wabarakatuh
+
+Ramadan is not just a month of worship.
+It is a month of filtering: who is honest in their faith will be strengthened, and who is pretending will be exposed.
+
+This Ramadhan Book is not written to soothe. It is written to disturb the false sense of security that has long lodged in the hearts of Muslims. Safe feeling faithful, safe feeling satisfied with ritual worship, safe living comfortably even though Islam is not upright, and safe calling oneself the Ummah of the Prophet ﷺ without bearing the burden of his message.
+
+For 30 days of Ramadan, the writings in this book invite readers to trace a common thread that is often avoided:
+
+Islam was never built by people who wanted to be safe.
+
+From the restlessness of the Prophet ﷺ in Cave Hira, the weight of da'wah in Mecca, jihad in Badr, the courage of the companions, the integrity of the caliphs, the glory of Islamic science, to the decline of the Ummah today—everything is presented not as nostalgia, but as a slap of awareness.
+
+This Ramadhan Book is deliberately not filled with soft sentences. Because the Ummah is not lacking motivation, but lacking honesty and courage. Not lacking studies, but lacking proof.
+
+We often live Ramadan as an annual routine.
+Whereas it should be a turning point for civilization.
+
+Hopefully, this book is not just read, but disturbs, unsettles, and forces us to ask honestly:
+Is our faith really alive, or just inherited without responsibility?
+
+If after reading this book we feel uncomfortable, then that is a sign that the heart is still working.
+
+Wassalamu’alaikum warahmatullahi wabarakatuh
+
+Lucky Zamaludin Malik
+Author
+Founder Mitas Digital Solution`,
+      ar: `السلام عليكم ورحمة الله وبركاته
+
+رمضان ليس مجرد شهر للعبادة.
+إنه شهر التمحيص: من صدق إيمانه سيزداد قوة، ومن تظاهر سينكشف.
+
+لم يُكتب هذا كتاب رمضان لتهدئة النفوس. بل كُتب لزعزعة الشعور الزائف بالأمان الذي استقر طويلاً في قلوب المسلمين. الأمان في الشعور بالإيمان، والأمان في الاكتفاء بالعبادات الشعائرية، والأمان في العيش براحة رغم أن الإسلام ليس قائماً، والأمان في تسمية النفس من أمة النبي ﷺ دون تحمل عبء رسالته.
+
+على مدار 30 يوماً من رمضان، تدعو الكتابات في هذا الكتاب القراء لتتبع خيط مشترك غالباً ما يتم تجنبه:
+
+لم يُبن الإسلام أبداً من قبل أناس أرادوا الأمان.
+
+من قلق النبي ﷺ في غار حراء، وثقل الدعوة في مكة، والجهاد في بدر، وشجاعة الصحابة، ونزاهة الخلفاء، ومجد العلوم الإسلامية، إلى تراجع الأمة اليوم - كل شيء يُعرض ليس كحنين إلى الماضي، بل كصفعة للوعي.
+
+لم يمتلئ هذا كتاب رمضان عمداً بالجمل الناعمة. لأن الأمة لا تفتقر إلى التحفيز، بل تفتقر إلى الصدق والشجاعة. لا تفتقر إلى الدراسات، بل تفتقر إلى الإثبات.
+
+غالباً ما نعيش رمضان كروتين سنوي.
+بينما ينبغي أن يكون نقطة تحول للحضارة.
+
+نأمل ألا يُقرأ هذا الكتاب فحسب، بل يزعج ويقلق ويجبرنا على أن نسأل بصدق:
+هل إيماننا حي حقاً، أم مجرد موروث بلا مسؤولية؟
+
+إذا شعرنا بعد قراءة هذا الكتاب بعدم الراحة، فهذا دليل على أن القلب لا يزال يعمل.
+
+السلام عليكم ورحمة الله وبركاته
+
+لوكي زامالودين مالك
+المؤلف
+مؤسس Mitas Digital Solution`
+    },
+    dalil: {
+      id: "",
+      en: "",
+      ar: ""
+    }
+  },
+  {
+    id: "outro",
+    title: {
+      id: "Kata Penutup",
+      en: "Closing",
+      ar: "خاتمة"
+    },
+    content: {
+      id: `Ramadhan Book telah selesai dibaca. Namun pertanyaan yang ditinggalkannya belum selesai dijawab.
+
+Ramadhan Book ini tidak menawarkan kesimpulan yang menenangkan, karena Islam tidak pernah menjanjikan kenyamanan sebelum amanah ditunaikan. Ia hanya menawarkan satu hal: kejujuran untuk bercermin.
+
+Selama 30 hari, kita dipaksa melihat satu kenyataan pahit:
+umat Islam hari ini tidak kalah karena kurang jumlah,
+tetapi karena kehilangan arah, keberanian, dan rasa takut kepada Allah.
+
+Sejarah membuktikan,
+Islam berjaya bukan ketika umatnya banyak berbicara,
+tetapi ketika mereka membayar iman dengan pengorbanan.
+
+Jika setelah Ramadhan ini shalat kita kembali lalai,
+jika dosa kembali terasa biasa,
+jika syariat kembali ditawar demi kenyamanan,
+maka sejatinya Ramadhan hanya singgah di tubuh, bukan di jiwa.
+
+Ramadhan Book ini tidak menuntut kesempurnaan. Ia hanya menuntut keberpihakan.
+Karena Islam tidak membutuhkan umat yang sempurna, tetapi umat yang berani jujur, mau berubah, dan siap memikul beban risalah.
+
+Jika suatu hari Ramadhan Book ini dibaca oleh generasi setelah kita, biarlah mereka tahu bahwa pernah ada segelintir umat yang tidak puas dengan Islam sebagai simbol,
+yang tidak rela agamanya direduksi menjadi ritual, dan yang percaya bahwa Islam diturunkan untuk memimpin kehidupan, bukan sekadar menghiasi identitas.
+
+Ramadhan telah berlalu.
+Namun amanah belum.
+
+Semoga Allah menerima amal yang sedikit,
+mengampuni kelalaian yang banyak,
+dan membangunkan umat ini dari tidur panjangnya.
+
+Lucky Zamaludin Malik
+Penulis
+Founder Mitas Digital Solution`,
+      en: `The Ramadhan Book has been read. But the questions it left behind have not yet been answered.
+
+This Ramadhan Book does not offer soothing conclusions, because Islam never promises comfort before the trust is fulfilled. It only offers one thing: honesty to look in the mirror.
+
+For 30 days, we were forced to see a bitter reality:
+the Muslim Ummah today is not losing because of a lack of numbers,
+but because of a loss of direction, courage, and fear of Allah.
+
+History proves,
+Islam triumphed not when its people talked a lot,
+but when they paid for faith with sacrifice.
+
+If after this Ramadan our prayers are neglected again,
+if sin feels normal again,
+if the Sharia is bargained again for comfort,
+then truly Ramadan only stopped at the body, not the soul.
+
+This Ramadhan Book does not demand perfection. It only demands partiality.
+Because Islam does not need perfect people, but people who dare to be honest, willing to change, and ready to bear the burden of the message.
+
+If one day this Ramadhan Book is read by the generation after us, let them know that there was once a handful of people who were not satisfied with Islam as a symbol,
+who were not willing for their religion to be reduced to rituals, and who believed that Islam was revealed to lead life, not just decorate identity.
+
+Ramadan has passed.
+But the trust has not.
+
+May Allah accept the little deeds,
+forgive the many negligences,
+and wake this Ummah from its long sleep.
+
+Lucky Zamaludin Malik
+Author
+Founder Mitas Digital Solution`,
+      ar: `لقد انتهت قراءة كتاب رمضان. لكن الأسئلة التي تركها وراءه لم تتم الإجابة عليها بعد.
+
+لا يقدم هذا كتاب رمضان استنتاجات مهدئة، لأن الإسلام لا يعد أبداً بالراحة قبل أداء الأمانة. إنه يقدم شيئاً واحداً فقط: الصدق للنظر في المرآة.
+
+على مدار 30 يوماً، أُجبرنا على رؤية حقيقة مرة:
+الأمة الإسلامية اليوم لا تخسر بسبب قلة العدد،
+بل بسبب فقدان الاتجاه، والشجاعة، والخوف من الله.
+
+التاريخ يثبت،
+أن الإسلام لم ينتصر عندما كثر كلام أهله،
+بل عندما دفعوا ثمن الإيمان بالتضحية.
+
+إذا عدنا بعد رمضان لتضييع الصلاة،
+إذا عاد الذنب يبدو عادياً،
+إذا تمت المساومة على الشريعة من أجل الراحة،
+فإن رمضان في الحقيقة لم يمر إلا على الجسد، لا الروح.
+
+لا يطلب هذا كتاب رمضان الكمال. إنه يطلب فقط الانحياز.
+لأن الإسلام لا يحتاج إلى أناس كاملين، بل إلى أناس يجرؤون على الصدق، ويرغبون في التغيير، ومستعدون لحمل عبء الرسالة.
+
+إذا قُرأ هذا كتاب رمضان يوماً ما من قبل الجيل الذي بعدنا، فليعلموا أنه كان هناك قلة من الناس لم يرضوا بالإسلام كرمز،
+ولم يرضوا بأن يُختزل دينهم في طقوس، وآمنوا بأن الإسلام أُنزل ليقود الحياة، لا ليزين الهوية فحسب.
+
+لقد مضى رمضان.
+لكن الأمانة لم تمض.
+
+تقبل الله العمل القليل،
+وغفر الغفلة الكثيرة،
+وأيقظ هذه الأمة من سباتها الطويل.
+
+لوكي زامالودين مالك
+المؤلف
+مؤسس Mitas Digital Solution`
+    },
+    dalil: {
+      id: "",
+      en: "",
+      ar: ""
+    }
+  },
 ];
 
 export function getCerpen(): Cerpen[] {
