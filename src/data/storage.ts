@@ -1553,6 +1553,207 @@ Do not be quick to say, "We believe," if not ready to be tested. Do not be proud
       <p style="text-align: center;"><strong>"ما تركت شيئاً يقربكم إلى الجنة ويباعدكم من النار إلا وأمرتكم به."</strong><br>
       (رواه الطبراني - حسن)</p>`
     }
+  },
+  {
+    id: "12",
+    title: {
+      id: "Mengapa Ujian Selalu Datang Sebelum Kemenangan",
+      en: "Why Trials Always Come Before Victory",
+      ar: "لماذا يأتي البلاء دائماً قبل النصر"
+    },
+    content: {
+      id: `Umat Islam hari ini ingin kemenangan, tapi alergi terhadap ujian.
+Ingin kejayaan, tapi tidak mau luka.
+Ingin Islam berjaya, tapi berharap semuanya berjalan aman, nyaman, dan tanpa risiko.
+Padahal, sejak awal sejarahnya, Islam tidak pernah lahir dari zona aman.
+Kemenangan tidak pernah turun kepada orang yang hanya pandai berdoa, tapi enggan membayar harga. Allah tidak membangun peradaban dengan orang-orang yang hanya berkata, "yang penting niatnya baik." Allah membangun Islam dengan orang-orang yang siap hancur lebih dulu sebelum dimenangkan.
+
+Hari ini umat bertanya, "Kenapa Islam tidak menang-menang?"
+Jawabannya sederhana tapi menyakitkan: karena kita menolak ujian, tapi menuntut hasil.
+
+Ujian selalu datang sebelum kemenangan karena iman tidak bisa dibuktikan dengan lisan. Iman hanya sah jika diuji. Dan ujian itu bukan seminar, bukan kajian, bukan diskusi ilmiah. Ujian itu berupa takut, lapar, kehilangan, tekanan, pengorbanan, dan ancaman nyata.
+
+Nabi Muhammad ﷺ tidak menerima kemenangan setelah baiat.
+Beliau menerima:
+* caci maki,
+* pemboikotan ekonomi,
+* pengusiran,
+* ancaman pembunuhan,
+* dan peperangan.
+
+Para sahabat tidak diuji dengan komentar pedas di media sosial.
+Mereka diuji dengan darah, harta, keluarga, dan nyawa.
+
+Hari ini, baru kehilangan kenyamanan sedikit saja, umat sudah berkata:
+"Islam jangan dibawa ke mana-mana."
+"Jangan keras-keras, nanti umat takut."
+"Yang penting akhlak, urusan sistem nanti saja."
+
+Padahal justru ujian itu tanda Allah masih mempersiapkan kemenangan.
+Ketika umat diuji, itu bukan tanda Allah meninggalkan, tapi tanda Allah sedang menyaring.
+
+Allah tidak akan memberikan kemenangan kepada umat yang:
+* belum sabar,
+* belum jujur,
+* belum berani berkorban,
+* dan masih lebih takut kehilangan dunia daripada kehilangan ridha Allah.
+
+Ujian datang sebelum kemenangan karena kemenangan bukan hadiah gratis.
+Kemenangan adalah amanah besar, dan amanah tidak diberikan kepada orang yang mentalnya masih ingin aman.
+
+Jika hari ini Islam masih dihina, ditindas, dan dipermainkan, jangan buru-buru menyalahkan musuh.
+Cerminlah diri kita:
+Apakah kita sudah siap diuji seperti Nabi?
+Atau kita hanya ingin Islam menang, asal kita tidak ikut menderita?
+
+Jika jawabannya yang kedua, maka wajar bila kemenangan terus ditunda.
+Karena Allah tidak pernah memenangkan umat yang belum lulus ujian iman.`,
+      en: `Muslims today want victory, but are allergic to trials.
+Wanting glory, but not wanting wounds.
+Wanting Islam to triumph, but hoping everything goes safely, comfortably, and without risk.
+Yet, from the very beginning of its history, Islam was never born from a safe zone.
+Victory never descends upon those who are only good at praying but reluctant to pay the price. Allah does not build civilization with people who only say, "the important thing is the intention is good." Allah builds Islam with people who are ready to be shattered first before being made victorious.
+
+Today the Ummah asks, "Why isn't Islam winning?"
+The answer is simple but painful: because we refuse the test, but demand the result.
+
+Trials always come before victory because faith cannot be proven by words alone. Faith is only valid if tested. And the test is not a seminar, not a study circle, not a scientific discussion. The test is fear, hunger, loss, pressure, sacrifice, and real threats.
+
+Prophet Muhammad ﷺ did not receive victory after the pledge of allegiance.
+He received:
+* abuse,
+* economic boycott,
+* expulsion,
+* death threats,
+* and war.
+
+The Companions were not tested with spicy comments on social media.
+They were tested with blood, wealth, family, and life.
+
+Today, just losing a little comfort, the Ummah already says:
+"Don't take Islam everywhere."
+"Don't be too hard, or people will be scared."
+"The important thing is morals, system matters later."
+
+Yet precisely that trial is a sign Allah is still preparing victory.
+When the Ummah is tested, it is not a sign Allah is leaving, but a sign Allah is filtering.
+
+Allah will not give victory to an Ummah that:
+* has not been patient,
+* has not been honest,
+* has not dared to sacrifice,
+* and still fears losing the world more than losing Allah's pleasure.
+
+Trials come before victory because victory is not a free gift.
+Victory is a great trust, and trust is not given to people whose mentality still wants to be safe.
+
+If today Islam is still insulted, oppressed, and played with, don't be in a rush to blame the enemy.
+Mirror ourselves:
+Are we ready to be tested like the Prophet?
+Or do we only want Islam to win, as long as we don't suffer?
+
+If the answer is the second, then it is natural that victory continues to be postponed.
+Because Allah never grants victory to an Ummah that has not passed the test of faith.`,
+      ar: `المسلمون اليوم يريدون النصر، لكنهم لديهم حساسية من الابتلاء.
+يريدون المجد، لكنهم لا يريدون الجراح.
+يريدون للإسلام أن ينتصر، لكنهم يأملون أن يسير كل شيء بأمان وراحة ودون مخاطرة.
+ومع ذلك، منذ بداية تاريخه، لم يولد الإسلام أبداً من منطقة آمنة.
+النصر لا ينزل أبداً على أولئك الذين يجيدون الدعاء فقط لكنهم يترددون في دفع الثمن. الله لا يبني الحضارة بأناس يقولون فقط "المهم أن النية طيبة". الله يبني الإسلام بأناس مستعدين للتحطم أولاً قبل أن يُنصروا.
+
+اليوم تسأل الأمة: "لماذا لا ينتصر الإسلام؟"
+الجواب بسيط ولكنه مؤلم: لأننا نرفض الاختبار، لكننا نطالب بالنتيجة.
+
+الابتلاء يأتي دائماً قبل النصر لأن الإيمان لا يمكن إثباته باللسان فقط. الإيمان لا يصح إلا إذا اختُبر. والاختبار ليس ندوة، وليس درساً، وليس مناقشة علمية. الاختبار هو الخوف، والجوع، والفقد، والضغط، والتضحية، والتهديدات الحقيقية.
+
+النبي محمد ﷺ لم يتلق النصر بعد البيعة.
+بل تلقى:
+* الشتائم،
+* والمقاطعة الاقتصادية،
+* والطرد،
+* وتهديدات القتل،
+* والحرب.
+
+الصحابة لم يختبروا بالتعليقات اللاذعة على وسائل التواصل الاجتماعي.
+بل اختبروا بالدماء، والأموال، والعائلة، والأرواح.
+
+اليوم، بمجرد فقدان القليل من الراحة، تقول الأمة بالفعل:
+"لا تأخذوا الإسلام إلى كل مكان".
+"لا تكونوا قساوة جداً، وإلا سيخاف الناس".
+"المهم الأخلاق، أمور النظام لاحقاً".
+
+ومع ذلك، فإن هذا الابتلاء هو بالضبط علامة على أن الله لا يزال يعد للنصر.
+عندما تُبتلى الأمة، فليس ذلك علامة على أن الله يتركها، بل علامة على أن الله يمحصها.
+
+الله لن يعطي النصر لأمة:
+* لم تصبر،
+* ولم تصدق،
+* ولم تجرؤ على التضحية،
+* ولا تزال تخاف فقدان الدنيا أكثر من فقدان رضا الله.
+
+الابتلاء يأتي قبل النصر لأن النصر ليس هدية مجانية.
+النصر أمانة عظيمة، والأمانة لا تعطى لأناس لا تزال عقليتهم تريد الأمان.
+
+إذا كان الإسلام اليوم لا يزال يُهان، ويُضطهد، ويُتلاعب به، فلا تتسرعوا في لوم العدو.
+لننظر في المرآة:
+هل نحن مستعدون للاختبار مثل النبي؟
+أم أننا نريد فقط أن ينتصر الإسلام، طالما أننا لا نعاني؟
+
+إذا كان الجواب هو الثاني، فمن الطبيعي أن يستمر تأجيل النصر.
+لأن الله لا يمنح النصر أبداً لأمة لم تنجح في اختبار الإيمان.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ الَّذِينَ خَلَوْا مِن قَبْلِكُم ۖ مَّسَّتْهُمُ الْبَأْسَاءُ وَالضَّرَّاءُ وَزُلْزِلُوا حَتَّىٰ يَقُولَ الرَّسُولُ وَالَّذِينَ آمَنُوا مَعَهُ مَتَىٰ نَصْرُ اللَّهِ ۗ أَلَا إِنَّ نَصْرَ اللَّهِ قَرِيبٌ</div>
+      <p style="text-align: center;"><strong>"Apakah kamu mengira bahwa kamu akan masuk surga, padahal belum datang kepadamu cobaan seperti halnya orang-orang terdahulu sebelum kamu? Mereka ditimpa oleh malapetaka dan kesengsaraan, serta digoncangkan (dengan berbagai cobaan), sehingga berkatalah Rasul dan orang-orang yang beriman bersamanya: 'Kapankah datang pertolongan Allah? Ingatlah, sesungguhnya pertolongan Allah itu dekat."</strong><br>
+      (QS. Al-Baqarah: 214)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَعْلَمِ اللَّهُ الَّذِينَ جَاهَدُوا مِنكُمْ وَيَعْلَمَ الصَّابِرِينَ</div>
+      <p style="text-align: center;"><strong>"Apakah kamu mengira bahwa kamu akan masuk surga, padahal Allah belum mengetahui (dalam kenyataan) siapa di antara kamu yang berjihad dan belum mengetahui siapa yang sabar?"</strong><br>
+      (QS. Ali 'Imran: 142)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">أَحَسِبَ النَّاسُ أَن يُتْرَكُوا أَن يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ (2) وَلَقَدْ فَتَنَّا الَّذِينَ مِن قَبْلِهِمْ ۖ فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ الْكَاذِبِينَ (3)</div>
+      <p style="text-align: center;"><strong>"Apakah manusia mengira bahwa mereka akan dibiarkan mengatakan: 'Kami telah beriman,' sedangkan mereka tidak diuji? Dan sungguh, Kami telah menguji orang-orang sebelum mereka, maka Allah pasti mengetahui orang-orang yang benar dan pasti mengetahui orang-orang yang dusta."</strong><br>
+      (QS. Al-'Ankabut: 2-3)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Manusia yang paling berat ujiannya adalah para Nabi, kemudian orang-orang shalih, lalu yang semisal mereka. Seseorang diuji sesuai dengan kadar agamanya."</strong><br>
+      (HR. At-Tirmidzi - hasan shahih)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Ketahuilah, sesungguhnya pertolongan itu bersama kesabaran, jalan keluar bersama kesempitan, dan sesungguhnya setelah kesulitan ada kemudahan."</strong><br>
+      (HR. Ahmad - shahih)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ الَّذِينَ خَلَوْا مِن قَبْلِكُم ۖ مَّسَّتْهُمُ الْبَأْسَاءُ وَالضَّرَّاءُ وَزُلْزِلُوا حَتَّىٰ يَقُولَ الرَّسُولُ وَالَّذِينَ آمَنُوا مَعَهُ مَتَىٰ نَصْرُ اللَّهِ ۗ أَلَا إِنَّ نَصْرَ اللَّهِ قَرِيبٌ</div>
+      <p style="text-align: center;"><strong>"Or do you think that you will enter Paradise while such [trial] has not yet come to you as came to those who passed on before you? They were touched by poverty and hardship and were shaken until [even their] messenger and those who believed with him said, 'When is the help of Allah?' Unquestionably, the help of Allah is near."</strong><br>
+      (QS. Al-Baqarah: 214)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَعْلَمِ اللَّهُ الَّذِينَ جَاهَدُوا مِنكُمْ وَيَعْلَمَ الصَّابِرِينَ</div>
+      <p style="text-align: center;"><strong>"Or do you think that you will enter Paradise while Allah has not yet made evident those of you who fight in His cause and made evident those who are steadfast?"</strong><br>
+      (QS. Ali 'Imran: 142)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">أَحَسِبَ النَّاسُ أَن يُتْرَكُوا أَن يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ (2) وَلَقَدْ فَتَنَّا الَّذِينَ مِن قَبْلِهِمْ ۖ فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ الْكَاذِبِينَ (3)</div>
+      <p style="text-align: center;"><strong>"Do the people think that they will be left to say, 'We believe' and they will not be tried? But We have certainly tried those before them, and Allah will surely make evident those who are truthful, and He will surely make evident the liars."</strong><br>
+      (QS. Al-'Ankabut: 2-3)</p>
+      <br>
+      <p style="text-align: center;"><strong>"The people most severely tested are the Prophets, then those most like them, then those most like them. A person is tested according to his religious commitment."</strong><br>
+      (HR. At-Tirmidzi)</p>
+      <br>
+      <p style="text-align: center;"><strong>"Know that there is much good in patience with what you dislike, and that victory comes with patience, relief with distress, and with hardship comes ease."</strong><br>
+      (HR. Ahmad)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ الَّذِينَ خَلَوْا مِن قَبْلِكُم ۖ مَّسَّتْهُمُ الْبَأْسَاءُ وَالضَّرَّاءُ وَزُلْزِلُوا حَتَّىٰ يَقُولَ الرَّسُولُ وَالَّذِينَ آمَنُوا مَعَهُ مَتَىٰ نَصْرُ اللَّهِ ۗ أَلَا إِنَّ نَصْرَ اللَّهِ قَرِيبٌ</div>
+      <p style="text-align: center;"><strong>"أم حسبتم أن تدخلوا الجنة ولما يأتكم مثل الذين خلوا من قبلكم مستهم البأساء والضراء وزلزلوا حتى يقول الرسول والذين آمنوا معه متى نصر الله ألا إن نصر الله قريب."</strong><br>
+      (سورة البقرة: 214)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَعْلَمِ اللَّهُ الَّذِينَ جَاهَدُوا مِنكُمْ وَيَعْلَمَ الصَّابِرِينَ</div>
+      <p style="text-align: center;"><strong>"أم حسبتم أن تدخلوا الجنة ولما يعلم الله الذين جاهدوا منكم ويعلم الصابرين."</strong><br>
+      (سورة آل عمران: 142)</p>
+      <br>
+      <div class="arab" style="text-align: center; margin-bottom: 10px;">أَحَسِبَ النَّاسُ أَن يُتْرَكُوا أَن يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ (2) وَلَقَدْ فَتَنَّا الَّذِينَ مِن قَبْلِهِمْ ۖ فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ الْكَاذِبِينَ (3)</div>
+      <p style="text-align: center;"><strong>"أحسب الناس أن يتركوا أن يقولوا آمنا وهم لا يفتنون * ولقد فتنا الذين من قبلهم فليعلمن الله الذين صدقوا وليعلمن الكاذبين."</strong><br>
+      (سورة العنكبوت: 2-3)</p>
+      <br>
+      <p style="text-align: center;"><strong>"أشد الناس بلاء الأنبياء ثم الأمثل فالأمثل. يبتلى الرجل على حسب دينه."</strong><br>
+      (رواه الترمذي - حسن صحيح)</p>
+      <br>
+      <p style="text-align: center;"><strong>"واعلم أن في الصبر على ما تكره خيرا كثيرا، وأن النصر مع الصبر، وأن الفرج مع الكرب، وأن مع العسر يسرا."</strong><br>
+      (رواه أحمد - صحيح)</p>`
+    }
   }
 ];
 
