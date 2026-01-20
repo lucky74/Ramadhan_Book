@@ -4533,139 +4533,229 @@ but rather:
   {
     id: "29",
     title: {
-      id: "Hakikat Idul Fitri: Antara Takbir dan Ketakutan",
-      en: "The Essence of Eid al-Fitr: Between Takbir and Fear",
-      ar: "جوهر عيد الفطر: بين التكبير والخوف"
+      id: "Setelah Berbuka Kembali, Apakah Kita Juga Kembali Bermaksiat?",
+      en: "After Breaking Fast Again, Do We Also Return to Sin?",
+      ar: "بعد الإفطار مرة أخرى، هل نعود للمعصية أيضًا؟"
     },
     content: {
-      id: `Tokoh: Umar bin Khattab radhiyallahu 'anhu
-Takbir menggema di Madinah.
-Langit dipenuhi kalimat tauhid.
-Manusia bersiap menyambut Idul Fitri—hari yang disebut-sebut sebagai kemenangan.
-Namun di sudut sebuah rumah yang sederhana, Umar bin Khattab—Amirul Mukminin, penakluk Persia dan Romawi—tidak larut dalam sorak. Ia duduk tertunduk. Tangisnya pecah. Jenggotnya basah oleh air mata.
-Seorang sahabat mendekat dan bertanya dengan heran,
-"Wahai Amirul Mukminin, ini hari kemenangan. Mengapa engkau menangis?"
-Umar mengangkat wajahnya. Bukan wajah seorang penguasa, tetapi wajah seorang hamba yang gemetar menunggu keputusan Rabb-nya.
-"Aku takut," katanya lirih.
-"Aku takut jika kemenanganku hanya pada pakaian yang baru, sementara dosaku tetap tua dan melekat. Aku takut puasaku hanya menahan lapar dan dahaga, tetapi tidak menahan diriku dari api neraka. Celakalah orang yang Ramadhan datang lalu pergi, namun Allah tidak mengampuninya."
-Inilah hakikat Idul Fitri yang hilang dari umat hari ini.
-Idul Fitri bukan pesta kelalaian.
-Bukan panggung kesombongan.
-Bukan ajang memamerkan kebaruan dunia.
-Idul Fitri adalah hari pengumuman—bukan oleh manusia, tetapi oleh Allah:
-diterima atau ditolak.
-Para salaf menangis setelah Ramadhan, bukan karena ia pergi,
-tetapi karena mereka tidak tahu apakah amal mereka diterima.
-Hari ini, umat Islam tertawa tanpa rasa takut.
-Takbir dikumandangkan, tapi hisab dilupakan.
-Kita merayakan "kemenangan", padahal belum tentu kita lulus ujian.
-Padahal kemenangan sejati bukan karena selesai puasa,
-melainkan karena dosa diampuni dan nafsu ditundukkan.
-Idul Fitri bukan soal kembali makan dan minum,
-tetapi soal apakah hati kembali kepada fitrah.
-Umar bin Khattab—yang dijamin surga—takut amalnya ditolak.
-Lalu dengan wajah apa kita merasa aman?
-Jika Ramadhan tidak mengubah shalat kita,
-tidak meluruskan muamalah kita,
-tidak melembutkan hati kita terhadap kebenaran,
-maka Idul Fitri hanyalah libur dari ibadah, bukan kemenangan iman.
-Hari ke-29 ini bukan ajakan bersuka-cita,
-tetapi ajakan bergetar.
-Karena Idul Fitri yang sejati bukan ketika baju baru dikenakan,
-melainkan ketika dosa lama ditanggalkan.`,
-      en: `Figure: Umar bin Khattab radhiyallahu 'anhu
-Takbir echoed in Medina.
-The sky was filled with words of Tawhid.
-People were getting ready to welcome Eid al-Fitr—the day touted as victory.
-But in the corner of a simple house, Umar bin Khattab—the Commander of the Faithful, conqueror of Persia and Rome—did not dissolve in cheers. He sat bowed down. He broke down in tears. His beard was wet with tears.
-A companion approached and asked in astonishment,
-"O Commander of the Faithful, this is a day of victory. Why are you crying?"
-Umar raised his face. Not the face of a ruler, but the face of a servant trembling awaiting the decision of his Lord.
-"I am afraid," he said softly.
-"I am afraid if my victory is only in new clothes, while my sins remain old and attached. I am afraid my fasting was only holding back hunger and thirst, but not holding myself back from the fire of Hell. Woe to the person who Ramadan comes and goes, but Allah does not forgive him."
-This is the essence of Eid al-Fitr that is lost from the Ummah today.
-Eid al-Fitr is not a party of negligence.
-Not a stage for arrogance.
-Not an arena to show off worldly newness.
-Eid al-Fitr is a day of announcement—not by humans, but by Allah:
-accepted or rejected.
-The Salaf cried after Ramadan, not because it left,
-but because they did not know if their deeds were accepted.
-Today, Muslims laugh without fear.
-Takbir is chanted, but accountability is forgotten.
-We celebrate "victory", even though we are not necessarily sure we passed the test.
-Whereas true victory is not because fasting is over,
-but because sins are forgiven and desires are subdued.
-Eid al-Fitr is not about returning to eating and drinking,
-but about whether the heart returns to fitrah.
-Umar bin Khattab—who was guaranteed Paradise—feared his deeds would be rejected.
-Then with what face do we feel safe?
-If Ramadan does not change our prayer,
-does not straighten our dealings,
-does not soften our hearts towards the truth,
-then Eid al-Fitr is just a holiday from worship, not a victory of faith.
-This 29th day is not an invitation to rejoice,
-but an invitation to tremble.
-Because true Eid al-Fitr is not when new clothes are worn,
-but when old sins are shed.`,
-      ar: `الشخصية: عمر بن الخطاب رضي الله عنه
-دوى التكبير في المدينة.
-امتلأت السماء بكلمات التوحيد.
-كان الناس يستعدون لاستقبال عيد الفطر - اليوم الذي يوصف بالنصر.
-ولكن في زاوية منزل بسيط، لم يذب عمر بن الخطاب - أمير المؤمنين، وقاهر الفرس والروم - في الهتافات. جلس مطأطأ الرأس. انفجر في البكاء. ابتلت لحيته بالدموع.
-اقترب منه صحابي وسأل بذهول:
-"يا أمير المؤمنين، هذا يوم نصر. لماذا تبكي؟"
-رفع عمر وجهه. ليس وجه حاكم، بل وجه عبد يرتجف منتظراً قرار ربه.
-قال بصوت خافت: "أنا خائف".
-"أخاف أن يكون نصري في الملابس الجديدة فقط، بينما ذنوبي تبقى قديمة وملتصقة. أخاف أن يكون صيامي مجرد امتناع عن الجوع والعطش، لكنه لم يمنع نفسي من نار جهنم. ويل لمن أدرك رمضان ثم انسلخ قبل أن يغفر له."
-هذا هو جوهر عيد الفطر الذي ضاع من الأمة اليوم.
-عيد الفطر ليس حفلة للغفلة.
-ليس مسرحاً للتكبر.
-ليس ساحة لاستعراض متاع الدنيا الجديد.
-عيد الفطر هو يوم إعلان - ليس من قبل البشر، بل من قبل الله:
-مقبول أم مرفوض.
-بكى السلف بعد رمضان، ليس لأنه رحل،
-بل لأنهم لم يعرفوا ما إذا كانت أعمالهم قد قبلت.
-اليوم، يضحك المسلمون بلا خوف.
-يردد التكبير، لكن الحساب منسي.
-نحتفل بـ "النصر"، رغم أننا لسنا متأكدين بالضرورة أننا نجحنا في الاختبار.
-بينما النصر الحقيقي ليس بانتهاء الصيام،
-بل بمغفرة الذنوب وكبح الشهوات.
-عيد الفطر ليس مسألة العودة للأكل والشرب،
-بل مسألة ما إذا كان القلب يعود للفطرة.
-عمر بن الخطاب - المبشر بالجنة - خاف أن ترد أعماله.
-فبأي وجه نشعر بالأمان؟
-إذا لم يغير رمضان صلاتنا،
-ولم يقوم معاملاتنا،
-ولم يلين قلوبنا تجاه الحق،
-فإن عيد الفطر مجرد عطلة من العبادة، وليس نصر إيمان.
-هذا اليوم التاسع والعشرون ليس دعوة للفرح،
-بل دعوة للارتجاف.
-لأن عيد الفطر الحقيقي ليس عندما تلبس الثياب الجديدة،
-بل عندما تخلع الذنوب القديمة.`
+      id: `Idul Fitri bukan pengumuman kemenangan.
+Ia hanya penanda bahwa kita kembali makan di pagi hari.
+Tidak lebih.
+Tidak ada sertifikat kelulusan dari langit.
+Tidak ada jaminan dosa dihapus.
+Tidak ada kepastian amal diterima.
+Yang berubah hanya satu:
+kita diizinkan kembali berbuka.
+
+Lalu setelah itu apa?
+Inilah pertanyaan paling menakutkan setelah Ramadhan.
+Bukan: berapa hari kita puasa,
+tetapi: ke mana arah hidup kita setelah puasa selesai.
+
+Banyak orang salah paham.
+Mereka mengira Ramadhan adalah proyek,
+selesai dikerjakan lalu ditinggalkan.
+Padahal Ramadhan adalah pelatihan,
+bukan tujuan akhir.
+
+Jika setelah Idul Fitri:
+shalat kembali ditunda,
+maksiat kembali dinormalisasi,
+syariat kembali ditawar demi kenyamanan,
+maka Ramadhan tidak gagal—
+kitalah yang gagal menjadi hamba.
+
+Allah tidak memerintahkan puasa agar kita kuat menahan lapar,
+tetapi agar kita lemah di hadapan perintah-Nya.
+Allah tidak melatih kita bangun malam agar bangga ibadah,
+tetapi agar kita tak berani kembali bermaksiat.
+
+Jika setelah sebulan ditempa,
+kita kembali seperti sebelum Ramadhan,
+maka puasa itu hanya olahraga jasmani,
+bukan pendidikan ruhani.
+
+Para salaf takut setelah Ramadhan,
+karena mereka tahu:
+yang dinilai bukan Ramadhannya,
+tetapi kelanjutannya.
+
+Hari ini umat Islam sibuk bertanya:
+"Puasa kita berapa hari?"
+Padahal seharusnya bertanya:
+"Dosa mana yang benar-benar kita tinggalkan?"
+
+Idul Fitri hanyalah izin berbuka.
+Ia bukan izin bermaksiat.
+Ia bukan alasan kembali lalai.
+Ia bukan pembenaran untuk hidup tanpa takut kepada Allah.
+
+Ramadhan sudah pergi.
+Latihan sudah selesai.
+Sekarang ujian sebenarnya dimulai.
+
+Maka pertanyaan terakhir, sebelum lembar Ramadhan ditutup:
+Setelah kita kembali makan di pagi hari,
+apakah kita juga kembali memakan yang haram,
+kembali menelan kezhaliman,
+dan kembali mengkhianati amanah Allah?
+
+Jika iya,
+maka kita tidak kembali kepada fitrah,
+tetapi kembali kepada kehinaan.`,
+      en: `Eid al-Fitr is not an announcement of victory.
+It is merely a marker that we return to eating in the morning.
+Nothing more.
+There is no graduation certificate from the heavens.
+There is no guarantee that sins are erased.
+There is no certainty that deeds are accepted.
+Only one thing changes:
+we are allowed to break our fast again.
+
+Then what comes after?
+This is the most frightening question after Ramadan.
+Not: how many days did we fast,
+but: where is the direction of our life after fasting ends.
+
+Many people misunderstand.
+They think Ramadan is a project,
+completed and then abandoned.
+Whereas Ramadan is training,
+not the final goal.
+
+If after Eid al-Fitr:
+prayer is delayed again,
+sin is normalized again,
+sharia is bargained again for comfort,
+then Ramadan did not fail—
+it is we who failed to be servants.
+
+Allah did not command fasting so that we are strong in enduring hunger,
+but so that we are weak before His command.
+Allah did not train us to wake up at night to be proud of worship,
+but so that we dare not return to sin.
+
+If after a month of being forged,
+we return to how we were before Ramadan,
+then that fasting was merely physical exercise,
+not spiritual education.
+
+The predecessors (Salaf) were afraid after Ramadan,
+because they knew:
+what is judged is not the Ramadan itself,
+but its continuation.
+
+Today Muslims are busy asking:
+"How many days did we fast?"
+Whereas they should ask:
+"Which sins have we truly abandoned?"
+
+Eid al-Fitr is merely permission to break the fast.
+It is not permission to sin.
+It is not an excuse to return to negligence.
+It is not a justification to live without fear of Allah.
+
+Ramadan has gone.
+The training is finished.
+Now the real test begins.
+
+So the final question, before the page of Ramadan is closed:
+After we return to eating in the morning,
+do we also return to consuming the forbidden,
+return to swallowing injustice,
+and return to betraying Allah's trust?
+
+If yes,
+then we do not return to fitrah (purity),
+but return to humiliation.`,
+      ar: `عيد الفطر ليس إعلان نصر.
+إنه مجرد علامة على أننا عدنا للأكل في الصباح.
+لا أكثر.
+لا توجد شهادة تخرج من السماء.
+لا يوجد ضمان بأن الذنوب قد مُحيت.
+لا يوجد يقين بأن الأعمال قد قُبلت.
+الشيء الوحيد الذي تغير هو:
+أنه سُمح لنا بالإفطار مرة أخرى.
+
+ثم ماذا بعد ذلك؟
+هذا هو السؤال الأكثر رعبًا بعد رمضان.
+ليس: كم يومًا صمنا،
+بل: إلى أين تتجه حياتنا بعد انتهاء الصيام.
+
+كثير من الناس يسيئون الفهم.
+يظنون أن رمضان مشروع،
+يُنجز ثم يُترك.
+بينما رمضان تدريب،
+وليس هدفًا نهائيًا.
+
+إذا كان بعد عيد الفطر:
+الصلاة تؤخر مرة أخرى،
+والمعصية تُطبع مرة أخرى،
+والشريعة تُساوم مرة أخرى من أجل الراحة،
+فإن رمضان لم يفشل—
+بل نحن الذين فشلنا في أن نكون عبادًا.
+
+الله لم يأمر بالصيام لكي نكون أقوياء في تحمل الجوع،
+بل لكي نكون ضعفاء أمام أمره.
+الله لم يدربنا على قيام الليل لنفخر بالعبادة،
+بل لكي لا نجرؤ على العودة للمعصية.
+
+إذا كنا بعد شهر من الصقل،
+نعود كما كنا قبل رمضان،
+فإن ذلك الصيام كان مجرد رياضة بدنية،
+وليس تربية روحية.
+
+كان السلف يخافون بعد رمضان،
+لأنهم كانوا يعلمون:
+أن العبرة ليست برمضان نفسه،
+بل بما بعده.
+
+اليوم ينشغل المسلمون بالسؤال:
+"كم يومًا صمنا؟"
+بينما كان يجب أن يسألوا:
+"أي الذنوب تركناها حقًا؟"
+
+عيد الفطر هو مجرد إذن بالإفطار.
+ليس إذنًا بالمعصية.
+ليس عذرًا للعودة إلى الغفلة.
+ليس مبررًا للعيش دون خوف من الله.
+
+لقد رحل رمضان.
+انتهى التدريب.
+الآن يبدأ الاختبار الحقيقي.
+
+إذًا السؤال الأخير، قبل أن تُطوى صفحة رمضان:
+بعد أن عدنا للأكل في الصباح،
+هل نعود أيضًا لأكل الحرام،
+والعودة لابتلاع الظلم،
+والعودة لخيانة أمانة الله؟
+
+إذا كان الجواب نعم،
+فإننا لا نعود إلى الفطرة،
+بل نعود إلى الذل.`
     },
     dalil: {
-      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَالَّذِينَ يُؤْتُونَ مَا آتَوا وَّقُلُوبُهُمْ وَجِلَةٌ أَنَّهُمْ إِلَىٰ رَبِّهِمْ رَاجِعُونَ</div>
-<p style="text-align: center;"><strong>"Dan orang-orang yang memberikan apa yang telah mereka berikan, dengan hati yang takut, karena mereka tahu bahwa sesungguhnya mereka akan kembali kepada Tuhan mereka."</strong><br>
-(QS. Al-Mu'minun: 60)</p>
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ</div>
+<p style="text-align: center;"><strong>"Wahai orang-orang yang beriman, diwajibkan atas kalian berpuasa sebagaimana diwajibkan atas orang-orang sebelum kalian, agar kalian bertakwa."</strong><br>
+(QS. Al-Baqarah: 183)</p>
 <hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
-<div class="arab" style="text-align: center; margin-bottom: 10px;">رَغِمَ أَنْفُ رَجُلٍ دَخَلَ عَلَيْهِ رَمَضَانُ ثُمَّ انْسَلَخَ قَبْلَ أَنْ يُغْفَرَ لَهُ</div>
-<p style="text-align: center;"><strong>"Celakalah seseorang yang mendapati bulan Ramadhan, lalu Ramadhan itu berlalu sebelum dosanya diampuni."</strong><br>
-(HR. Tirmidzi)</p>`,
-      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَالَّذِينَ يُؤْتُونَ مَا آتَوا وَّقُلُوبُهُمْ وَجِلَةٌ أَنَّهُمْ إِلَىٰ رَبِّهِمْ رَاجِعُونَ</div>
-<p style="text-align: center;"><strong>"And they who give what they give while their hearts are fearful because they will be returning to their Lord."</strong><br>
-(QS. Al-Mu'minun: 60)</p>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">رُبَّ صَائِمٍ لَيْسَ لَهُ مِنْ صِيَامِهِ إِلَّا الْجُوعُ وَالْعَطَشُ</div>
+<p style="text-align: center;"><strong>"Betapa banyak orang yang berpuasa, namun tidak mendapatkan dari puasanya kecuali lapar dan dahaga."</strong><br>
+(HR. Ahmad)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ</div>
+<p style="text-align: center;"><strong>"O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous."</strong><br>
+(QS. Al-Baqarah: 183)</p>
 <hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
-<div class="arab" style="text-align: center; margin-bottom: 10px;">رَغِمَ أَنْفُ رَجُلٍ دَخَلَ عَلَيْهِ رَمَضَانُ ثُمَّ انْسَلَخَ قَبْلَ أَنْ يُغْفَرَ لَهُ</div>
-<p style="text-align: center;"><strong>"May his nose be rubbed in the dust, a man who Ramadan enters and then passes before he is forgiven."</strong><br>
-(HR. Tirmidzi)</p>`,
-      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَالَّذِينَ يُؤْتُونَ مَا آتَوا وَّقُلُوبُهُمْ وَجِلَةٌ أَنَّهُمْ إِلَىٰ رَبِّهِمْ رَاجِعُونَ</div>
-<p style="text-align: center;"><strong>"والذين يؤتون ما آتوا وقلوبهم وجلة أنهم إلى ربهم راجعون."</strong><br>
-(سورة المؤمنون: 60)</p>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">رُبَّ صَائِمٍ لَيْسَ لَهُ مِنْ صِيَامِهِ إِلَّا الْجُوعُ وَالْعَطَشُ</div>
+<p style="text-align: center;"><strong>"How many people fast, but get nothing from their fasting except hunger and thirst."</strong><br>
+(HR. Ahmad)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ</div>
+<p style="text-align: center;"><strong>"يا أيها الذين آمنوا كتب عليكم الصيام كما كتب على الذين من قبلكم لعلكم تتقون."</strong><br>
+(سورة البقرة: 183)</p>
 <hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
-<div class="arab" style="text-align: center; margin-bottom: 10px;">رَغِمَ أَنْفُ رَجُلٍ دَخَلَ عَلَيْهِ رَمَضَانُ ثُمَّ انْسَلَخَ قَبْلَ أَنْ يُغْفَرَ لَهُ</div>
-<p style="text-align: center;"><strong>"رغم أنف رجل دخل عليه رمضان ثم انسلخ قبل أن يغفر له."</strong><br>
-(رواه الترمذي)</p>`
+<div class="arab" style="text-align: center; margin-bottom: 10px;">رُبَّ صَائِمٍ لَيْسَ لَهُ مِنْ صِيَامِهِ إِلَّا الْجُوعُ وَالْعَطَشُ</div>
+<p style="text-align: center;"><strong>"رب صائم ليس له من صيامه إلا الجوع والعطش."</strong><br>
+(رواه أحمد)</p>`
     }
   },
   {
