@@ -4365,6 +4365,309 @@ Because civilization does not collapse by enemies, but by a people who are lazy 
 (رواه ابن ماجه)</p>`
     }
   },
+  {
+    id: "28",
+    title: {
+      id: "Lailatul Qadar Dicari, Tapi Hidup Masih Tak Siap Dihisab",
+      en: "Laylat al-Qadr Is Sought, But Life Is Not Yet Ready for Judgment",
+      ar: "ليلة القدر تُطلب، والحياة لم تستعد للحساب بعد"
+    },
+    content: {
+      id: `Antara Malam Seribu Bulan dan Lalai Seumur Hidup
+Di sepuluh malam terakhir Ramadhan, masjid penuh.
+Orang-orang berburu satu malam yang nilainya lebih baik dari seribu bulan.
+Doa dipanjatkan panjang. Air mata ditumpahkan deras.
+Semua berharap: ampunan, pahala, kemuliaan.
+Namun ada satu pertanyaan yang jarang diajukan kepada diri sendiri:
+jika malam ini Lailatul Qadar, apakah hidup kita sudah siap untuk dihisab?
+Kita mencari malam pengampunan,
+tetapi masih santai menunda taubat.
+Kita berharap dihapus dosa,
+namun masih nyaman hidup dalam dosa yang sama.
+Allah tidak hanya menurunkan Lailatul Qadar,
+Allah juga menurunkan hisab.
+Dan yang sering dilupakan umat ini:
+tidak ada Lailatul Qadar tanpa Hari Perhitungan.
+Rasulullah ﷺ, manusia yang dosanya telah diampuni, tetap berdiri lama di malam hari hingga kakinya bengkak.
+Bukan karena ragu akan ampunan Allah,
+tetapi karena takut akan tanggung jawab di hadapan-Nya.
+Para sahabat mencari Lailatul Qadar dengan iman,
+tetapi mereka menyiapkan hidup untuk hisab.
+Mereka tidak hanya memperbanyak ibadah malam,
+mereka juga membersihkan muamalah siang.
+Hari ini, umat Islam terbalik.
+Lailatul Qadar dicari dengan ritual,
+tetapi hisab dihindari dengan pembenaran.
+Kita ingin dosa diampuni,
+tetapi tidak ingin kebiasaan buruk ditinggalkan.
+Kita ingin pahala dilipatgandakan,
+tetapi amanah tetap dikhianati.
+Kita ingin rahmat turun dari langit,
+tetapi kezaliman masih dipelihara di bumi.
+Padahal Al-Qur'an tidak turun hanya untuk dibaca di malam Lailatul Qadar,
+tetapi untuk menjadi bukti atau dakwaan di hari hisab.
+Jika malam ini malaikat turun membawa rahmat,
+besok amal kita naik membawa catatan.
+Dan celakalah orang yang menangis di malam hari,
+namun tenang bermaksiat di siang hari.
+Ramadhan hampir pergi.
+Lailatul Qadar mungkin telah lewat,
+tetapi hisab pasti akan datang.
+Pertanyaannya bukan lagi:
+"Apakah aku mendapatkan Lailatul Qadar?"
+melainkan:
+"Apakah hidupku pantas mendapat ampunan-Nya?"`,
+      en: `Between the Night of a Thousand Months and a Lifetime of Negligence
+In the last ten nights of Ramadan, mosques are full.
+People hunt for a night better than a thousand months.
+Prayers are offered long. Tears are shed profusely.
+Everyone hopes: forgiveness, reward, glory.
+But there is one question rarely asked of oneself:
+if tonight is Laylat al-Qadr, is our life ready to be judged?
+We seek a night of forgiveness,
+but are still relaxed in delaying repentance.
+We hope for sins to be erased,
+but are still comfortable living in the same sins.
+Allah did not only send down Laylat al-Qadr,
+Allah also sent down accountability (hisab).
+And what is often forgotten by this Ummah:
+there is no Laylat al-Qadr without the Day of Reckoning.
+The Messenger of Allah ﷺ, a man whose sins had been forgiven, still stood long at night until his feet swelled.
+Not because he doubted Allah's forgiveness,
+but because he feared responsibility before Him.
+The companions sought Laylat al-Qadr with faith,
+but they prepared their lives for judgment.
+They did not only increase night worship,
+they also cleaned up their daily dealings.
+Today, Muslims are upside down.
+Laylat al-Qadr is sought with rituals,
+but accountability is avoided with justifications.
+We want sins forgiven,
+but do not want bad habits abandoned.
+We want rewards multiplied,
+but trusts are still betrayed.
+We want mercy to descend from the sky,
+but injustice is still maintained on earth.
+Whereas the Qur'an did not come down only to be read on Laylat al-Qadr,
+but to be evidence or an indictment on the Day of Judgment.
+If tonight angels descend bringing mercy,
+tomorrow our deeds ascend bringing records.
+And woe to the person who cries at night,
+but is calm in disobeying during the day.
+Ramadan is almost gone.
+Laylat al-Qadr may have passed,
+but judgment will surely come.
+The question is no longer:
+"Did I get Laylat al-Qadr?"
+but rather:
+"Is my life worthy of His forgiveness?"`,
+      ar: `بين ليلة الألف شهر وغفلة العمر
+في العشر الأواخر من رمضان، تمتلئ المساجد.
+يصطاد الناس ليلة خير من ألف شهر.
+الدعاء يطول. الدموع تنهمر بغزارة.
+الكل يرجو: المغفرة، الثواب، المجد.
+لكن هناك سؤال نادراً ما يطرح على النفس:
+إذا كانت هذه الليلة ليلة القدر، هل حياتنا مستعدة للحساب؟
+نبحث عن ليلة المغفرة،
+لكننا ما زلنا مسترخين في تأخير التوبة.
+نأمل أن تمحى الذنوب،
+لكننا ما زلنا مرتاحين في العيش في نفس المعاصي.
+الله لم ينزل ليلة القدر فقط،
+بل أنزل الحساب أيضاً.
+وما تنساه هذه الأمة غالباً:
+لا توجد ليلة قدر بدون يوم الحساب.
+رسول الله ﷺ، الذي غفر له ما تقدم من ذنبه وما تأخر، ظل يقوم الليل حتى تورمت قدماه.
+ليس شكاً في مغفرة الله،
+بل خوفاً من المسؤولية أمامه.
+بحث الصحابة عن ليلة القدر بإيمان،
+لكنهم أعدوا حياتهم للحساب.
+لم يكثروا من عبادة الليل فحسب،
+بل طهروا معاملات النهار أيضاً.
+اليوم، المسلمون معكوسون.
+تطلب ليلة القدر بالطقوس،
+لكن يتم تجنب الحساب بالتبريرات.
+نريد أن تغفر الذنوب،
+لكن لا نريد ترك العادات السيئة.
+نريد أن تضاعف الحسنات،
+لكن الأمانة تظل تخان.
+نريد أن تنزل الرحمة من السماء،
+لكن الظلم لا يزال محفوظاً في الأرض.
+بينما لم ينزل القرآن ليقرأ فقط في ليلة القدر،
+بل ليكون حجة لنا أو علينا يوم الحساب.
+إذا نزلت الملائكة الليلة بالرحمة،
+فغداً تصعد أعمالنا بالسجلات.
+ويا ويل من يبكي في الليل،
+لكنه هادئ في المعصية في النهار.
+رمضان يوشك أن يرحل.
+قد تكون ليلة القدر قد مضت،
+لكن الحساب سيأتي حتماً.
+السؤال لم يعد:
+"هل أدركت ليلة القدر؟"
+بل:
+"هل حياتي تستحق مغفرته؟"`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ ۝ وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ</div>
+<p style="text-align: center;"><strong>"Barang siapa mengerjakan kebaikan seberat zarrah, niscaya dia akan melihat (balasannya). Dan barang siapa mengerjakan kejahatan seberat zarrah, niscaya dia akan melihat (balasannya)."</strong><br>
+(QS. Az-Zalzalah: 7-8)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">الْكَيِّسُ مَنْ دَانَ نَفْسَهُ وَعَمِلَ لِمَا بَعْدَ الْمَوْتِ</div>
+<p style="text-align: center;"><strong>"Orang yang cerdas adalah orang yang menundukkan hawa nafsunya dan beramal untuk kehidupan setelah mati."</strong><br>
+(HR. Tirmidzi)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ ۝ وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ</div>
+<p style="text-align: center;"><strong>"So whoever does an atom's weight of good will see it, And whoever does an atom's weight of evil will see it."</strong><br>
+(QS. Az-Zalzalah: 7-8)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">الْكَيِّسُ مَنْ دَانَ نَفْسَهُ وَعَمِلَ لِمَا بَعْدَ الْمَوْتِ</div>
+<p style="text-align: center;"><strong>"The wise one is he who subdues his soul and works for what is after death."</strong><br>
+(HR. Tirmidzi)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ ۝ وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ</div>
+<p style="text-align: center;"><strong>"فمن يعمل مثقال ذرة خيرا يره ومن يعمل مثقال ذرة شرا يره."</strong><br>
+(سورة الزلزلة: 7-8)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">الْكَيِّسُ مَنْ دَانَ نَفْسَهُ وَعَمِلَ لِمَا بَعْدَ الْمَوْتِ</div>
+<p style="text-align: center;"><strong>"الكيس من دان نفسه وعمل لما بعد الموت."</strong><br>
+(رواه الترمذي)</p>`
+    }
+  },
+  {
+    id: "29",
+    title: {
+      id: "Hakikat Idul Fitri: Antara Takbir dan Ketakutan",
+      en: "The Essence of Eid al-Fitr: Between Takbir and Fear",
+      ar: "جوهر عيد الفطر: بين التكبير والخوف"
+    },
+    content: {
+      id: `Tokoh: Umar bin Khattab radhiyallahu 'anhu
+Takbir menggema di Madinah.
+Langit dipenuhi kalimat tauhid.
+Manusia bersiap menyambut Idul Fitri—hari yang disebut-sebut sebagai kemenangan.
+Namun di sudut sebuah rumah yang sederhana, Umar bin Khattab—Amirul Mukminin, penakluk Persia dan Romawi—tidak larut dalam sorak. Ia duduk tertunduk. Tangisnya pecah. Jenggotnya basah oleh air mata.
+Seorang sahabat mendekat dan bertanya dengan heran,
+"Wahai Amirul Mukminin, ini hari kemenangan. Mengapa engkau menangis?"
+Umar mengangkat wajahnya. Bukan wajah seorang penguasa, tetapi wajah seorang hamba yang gemetar menunggu keputusan Rabb-nya.
+"Aku takut," katanya lirih.
+"Aku takut jika kemenanganku hanya pada pakaian yang baru, sementara dosaku tetap tua dan melekat. Aku takut puasaku hanya menahan lapar dan dahaga, tetapi tidak menahan diriku dari api neraka. Celakalah orang yang Ramadhan datang lalu pergi, namun Allah tidak mengampuninya."
+Inilah hakikat Idul Fitri yang hilang dari umat hari ini.
+Idul Fitri bukan pesta kelalaian.
+Bukan panggung kesombongan.
+Bukan ajang memamerkan kebaruan dunia.
+Idul Fitri adalah hari pengumuman—bukan oleh manusia, tetapi oleh Allah:
+diterima atau ditolak.
+Para salaf menangis setelah Ramadhan, bukan karena ia pergi,
+tetapi karena mereka tidak tahu apakah amal mereka diterima.
+Hari ini, umat Islam tertawa tanpa rasa takut.
+Takbir dikumandangkan, tapi hisab dilupakan.
+Kita merayakan "kemenangan", padahal belum tentu kita lulus ujian.
+Padahal kemenangan sejati bukan karena selesai puasa,
+melainkan karena dosa diampuni dan nafsu ditundukkan.
+Idul Fitri bukan soal kembali makan dan minum,
+tetapi soal apakah hati kembali kepada fitrah.
+Umar bin Khattab—yang dijamin surga—takut amalnya ditolak.
+Lalu dengan wajah apa kita merasa aman?
+Jika Ramadhan tidak mengubah shalat kita,
+tidak meluruskan muamalah kita,
+tidak melembutkan hati kita terhadap kebenaran,
+maka Idul Fitri hanyalah libur dari ibadah, bukan kemenangan iman.
+Hari ke-29 ini bukan ajakan bersuka-cita,
+tetapi ajakan bergetar.
+Karena Idul Fitri yang sejati bukan ketika baju baru dikenakan,
+melainkan ketika dosa lama ditanggalkan.`,
+      en: `Figure: Umar bin Khattab radhiyallahu 'anhu
+Takbir echoed in Medina.
+The sky was filled with words of Tawhid.
+People were getting ready to welcome Eid al-Fitr—the day touted as victory.
+But in the corner of a simple house, Umar bin Khattab—the Commander of the Faithful, conqueror of Persia and Rome—did not dissolve in cheers. He sat bowed down. He broke down in tears. His beard was wet with tears.
+A companion approached and asked in astonishment,
+"O Commander of the Faithful, this is a day of victory. Why are you crying?"
+Umar raised his face. Not the face of a ruler, but the face of a servant trembling awaiting the decision of his Lord.
+"I am afraid," he said softly.
+"I am afraid if my victory is only in new clothes, while my sins remain old and attached. I am afraid my fasting was only holding back hunger and thirst, but not holding myself back from the fire of Hell. Woe to the person who Ramadan comes and goes, but Allah does not forgive him."
+This is the essence of Eid al-Fitr that is lost from the Ummah today.
+Eid al-Fitr is not a party of negligence.
+Not a stage for arrogance.
+Not an arena to show off worldly newness.
+Eid al-Fitr is a day of announcement—not by humans, but by Allah:
+accepted or rejected.
+The Salaf cried after Ramadan, not because it left,
+but because they did not know if their deeds were accepted.
+Today, Muslims laugh without fear.
+Takbir is chanted, but accountability is forgotten.
+We celebrate "victory", even though we are not necessarily sure we passed the test.
+Whereas true victory is not because fasting is over,
+but because sins are forgiven and desires are subdued.
+Eid al-Fitr is not about returning to eating and drinking,
+but about whether the heart returns to fitrah.
+Umar bin Khattab—who was guaranteed Paradise—feared his deeds would be rejected.
+Then with what face do we feel safe?
+If Ramadan does not change our prayer,
+does not straighten our dealings,
+does not soften our hearts towards the truth,
+then Eid al-Fitr is just a holiday from worship, not a victory of faith.
+This 29th day is not an invitation to rejoice,
+but an invitation to tremble.
+Because true Eid al-Fitr is not when new clothes are worn,
+but when old sins are shed.`,
+      ar: `الشخصية: عمر بن الخطاب رضي الله عنه
+دوى التكبير في المدينة.
+امتلأت السماء بكلمات التوحيد.
+كان الناس يستعدون لاستقبال عيد الفطر - اليوم الذي يوصف بالنصر.
+ولكن في زاوية منزل بسيط، لم يذب عمر بن الخطاب - أمير المؤمنين، وقاهر الفرس والروم - في الهتافات. جلس مطأطأ الرأس. انفجر في البكاء. ابتلت لحيته بالدموع.
+اقترب منه صحابي وسأل بذهول:
+"يا أمير المؤمنين، هذا يوم نصر. لماذا تبكي؟"
+رفع عمر وجهه. ليس وجه حاكم، بل وجه عبد يرتجف منتظراً قرار ربه.
+قال بصوت خافت: "أنا خائف".
+"أخاف أن يكون نصري في الملابس الجديدة فقط، بينما ذنوبي تبقى قديمة وملتصقة. أخاف أن يكون صيامي مجرد امتناع عن الجوع والعطش، لكنه لم يمنع نفسي من نار جهنم. ويل لمن أدرك رمضان ثم انسلخ قبل أن يغفر له."
+هذا هو جوهر عيد الفطر الذي ضاع من الأمة اليوم.
+عيد الفطر ليس حفلة للغفلة.
+ليس مسرحاً للتكبر.
+ليس ساحة لاستعراض متاع الدنيا الجديد.
+عيد الفطر هو يوم إعلان - ليس من قبل البشر، بل من قبل الله:
+مقبول أم مرفوض.
+بكى السلف بعد رمضان، ليس لأنه رحل،
+بل لأنهم لم يعرفوا ما إذا كانت أعمالهم قد قبلت.
+اليوم، يضحك المسلمون بلا خوف.
+يردد التكبير، لكن الحساب منسي.
+نحتفل بـ "النصر"، رغم أننا لسنا متأكدين بالضرورة أننا نجحنا في الاختبار.
+بينما النصر الحقيقي ليس بانتهاء الصيام،
+بل بمغفرة الذنوب وكبح الشهوات.
+عيد الفطر ليس مسألة العودة للأكل والشرب،
+بل مسألة ما إذا كان القلب يعود للفطرة.
+عمر بن الخطاب - المبشر بالجنة - خاف أن ترد أعماله.
+فبأي وجه نشعر بالأمان؟
+إذا لم يغير رمضان صلاتنا،
+ولم يقوم معاملاتنا،
+ولم يلين قلوبنا تجاه الحق،
+فإن عيد الفطر مجرد عطلة من العبادة، وليس نصر إيمان.
+هذا اليوم التاسع والعشرون ليس دعوة للفرح،
+بل دعوة للارتجاف.
+لأن عيد الفطر الحقيقي ليس عندما تلبس الثياب الجديدة،
+بل عندما تخلع الذنوب القديمة.`
+    },
+    dalil: {
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَالَّذِينَ يُؤْتُونَ مَا آتَوا وَّقُلُوبُهُمْ وَجِلَةٌ أَنَّهُمْ إِلَىٰ رَبِّهِمْ رَاجِعُونَ</div>
+<p style="text-align: center;"><strong>"Dan orang-orang yang memberikan apa yang telah mereka berikan, dengan hati yang takut, karena mereka tahu bahwa sesungguhnya mereka akan kembali kepada Tuhan mereka."</strong><br>
+(QS. Al-Mu'minun: 60)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">رَغِمَ أَنْفُ رَجُلٍ دَخَلَ عَلَيْهِ رَمَضَانُ ثُمَّ انْسَلَخَ قَبْلَ أَنْ يُغْفَرَ لَهُ</div>
+<p style="text-align: center;"><strong>"Celakalah seseorang yang mendapati bulan Ramadhan, lalu Ramadhan itu berlalu sebelum dosanya diampuni."</strong><br>
+(HR. Tirmidzi)</p>`,
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَالَّذِينَ يُؤْتُونَ مَا آتَوا وَّقُلُوبُهُمْ وَجِلَةٌ أَنَّهُمْ إِلَىٰ رَبِّهِمْ رَاجِعُونَ</div>
+<p style="text-align: center;"><strong>"And they who give what they give while their hearts are fearful because they will be returning to their Lord."</strong><br>
+(QS. Al-Mu'minun: 60)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">رَغِمَ أَنْفُ رَجُلٍ دَخَلَ عَلَيْهِ رَمَضَانُ ثُمَّ انْسَلَخَ قَبْلَ أَنْ يُغْفَرَ لَهُ</div>
+<p style="text-align: center;"><strong>"May his nose be rubbed in the dust, a man who Ramadan enters and then passes before he is forgiven."</strong><br>
+(HR. Tirmidzi)</p>`,
+      ar: `<div class="arab" style="text-align: center; margin-bottom: 10px;">وَالَّذِينَ يُؤْتُونَ مَا آتَوا وَّقُلُوبُهُمْ وَجِلَةٌ أَنَّهُمْ إِلَىٰ رَبِّهِمْ رَاجِعُونَ</div>
+<p style="text-align: center;"><strong>"والذين يؤتون ما آتوا وقلوبهم وجلة أنهم إلى ربهم راجعون."</strong><br>
+(سورة المؤمنون: 60)</p>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+<div class="arab" style="text-align: center; margin-bottom: 10px;">رَغِمَ أَنْفُ رَجُلٍ دَخَلَ عَلَيْهِ رَمَضَانُ ثُمَّ انْسَلَخَ قَبْلَ أَنْ يُغْفَرَ لَهُ</div>
+<p style="text-align: center;"><strong>"رغم أنف رجل دخل عليه رمضان ثم انسلخ قبل أن يغفر له."</strong><br>
+(رواه الترمذي)</p>`
+    }
+  },
 ];
 
 export function getCerpen(): Cerpen[] {
