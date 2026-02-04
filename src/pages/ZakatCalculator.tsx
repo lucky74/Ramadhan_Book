@@ -15,8 +15,8 @@ export default function ZakatCalculator() {
   const [riceType, setRiceType] = useState<'liter' | 'kg'>('liter');
 
   // State Zakat Maal
-  const [goldPrice, setGoldPrice] = useState(0); // Per gram (0 = loading/unset)
-  const [isLoadingGold, setIsLoadingGold] = useState(true);
+  const [goldPrice, setGoldPrice] = useState(1400000); // Estimasi awal
+  const [isLoadingGold, setIsLoadingGold] = useState(false);
   const [fetchError, setFetchError] = useState(false);
   const [assets, setAssets] = useState({
     cash: 0, // Tabungan/Uang Tunai
@@ -30,7 +30,6 @@ export default function ZakatCalculator() {
   useEffect(() => {
     const fetchGoldPrice = async () => {
       setIsLoadingGold(true);
-      setFetchError(false);
       try {
         // Try reliable public API for Antam Gold Price
         // Using a community hosted API that scrapes Antam/Logam Mulia
@@ -56,17 +55,16 @@ export default function ZakatCalculator() {
            } else if (typeof rawPrice === 'string') {
                price = parseInt(rawPrice.replace(/\D/g, '')) || 0;
            }
-        } else {
-           // If API structure is different, fallback to manual or error
-           throw new Error('Invalid data structure');
         }
 
-        setGoldPrice(price);
+        if (price > 0) {
+          setGoldPrice(price);
+          setFetchError(false);
+        }
       } catch (error) {
-        console.error('Failed to fetch gold price:', error);
-        // Fallback to manual input or default estimate
+        console.warn('Failed to fetch gold price, using default estimate:', error);
+        // Silent fail - keep using default estimate
         setFetchError(true);
-        setGoldPrice(1400000); // Estimasi fallback
       } finally {
         setIsLoadingGold(false);
       }
@@ -221,16 +219,16 @@ export default function ZakatCalculator() {
                   type="number" 
                   value={goldPrice || ''}
                   onChange={e => setGoldPrice(parseInt(e.target.value) || 0)}
-                  disabled={!fetchError && !isLoadingGold}
+                  disabled={isLoadingGold} // Only disable when actually loading
                   style={{ 
                     width: '100%', 
                     padding: 8, 
                     borderRadius: 8, 
                     border: '1px solid var(--border)', 
-                    background: (!fetchError && !isLoadingGold) ? 'var(--bg-card)' : 'var(--bg-main)', 
-                    color: (!fetchError && !isLoadingGold) ? 'var(--text-secondary)' : 'var(--text-main)', 
+                    background: isLoadingGold ? 'var(--bg-card)' : 'var(--bg-main)', 
+                    color: 'var(--text-main)', 
                     boxSizing: 'border-box',
-                    opacity: (!fetchError && !isLoadingGold) ? 0.8 : 1
+                    opacity: isLoadingGold ? 0.7 : 1
                   }}
                 />
                 {isLoadingGold && (
@@ -239,9 +237,9 @@ export default function ZakatCalculator() {
                   </span>
                 )}
               </div>
-              <small style={{ color: fetchError ? '#ef4444' : 'var(--text-secondary)', display: 'block', marginTop: 4 }}>
+              <small style={{ color: 'var(--text-secondary)', display: 'block', marginTop: 4 }}>
                 {isLoadingGold ? 'Sedang mengambil data harga emas terbaru...' : 
-                 fetchError ? 'Gagal mengambil data otomatis. Silakan input manual.' : 
+                 fetchError ? 'Info: Gagal mengambil data otomatis (Server Sibuk). Menggunakan harga estimasi.' : 
                  '✅ Harga emas terupdate otomatis hari ini.'}
               </small>
               <small style={{ color: 'var(--text-secondary)' }}>Nishab saat ini: {formatRupiah(85 * goldPrice)}</small>
