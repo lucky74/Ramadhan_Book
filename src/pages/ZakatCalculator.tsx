@@ -238,10 +238,10 @@ export default function ZakatCalculator() {
                 )}
               </div>
               <small style={{ color: 'var(--text-secondary)', display: 'block', marginTop: 4 }}>
-                {isLoadingGold ? 'Sedang mengambil data harga emas terbaru...' : 
-                 fetchError ? 'Info: Gagal mengambil data otomatis (Server Sibuk). Menggunakan harga estimasi.' : 
-                 '✅ Harga emas terupdate otomatis hari ini.'}
-              </small>
+            {isLoadingGold ? 'Sedang mencoba koneksi ke server harga emas...' : 
+             fetchError ? '⚠️ Koneksi ke server publik sibuk. Silakan sesuaikan harga emas secara manual.' : 
+             '✅ Harga emas terupdate otomatis hari ini.'}
+          </small>
               <small style={{ color: 'var(--text-secondary)' }}>Nishab saat ini: {formatRupiah(85 * goldPrice)}</small>
             </div>
 
