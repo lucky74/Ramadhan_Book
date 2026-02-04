@@ -2,8 +2,7 @@ import { Link } from "react-router-dom";
 import { getCerpen } from "../data/storage";
 import { useLanguage } from "../contexts/LanguageContext";
 import { useTheme } from "../contexts/ThemeContext";
-import OneSignal from 'react-onesignal';
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import "../styles/Home.css";
 
 export default function Home() {
@@ -11,7 +10,6 @@ export default function Home() {
   const { theme, toggleTheme } = useTheme();
   const cerpenList = getCerpen();
   const dayIds = ["intro", ...Array.from({ length: 30 }, (_, i) => (i + 1).toString()), "outro"];
-  const [notifEnabled, setNotifEnabled] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
 
   const filteredIds = dayIds.filter(id => {
