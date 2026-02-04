@@ -64,12 +64,26 @@ export default function Home() {
       <p className="home-subtitle">{t('home_subtitle')}</p>
       <p className="author-text">{t('author_label')} : Lucky Zamaludin Malik</p>
 
-      {/* Tadarus Tracker Button */}
-      <Link to="/tadarus" style={{ textDecoration: 'none', display: 'block', margin: '10px auto', width: 'fit-content' }}>
-        <button className="notif-btn" style={{ background: 'var(--accent)', width: 'auto', padding: '10px 20px' }}>
-          📖 {language === 'ar' ? 'متتبع التدارس' : (language === 'en' ? 'Tadarus Tracker' : 'Target Tadarus')}
-        </button>
-      </Link>
+      {/* Feature Buttons */}
+      <div style={{ display: 'flex', gap: 10, justifyContent: 'center', flexWrap: 'wrap', margin: '20px 0' }}>
+        <Link to="/tadarus" style={{ textDecoration: 'none' }}>
+            <button className="notif-btn" style={{ background: 'var(--accent)', width: 'auto', padding: '10px 20px', margin: 0 }}>
+            📖 {language === 'ar' ? 'متتبع التدارس' : (language === 'en' ? 'Tadarus Tracker' : 'Target Tadarus')}
+            </button>
+        </Link>
+        
+        <Link to="/amalan" style={{ textDecoration: 'none' }}>
+            <button className="notif-btn" style={{ background: '#10b981', width: 'auto', padding: '10px 20px', margin: 0 }}>
+            ✅ {language === 'ar' ? 'سجل العبادة' : (language === 'en' ? 'Worship Journal' : 'Jurnal Amalan')}
+            </button>
+        </Link>
+
+        <Link to="/zakat" style={{ textDecoration: 'none' }}>
+            <button className="notif-btn" style={{ background: '#eab308', width: 'auto', padding: '10px 20px', margin: 0 }}>
+            💰 {language === 'ar' ? 'حاسبة الزكاة' : (language === 'en' ? 'Zakat Calc' : 'Kalkulator Zakat')}
+            </button>
+        </Link>
+      </div>
 
       <div className="grid-container">
         {filteredIds.length > 0 ? (

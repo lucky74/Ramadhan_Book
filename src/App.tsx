@@ -3,6 +3,8 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Reader from "./pages/Reader";
 import TadarusTracker from "./pages/TadarusTracker";
+import AmalanTracker from "./pages/AmalanTracker";
+import ZakatCalculator from "./pages/ZakatCalculator";
 import Admin from "./pages/Admin";
 import MurotalPlayer from "./components/MurotalPlayer";
 import { LanguageProvider } from "./contexts/LanguageContext";
@@ -42,6 +44,8 @@ export default function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/tadarus" element={<TadarusTracker />} />
+            <Route path="/amalan" element={<AmalanTracker />} />
+            <Route path="/zakat" element={<ZakatCalculator />} />
             <Route path="/read/:id" element={<Reader />} />
             <Route path="/admin" element={<Admin />} />
           </Routes>
