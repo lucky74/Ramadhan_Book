@@ -116,7 +116,7 @@ export default function ZakatCalculator() {
                 min="1"
                 value={peopleCount || ''}
                 onChange={e => setPeopleCount(parseInt(e.target.value) || 0)}
-                style={{ width: '100%', padding: 10, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
+                style={{ width: '100%', padding: 8, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
               />
             </div>
 
@@ -127,12 +127,12 @@ export default function ZakatCalculator() {
                   type="number" 
                   value={ricePrice || ''}
                   onChange={e => setRicePrice(parseInt(e.target.value) || 0)}
-                  style={{ flex: 1, padding: 10, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
+                  style={{ flex: 1, padding: 8, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
                 />
                 <select 
                   value={riceType} 
                   onChange={(e: any) => setRiceType(e.target.value)}
-                  style={{ padding: 10, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
+                  style={{ padding: 8, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
                 >
                   <option value="liter">Liter</option>
                   <option value="kg">Kg</option>
@@ -169,7 +169,7 @@ export default function ZakatCalculator() {
                 type="number" 
                 value={goldPrice || ''}
                 onChange={e => setGoldPrice(parseInt(e.target.value) || 0)}
-                style={{ width: '100%', padding: 10, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
+                style={{ width: '100%', padding: 8, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
               />
               <small style={{ color: 'var(--text-secondary)' }}>Nishab saat ini: {formatRupiah(85 * goldPrice)}</small>
             </div>
@@ -181,7 +181,7 @@ export default function ZakatCalculator() {
                   type="number" 
                   value={assets.cash || ''}
                   onChange={e => setAssets({...assets, cash: parseInt(e.target.value) || 0})}
-                  style={{ width: '100%', padding: 12, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
+                  style={{ width: '100%', padding: 8, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
                 />
               </div>
               <div style={{ marginBottom: 10 }}>
@@ -190,7 +190,7 @@ export default function ZakatCalculator() {
                   type="number" 
                   value={assets.investment || ''}
                   onChange={e => setAssets({...assets, investment: parseInt(e.target.value) || 0})}
-                  style={{ width: '100%', padding: 12, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
+                  style={{ width: '100%', padding: 8, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
                 />
               </div>
               <div style={{ marginBottom: 10 }}>
@@ -199,7 +199,7 @@ export default function ZakatCalculator() {
                   type="number" 
                   value={assets.goldSilver || ''}
                   onChange={e => setAssets({...assets, goldSilver: parseInt(e.target.value) || 0})}
-                  style={{ width: '100%', padding: 12, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
+                  style={{ width: '100%', padding: 8, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
                 />
               </div>
               <div style={{ marginBottom: 10 }}>
@@ -208,7 +208,7 @@ export default function ZakatCalculator() {
                   type="number" 
                   value={assets.receivables || ''}
                   onChange={e => setAssets({...assets, receivables: parseInt(e.target.value) || 0})}
-                  style={{ width: '100%', padding: 12, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
+                  style={{ width: '100%', padding: 8, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
                 />
               </div>
             </div>
@@ -217,9 +217,9 @@ export default function ZakatCalculator() {
               <label style={{ display: 'block', marginBottom: 5 }}>Hutang Jatuh Tempo (Pengurang)</label>
               <input 
                 type="number" 
-                value={assets.debt}
+                value={assets.debt || ''}
                 onChange={e => setAssets({...assets, debt: parseInt(e.target.value) || 0})}
-                style={{ width: '100%', padding: 10, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
+                style={{ width: '100%', padding: 8, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
               />
             </div>
 
