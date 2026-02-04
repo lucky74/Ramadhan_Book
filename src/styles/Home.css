@@ -175,7 +175,8 @@
 
 .search-container {
   margin: 20px auto;
-  max-width: 400px;
+  max-width: 90%;
+  width: 400px;
   position: relative;
 }
 
@@ -189,6 +190,7 @@
   font-size: 16px;
   outline: none;
   transition: border-color 0.2s;
+  box-sizing: border-box; /* Mencegah padding menambah lebar elemen */
 }
 
 .search-input:focus {
