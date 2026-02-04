@@ -2,6 +2,7 @@ import { useEffect } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Reader from "./pages/Reader";
+import TadarusTracker from "./pages/TadarusTracker";
 import Admin from "./pages/Admin";
 import MurotalPlayer from "./components/MurotalPlayer";
 import { LanguageProvider } from "./contexts/LanguageContext";
