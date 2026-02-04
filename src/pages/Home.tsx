@@ -93,6 +93,13 @@ export default function Home() {
       <p className="home-subtitle">{t('home_subtitle')}</p>
       <p className="author-text">{t('author_label')} : Lucky Zamaludin Malik</p>
 
+      {/* Tadarus Tracker Button */}
+      <Link to="/tadarus" style={{ textDecoration: 'none', display: 'block', margin: '10px auto', width: 'fit-content' }}>
+        <button className="notif-btn" style={{ background: 'var(--accent)', width: 'auto', padding: '10px 20px' }}>
+          📖 {language === 'ar' ? 'متتبع التدارس' : (language === 'en' ? 'Tadarus Tracker' : 'Target Tadarus')}
+        </button>
+      </Link>
+
       {/* Tombol Notifikasi */}
       {!notifEnabled && (
         <button onClick={enableNotifications} className="notif-btn">

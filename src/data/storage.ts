@@ -1,4 +1,4 @@
-import { Language } from '../contexts/LanguageContext';
+23import { Language } from '../contexts/LanguageContext';
 
 export interface LocalizedContent {
   id: string;
@@ -124,12 +124,15 @@ The question is: does our faith rise with it, or fall back asleep in meaningless
 “Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan.”<br>
 (QS. Al-‘Alaq: 1)</p>
 <br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ</div>
 <p style="text-align: center;"><strong>"Dia mengajarkan manusia apa yang tidak diketahuinya."</strong><br>
 (QS. Al-‘Alaq: 5)</p>
 <br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ</div>
 <p style="text-align: center;"><strong>"Kemudian sesungguhnya Kamilah yang akan menjelaskannya."</strong><br>
 (QS. Al-Qiyamah: 19)</p>
 <br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ</div>
 <p style="text-align: center;"><strong>"Dan sungguh, Kami telah mudahkan Al-Qur’an untuk peringatan, maka adakah orang yang mau mengambil pelajaran?"</strong><br>
 (QS. Al-Qamar: 17)</p>
 <br>
@@ -139,12 +142,15 @@ The question is: does our faith rise with it, or fall back asleep in meaningless
 <p style="text-align: center;"><strong>"Read in the name of your Lord who created."</strong><br>
 (QS. Al-‘Alaq: 1)</p>
 <br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ</div>
 <p style="text-align: center;"><strong>"He taught man that which he knew not."</strong><br>
 (QS. Al-‘Alaq: 5)</p>
 <br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ</div>
 <p style="text-align: center;"><strong>"Then indeed, upon Us is its clarification."</strong><br>
 (QS. Al-Qiyamah: 19)</p>
 <br>
+<div class="arab" style="text-align: center; margin-bottom: 10px;">وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ</div>
 <p style="text-align: center;"><strong>"And We have certainly made the Qur'an easy for remembrance, so is there any who will remember?"</strong><br>
 (QS. Al-Qamar: 17)</p>
 <br>
@@ -1348,7 +1354,7 @@ Stop being proud of safe lectures. Measure faith by readiness to sacrifice. Beca
 توقفوا عن الفخر بالمحاضرات الآمنة. قيسوا الإيمان بالاستعداد للتضحية. لأن الإسلام لا يقام بالأصوات العالية، بل بالالتزام الغالي.`
     },
     dalil: {
-      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَyyuhalladzīna āmanū hal adullukum 'alā tijāratin tunjīkum min 'adzābin alīm. Tu'minūna billāhi wa rasūlihi wa tujāhidūna fī sabīlillāhi bi amwālikum wa anfusikum.</div>
+      id: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا هَلْ أَدُلُّكُمْ عَلَىٰ تِجَارَةٍ تُنجِيكُم مِّنْ عَذَابٍ أَلِيمٍ ﴿١٠﴾ تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِكُمْ وَأَنفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ ﴿١١﴾</div>
 <p style="text-align: center;"><strong>"Wahai orang-orang yang beriman! Maukah Aku tunjukkan suatu perdagangan yang dapat menyelamatkan kamu dari azab yang pedih? (Yaitu) kamu beriman kepada Allah dan Rasul-Nya dan berjihad di jalan Allah dengan harta dan jiwamu. Itulah yang lebih baik bagimu jika kamu mengetahui."</strong><br>
 (QS. Ash-Shaff: 10–11)</p>
 <br>
@@ -1358,7 +1364,7 @@ Stop being proud of safe lectures. Measure faith by readiness to sacrifice. Beca
 <br>
 <p style="text-align: center;"><strong>"Barang siapa di antara kalian melihat kemungkaran, hendaklah ia mengubahnya dengan tangannya; jika tidak mampu maka dengan lisannya; jika tidak mampu maka dengan hatinya, dan itu adalah selemah-lemahnya iman."</strong><br>
 (HR. Muslim)</p>`,
-      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَyyuhalladzīna āmanū hal adullukum 'alā tijāratin tunjīkum min 'adzābin alīm. Tu'minūna billāhi wa rasūlihi wa tujāhidūna fī sabīlillāhi bi amwālikum wa anfusikum.</div>
+      en: `<div class="arab" style="text-align: center; margin-bottom: 10px;">يَا أَيُّهَا الَّذِينَ آمَنُوا هَلْ أَدُلُّكُمْ عَلَىٰ تِجَارَةٍ تُنجِيكُم مِّنْ عَذَابٍ أَلِيمٍ ﴿١٠﴾ تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِكُمْ وَأَنفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ ﴿١١﴾</div>
 <p style="text-align: center;"><strong>"O you who have believed, shall I guide you to a transaction that will save you from a painful punishment? [It is that] you believe in Allah and His Messenger and strive in the cause of Allah with your wealth and your lives. That is best for you, if you should know."</strong><br>
 (QS. As-Saff: 10–11)</p>
 <br>

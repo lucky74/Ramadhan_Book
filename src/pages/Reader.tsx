@@ -108,7 +108,7 @@ export default function Reader() {
           <h1 style={{ textAlign: "center", marginTop: 0 }}>{cerpen.title[language]}</h1>
 
           <div className="reader-content" style={{ 
-            textAlign: language === 'ar' ? 'justify' : 'left', 
+            textAlign: 'justify', 
             whiteSpace: 'pre-wrap',
             fontSize: `${fontSize}px`,
             lineHeight: '1.8',

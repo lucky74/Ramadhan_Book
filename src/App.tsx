@@ -40,6 +40,7 @@ export default function App() {
         <BrowserRouter>
           <Routes>
             <Route path="/" element={<Home />} />
+            <Route path="/tadarus" element={<TadarusTracker />} />
             <Route path="/read/:id" element={<Reader />} />
             <Route path="/admin" element={<Admin />} />
           </Routes>
