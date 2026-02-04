@@ -28,33 +28,6 @@ export default function Home() {
     return title.includes(query) || content.includes(query);
   });
 
-  useEffect(() => {
-    // Cek status notifikasi
-    const checkStatus = async () => {
-      try {
-        if (OneSignal.Notifications) {
-          setNotifEnabled(OneSignal.Notifications.permission);
-        }
-      } catch (e) {
-        console.log("OneSignal status check failed", e);
-      }
-    };
-    
-    // Delay sedikit untuk memastikan OneSignal init
-    setTimeout(checkStatus, 1000);
-  }, []);
-
-  const enableNotifications = async () => {
-    try {
-      await OneSignal.Notifications.requestPermission();
-      setNotifEnabled(OneSignal.Notifications.permission);
-      alert("Terima kasih! Anda akan mendapatkan notifikasi update materi baru.");
-    } catch (error) {
-      console.error("Gagal mengaktifkan notifikasi", error);
-      alert("Gagal mengaktifkan notifikasi. Pastikan browser Anda mengizinkan notifikasi.");
-    }
-  };
-
   return (
     <div className="home-container">
       <div className="lang-btn-group" style={{ alignItems: 'center' }}>
@@ -99,13 +72,6 @@ export default function Home() {
           📖 {language === 'ar' ? 'متتبع التدارس' : (language === 'en' ? 'Tadarus Tracker' : 'Target Tadarus')}
         </button>
       </Link>
-
-      {/* Tombol Notifikasi */}
-      {!notifEnabled && (
-        <button onClick={enableNotifications} className="notif-btn">
-          🔔 Aktifkan Notifikasi Update
-        </button>
-      )}
 
       <div className="grid-container">
         {filteredIds.length > 0 ? (
