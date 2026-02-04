@@ -98,7 +98,6 @@ export default function AmalanTracker() {
             style={{
               padding: '8px 16px',
               borderRadius: 20,
-              border: 'none',
               background: selectedDay === day ? 'var(--accent)' : 'var(--bg-card)',
               color: selectedDay === day ? '#fff' : 'var(--text-main)',
               border: selectedDay === day ? 'none' : '1px solid var(--border)',
