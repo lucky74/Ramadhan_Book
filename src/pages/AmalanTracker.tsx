@@ -96,18 +96,19 @@ export default function AmalanTracker() {
             key={day}
             onClick={() => setSelectedDay(day)}
             style={{
-              padding: '8px 16px',
+              padding: '6px 12px',
               borderRadius: 20,
               background: selectedDay === day ? 'var(--accent)' : 'var(--bg-card)',
               color: selectedDay === day ? '#fff' : 'var(--text-main)',
               border: selectedDay === day ? 'none' : '1px solid var(--border)',
               cursor: 'pointer',
               whiteSpace: 'nowrap',
-              minWidth: 60
+              minWidth: 50,
+              fontSize: 12
             }}
           >
             {language === 'ar' ? `اليوم ${day}` : (language === 'en' ? `Day ${day}` : `Hari ${day}`)}
-            <div style={{ fontSize: 10, opacity: 0.8, marginTop: 4 }}>
+            <div style={{ fontSize: 9, opacity: 0.8, marginTop: 4 }}>
               {calculateProgress(day)}%
             </div>
           </button>

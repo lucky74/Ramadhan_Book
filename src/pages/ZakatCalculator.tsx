@@ -174,14 +174,14 @@ export default function ZakatCalculator() {
               <small style={{ color: 'var(--text-secondary)' }}>Nishab saat ini: {formatRupiah(85 * goldPrice)}</small>
             </div>
 
-            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 10 }}>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: 16 }}>
               <div style={{ marginBottom: 10 }}>
                 <label style={{ display: 'block', fontSize: 12, marginBottom: 5 }}>Uang Tunai / Tabungan</label>
                 <input 
                   type="number" 
                   value={assets.cash}
                   onChange={e => setAssets({...assets, cash: parseInt(e.target.value) || 0})}
-                  style={{ width: '100%', padding: 8, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
+                  style={{ width: '100%', padding: 12, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
                 />
               </div>
               <div style={{ marginBottom: 10 }}>
@@ -190,7 +190,7 @@ export default function ZakatCalculator() {
                   type="number" 
                   value={assets.investment}
                   onChange={e => setAssets({...assets, investment: parseInt(e.target.value) || 0})}
-                  style={{ width: '100%', padding: 8, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
+                  style={{ width: '100%', padding: 12, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
                 />
               </div>
               <div style={{ marginBottom: 10 }}>
@@ -199,7 +199,7 @@ export default function ZakatCalculator() {
                   type="number" 
                   value={assets.goldSilver}
                   onChange={e => setAssets({...assets, goldSilver: parseInt(e.target.value) || 0})}
-                  style={{ width: '100%', padding: 8, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
+                  style={{ width: '100%', padding: 12, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
                 />
               </div>
               <div style={{ marginBottom: 10 }}>
@@ -208,7 +208,7 @@ export default function ZakatCalculator() {
                   type="number" 
                   value={assets.receivables}
                   onChange={e => setAssets({...assets, receivables: parseInt(e.target.value) || 0})}
-                  style={{ width: '100%', padding: 8, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
+                  style={{ width: '100%', padding: 12, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
                 />
               </div>
             </div>
