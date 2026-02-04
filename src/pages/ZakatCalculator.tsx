@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { useLanguage } from '../contexts/LanguageContext';
 import { useTheme } from '../contexts/ThemeContext';
 import { Link } from 'react-router-dom';
@@ -15,9 +15,7 @@ export default function ZakatCalculator() {
   const [riceType, setRiceType] = useState<'liter' | 'kg'>('liter');
 
   // State Zakat Maal
-  const [goldPrice, setGoldPrice] = useState(1400000); // Estimasi awal
-  const [isLoadingGold, setIsLoadingGold] = useState(false);
-  const [fetchError, setFetchError] = useState(false);
+  const [goldPrice, setGoldPrice] = useState(1400000); // Estimasi awal (bisa diedit manual)
   const [assets, setAssets] = useState({
     cash: 0, // Tabungan/Uang Tunai
     goldSilver: 0, // Emas/Perak (konversi ke Rupiah)
@@ -25,53 +23,6 @@ export default function ZakatCalculator() {
     receivables: 0, // Piutang lancar
     debt: 0 // Utang jatuh tempo
   });
-
-  // Fetch Gold Price
-  useEffect(() => {
-    const fetchGoldPrice = async () => {
-      setIsLoadingGold(true);
-      try {
-        // Try reliable public API for Antam Gold Price
-        // Using a community hosted API that scrapes Antam/Logam Mulia
-        const response = await fetch('https://logam-mulia-api.vercel.app/prices/sell');
-        if (!response.ok) throw new Error('Network response was not ok');
-        
-        const data = await response.json();
-        // Adjust parsing based on actual API response structure
-        // Assuming data structure often contains an array or object with price
-        // Fallback parsing logic
-        let price = 0;
-        let rawPrice = null;
-
-        if (data && data.data && data.data[0] && data.data[0].price) {
-           rawPrice = data.data[0].price;
-        } else if (data && data.price) {
-           rawPrice = data.price;
-        }
-        
-        if (rawPrice) {
-           if (typeof rawPrice === 'number') {
-               price = rawPrice;
-           } else if (typeof rawPrice === 'string') {
-               price = parseInt(rawPrice.replace(/\D/g, '')) || 0;
-           }
-        }
-
-        if (price > 0) {
-          setGoldPrice(price);
-          setFetchError(false);
-        }
-      } catch (error) {
-        console.warn('Failed to fetch gold price, using default estimate:', error);
-        // Silent fail - keep using default estimate
-        setFetchError(true);
-      } finally {
-        setIsLoadingGold(false);
-      }
-    };
-
-    fetchGoldPrice();
-  }, []);
 
   // Perhitungan Zakat Fitrah
   const calculateFitrah = () => {
@@ -219,29 +170,20 @@ export default function ZakatCalculator() {
                   type="number" 
                   value={goldPrice || ''}
                   onChange={e => setGoldPrice(parseInt(e.target.value) || 0)}
-                  disabled={isLoadingGold} // Only disable when actually loading
                   style={{ 
                     width: '100%', 
                     padding: 8, 
                     borderRadius: 8, 
                     border: '1px solid var(--border)', 
-                    background: isLoadingGold ? 'var(--bg-card)' : 'var(--bg-main)', 
+                    background: 'var(--bg-main)', 
                     color: 'var(--text-main)', 
                     boxSizing: 'border-box',
-                    opacity: isLoadingGold ? 0.7 : 1
                   }}
                 />
-                {isLoadingGold && (
-                  <span style={{ position: 'absolute', right: 10, top: 8, fontSize: 12, color: 'var(--accent)' }}>
-                    Loading...
-                  </span>
-                )}
               </div>
               <small style={{ color: 'var(--text-secondary)', display: 'block', marginTop: 4 }}>
-            {isLoadingGold ? 'Sedang mencoba koneksi ke server harga emas...' : 
-             fetchError ? '⚠️ Koneksi ke server publik sibuk. Silakan sesuaikan harga emas secara manual.' : 
-             '✅ Harga emas terupdate otomatis hari ini.'}
-          </small>
+                Silakan isi harga emas hari ini secara manual.
+              </small>
               <small style={{ color: 'var(--text-secondary)' }}>Nishab saat ini: {formatRupiah(85 * goldPrice)}</small>
             </div>
 
