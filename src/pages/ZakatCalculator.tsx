@@ -114,7 +114,7 @@ export default function ZakatCalculator() {
               <input 
                 type="number" 
                 min="1"
-                value={peopleCount}
+                value={peopleCount || ''}
                 onChange={e => setPeopleCount(parseInt(e.target.value) || 0)}
                 style={{ width: '100%', padding: 10, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
               />
@@ -125,7 +125,7 @@ export default function ZakatCalculator() {
               <div style={{ display: 'flex', gap: 10 }}>
                 <input 
                   type="number" 
-                  value={ricePrice}
+                  value={ricePrice || ''}
                   onChange={e => setRicePrice(parseInt(e.target.value) || 0)}
                   style={{ flex: 1, padding: 10, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
                 />
@@ -167,7 +167,7 @@ export default function ZakatCalculator() {
               <label style={{ display: 'block', marginBottom: 5 }}>Harga Emas Saat Ini (per gram)</label>
               <input 
                 type="number" 
-                value={goldPrice}
+                value={goldPrice || ''}
                 onChange={e => setGoldPrice(parseInt(e.target.value) || 0)}
                 style={{ width: '100%', padding: 10, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
               />
@@ -179,7 +179,7 @@ export default function ZakatCalculator() {
                 <label style={{ display: 'block', fontSize: 12, marginBottom: 5 }}>Uang Tunai / Tabungan</label>
                 <input 
                   type="number" 
-                  value={assets.cash}
+                  value={assets.cash || ''}
                   onChange={e => setAssets({...assets, cash: parseInt(e.target.value) || 0})}
                   style={{ width: '100%', padding: 12, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
                 />
@@ -188,7 +188,7 @@ export default function ZakatCalculator() {
                 <label style={{ display: 'block', fontSize: 12, marginBottom: 5 }}>Investasi (Saham/Reksadana)</label>
                 <input 
                   type="number" 
-                  value={assets.investment}
+                  value={assets.investment || ''}
                   onChange={e => setAssets({...assets, investment: parseInt(e.target.value) || 0})}
                   style={{ width: '100%', padding: 12, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
                 />
@@ -197,7 +197,7 @@ export default function ZakatCalculator() {
                 <label style={{ display: 'block', fontSize: 12, marginBottom: 5 }}>Nilai Emas/Perak</label>
                 <input 
                   type="number" 
-                  value={assets.goldSilver}
+                  value={assets.goldSilver || ''}
                   onChange={e => setAssets({...assets, goldSilver: parseInt(e.target.value) || 0})}
                   style={{ width: '100%', padding: 12, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
                 />
@@ -206,7 +206,7 @@ export default function ZakatCalculator() {
                 <label style={{ display: 'block', fontSize: 12, marginBottom: 5 }}>Piutang Lancar</label>
                 <input 
                   type="number" 
-                  value={assets.receivables}
+                  value={assets.receivables || ''}
                   onChange={e => setAssets({...assets, receivables: parseInt(e.target.value) || 0})}
                   style={{ width: '100%', padding: 12, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg-main)', color: 'var(--text-main)' }}
                 />
