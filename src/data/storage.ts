@@ -1,4 +1,4 @@
-23import { Language } from '../contexts/LanguageContext';
+import { Language } from '../contexts/LanguageContext';
 
 export interface LocalizedContent {
   id: string;
