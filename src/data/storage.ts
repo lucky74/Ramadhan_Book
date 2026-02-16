@@ -24,9 +24,9 @@ const INITIAL_DATA: Cerpen[] = [
       ar: "عندما نزل الوحي في وسط الظلام"
     },
     content: {
-      id: `Makkah kala itu tidak gelap oleh malam, tetapi oleh kejahiliyahan. Bukan karena kurangnya cahaya matahari, melainkan karena manusia mematikan cahaya akal dan nurani. Berhala berdiri megah di sekitar Ka’bah, sementara keadilan diinjak, perempuan direndahkan, orang miskin ditindas, dan kebenaran diperdagangkan. Penduduk Makkah—sebagaimana kabilah-kabilah lain—hidup dalam kebanggaan palsu, memuliakan nasab namun mematikan akhlak.
+      id: `Makkah kala itu tidak gelap oleh malam, tetapi oleh kejahiliyahan. Bukan karena kurangnya cahaya matahari, melainkan karena manusia mematikan cahaya akal dan nurani. Berhala berdiri megah di sekitar Ka’bah, sementara keadilan diinjak, perempuan direndahkan, orang miskin ditindas, dan kebenaran diperdagangkan. Penduduk Makkah sebagaimana kabilah-kabilah lain hidup dalam kebanggaan palsu, memuliakan nasab namun mematikan akhlak.
 
-Muhammad bin ‘Abdillah ﷺ gelisah. Kegelisahan itu bukan kegelisahan seorang intelektual yang sibuk berdebat, melainkan kegelisahan seorang hamba yang hatinya hidup. Ia menyaksikan kerusakan moral, ketidakadilan sosial, dan penyembahan kepada selain Allah—lalu bertanya dalam diam: sampai kapan manusia menipu dirinya sendiri?
+Muhammad bin ‘Abdillah ﷺ gelisah. Kegelisahan itu bukan kegelisahan seorang intelektual yang sibuk berdebat, melainkan kegelisahan seorang hamba yang hatinya hidup. Ia menyaksikan kerusakan moral, ketidakadilan sosial, dan penyembahan kepada selain Allah lalu bertanya dalam diam: sampai kapan manusia menipu dirinya sendiri?
 
 Ia tidak memimpin seminar, tidak menulis risalah, tidak membangun panggung retorika. Ia memilih menyendiri. Gua Hira menjadi saksi bahwa perubahan besar selalu lahir dari kejujuran batin yang dalam. Di sanalah Nabi ﷺ bertahun-tahun beribadah, merenung, dan membersihkan hati—sebagai bentuk protes sunyi terhadap dunia yang rusak.
 
@@ -45,11 +45,11 @@ Melainkan: apakah kita peduli?
 
 Untuk apa Allah memberi akal, jika akal itu hanya dipakai untuk membenarkan kemalasan? Untuk apa ilmu, jika ia tidak melahirkan keberpihakan kepada kebenaran? Untuk apa puasa, jika ia tidak menghidupkan keberanian menegakkan Islam dalam seluruh aspek kehidupan?
 
-Ramadhan bukan bulan pelarian. Ia adalah bulan konfrontasi—antara iman dan kepalsuan, antara keberanian dan kenyamanan. Puasa bukan sekadar menahan lapar, tetapi menahan diri dari sikap pengecut terhadap kerusakan umat.
+Ramadhan bukan bulan pelarian. Ia adalah bulan konfrontasi antara iman dan kepalsuan, antara keberanian dan kenyamanan. Puasa bukan sekadar menahan lapar, tetapi menahan diri dari sikap pengecut terhadap kerusakan umat.
 
 Wahyu pertama bukan turun di istana, tetapi di gua. Bukan kepada bangsawan, tetapi kepada hamba yang jujur. Ini pesan keras bagi kita semua: perubahan tidak menunggu sempurna, perubahan dimulai dari kepedulian.
 
-Jika Nabi ﷺ yang tidak bisa membaca dan menulis mampu membangun peradaban dengan wahyu dan keberanian, maka apa alasan kita—yang merasa pintar—untuk terus berdiam?
+Jika Nabi ﷺ yang tidak bisa membaca dan menulis mampu membangun peradaban dengan wahyu dan keberanian, maka apa alasan kita yang merasa pintar untuk terus berdiam?
 
 Ramadhan telah datang.
 Pertanyaannya: apakah iman kita ikut bangkit, atau kembali tertidur dalam ritual tanpa makna?`,
@@ -179,26 +179,26 @@ The question is: does our faith rise with it, or fall back asleep in meaningless
       ar: "الإيمان المثبت، لا المغنى به"
     },
     content: {
-      id: `Dakwah itu berat. Jika terasa ringan, besar kemungkinan ia telah kehilangan keikhlasannya. Sejak awal, Islam tidak pernah menjanjikan kenyamanan—yang dijanjikan hanyalah kebenaran, dan kebenaran selalu menuntut harga.
+      id: `Dakwah itu berat. Jika terasa ringan, besar kemungkinan ia telah kehilangan keikhlasannya. Sejak awal, Islam tidak pernah menjanjikan kenyamanan yang dijanjikan hanyalah kebenaran, dan kebenaran selalu menuntut harga.
 
 Rasulullah ﷺ memulai dakwahnya di Makkah bukan dengan sambutan, tetapi dengan caci maki. Bukan dengan penghormatan, tetapi dengan pemboikotan, penyiksaan, dan ancaman nyawa. Para sahabat tidak hanya diuji imannya, tetapi dihancurkan kenyamanannya. Ada yang diseret di padang pasir, ada yang dipukul hingga pingsan, ada yang dipaksa memilih antara Islam atau keluarga.
 
 Namun mereka bertahan.
 
-Bukan karena Islam menjanjikan dunia, tetapi karena iman mereka nyata—bukan sekadar pengakuan lisan.
+Bukan karena Islam menjanjikan dunia, tetapi karena iman mereka nyata bukan sekadar pengakuan lisan.
 
 Hari ini, kita mengaku beriman, tetapi dakwah terasa pahit sedikit saja sudah mengeluh. Ketika Islam dihina, syariat diabaikan, dan umat dilemahkan, kita justru berkata: "Yang penting iman di hati."
 
 Pertanyaannya: iman yang tidak melahirkan sikap, masih pantaskah disebut iman?
 
-Puasa bukan sekadar ibadah personal. Ia adalah latihan ketaatan total. Dan sejarah mencatat: puasa pertama umat Islam langsung diikuti ujian paling berat—perang.
+Puasa bukan sekadar ibadah personal. Ia adalah latihan ketaatan total. Dan sejarah mencatat: puasa pertama umat Islam langsung diikuti ujian paling berat perang.
 
 Perang Badar.
 
 Kaum Muslimin berjumlah 313 orang, dengan persenjataan seadanya.
 Kaum Quraisy berjumlah sekitar 1.000 orang, lengkap dengan perlengkapan perang.
 
-Secara logika manusia, ini bukan pertempuran—ini bunuh diri.
+Secara logika manusia, ini bukan pertempuran,ini bunuh diri.
 Secara matematika, ini kekalahan yang pasti.
 
 Namun iman tidak tunduk pada statistik.
@@ -226,9 +226,7 @@ Badar mengajarkan satu hal yang tidak pernah berubah:
 Allah bersama orang-orang yang beriman dan bertakwa, bukan dengan mereka yang hanya pandai berbicara.
 
 Ramadhan hari kedua ini seharusnya membuat kita bertanya dengan jujur:
-Jika iman diuji hari ini—
-bukan dengan perang, tetapi dengan keberanian bersikap—
-apakah kita masih berdiri, atau memilih aman?
+Jika iman diuji hari ini, bukan dengan perang, tetapi dengan keberanian bersikap,apakah kita masih berdiri, atau memilih aman?
 
 Karena iman sejati tidak pernah bertanya, "Apa risikonya?"
 Ia bertanya, "Apa kewajiban saya di hadapan Allah?"`,
@@ -420,7 +418,7 @@ Jawabannya satu: untuk menopang dakwah Islam.
 
 Lihat Abu Bakar Ash-Shiddiq radhiyallahu ‘anhu. Ketika Rasulullah ﷺ membutuhkan harta untuk perjuangan, Abu Bakar datang membawa seluruh hartanya.
 
-Umar bin Khattab radhiyallahu ‘anhu—yang dikenal tegas dan kuat-pun mengakui keunggulan Abu Bakar.
+Umar bin Khattab radhiyallahu ‘anhu yang dikenal tegas dan kuat pun mengakui keunggulan Abu Bakar.
 
 Umar bersedekah setengah hartanya. Abu Bakar memberikan semuanya.
 Bukan karena Abu Bakar tidak cinta keluarga, tetapi karena ia yakin Allah tidak akan menyia-nyiakan orang yang menolong agama-Nya.
@@ -439,7 +437,7 @@ Bekerja siang malam demi warisan.
 Islam cukup di lisan, tetapi tidak di laporan keuangan.
 Agama cukup di masjid, tetapi tidak di neraca bisnis.
 
-Kita takut miskin jika berinfaq, seolah-olah rezeki berada di tangan kita—bukan di tangan Allah.
+Kita takut miskin jika berinfaq, seolah-olah rezeki berada di tangan kita, bukan di tangan Allah.
 
 Puasa hari ketiga ini seharusnya meluruskan orientasi kita:
 hidup bukan untuk harta, harta diciptakan untuk agama.
@@ -451,10 +449,10 @@ Ramadhan mengajarkan kita menahan lapar agar kita mengerti:
 yang kita kejar selama ini bukan kebutuhan, tetapi keserakahan.
 
 Maka hari ini, mari bertanya dengan jujur kepada diri sendiri:
-Apakah bisnis kita sedang membela Islam—atau justru menjauhkan kita darinya?
+Apakah bisnis kita sedang membela Islam atau justru menjauhkan kita darinya?
 
 Karena para sahabat berdagang untuk agama Allah.
-Sementara kita—jika tidak hati-hati—bisa saja memperdagangkan agama demi dunia.`,
+Sementara kita jika tidak hati-hati bisa saja memperdagangkan agama demi dunia.`,
       en: `From the beginning, Islam has never been hostile to trade. In fact, Islam was born and grew in the hands of merchants. Prophet Muhammad ﷺ was a merchant. Abu Bakr was a merchant. Umar was a merchant. Uthman was a merchant. Abdurrahman bin Auf was a merchant. Almost the entire backbone of the early Muslim generation were experts in business and commerce.
 
 But the question is not: does Islam allow trading?
@@ -654,7 +652,7 @@ Yang Islam perangi sejak awal adalah keserakahan dan pengkhianatan terhadap aman
 
 Sejarah mencatat dengan jujur: Islam pernah memimpin peradaban dunia. Dan ketika Islam memimpin, keadilan bukan jargon, tetapi sistem yang hidup. Masalah umat hari ini bukan karena Islam tidak mampu memimpin, melainkan karena umat Islam sendiri takut memikul amanah kepemimpinan.
 
-Hari ini, harta dicurigai. Kekuasaan dianggap kotor. Politik dipandang najis. Akibatnya, umat Islam menjauh dari urusan kepemimpinan, lalu kekuasaan jatuh ke tangan mereka yang tidak takut kepada Allah. Setelah itu umat mengeluh, marah, dan kecewa—namun tetap enggan mengambil tanggung jawab.
+Hari ini, harta dicurigai. Kekuasaan dianggap kotor. Politik dipandang najis. Akibatnya, umat Islam menjauh dari urusan kepemimpinan, lalu kekuasaan jatuh ke tangan mereka yang tidak takut kepada Allah. Setelah itu umat mengeluh, marah, dan kecewa, namun tetap enggan mengambil tanggung jawab.
 
 Padahal Rasulullah ﷺ tidak lari dari kekuasaan. Beliau membangunnya. Negara Madinah bukan kecelakaan sejarah, melainkan hasil dakwah yang sadar arah dan tujuan. Dalam Islam, kekuasaan bukan untuk dinikmati, tetapi untuk dihisab.
 
@@ -674,11 +672,11 @@ Lalu kita berkata dengan enteng: "Yang penting shalat."
 
 Padahal shalat yang benar seharusnya melahirkan keberanian moral, kepekaan sosial, dan tanggung jawab peradaban. Iman yang hidup tidak mungkin tenang melihat kezaliman dilegalkan dan ketidakadilan dinormalisasi.
 
-Peradaban Islam tidak runtuh karena kekurangan harta atau kekuasaan. Ia runtuh ketika amanah dikhianati. Ketika jabatan diwariskan, hukum diperdagangkan, dan harta ditumpuk untuk kepentingan pribadi, saat itulah ruh Islam mulai ditinggalkan—meskipun simbol-simbol agama masih berdiri megah.
+Peradaban Islam tidak runtuh karena kekurangan harta atau kekuasaan. Ia runtuh ketika amanah dikhianati. Ketika jabatan diwariskan, hukum diperdagangkan, dan harta ditumpuk untuk kepentingan pribadi, saat itulah ruh Islam mulai ditinggalkan meskipun simbol-simbol agama masih berdiri megah.
 
 Umat Islam hari ini sering terjebak dalam kontradiksi yang memalukan: ingin Islam berjaya, tetapi menolak sistem yang membuat Islam berjaya. Ingin keadilan, tetapi alergi pada pembahasan kekuasaan. Ingin kemuliaan, tetapi hanya sibuk pada ibadah personal.
 
-Puasa Ramadhan hari keempat ini seharusnya meluruskan arah iman kita. Iman bukan hanya urusan sajadah, tetapi juga urusan kepemimpinan, keadilan, dan amanah peradaban. Jika umat Islam terus menjauh dari tanggung jawab ini, maka dunia akan terus dipimpin tanpa nilai Ilahi—dan itu bukan konspirasi, melainkan akibat langsung dari kelalaian umat sendiri.
+Puasa Ramadhan hari keempat ini seharusnya meluruskan arah iman kita. Iman bukan hanya urusan sajadah, tetapi juga urusan kepemimpinan, keadilan, dan amanah peradaban. Jika umat Islam terus menjauh dari tanggung jawab ini, maka dunia akan terus dipimpin tanpa nilai Ilahi dan itu bukan konspirasi, melainkan akibat langsung dari kelalaian umat sendiri.
 
 Islam tidak diturunkan untuk kalah.
 Islam diturunkan untuk mengatur kehidupan manusia dengan keadilan Allah.
@@ -994,7 +992,7 @@ Bobot umat tidak diukur dari seberapa sering mereka berkumpul, tetapi dari seber
 
 Ramadhan seharusnya menjadi bulan pengembalian bobot umat. Puasa bukan untuk melemahkan, tetapi untuk melatih kendali diri, disiplin, dan kesiapan berjuang. Lapar bukan tujuan, tetapi sarana agar umat peka terhadap ketidakadilan dan siap memikul beban perubahan.
 
-Jika setelah Ramadhan umat tetap ringan—mudah dibeli, mudah dipecah, mudah ditakuti—maka yang gagal bukan puasanya, tetapi pemahamannya.
+Jika setelah Ramadhan umat tetap ringan mudah dibeli, mudah dipecah, mudah ditakuti maka yang gagal bukan puasanya, tetapi pemahamannya.
 
 Umat Islam tidak kekurangan jumlah. Yang kurang adalah keberanian untuk menjadi berat di hadapan kebatilan.`,
       en: `The Muslim Ummah today is not a small Ummah. Its numbers are large, spread across various lands, filling global statistics, and often boasted about in seminars and demographic reports. But the question is simple and painful: where is its weight?
@@ -1295,7 +1293,7 @@ Islam does not need defenders who are only good at crying. Islam needs an Ummah 
     content: {
       id: `Umat Islam hari ini gemar berbicara. Mimbar penuh, kanal digital ramai, pengikut berderet. Ceramah berpindah dari masjid ke layar, dari majelis ke panggung popularitas. Namun di balik semua keramaian itu, ada satu kewajiban yang sunyi: jihad yang ditinggalkan.
 
-Bukan karena tidak tahu. Bukan karena tidak mampu berbicara. Tetapi karena lebih nyaman berhenti pada kata-kata. Jihad direduksi menjadi istilah sensitif, lalu disimpan rapi agar tidak mengganggu kenyamanan. Sebagai gantinya, umat berbangga dengan ceramah—seolah banyaknya pendengar adalah ukuran ketaatan.
+Bukan karena tidak tahu. Bukan karena tidak mampu berbicara. Tetapi karena lebih nyaman berhenti pada kata-kata. Jihad direduksi menjadi istilah sensitif, lalu disimpan rapi agar tidak mengganggu kenyamanan. Sebagai gantinya, umat berbangga dengan ceramah, seolah-olah banyaknya pendengar adalah ukuran ketaatan.
 
 Padahal dakwah bukan sekadar menyampaikan. Dakwah adalah menggerakkan. Dan jihad bukan sekadar konflik fisik, melainkan kesungguhan total menegakkan kebenaran, dengan pengorbanan, disiplin, dan keberanian menanggung risiko. Ketika jihad ditinggalkan, ceramah berubah menjadi pelarian.
 
@@ -1398,11 +1396,11 @@ Padahal iman tidak pernah gratis. Ia selalu menuntut harga. Semakin tinggi iman 
 
 Umat Islam hari ini gemar mengklaim iman, tetapi enggan membayar harganya. Ketika kebenaran menuntut keberanian, mereka memilih aman. Ketika keadilan menuntut posisi, mereka memilih netral. Ketika Islam menuntut ditegakkan, mereka memilih kompromi. Lalu tetap merasa beriman.
 
-Inilah iman yang rapuh—iman yang tidak sanggup menahan panas ujian. Ia hidup di ruang nyaman, tetapi runtuh ketika diminta berkonsekuensi. Ia tumbuh di majelis, tetapi layu di medan tanggung jawab.
+Inilah iman yang rapuh, iman yang tidak sanggup menahan panas ujian. Ia hidup di ruang nyaman, tetapi runtuh ketika diminta berkonsekuensi. Ia tumbuh di majelis, tetapi layu di medan tanggung jawab.
 
 Allah tidak pernah menilai iman dari pengakuan. Allah menilai iman dari kesiapan untuk diuji. Karena iman sejati selalu bergerak dari qalbu ke sikap, dari keyakinan ke keberpihakan. Jika iman berhenti di dada dan tidak tampak pada pilihan hidup, maka itu bukan iman yang mengubah apa pun.
 
-Sejarah Islam tidak dibangun oleh orang-orang yang merasa cukup dengan iman lisan. Ia dibangun oleh orang-orang yang mempertaruhkan iman mereka—dengan harta, kenyamanan, reputasi, bahkan nyawa. Mereka tidak bertanya, "Aman atau tidak?" Mereka bertanya, "Benar atau tidak?"
+Sejarah Islam tidak dibangun oleh orang-orang yang merasa cukup dengan iman lisan. Ia dibangun oleh orang-orang yang mempertaruhkan iman mereka dengan harta, kenyamanan, reputasi, bahkan nyawa. Mereka tidak bertanya, "Aman atau tidak?" Mereka bertanya, "Benar atau tidak?"
 
 Ramadhan seharusnya menjadi cermin kejujuran. Jika iman kita benar, maka ia akan terasa berat. Ia akan mengusik zona nyaman. Ia akan memaksa kita memilih, bukan bersembunyi di balik kata-kata. Puasa bukan sekadar menahan lapar, tetapi melatih kesediaan membayar harga iman.
 
@@ -1481,34 +1479,34 @@ Do not be quick to say, "We believe," if not ready to be tested. Do not be proud
     content: {
       id: `Islam tidak lahir dari ruang nyaman. Ia tidak tumbuh dari sikap aman, netral, dan berhitung untung-rugi dunia. Sejak awal, Islam dibangun oleh orang-orang yang siap kehilangan keamanan, harta, status, bahkan nyawa. Maka ketika hari ini umat Islam ingin memetik kemuliaan tanpa risiko, sejatinya mereka sedang menuntut sesuatu yang tidak pernah ada dalam sejarah Islam.
 
-      Orang-orang yang ingin aman selalu punya alasan untuk menunda. Menunggu situasi kondusif. Menunggu mayoritas siap. Menunggu izin keadaan. Padahal kebenaran tidak pernah menunggu keadaan ramah. Justru keadaanlah yang berubah karena keberanian segelintir orang beriman.
+Orang-orang yang ingin aman selalu punya alasan untuk menunda. Menunggu situasi kondusif. Menunggu mayoritas siap. Menunggu izin keadaan. Padahal kebenaran tidak pernah menunggu keadaan ramah. Justru keadaanlah yang berubah karena keberanian segelintir orang beriman.
 
-      Nabi Muhammad ﷺ tidak menunggu Makkah aman untuk menyampaikan kebenaran. Para sahabat tidak menunggu dukungan penuh untuk berdiri tegak. Mereka tahu satu hal: menunda kebenaran demi keamanan adalah bentuk lain dari meninggalkannya.
+Nabi Muhammad ﷺ tidak menunggu Makkah aman untuk menyampaikan kebenaran. Para sahabat tidak menunggu dukungan penuh untuk berdiri tegak. Mereka tahu satu hal: menunda kebenaran demi keamanan adalah bentuk lain dari meninggalkannya.
 
-      Hari ini, banyak umat Islam ingin Islam menang, tetapi tidak ingin harga kemenangan itu. Mereka ingin syariat dihormati, tetapi tidak siap dibenci. Mereka ingin keadilan ditegakkan, tetapi tidak siap kehilangan posisi. Mereka ingin pahala, tetapi alergi terhadap risiko. Maka Islam pun berhenti sebagai wacana, tidak pernah naik menjadi kekuatan.
+Hari ini, banyak umat Islam ingin Islam menang, tetapi tidak ingin harga kemenangan itu. Mereka ingin syariat dihormati, tetapi tidak siap dibenci. Mereka ingin keadilan ditegakkan, tetapi tidak siap kehilangan posisi. Mereka ingin pahala, tetapi alergi terhadap risiko. Maka Islam pun berhenti sebagai wacana, tidak pernah naik menjadi kekuatan.
 
-      Sikap ingin aman telah melahirkan generasi yang cerdas berbicara, tetapi lemah bertindak. Mereka pandai mengemas dalil, tetapi gemetar saat kebenaran menuntut keberpihakan. Mereka menyebut kehati-hatian sebagai hikmah, padahal yang dijaga adalah kenyamanan.
+Sikap ingin aman telah melahirkan generasi yang cerdas berbicara, tetapi lemah bertindak. Mereka pandai mengemas dalil, tetapi gemetar saat kebenaran menuntut keberpihakan. Mereka menyebut kehati-hatian sebagai hikmah, padahal yang dijaga adalah kenyamanan.
 
-      Sejarah mengajarkan pelajaran pahit: setiap kali umat Islam memilih aman, mereka kehilangan kehormatan. Setiap kali mereka memilih keberanian, meski sedikit dan berat, Allah bukakan jalan kemenangan. Islam tidak pernah dibela oleh massa yang takut, tetapi oleh minoritas yang teguh.
+Sejarah mengajarkan pelajaran pahit: setiap kali umat Islam memilih aman, mereka kehilangan kehormatan. Setiap kali mereka memilih keberanian, meski sedikit dan berat, Allah bukakan jalan kemenangan. Islam tidak pernah dibela oleh massa yang takut, tetapi oleh minoritas yang teguh.
 
-      Ramadhan adalah bulan latihan meninggalkan rasa aman. Puasa memotong ketergantungan pada kenyamanan jasmani agar hati berani berdiri di pihak kebenaran. Jika setelah Ramadhan kita tetap menjadikan keamanan pribadi sebagai kompas utama, maka puasa hanya melatih lapar, bukan keberanian.
+Ramadhan adalah bulan latihan meninggalkan rasa aman. Puasa memotong ketergantungan pada kenyamanan jasmani agar hati berani berdiri di pihak kebenaran. Jika setelah Ramadhan kita tetap menjadikan keamanan pribadi sebagai kompas utama, maka puasa hanya melatih lapar, bukan keberanian.
 
-      Berhentilah berharap Islam bangkit sementara kita sibuk menyelamatkan diri. Islam tidak membutuhkan pengagum yang ingin aman. Islam membutuhkan hamba yang siap berdiri, meski harus sendirian.`,
+Berhentilah berharap Islam bangkit sementara kita sibuk menyelamatkan diri. Islam tidak membutuhkan pengagum yang ingin aman. Islam membutuhkan hamba yang siap berdiri, meski harus sendirian.`,
       en: `Islam was not born from a comfortable space. It did not grow from an attitude of safety, neutrality, and calculating worldly profit and loss. From the beginning, Islam was built by people who were ready to lose security, wealth, status, and even life. So when today Muslims want to reap glory without risk, they are actually demanding something that has never existed in Islamic history.
 
-      People who want to be safe always have reasons to delay. Waiting for a conducive situation. Waiting for the majority to be ready. Waiting for permission from circumstances. Whereas truth never waits for friendly circumstances. It is circumstances that change because of the courage of a handful of believers.
+People who want to be safe always have reasons to delay. Waiting for a conducive situation. Waiting for the majority to be ready. Waiting for permission from circumstances. Whereas truth never waits for friendly circumstances. It is circumstances that change because of the courage of a handful of believers.
 
-      Prophet Muhammad ﷺ did not wait for Mecca to be safe to convey the truth. The companions did not wait for full support to stand tall. They knew one thing: delaying truth for the sake of safety is another form of abandoning it.
+Prophet Muhammad ﷺ did not wait for Mecca to be safe to convey the truth. The companions did not wait for full support to stand tall. They knew one thing: delaying truth for the sake of safety is another form of abandoning it.
 
-      Today, many Muslims want Islam to win, but do not want the price of that victory. They want Sharia to be respected, but are not ready to be hated. They want justice to be upheld, but are not ready to lose their positions. They want rewards, but are allergic to risk. So Islam stops as a discourse, never rising to become a force.
+Today, many Muslims want Islam to win, but do not want the price of that victory. They want Sharia to be respected, but are not ready to be hated. They want justice to be upheld, but are not ready to lose their positions. They want rewards, but are allergic to risk. So Islam stops as a discourse, never rising to become a force.
 
-      The attitude of wanting to be safe has given birth to a generation that is smart at talking, but weak at acting. They are good at packaging arguments, but tremble when truth demands partisanship. They call caution wisdom, when what is being guarded is comfort.
+The attitude of wanting to be safe has given birth to a generation that is smart at talking, but weak at acting. They are good at packaging arguments, but tremble when truth demands partisanship. They call caution wisdom, when what is being guarded is comfort.
 
-      History teaches a bitter lesson: every time Muslims choose to be safe, they lose honor. Every time they choose courage, even if few and heavy, Allah opens the way to victory. Islam is never defended by a fearful mass, but by a steadfast minority.
+History teaches a bitter lesson: every time Muslims choose to be safe, they lose honor. Every time they choose courage, even if few and heavy, Allah opens the way to victory. Islam is never defended by a fearful mass, but by a steadfast minority.
 
-      Ramadan is a month of training to leave the sense of safety. Fasting cuts dependence on physical comfort so that the heart dares to stand on the side of truth. If after Ramadan we still make personal safety the main compass, then fasting only trains hunger, not courage.
+Ramadan is a month of training to leave the sense of safety. Fasting cuts dependence on physical comfort so that the heart dares to stand on the side of truth. If after Ramadan we still make personal safety the main compass, then fasting only trains hunger, not courage.
 
-      Stop hoping for Islam to rise while we are busy saving ourselves. Islam does not need admirers who want to be safe. Islam needs servants who are ready to stand, even if they have to be alone.`,
+Stop hoping for Islam to rise while we are busy saving ourselves. Islam does not need admirers who want to be safe. Islam needs servants who are ready to stand, even if they have to be alone.`,
       ar: `لم يولد الإسلام من مساحة مريحة. لم ينمُ من موقف الأمان والحياد وحساب الربح والخسارة الدنيوية. منذ البداية، بُني الإسلام بأيدي أناس كانوا مستعدين لفقدان الأمن والمال والمكانة وحتى الحياة. لذا عندما يريد المسلمون اليوم جني المجد دون مخاطرة، فهم في الواقع يطالبون بشيء لم يكن موجوداً أبداً في التاريخ الإسلامي.
 
       الأشخاص الذين يريدون الأمان لديهم دائماً أسباب للتأجيل. انتظار الوضع المناسب. انتظار استعداد الأغلبية. انتظار إذن الظروف. بينما الحقيقة لا تنتظر أبداً ظروفاً ودودة. الظروف هي التي تتغير بسبب شجاعة حفنة من المؤمنين.
@@ -1567,9 +1565,8 @@ Do not be quick to say, "We believe," if not ready to be tested. Do not be proud
     },
     content: {
       id: `Umat Islam hari ini ingin kemenangan, tapi alergi terhadap ujian.
-Ingin kejayaan, tapi tidak mau luka.
-Ingin Islam berjaya, tapi berharap semuanya berjalan aman, nyaman, dan tanpa risiko.
-Padahal, sejak awal sejarahnya, Islam tidak pernah lahir dari zona aman.
+Ingin kejayaan, tapi tidak mau luka. Ingin Islam berjaya, tapi berharap semuanya berjalan aman, nyaman, dan tanpa risiko. Padahal, sejak awal sejarahnya, Islam tidak pernah lahir dari zona aman.
+
 Kemenangan tidak pernah turun kepada orang yang hanya pandai berdoa, tapi enggan membayar harga. Allah tidak membangun peradaban dengan orang-orang yang hanya berkata, "yang penting niatnya baik." Allah membangun Islam dengan orang-orang yang siap hancur lebih dulu sebelum dimenangkan.
 
 Hari ini umat bertanya, "Kenapa Islam tidak menang-menang?"
@@ -1593,8 +1590,7 @@ Hari ini, baru kehilangan kenyamanan sedikit saja, umat sudah berkata:
 "Jangan keras-keras, nanti umat takut."
 "Yang penting akhlak, urusan sistem nanti saja."
 
-Padahal justru ujian itu tanda Allah masih mempersiapkan kemenangan.
-Ketika umat diuji, itu bukan tanda Allah meninggalkan, tapi tanda Allah sedang menyaring.
+Padahal justru ujian itu tanda Allah masih mempersiapkan kemenangan. Ketika umat diuji, itu bukan tanda Allah meninggalkan, tapi tanda Allah sedang menyaring.
 
 Allah tidak akan memberikan kemenangan kepada umat yang:
 * belum sabar,
@@ -1602,11 +1598,11 @@ Allah tidak akan memberikan kemenangan kepada umat yang:
 * belum berani berkorban,
 * dan masih lebih takut kehilangan dunia daripada kehilangan ridha Allah.
 
-Ujian datang sebelum kemenangan karena kemenangan bukan hadiah gratis.
-Kemenangan adalah amanah besar, dan amanah tidak diberikan kepada orang yang mentalnya masih ingin aman.
+Ujian datang sebelum kemenangan karena kemenangan bukan hadiah gratis. Kemenangan adalah amanah besar, dan amanah tidak diberikan kepada orang yang mentalnya masih ingin aman.
 
 Jika hari ini Islam masih dihina, ditindas, dan dipermainkan, jangan buru-buru menyalahkan musuh.
 Cerminlah diri kita:
+
 Apakah kita sudah siap diuji seperti Nabi?
 Atau kita hanya ingin Islam menang, asal kita tidak ikut menderita?
 
@@ -1767,8 +1763,7 @@ Because Allah never grants victory to an Ummah that has not passed the test of f
       ar: "لماذا لا ينصر الله أمة لا تزال تخاف فقدان الدنيا"
     },
     content: {
-      id: `Umat Islam hari ini rajin meminta pertolongan Allah, tetapi takut kehilangan dunia.
-Lisan berdoa siang malam, namun hati gemetar ketika harta, jabatan, kenyamanan, dan citra diri terancam.
+      id: `Umat Islam hari ini rajin meminta pertolongan Allah, tetapi takut kehilangan dunia. Lisan berdoa siang malam, namun hati gemetar ketika harta, jabatan, kenyamanan, dan citra diri terancam.
 Inilah kontradiksi terbesar umat Islam hari ini:
 ingin ditolong Allah, tetapi tidak siap melepaskan apa pun demi Allah.
 Padahal sejak awal, Allah tidak pernah menolong umat yang masih menjadikan dunia sebagai tuhan tersembunyi. Dunia boleh di tangan, tapi ketika dunia sudah berada di hati, pertolongan Allah akan berhenti di langit.
