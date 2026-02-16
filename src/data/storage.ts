@@ -24,13 +24,11 @@ const INITIAL_DATA: Cerpen[] = [
       ar: "عندما نزل الوحي في وسط الظلام"
     },
     content: {
-      id: `Makkah kala itu tidak gelap oleh malam, tetapi oleh kejahiliyahan. Bukan karena kurangnya cahaya matahari, melainkan karena manusia mematikan cahaya akal dan nurani. Berhala berdiri megah di sekitar Ka’bah, sementara keadilan diinjak, perempuan direndahkan, orang miskin ditindas, dan kebenaran diperdagangkan. Bani ‘Ashar—sebagaimana kabilah-kabilah lain—hidup dalam kebanggaan palsu, memuliakan nasab namun mematikan akhlak.
+      id: `Makkah kala itu tidak gelap oleh malam, tetapi oleh kejahiliyahan. Bukan karena kurangnya cahaya matahari, melainkan karena manusia mematikan cahaya akal dan nurani. Berhala berdiri megah di sekitar Ka’bah, sementara keadilan diinjak, perempuan direndahkan, orang miskin ditindas, dan kebenaran diperdagangkan. Penduduk Makkah—sebagaimana kabilah-kabilah lain—hidup dalam kebanggaan palsu, memuliakan nasab namun mematikan akhlak.
 
 Muhammad bin ‘Abdillah ﷺ gelisah. Kegelisahan itu bukan kegelisahan seorang intelektual yang sibuk berdebat, melainkan kegelisahan seorang hamba yang hatinya hidup. Ia menyaksikan kerusakan moral, ketidakadilan sosial, dan penyembahan kepada selain Allah—lalu bertanya dalam diam: sampai kapan manusia menipu dirinya sendiri?
 
 Ia tidak memimpin seminar, tidak menulis risalah, tidak membangun panggung retorika. Ia memilih menyendiri. Gua Hira menjadi saksi bahwa perubahan besar selalu lahir dari kejujuran batin yang dalam. Di sanalah Nabi ﷺ bertahun-tahun beribadah, merenung, dan membersihkan hati—sebagai bentuk protes sunyi terhadap dunia yang rusak.
-
-Lalu datanglah wahyu.
 
 Ironis. Perintah pertama adalah membaca, sementara yang diperintah adalah seorang yang tidak bisa membaca dan menulis. Muhammad ﷺ menjawab dengan jujur: “Aku tidak bisa membaca.” Namun justru di titik ketidakmampuan manusia itulah kuasa Allah bekerja.
 
@@ -411,7 +409,7 @@ It asks, "What is my duty before Allah?"`,
 Namun pertanyaannya bukan: apakah Islam membolehkan berdagang?
 Pertanyaan yang jauh lebih penting adalah: untuk apa kita berdagang?
 
-Jika berdagang hanya untuk memenuhi nafkah hidup, maka sesungguhnya kita telah salah niat sejak awal. Karena urusan rezeki, Allah telah menegaskannya tanpa syarat.
+Jika berdagang hanya untuk memenuhi nafkah hidup, maka sesungguhnya kita telah salah niat sejak awal. Karena urusan rezeki, Allah telah menegaskannya tanpa syarat (QS. Hud : 6).
 
 Ayat ini tidak mengatakan jika ia berdagang, jika ia pintar, atau jika ia punya modal. Rezeki dijamin karena Allah menciptakan makhluk tersebut, bukan karena kecerdikan manusia.
 
@@ -422,7 +420,7 @@ Jawabannya satu: untuk menopang dakwah Islam.
 
 Lihat Abu Bakar Ash-Shiddiq radhiyallahu ‘anhu. Ketika Rasulullah ﷺ membutuhkan harta untuk perjuangan, Abu Bakar datang membawa seluruh hartanya.
 
-Umar bin Khattab radhiyallahu ‘anhu—yang dikenal tegas dan kuat—pun mengakui keunggulan Abu Bakar.
+Umar bin Khattab radhiyallahu ‘anhu—yang dikenal tegas dan kuat-pun mengakui keunggulan Abu Bakar.
 
 Umar bersedekah setengah hartanya. Abu Bakar memberikan semuanya.
 Bukan karena Abu Bakar tidak cinta keluarga, tetapi karena ia yakin Allah tidak akan menyia-nyiakan orang yang menolong agama-Nya.
